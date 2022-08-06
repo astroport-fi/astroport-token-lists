@@ -1,0 +1,14 @@
+{
+    "name": "Terra 2 Astroport Tokens",
+    "tokens": [
+        {
+            "chainId": ,
+            "address": "",
+            "explorer": "",
+            "symbol": "USDC",
+            "name": "USDC",
+            "decimals": 6,
+            "logo": ""
+        }
+    ]
+}
