@@ -97,6 +97,13 @@
       "token": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
       "icon": "../img/VKR/vkr.jpg",
       "decimals": 6
+    },
+    "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk": {
+      "protocol": "Redacted Money",
+      "symbol": "RED",
+      "token": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
+      "icon": "../img/RED/red.svg",
+      "decimals": 6
     }
   },
   "pisco-1": {
