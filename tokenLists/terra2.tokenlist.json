@@ -163,5 +163,12 @@
       "icon": "/tokens/vkr.jpg",
       "decimals": 6
     }
+    "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz": {
+      "protocol": "Depegged UST",
+      "symbol": "dUST",
+      "token": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
+      "icon": "/img/dUST/dUST.png",
+      "decimals": 6
+    }
   }
 }
