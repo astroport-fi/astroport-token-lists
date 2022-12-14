@@ -113,6 +113,15 @@
       "decimals": 6
     }
   },
+  "Columbus-5": {
+    "terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf": {
+      "protocol": "INTERCHAIN DAO COIN",
+      "symbol": "IDC",
+      "token": "terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf",
+      "icon": "../img/IDC/IDC.png",
+      "decimals": 6
+    }
+  },
   "pisco-1": {
     "terra167dsqkh2alurx997wmycw9ydkyu54gyswe3ygmrs4lwume3vmwks8ruqnv": {
       "protocol": "Astroport",
