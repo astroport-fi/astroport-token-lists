@@ -105,6 +105,13 @@
       "icon": "../img/RED/red.svg",
       "decimals": 6
     }
+    "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu": {
+      "protocol": "HERO",
+      "symbol": "HERO",
+      "token": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
+      "icon": "../img/HERO/hero.png",
+      "decimals": 6
+    }
   },
   "pisco-1": {
     "terra167dsqkh2alurx997wmycw9ydkyu54gyswe3ygmrs4lwume3vmwks8ruqnv": {
