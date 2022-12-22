@@ -104,6 +104,13 @@
       "token": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
       "icon": "../img/RED/red.svg",
       "decimals": 6
+    },
+    "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml": {
+      "protocol": "BackBone Labs",
+      "symbol": "bLUNA",
+      "token": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "icon": "../img/bLUNA/bLUNA.png",
+      "decimals": 6
     }
     "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu": {
       "protocol": "HERO",
