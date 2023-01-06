@@ -111,12 +111,26 @@
       "token": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
       "icon": "../img/bLUNA/bLUNA.png",
       "decimals": 6
-    }
+    },
     "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu": {
       "protocol": "HERO",
       "symbol": "HERO",
       "token": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
       "icon": "../img/HERO/hero.png",
+      "decimals": 6
+    },
+    "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33": {
+      "protocol": "Comdex",
+      "symbol": "CMDX",
+      "token": "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33",
+      "icon": "../img/CMDX/comdex.svg",
+      "decimals": 6
+    },
+    "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F": {
+      "protocol": "Harbor Protocol",
+      "symbol": "CMST",
+      "token": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
+      "icon": "../img/CMST/cmst.svg",
       "decimals": 6
     }
   },
@@ -176,7 +190,7 @@
       "token": "terra1xqtstvlwcpz3kpcpw6vqh2grstw34wcezws5pawll95uuysu0hnqk6muds",
       "icon": "/tokens/vkr.jpg",
       "decimals": 6
-    }
+    },
     "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz": {
       "protocol": "Depegged UST",
       "symbol": "dUST",
