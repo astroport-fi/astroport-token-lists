@@ -118,6 +118,20 @@
       "token": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
       "icon": "../img/HERO/hero.png",
       "decimals": 6
+    },
+    "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33": {
+      "protocol": "Comdex",
+      "symbol": "CMDX",
+      "token": "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33",
+      "icon": "../img/CMDX/comdex.svg",
+      "decimals": 6
+    },
+    "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F": {
+      "protocol": "Harbor Protocol",
+      "symbol": "CMST",
+      "token": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
+      "icon": "../img/CMST/cmst.svg",
+      "decimals": 6
     }
   },
   "pisco-1": {
