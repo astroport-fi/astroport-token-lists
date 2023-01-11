@@ -104,6 +104,13 @@
       "token": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
       "icon": "../img/RED/red.svg",
       "decimals": 6
+    },
+    "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj": {
+      "protocol": "Optimizer Protocol",
+      "symbol": "OPZA",
+      "token": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
+      "icon": "../img/OPZ/OPZ.png",
+      "decimals": 6
     }
   },
   "pisco-1": {
