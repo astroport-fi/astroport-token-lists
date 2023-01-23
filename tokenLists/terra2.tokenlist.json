@@ -120,6 +120,15 @@
       "decimals": 6
     }
   },
+"Columbus-5": {
+    "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g": {
+      "protocol": "Lunar Deity Moon Dust",
+      "symbol": "DUST",
+      "token": "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g",
+      "icon": "../img/DUST/DUST.png",
+      "decimals": 6
+    }
+  },
   "pisco-1": {
     "terra167dsqkh2alurx997wmycw9ydkyu54gyswe3ygmrs4lwume3vmwks8ruqnv": {
       "protocol": "Astroport",
