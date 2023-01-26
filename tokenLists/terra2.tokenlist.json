@@ -125,7 +125,21 @@
       "token": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
       "icon": "../img/IDC/IDC.png",
       "decimals": 6
-    }
+    },
+    "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp": {
+      "protocol": "Tuna Money",
+      "symbol": "TUNA",
+      "token": "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
+      "icon": "../img/TUNA/tuna.png",
+      "decimals": 6
+    },
+    "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp": {
+      "protocol": "Brand Governance Network",
+      "symbol": "BGT",
+      "token": "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
+      "icon": "../img/BGT/bgt.png",
+      "decimals": 6
+    },
   },
   "pisco-1": {
     "terra167dsqkh2alurx997wmycw9ydkyu54gyswe3ygmrs4lwume3vmwks8ruqnv": {
