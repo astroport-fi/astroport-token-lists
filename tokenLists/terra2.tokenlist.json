@@ -160,6 +160,13 @@
       "token": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
       "icon": "../img/OPZ/OPZ.png",
       "decimals": 6
+    },
+    "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3": {
+      "protocol": "Sayve",
+      "symbol": "SAYVE",
+      "token": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
+      "icon": "../img/SAYVE/Sayve.svg",
+      "decimals": 6
     }
   },
   "pisco-1": {
@@ -224,6 +231,13 @@
       "symbol": "dUST",
       "token": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
       "icon": "/img/dUST/dUST.png",
+      "decimals": 6
+    },
+    "terra16q6kqp0p2hlfgj52sadv5p7qh2hgkkjdfske48vklz94tkxg4jwq8k8myj": {
+      "protocol": "Sayve",
+      "symbol": "SAYVE",
+      "token": "terra16q6kqp0p2hlfgj52sadv5p7qh2hgkkjdfske48vklz94tkxg4jwq8k8myj",
+      "icon": "../img/SAYVE/Sayve.svg",
       "decimals": 6
     }
   }
