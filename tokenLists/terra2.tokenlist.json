@@ -118,6 +118,13 @@
       "token": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
       "icon": "../img/HERO/hero.png",
       "decimals": 6
+    },
+    "terra16gcy7pzae346t67rv3wlcfexp5alx5jht35rcgzvgharyakzdldsupr4aq": {
+      "protocol": "INTERCHAIN DAO COIN",
+      "symbol": "IDC",
+      "token": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
+      "icon": "../img/IDC/IDC.png",
+      "decimals": 6
     }
   },
   "pisco-1": {
