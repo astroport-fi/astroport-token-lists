@@ -5,5 +5,12 @@
       "token": "terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf",
       "icon": "../img/IDC/IDC.png",
       "decimals": 6
+    },
+    "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g": {
+      "protocol": "Lunar Deity Moon Dust",
+      "symbol": "DUST",
+      "token": "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g",
+      "icon": "../img/DUST/DUST.png",
+      "decimals": 6
     }
   }
