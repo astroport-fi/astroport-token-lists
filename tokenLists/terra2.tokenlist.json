@@ -153,6 +153,13 @@
       "token": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
       "icon": "../img/CMST/cmst.svg",
       "decimals": 6
+    },
+    "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj": {
+      "protocol": "Optimizer Protocol",
+      "symbol": "OPZA",
+      "token": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
+      "icon": "../img/OPZ/OPZ.png",
+      "decimals": 6
     }
   },
   "pisco-1": {
