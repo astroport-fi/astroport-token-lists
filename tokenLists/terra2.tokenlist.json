@@ -111,7 +111,7 @@
       "token": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
       "icon": "../img/bLUNA/bLUNA.png",
       "decimals": 6
-    }
+    },
     "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu": {
       "protocol": "HERO",
       "symbol": "HERO",
@@ -166,6 +166,13 @@
       "symbol": "SAYVE",
       "token": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
       "icon": "../img/SAYVE/Sayve.svg",
+      "decimals": 6
+    },
+    "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
+      "protocol": "Stride",
+      "symbol": "stLUNA",
+      "token": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+      "icon": "../img/Stride/stluna.svg",
       "decimals": 6
     }
   },
@@ -225,7 +232,7 @@
       "token": "terra1xqtstvlwcpz3kpcpw6vqh2grstw34wcezws5pawll95uuysu0hnqk6muds",
       "icon": "/tokens/vkr.jpg",
       "decimals": 6
-    }
+    },
     "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz": {
       "protocol": "Depegged UST",
       "symbol": "dUST",
