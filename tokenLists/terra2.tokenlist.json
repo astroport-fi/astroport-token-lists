@@ -181,6 +181,13 @@
       "token": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
       "icon": "../img/OSMO/osmo.svg",
       "decimals": 6
+    },
+      "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv": {
+      "protocol": "Sayve",
+      "symbol": "xSAYVE",
+      "token": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv",
+      "icon": "../img/xSAYVE/xSayve.svg",
+      "decimals": 6
     }
   },
   "pisco-1": {
@@ -252,6 +259,13 @@
       "symbol": "SAYVE",
       "token": "terra16q6kqp0p2hlfgj52sadv5p7qh2hgkkjdfske48vklz94tkxg4jwq8k8myj",
       "icon": "../img/SAYVE/Sayve.svg",
+      "decimals": 6
+    },
+      "terra12g7rhutj6lsupfphl25a8ymgfwx2jl2j8l4y8gp5auv8vszzetrs0w7acg": {
+      "protocol": "Sayve",
+      "symbol": "xSAYVE",
+      "token": "terra12g7rhutj6lsupfphl25a8ymgfwx2jl2j8l4y8gp5auv8vszzetrs0w7acg",
+      "icon": "../img/xSAYVE/xSayve.svg",
       "decimals": 6
     }
   }
