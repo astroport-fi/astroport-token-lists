@@ -175,6 +175,13 @@
       "icon": "../img/stLUNA/stluna.svg",
       "decimals": 6
     },
+    "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B": {
+      "protocol": "Osmosis",
+      "symbol": "OSMO",
+      "token": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+      "icon": "../img/OSMO/osmo.svg",
+      "decimals": 6
+    },
       "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv": {
       "protocol": "Sayve",
       "symbol": "xSAYVE",
