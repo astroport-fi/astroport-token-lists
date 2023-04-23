@@ -12,5 +12,12 @@
       "token": "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g",
       "icon": "../img/DUST/DUST.png",
       "decimals": 6
+    },
+    "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr": {
+      "protocol": "Sayve Protocol Classic",
+      "symbol": "SAYVEC",
+      "token": "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr",
+      "icon": "../img/SAYVEC/Sayvec.svg",
+      "decimals": 6
     }
   }
