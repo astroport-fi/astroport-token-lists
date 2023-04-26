@@ -202,6 +202,13 @@
       "token": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv",
       "icon": "../img/xSAYVE/xSayve.svg",
       "decimals": 6
+    },
+    "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB": {
+      "protocol": "White Whale",
+      "symbol": "WHALE",
+      "token": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
+      "icon": "../img/WHALE/whale.png",
+      "decimals": 6
     }
   },
   "pisco-1": {
