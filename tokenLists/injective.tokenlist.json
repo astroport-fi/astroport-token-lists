@@ -3,6 +3,12 @@
     
     },
     "injective-1": {
-    
+    "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x": {
+      "protocol": “Astar Network”,
+      "symbol": “ASTR”,
+      "token": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
+      "icon": "../img/ASTR/ASTR.png",
+      "decimals": 18
+    }
     }
 }
