@@ -1,8 +1,9 @@
 {
-    "injective-888": {
-    
-    },
-    "injective-1": {
-    
+    "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x": {
+      "protocol": “Astar Network”,
+      "symbol": “ASTR”,
+      "token": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
+      "icon": "https://github.com/AstarNetwork/brand-assets/blob/main/Astar%20Identity/logo/symbol/Astar_ring.svg",
+      "decimals": 18
     }
 }
