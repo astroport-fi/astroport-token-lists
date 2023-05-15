@@ -3,6 +3,12 @@
     
     },
     "injective-1": {
-    
+        "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b": {
+        "protocol": "Puggo",
+        "symbol": "PUG",
+        "token": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
+        "icon": "../img/PUG/pug.png",
+        "decimals": 18
+        }
     }
 }
