@@ -281,6 +281,13 @@
       "token": "terra12g7rhutj6lsupfphl25a8ymgfwx2jl2j8l4y8gp5auv8vszzetrs0w7acg",
       "icon": "../img/xSAYVE/xSayve.svg",
       "decimals": 6
+    },
+      "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3": {
+      "protocol": "NICO money",
+      "symbol": "NICO",
+      "token": "terra12g7rhutj6lsupfphl25a8ymgfwx2jl2j8l4y8gp5auv8vszzetrs0w7acg",
+      "icon": "../img/NICO/Nico.png",
+      "decimals": 18
     }
   }
 }
