@@ -288,6 +288,13 @@
       "token": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
       "icon": "../img/CUB/cub.png",
       "decimals": 6
+    },
+      "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584": {
+      "protocol": "BLUE CUB DAO",
+      "symbol": "BLUE",
+      "token": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584",
+      "icon": "../img/CUB/blue.png",
+      "decimals": 6
     }
   }
 }
