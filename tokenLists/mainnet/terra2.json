@@ -174,6 +174,13 @@
     "icon": "../../img/stLUNA/stluna.svg",
     "decimals": 6
   },
+  "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
+    "protocol": "Stride",
+    "symbol": "stATOM",
+    "token": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
+    "icon": "../../img/stATOM/statom.svg",
+    "decimals": 6
+  },
   "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst": {
     "protocol": "Capapult",
     "symbol": "SOLID",
