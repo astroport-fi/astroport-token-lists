@@ -244,6 +244,13 @@
     "icon": "./../img/PEPE/pepe.png",
     "decimals": 6
   },
+  "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv": {
+    "protocol": "GEM DAO",
+    "symbol": "GEM",
+    "token": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+    "icon": "./../img/GEM/gem2.png",
+    "decimals": 6
+  },
   "terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u": {
     "protocol": "Rebase DAO",
     "symbol": "BASE",
