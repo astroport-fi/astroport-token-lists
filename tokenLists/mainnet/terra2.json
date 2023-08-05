@@ -271,5 +271,12 @@
     "token": "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3",
     "icon": "./../img/NICO/nico.png",
     "decimals": 18
+    },
+   "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn": {
+     "protocol": "TheOnlyOne",
+     "symbol": "xxx",
+     "token": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
+     "icon": "./../img/xxx/xxx2.png",
+     "decimals": 10
   }
 }
