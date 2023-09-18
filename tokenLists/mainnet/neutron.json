@@ -12,5 +12,12 @@
     "token": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
     "icon": "../../img/DOT/dot.svg",
     "decimals": 10
+  },
+    "ibc/7ACF670DA8DA24B5999A0D17247C7F4349AB1038FC4FA76A3AF50AFDE407B258": {
+    "protocol": "Bifrost",
+    "symbol": "vDOT",
+    "token": "ibc/7ACF670DA8DA24B5999A0D17247C7F4349AB1038FC4FA76A3AF50AFDE407B258",
+    "icon": "../../img/DOT/vdot.svg",
+    "decimals": 10
   }
 }
