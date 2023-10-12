@@ -5,5 +5,12 @@
     "token": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
     "icon": "../../img/ASTR/astar.svg",
     "decimals": 18
+  },
+  "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay": {
+    "protocol": "Vatreni Token",
+    "symbol": "VATRENI",
+    "token": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+    "icon": "../../img/VATRENI/vatreni.png",
+    "decimals": 8
   }
 }
