@@ -1,10 +1,23 @@
 {
-    "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy": {
-      "protocol": "OIN MONEY",
-      "symbol": "OIN",
-      "token": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
-      "icon": "../../img/OIN/OIN.png",
-      "decimals": 6
-    }
-
+  "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49": {
+    "protocol": "Stride",
+    "symbol": "stATOM",
+    "token": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
+    "icon": "../../img/stATOM/statom.svg",
+    "decimals": 6
+  },
+  "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B": {
+    "protocol": "Stride",
+    "symbol": "STRD",
+    "token": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
+    "icon": "../../img/Stride/strd.svg",
+    "decimals": 6
+  },
+  "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy": {
+    "protocol": "OIN MONEY",
+    "symbol": "OIN",
+    "token": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
+    "icon": "../../img/OIN/OIN.png",
+    "decimals": 6
+  }
 }
