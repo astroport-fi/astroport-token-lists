@@ -1,4 +1,32 @@
 {
+  "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k": {
+    "protocol": "dioalma.protocol",
+    "symbol": "Dinheiros",
+    "token": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
+    "icon": "../../img/DINHEIROS/Dinheiros.png",
+    "decimals": 0,
+  },
+  "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8": {
+    "protocol": "dioalma.protocol",
+    "symbol": "Reis",
+    "token": "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
+    "icon": "../../img/REIS/Reis.png",
+    "decimals": 6,
+  },
+  "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg": {
+    "protocol": "dioalma.protocol",
+    "symbol": "Escudos",
+    "token": "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+    "icon": "../../img/ESCUDOS/Escudos.png",
+    "decimals": 6,
+  },
+  "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q": {
+    "protocol": "dioalma.protocol",
+    "symbol": "Alem",
+    "token": "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
+    "icon": "../../img/ALEM/Alem.png",
+    "decimals": 6,
+  },
   "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26": {
     "protocol": "Astroport",
     "symbol": "ASTRO",
