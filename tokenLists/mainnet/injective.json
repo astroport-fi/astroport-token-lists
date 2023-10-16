@@ -14,10 +14,10 @@
     "decimals": 8
   },
   "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4": {
-    "protocol": "Wrapped Klaytn",
-    "symbol": "WKLAY",
+    "protocol": "Wrapped Klay (Wormhole)",
+    "symbol": "wKLAY",
     "token": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
     "icon": "../../img/WKLAY/wklay.png",
-    "decimals": 8
+    "decimals": 18
   }
 }
