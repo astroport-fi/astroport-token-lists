@@ -362,5 +362,12 @@
     "token": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
     "icon": "./../img/HUAHUA/huahua.svg",
     "decimals": 6
+   },
+  "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB": {
+    "protocol": "Kava",
+    "symbol": "KAVA",
+    "token": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
+    "icon": "./../img/rSWTH/kava.svg",
+    "decimals": 6
    }
 }
