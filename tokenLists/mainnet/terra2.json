@@ -306,5 +306,33 @@
     "token": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
     "icon": "./../img/xxx/xxx3.png",
     "decimals": 10
-  }
+  },
+  "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992": {
+    "protocol": "Tether USDT",
+    "symbol": "USDT",
+    "token": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "icon": "./../img/USDT/USDT.svg",
+    "decimals": 10
+  },
+  "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB": {
+    "protocol": "Circle USDC",
+    "symbol": "USDC",
+    "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+    "icon": "./../img/USDC/USDC.svg",
+    "decimals": 10
+   },
+  "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992": {
+    "protocol": "Tether USDT",
+    "symbol": "USDT",
+    "token": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "icon": "./../img/USDT/USDT.svg",
+    "decimals": 10
+  },
+  "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB": {
+    "protocol": "Circle USDC",
+    "symbol": "USDC",
+    "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+    "icon": "./../img/USDC/USDC.svg",
+    "decimals": 10
+   }
 }
