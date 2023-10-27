@@ -49,17 +49,17 @@
     "decimals": 6
   },
   "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4": {
-    "protocol": "axlUSDC",
+    "protocol": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "token": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-    "icon": "../../img/axlUSDC/usdc.svg",
+    "icon": "../../img/axlUSDC/axlusdc.svg",
     "decimals": 6
   },
   "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF": {
-    "protocol": "axlUSDT",
+    "protocol": "Axelar Wrapped USDT",
     "symbol": "axlUSDT",
     "token": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
-    "icon": "../../img/axlUSDT/usdt.svg",
+    "icon": "../../img/axlUSDT/axlusdt.svg",
     "decimals": 6
   },
   "uluna": {
@@ -306,5 +306,68 @@
     "token": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
     "icon": "./../img/xxx/xxx3.png",
     "decimals": 10
-  }
+  },
+  "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992": {
+    "protocol": "USDT Kava",
+    "symbol": "USDT",
+    "token": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "icon": "./../img/USDT/usdt.svg",
+    "decimals": 6
+  },
+  "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB": {
+    "protocol": "USDC Noble",
+    "symbol": "USDC",
+    "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+    "icon": "./../img/USDC/usdc.svg",
+    "decimals": 6
+   },
+  "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2": {
+    "protocol": "Cosmos Hub",
+    "symbol": "ATOM",
+    "token": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "icon": "./../img/ATOM/atom.svg",
+    "decimals": 6
+  },
+  "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07": {
+    "protocol": "Kujira",
+    "symbol": "KUJI",
+    "token": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
+    "icon": "./../img/KUJI/kuji.svg",
+    "decimals": 6
+   },
+  "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB": {
+    "protocol": "Migaloo",
+    "symbol": "WHALE",
+    "token": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
+    "icon": "./../img/WHALE/whale.svg",
+    "decimals": 6
+   },
+  "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B": {
+    "protocol": "Carbon",
+    "symbol": "SWTH",
+    "token": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
+    "icon": "./../img/SWTH/swth.svg",
+    "decimals": 8
+  },
+  "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098": {
+    "protocol": "rSWTH StaFi Hub",
+    "symbol": "rSWTH",
+    "token": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
+    "icon": "./../img/rSWTH/rswth.svg",
+    "decimals": 8
+   },
+  "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759": {
+    "protocol": "Chihuahua",
+    "symbol": "HUAHUA",
+    "token": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
+    "icon": "./../img/HUAHUA/huahua.svg",
+    "decimals": 6
+   },
+  "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB": {
+    "protocol": "Kava",
+    "symbol": "KAVA",
+    "token": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
+    "icon": "./../img/rSWTH/kava.svg",
+    "decimals": 6
+   }
 }
