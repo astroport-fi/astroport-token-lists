@@ -369,5 +369,12 @@
     "token": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
     "icon": "./../img/rSWTH/kava.svg",
     "decimals": 6
+   },
+  "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C":{
+    "protocol": "Lido",
+    "symbol": "wstETH",
+    "token": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
+    "icon": "../../img/wstETH/wstETH.svg",
+    "decimals": 18
    }
 }
