@@ -369,5 +369,12 @@
     "token": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
     "icon": "./../img/rSWTH/kava.svg",
     "decimals": 6
-   }
+   },
+  "terra18vp5s0r7keezm35hdxsgw8zgfnyn8wejdkk893ag2kqncgpqxhjqwjpc0v": {
+    "protocol": "BitzDAO",
+    "symbol": "BITZ",
+    "token": "terra18vp5s0r7keezm35hdxsgw8zgfnyn8wejdkk893ag2kqncgpqxhjqwjpc0v",
+    "icon": "./../img/BITZ/BITZ.png",
+    "decimals": 6
+  } 
 }
