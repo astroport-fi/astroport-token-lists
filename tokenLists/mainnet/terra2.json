@@ -241,7 +241,7 @@
     "protocol": "Lion DAO",
     "symbol": "ROAR",
     "token": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
-    "icon": "../../img/roar.png",
+    "icon": "../../img/ROAR/roar.png",
     "decimals": 6
   },
   "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz": {
@@ -350,7 +350,7 @@
     "decimals": 8
   },
   "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098": {
-    "protocol": "rSWTH StaFi Hub",
+    "protocol": "Carbon LSD StaFi Hub",
     "symbol": "rSWTH",
     "token": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
     "icon": "./../img/rSWTH/rswth.svg",
@@ -368,6 +368,90 @@
     "symbol": "KAVA",
     "token": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
     "icon": "./../img/rSWTH/kava.svg",
+    "decimals": 6
+   },
+  "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498": {
+    "protocol": "Mars Protocol",
+    "symbol": "MARS",
+    "token": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "icon": "./../img/MARS/mars.svg",
+    "decimals": 6
+   },
+  "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C": {
+    "protocol": "Neutron",
+    "symbol": "NTRN",
+    "token": "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C",
+    "icon": "./../img/NTRN/ntrn.svg",
+    "decimals": 6
+   },
+  "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528": {
+    "protocol": "Stride",
+    "symbol": "STRD",
+    "token": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
+    "icon": "./../img/STRD/strd.svg",
+    "decimals": 6
+   },
+  "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151": {
+    "protocol": "Axelar",
+    "symbol": "AXL",
+    "token": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
+    "icon": "./../img/AXL/axl.svg",
+    "decimals": 6
+   },
+  "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36": {
+    "protocol": "ERIS Amplified Whale",
+    "symbol": "ampWHALE",
+    "token": "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36",
+    "icon": "./../img/ampWHALE/ampWhale.svg",
+    "decimals": 6
+   },
+  "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E": {
+    "protocol": "BackBone Labs",
+    "symbol": "bWHALE",
+    "token": "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
+    "icon": "./../img/bWHALE/bWhale.png",
+    "decimals": 6
+   },
+  "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110": {
+    "protocol": "Kujira USK",
+    "symbol": "USK",
+    "token": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
+    "icon": "./../img/USK/usk.svg",
+    "decimals": 6
+   },
+  "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04": {
+    "protocol": "Juno",
+    "symbol": "JUNO",
+    "token": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
+    "icon": "./../img/JUNO/juno.svg",
+    "decimals": 6
+   },
+  "ibc/5BDDCE0FEE672CB481C0FC7B82132B90CBCD5B5CF314934A8868D570F69756F8": {
+    "protocol": "Sei",
+    "symbol": "SEI",
+    "token": "ibc/5BDDCE0FEE672CB481C0FC7B82132B90CBCD5B5CF314934A8868D570F69756F8",
+    "icon": "./../img/SEI/sei.svg",
+    "decimals": 6
+   },
+  "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB": {
+    "protocol": "Archway",
+    "symbol": "ARCH",
+    "token": "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB",
+    "icon": "./../img/ARCH/arch.svg",
+    "decimals": 18
+   },
+  "ibc/47724BE5D9F43CF5C0130939373E95EABAB3F5301A967A6651894C6420DE1016": {
+    "protocol": "Stafi Hub",
+    "symbol": "FIS",
+    "token": "ibc/47724BE5D9F43CF5C0130939373E95EABAB3F5301A967A6651894C6420DE1016",
+    "icon": "./../img/FIS/fis.png",
+    "decimals": 6
+   },
+  "ibc/6F45FFC7C8BF941B356DAD73B41DD3D232CBB72025A0D9B82AAA0494D107297C": {
+    "protocol": "Crescent",
+    "symbol": "CRE",
+    "token": "ibc/6F45FFC7C8BF941B356DAD73B41DD3D232CBB72025A0D9B82AAA0494D107297C",
+    "icon": "./../img/CRESCENT/cre.svg",
     "decimals": 6
    },
   "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C":{
