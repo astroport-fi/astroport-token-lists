@@ -1,44 +1,44 @@
-{
-  "ibc/4552BF8EE9C7AFD889CACF426F866350AAE28DC73507B1411972C8C1B9B38732": {
+[
+  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/4552BF8EE9C7AFD889CACF426F866350AAE28DC73507B1411972C8C1B9B38732",
     "icon": "/img/astro.svg"
   },
-  "usei": {
+  {
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
     "icon": "/img/sei.png"
   },
-  "sei1xmsxzq9up5y2gj6e3fxmuqu4hvr2v0yu7qt34qn6amqpcxmejeuqlumuvk": {
+  {
     "protocol": "Rum",
     "symbol": "RUM",
     "token": "sei1xmsxzq9up5y2gj6e3fxmuqu4hvr2v0yu7qt34qn6amqpcxmejeuqlumuvk",
     "icon": "/img/rum-icon.png"
   },
-  "factory/sei135mlnw9ndkyglgx7ma95pw22cl64mpnw58pfpd/usdc": {
+  {
     "protocol": "Test USDC",
     "symbol": "USDC",
     "token": "factory/sei135mlnw9ndkyglgx7ma95pw22cl64mpnw58pfpd/usdc",
     "icon": "/img/usdc.svg"
   },
-  "factory/sei1jdppe6fnj2q7hjsepty5crxtrryzhuqsjrj95y/uust2": {
+  {
     "protocol": "UST2",
     "symbol": "UST2",
     "token": "factory/sei1jdppe6fnj2q7hjsepty5crxtrryzhuqsjrj95y/uust2",
     "icon": "/img/UST2.png"
   },
-  "factory/sei1vs8s40qfwcesvdazxuxz0fqc3ag40yt8ayclch/usdc": {
+  {
     "protocol": "USDC",
     "symbol": "USDC",
     "token": "factory/sei1vs8s40qfwcesvdazxuxz0fqc3ag40yt8ayclch/usdc",
     "icon": "/img/usdc.svg"
   },
-  "factory/sei1vs8s40qfwcesvdazxuxz0fqc3ag40yt8ayclch/usdt": {
+  {
     "protocol": "USDT",
     "symbol": "USDT",
     "token": "factory/sei1vs8s40qfwcesvdazxuxz0fqc3ag40yt8ayclch/usdt",
     "icon": "/img/usdt.svg"
   }
-}
+]
