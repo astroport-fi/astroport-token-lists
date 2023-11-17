@@ -151,11 +151,11 @@
     "icon": "/img/OIN.png",
     "decimals": 6
   },
-  "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6": {
+  {
     "protocol": "Poker Kings",
     "symbol": "PKS",
     "token": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6",
-    "icon": "../../img/PKS/pks.svg",
+    "icon": "/img/pks.svg",
     "decimals": 6
   }
 ]
