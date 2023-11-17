@@ -1,0 +1,46 @@
+[
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA",
+    "icon": "/img/astro.svg"
+  },
+  {
+    "protocol": "Neutron",
+    "symbol": "NTRN",
+    "token": "untrn",
+    "icon": "/img/neutron.svg"
+  },
+  {
+    "protocol": "Axelar",
+    "symbol": "USDC.axl",
+    "token": "ibc/F91EA2C0A23697A1048E08C2F787E3A58AC6F706A1CD2257A504925158CFC0F3",
+    "icon": "/img/axlusdc.svg"
+  },
+  {
+    "protocol": "USDT",
+    "symbol": "USDT",
+    "token": "neutron1vpsgrzedwd8fezpsu9fcfewvp6nmv4kzd7a6nutpmgeyjk3arlqsypnlhm",
+    "icon": "/img/usdt.svg"
+  },
+  {
+    "protocol": "Mars Protocol",
+    "symbol": "MARS",
+    "token": "ibc/584A4A23736884E0C198FD1EE932455A9357A492A7B94324E4A02B5628687831",
+    "icon": "/img/mars.png"
+  },
+  {
+    "protocol": "Lido",
+    "symbol": "wstETH",
+    "token": "factory/neutron1xdtwh5jr4zjx8g3zh29jud75c666wua7tsmum3ajm6ylf782etfs60dj2h/wstETH",
+    "icon": "/img/wstETH.svg",
+    "decimals": 18
+  },
+  {
+    "protocol": "Ethereum",
+    "symbol": "axlWETH",
+    "token": "ibc/CC8B40E3F3536D003C6ED7C65421067215453AECE1517A6F0935470C634A036B",
+    "icon": "/img/eth.svg",
+    "decimals": 18
+  }
+]

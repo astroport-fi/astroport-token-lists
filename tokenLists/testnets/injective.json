@@ -1,0 +1,126 @@
+[
+  {
+    "protocol": "Injective",
+    "symbol": "INJ",
+    "token": "inj",
+    "decimals": 18,
+    "icon": "/img/injective.svg"
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "ibc/E8AC6B792CDE60AB208CA060CA010A3881F682A7307F624347AB71B6A0B0BF89",
+    "icon": "/img/astro.svg"
+  },
+  {
+    "protocol": "USDC",
+    "symbol": "USDC",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/usdc",
+    "icon": "/img/usdc.svg"
+  },
+  {
+    "protocol": "USDT",
+    "symbol": "USDT",
+    "token": "peggy0x87aB3B4C8661e07D6372361211B96ed4Dc36B1B5",
+    "icon": "/img/usdt.svg"
+  },
+  {
+    "protocol": "APE",
+    "symbol": "APE",
+    "token": "peggy0x44C21afAaF20c270EBbF5914Cfc3b5022173FEB7",
+    "decimals": 18,
+    "icon": "/img/ape.png"
+  },
+  {
+    "protocol": "Curve",
+    "symbol": "CRV",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/crv",
+    "icon": "/img/curve.svg"
+  },
+  {
+    "protocol": "Aave",
+    "symbol": "AAVE",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/aave",
+    "icon": "/img/aave.svg"
+  },
+  {
+    "protocol": "Convex",
+    "symbol": "CVX",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/cvx",
+    "icon": "/img/convex.svg"
+  },
+  {
+    "protocol": "Shiba Inu",
+    "symbol": "SHIB",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/shib",
+    "icon": "/img/shiba_inu.png"
+  },
+  {
+    "protocol": "Solana",
+    "symbol": "SOL",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/sol",
+    "decimals": 8,
+    "icon": "/img/sol.png"
+  },
+  {
+    "protocol": "Polygon",
+    "symbol": "MATIC",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/matic",
+    "icon": "/img/matic.png"
+  },
+  {
+    "protocol": "Avalanche",
+    "symbol": "AVAX",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/avax",
+    "icon": "/img/avax.png"
+  },
+  {
+    "protocol": "Cosmos",
+    "symbol": "ATOM",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/atom",
+    "icon": "/img/atom.svg"
+  },
+  {
+    "protocol": "BNB",
+    "symbol": "BNB",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/bnb",
+    "icon": "/img/bnb.png"
+  },
+  {
+    "protocol": "Aptos",
+    "symbol": "APTOS",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/aptos",
+    "icon": "/img/aptos.png"
+  },
+  {
+    "protocol": "Helium",
+    "symbol": "HNT",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/hnt",
+    "icon": "/img/hnt.png"
+  },
+  {
+    "protocol": "Gala",
+    "symbol": "GALA",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/gala",
+    "icon": "/img/gala.png"
+  },
+  {
+    "protocol": "Optimism",
+    "symbol": "OP",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/op",
+    "icon": "/img/op.png"
+  },
+  {
+    "protocol": "Lido",
+    "symbol": "LDO",
+    "token": "factory/inj17vytdwqczqz72j65saukplrktd4gyfme5agf6c/ldo",
+    "icon": "/img/ldo.png"
+  },
+  {
+    "protocol": "CW20 Wrapped INJ",
+    "symbol": "INJ",
+    "token": "inj1c0d79v68xtku33c78dd3rs5fha7ms4lgwaekvg",
+    "decimals": 18,
+    "icon": "/img/injective.svg"
+  }
+]
