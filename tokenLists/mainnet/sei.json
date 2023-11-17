@@ -19,5 +19,13 @@
     "token": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
     "icon": "../../img/OIN/OIN.png",
     "decimals": 6
+  },
+  },
+  "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6": {
+    "protocol": "Poker Kings",
+    "symbol": "PKS",
+    "token": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6",
+    "icon": "../../img/PKS/pks.svg",
+    "decimals": 6
   }
 }
