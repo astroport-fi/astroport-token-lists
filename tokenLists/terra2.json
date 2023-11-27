@@ -500,5 +500,19 @@
     "token": "terra1uxk0lgyktspxlen3a2f2dnyclj8gjta2mwg0murwcyxflrlqk4aqey3pqt",
     "icon": "/img/queen.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEUL",
+    "symbol": "SEUL",
+    "token": "terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l",
+    "icon": "/img/seul.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "xSEUL",
+    "symbol": "xSEUL",
+    "token": "terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5",
+    "icon": "/img/xseul.png",
+    "decimals": 6
   }
 ]
