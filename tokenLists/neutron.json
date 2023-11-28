@@ -95,5 +95,11 @@
     "symbol": "TIA",
     "token": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
     "icon": "/img/tia.png"
+  },
+  {
+    "protocol": "Nolus",
+    "symbol": "NLS",
+    "token": "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972",
+    "icon": "/img/nolus.svg"
   }
 ]
