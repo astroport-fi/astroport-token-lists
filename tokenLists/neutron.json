@@ -101,5 +101,12 @@
     "symbol": "NLS",
     "token": "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972",
     "icon": "/img/nolus.svg"
+  },
+  {
+    "protocol": "Lido",
+    "symbol": "wstETH.axl",
+    "token": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
+    "icon": "/img/wstETH.svg",
+    "decimals": 18
   }
 ]
