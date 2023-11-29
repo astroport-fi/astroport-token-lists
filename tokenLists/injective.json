@@ -136,5 +136,11 @@
     "symbol": "TIA",
     "token": "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
     "icon": "/img/tia.png"
+  },
+  {
+    "protocol": "Nebula",
+    "symbol": "NBLA",
+    "token": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
+    "icon": "/img/nbla.PNG"
   }
 ]
