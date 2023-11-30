@@ -142,5 +142,12 @@
     "symbol": "NBLA",
     "token": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
     "icon": "/img/nbla.PNG"
+  },
+  {
+    "protocol": "nUSD",
+    "symbol": "nUSD",
+    "token": "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD",
+    "icon": "/img/nUSD.png",
+    "decimals": 18
   }
 ]

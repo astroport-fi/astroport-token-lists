@@ -122,5 +122,12 @@
     "token": "inj1c0d79v68xtku33c78dd3rs5fha7ms4lgwaekvg",
     "decimals": 18,
     "icon": "/img/injective.svg"
+  },
+  {
+    "protocol": "nUSD",
+    "symbol": "nUSD",
+    "token": "factory/inj1d0646us3wrcw6a77qmth6sc539vplaqdya55zh/nUSD",
+    "icon": "/img/nUSD.png",
+    "decimals": 18
   }
 ]
