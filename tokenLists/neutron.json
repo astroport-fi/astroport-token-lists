@@ -108,7 +108,7 @@
     "token": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
     "icon": "/img/wstETH.svg",
     "decimals": 18
-  }
+  },
   {
     "protocol": "DYDX",
     "symbol": "DYDX",
