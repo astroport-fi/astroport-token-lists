@@ -122,5 +122,12 @@
     "token": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
     "icon": "/img/usdc.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "OSMO",
+    "token": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
+    "icon": "/img/osmo.svg",
+    "decimals": 6
   }
 ]
