@@ -39,7 +39,7 @@
   },
   {
     "protocol": "Ethereum",
-    "symbol": "axlWETH",
+    "symbol": "WETH.axl",
     "token": "ibc/CC8B40E3F3536D003C6ED7C65421067215453AECE1517A6F0935470C634A036B",
     "icon": "/img/eth.svg",
     "decimals": 18

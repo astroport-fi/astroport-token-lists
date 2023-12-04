@@ -89,11 +89,11 @@
   },
   {
     "protocol": "Ethereum",
-    "symbol": "axlWETH",
+    "symbol": "WETH.axl",
     "token": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
     "icon": "/img/eth.svg",
     "decimals": 18,
-    "coingeckoId": "weth"
+    "coingeckoId": "axlweth"
   },
   {
     "protocol": "Axelar",
