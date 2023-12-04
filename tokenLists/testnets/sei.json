@@ -9,7 +9,8 @@
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
-    "icon": "/img/sei.png"
+    "icon": "/img/sei.png",
+    "coingeckoId": "sei-network"
   },
   {
     "protocol": "Rum",

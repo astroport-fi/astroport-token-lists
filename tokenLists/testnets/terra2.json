@@ -41,7 +41,8 @@
     "protocol": "Terra",
     "symbol": "LUNA",
     "token": "uluna",
-    "icon": "/img/luna.svg"
+    "icon": "/img/luna.svg",
+    "coingeckoId": "terra-luna-2"
   },
   {
     "protocol": "Valkyrie Token",

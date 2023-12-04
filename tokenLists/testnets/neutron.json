@@ -9,7 +9,8 @@
     "protocol": "Neutron",
     "symbol": "NTRN",
     "token": "untrn",
-    "icon": "/img/neutron.svg"
+    "icon": "/img/neutron.svg",
+    "coingeckoId": "neutron-3"
   },
   {
     "protocol": "Axelar",

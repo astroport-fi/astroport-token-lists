@@ -3,7 +3,8 @@
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-    "icon": "/img/astro.svg"
+    "icon": "/img/astro.svg",
+    "coingeckoId": "astroport-fi"
   },
   {
     "protocol": "Astroport",
@@ -21,19 +22,22 @@
     "protocol": "USDC.axl",
     "symbol": "USDC.axl",
     "token": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-    "icon": "/img/axlusdc.svg"
+    "icon": "/img/axlusdc.svg",
+    "coingeckoId": "axlusdc"
   },
   {
     "protocol": "USDT.axl",
     "symbol": "USDT.axl",
     "token": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
-    "icon": "/img/axlusdt.svg"
+    "icon": "/img/axlusdt.svg",
+    "coingeckoId": "axelar-usdt"
   },
   {
     "protocol": "Terra",
     "symbol": "LUNA",
     "token": "uluna",
-    "icon": "/img/luna.svg"
+    "icon": "/img/luna.svg",
+    "coingeckoId": "terra-luna-2"
   },
   {
     "protocol": "Eris Amplified LUNA",
@@ -345,14 +349,16 @@
     "symbol": "KUJI",
     "token": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
     "icon": "/img/kuji.png",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "kujira"
   },
   {
     "protocol": "Cosmos Hub",
     "symbol": "ATOM",
     "token": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "icon": "/img/atom.svg",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "cosmos"
   },
   {
     "protocol": "Kava",
@@ -366,7 +372,8 @@
     "symbol": "USDC",
     "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
     "icon": "/img/usdc.svg",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "usd-coin"
   },
   {
     "protocol": "Carbon",
@@ -394,14 +401,16 @@
     "symbol": "WBTC",
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "/img/wbtc.svg",
-    "decimals": 8
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin"
   },
   {
     "protocol": "Lido",
     "symbol": "wstETH",
     "token": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
     "icon": "/img/wstETH.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "wrapped-steth"
   },
   {
     "protocol": "BitzDAO",
@@ -415,7 +424,8 @@
     "symbol": "WETH",
     "token": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
     "icon": "/img/weth.png",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "weth"
   },
   {
     "protocol": "Mars Protocol",
@@ -443,7 +453,8 @@
     "symbol": "AXL",
     "token": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
     "icon": "/img/axl.svg",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "axelar"
   },
   {
     "protocol": "ERIS Amplified Whale",
@@ -464,7 +475,8 @@
     "symbol": "JUNO",
     "token": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
     "icon": "/img/juno.svg",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "juno-network"
   },
   {
     "protocol": "Sei",
@@ -478,7 +490,8 @@
     "symbol": "ARCH",
     "token": "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB",
     "icon": "/img/arch.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "archway"
   },
   {
     "protocol": "Stafi Hub",

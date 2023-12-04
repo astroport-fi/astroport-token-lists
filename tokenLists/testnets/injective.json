@@ -4,7 +4,8 @@
     "symbol": "INJ",
     "token": "inj",
     "decimals": 18,
-    "icon": "/img/injective.svg"
+    "icon": "/img/injective.svg",
+    "coingeckoId": "injective-protocol"
   },
   {
     "protocol": "Astroport",

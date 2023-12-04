@@ -3,48 +3,55 @@
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
-    "icon": "/img/astro.svg"
+    "icon": "/img/astro.svg",
+    "coingeckoId": "astroport-fi"
   },
   {
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
-    "icon": "/img/sei.png"
+    "icon": "/img/sei.png",
+    "coingeckoId": "sei-network"
   },
   {
     "protocol": "Axelar USDC",
     "symbol": "USDC.axl",
     "token": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "decimals": 6,
-    "icon": "/img/axlusdc.svg"
+    "icon": "/img/axlusdc.svg",
+    "coingeckoId": "axlusdc"
   },
   {
     "protocol": "Osmosis",
     "symbol": "OSMO",
     "token": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
     "decimals": 6,
-    "icon": "/img/osmo.svg"
+    "icon": "/img/osmo.svg",
+    "coingeckoId": "osmosis"
   },
   {
     "protocol": "Atom (Osmosis)",
     "symbol": "ATOM",
     "token": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
     "decimals": 6,
-    "icon": "/img/atom.svg"
+    "icon": "/img/atom.svg",
+    "coingeckoId": "cosmos"
   },
   {
     "protocol": "Atom",
     "symbol": "ATOM",
     "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "decimals": 6,
-    "icon": "/img/atom.svg"
+    "icon": "/img/atom.svg",
+    "coingeckoId": "cosmos"
   },
   {
     "protocol": "ETH (Wormhole ETH)",
     "symbol": "WETH",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
     "decimals": 8,
-    "icon": "/img/weth.png"
+    "icon": "/img/weth.png",
+    "coingeckoId": "weth"
   },
   {
     "protocol": "USDC (Wormhole ETH)",
@@ -58,70 +65,80 @@
     "symbol": "USDT.eth",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
     "decimals": 6,
-    "icon": "/img/usdt.svg"
+    "icon": "/img/usdt.svg",
+    "coingeckoId": "tether"
   },
   {
     "protocol": "BTC (Wormhole ETH)",
     "symbol": "WBTC",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
     "decimals": 8,
-    "icon": "/img/wbtc.svg"
+    "icon": "/img/wbtc.svg",
+    "coingeckoId": "wrapped-bitcoin"
   },
   {
     "protocol": "USDC (Wormhole ARB)",
     "symbol": "USDC.arb",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
     "decimals": 6,
-    "icon": "/img/usdc.svg"
+    "icon": "/img/usdc.svg",
+    "coingeckoId": "usd-coin"
   },
   {
     "protocol": "ETH (Wormhole ARB)",
     "symbol": "WETH.arb",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
     "decimals": 8,
-    "icon": "/img/weth.png"
+    "icon": "/img/weth.png",
+    "coingeckoId": "weth"
   },
   {
     "protocol": "USDC (Wormhole Matic)",
     "symbol": "USDC.matic",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
     "decimals": 6,
-    "icon": "/img/usdc.svg"
+    "icon": "/img/usdc.svg",
+    "coingeckoId": "usd-coin"
   },
   {
     "protocol": "USDC (Wormhole OP)",
     "symbol": "USDC.op",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
     "decimals": 6,
-    "icon": "/img/usdc.svg"
+    "icon": "/img/usdc.svg",
+    "coingeckoId": "usd-coin"
   },
   {
     "protocol": "USDC (Wormhole SOL)",
     "symbol": "USDC.sol",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
     "decimals": 6,
-    "icon": "/img/usdc.svg"
+    "icon": "/img/usdc.svg",
+    "coingeckoId": "usd-coin"
   },
   {
     "protocol": "USDC (Wormhole BSC)",
     "symbol": "USDC.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
     "decimals": 8,
-    "icon": "/img/usdc.svg"
+    "icon": "/img/usdc.svg",
+    "coingeckoId": "usd-coin"
   },
   {
     "protocol": "ETH (Wormhole BSC)",
     "symbol": "WETH.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
     "decimals": 8,
-    "icon": "/img/weth.png"
+    "icon": "/img/weth.png",
+    "coingeckoId": "weth"
   },
   {
     "protocol": "USDT (Wormhole BSC)",
     "symbol": "USDT.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
     "decimals": 8,
-    "icon": "/img/usdt.svg"
+    "icon": "/img/usdt.svg",
+    "coingeckoId": "tether"
   },
   {
     "protocol": "Stride",
@@ -142,7 +159,8 @@
     "symbol": "DOT",
     "token": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
     "icon": "/img/dot.svg",
-    "decimals": 10
+    "decimals": 10,
+    "coingeckoId": "polkadot"
   },
   {
     "protocol": "OIN MONEY",
