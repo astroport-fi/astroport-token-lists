@@ -175,5 +175,12 @@
     "token": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6",
     "icon": "/img/pks.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Sensei",
+    "symbol": "SENSEI",
+    "token": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
+    "icon": "/img/sensei.png",
+    "decimals": 6
   }
 ]
