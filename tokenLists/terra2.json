@@ -335,7 +335,8 @@
     "symbol": "WHALE",
     "token": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
     "icon": "/img/whale.svg",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "white-whale"
   },
   {
     "protocol": "Kava",
@@ -432,7 +433,8 @@
     "symbol": "MARS",
     "token": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
     "icon": "/img/mars.png",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
   },
   {
     "protocol": "Neutron",
