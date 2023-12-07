@@ -147,5 +147,13 @@
     "icon": "/img/osmo.svg",
     "decimals": 6,
     "coingeckoId": "osmosis"
+  },
+  {
+    "protocol": "PSTAKE",
+    "symbol": "stkATOM",
+    "token": "ibc/3649CE0C8A2C79048D8C6F31FF18FA69C9BC7EB193512E0BD03B733011290445",
+    "icon": "/img/stkatom.svg",
+    "decimals": 6,
+    "coingeckoId": "stkatom"
   }
 ]
