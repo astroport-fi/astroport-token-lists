@@ -529,5 +529,12 @@
     "token": "terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5",
     "icon": "/img/xseul.png",
     "decimals": 6
+  },
+  {
+    "protocol": "AstroPepe",
+    "symbol": "ASTROPEPE",
+    "token": "ibc/52B30BB501A222D586222700F241EBC8CA97A4A17C9737DDCC00DD0BBC24CEAD",
+    "icon": "/img/astropepe.png",
+    "decimals": 6
   }
 ]
