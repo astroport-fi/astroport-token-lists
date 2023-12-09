@@ -155,5 +155,12 @@
     "icon": "/img/stkatom.svg",
     "decimals": 6,
     "coingeckoId": "stkatom"
+  },
+  {
+    "protocol": "AstroPepe",
+    "symbol": "ASTROPEPE",
+    "token": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
+    "icon": "/img/astropepe.png",
+    "decimals": 6
   }
 ]
