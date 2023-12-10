@@ -537,4 +537,11 @@
     "icon": "/img/astropepe.png",
     "decimals": 6
   }
+  {
+    "protocol": "Cerberus",
+    "symbol": "CRBRUS",
+    "token": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
+    "icon": "/img/CRBRUS.png",
+    "decimals": 6
+  }
 ]
