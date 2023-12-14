@@ -178,5 +178,12 @@
     "icon": "/img/huahua.png",
     "decimals": 6,
     "coingeckoId": "chihuahua-chain"
+  },
+  {
+    "protocol": "Newt",
+    "symbol": "NEWT",
+    "token": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
+    "icon": "/img/newtlogo.png",
+    "decimals": 6
   }
 ]
