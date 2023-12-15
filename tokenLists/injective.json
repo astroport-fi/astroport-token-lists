@@ -177,5 +177,12 @@
     "token": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
     "icon": "/img/ninja.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Dog Wif Katana",
+    "symbol": "KATANA",
+    "token": "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
+    "icon": "/img/katana.png",
+    "decimals": 6
   }
 ]
