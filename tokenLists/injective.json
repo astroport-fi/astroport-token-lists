@@ -170,5 +170,12 @@
     "token": "ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9",
     "icon": "/img/CRBRUS.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Dog wif nunchucks",
+    "symbol": "NINJA",
+    "token": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
+    "icon": "/img/ninja.png",
+    "decimals": 6
   }
 ]
