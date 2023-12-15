@@ -189,5 +189,12 @@
     "token": "ibc/71CEEB5CC09F75A3ACDC417108C14514351B6B2A540ACE9B37A80BF930845134",
     "icon": "/img/CRBRUS.png",
     "decimals": 6
+  },
+    {
+    "protocol": "Pirate Dog",
+    "symbol": "PDOG",
+    "token": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
+    "icon": "/img/PDOG.png",
+    "decimals": 6
   }
 ]
