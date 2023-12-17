@@ -191,5 +191,19 @@
     "token": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
     "icon": "/img/kira.jpeg",
     "decimals": 6
+  },
+  {
+    "protocol": "GALAXY",
+    "symbol": "GALAXY",
+    "token": "factory/inj10zdjt8ylfln5xr3a2ruf9nwn6d5q2d2r3v6mh8/galaxy",
+    "icon": "/img/galaxy.webp",
+    "decimals": 6
+  },
+  {
+    "protocol": "AOI",
+    "symbol": "$AOI",
+    "token": "factory/inj169ed97mcnf8ay6rgvskn95n6tyt46uwvy5qgs0/aoi",
+    "icon": "/img/aoi.webp",
+    "decimals": 6
   }
 ]
