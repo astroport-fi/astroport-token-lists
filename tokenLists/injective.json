@@ -184,5 +184,12 @@
     "token": "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
     "icon": "/img/katana.png",
     "decimals": 6
+  },
+  {
+    "protocol": "KIRA",
+    "symbol": "KIRA",
+    "token": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
+    "icon": "/img/kira.jpeg",
+    "decimals": 6
   }
 ]
