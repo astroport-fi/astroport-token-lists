@@ -205,5 +205,12 @@
     "token": "factory/inj169ed97mcnf8ay6rgvskn95n6tyt46uwvy5qgs0/aoi",
     "icon": "/img/aoi.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "BluePepe",
+    "symbol": "BRETT",
+    "token": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
+    "icon": "/img/Brett.png",
+    "decimals": 6
   }
 ]
