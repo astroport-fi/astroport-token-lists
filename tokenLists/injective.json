@@ -193,10 +193,31 @@
     "decimals": 6
   },
   {
+    "protocol": "GALAXY",
+    "symbol": "GALAXY",
+    "token": "factory/inj10zdjt8ylfln5xr3a2ruf9nwn6d5q2d2r3v6mh8/galaxy",
+    "icon": "/img/galaxy.webp",
+    "decimals": 6
+  },
+  {
+    "protocol": "AOI",
+    "symbol": "$AOI",
+    "token": "factory/inj169ed97mcnf8ay6rgvskn95n6tyt46uwvy5qgs0/aoi",
+    "icon": "/img/aoi.webp",
+    "decimals": 6
+  },
+  {
+    "protocol": "BluePepe",
+    "symbol": "BRETT",
+    "token": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
+    "icon": "/img/Brett.png",
+    "decimals": 6
+  },
+  {
     "protocol": "CRINJ",
     "symbol": "CRINJ",
     "token": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
-    "icon": "/img/CRIJ.png",
+    "icon": "/img/CRINJ.png",
     "decimals": 6
   }
 ]
