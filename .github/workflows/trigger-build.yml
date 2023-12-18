@@ -15,27 +15,3 @@ jobs:
         with:
           url: ${{ secrets.MAIN_BUILD_URL }}
           method: GET
-
-      - name: Trigger Neutron Build
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: ${{ secrets.NEUTRON_BUILD_URL }}
-          method: GET
-
-      - name: Trigger Terra Build
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: ${{ secrets.TERRA_BUILD_URL }}
-          method: GET
-
-      - name: Trigger Injective Build
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: ${{ secrets.INJECTIVE_BUILD_URL }}
-          method: GET
-
-      - name: Trigger Sei Build
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: ${{ secrets.SEI_BUILD_URL }}
-          method: GET
