@@ -226,5 +226,12 @@
     "token": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
     "icon": "/img/CRINJ.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Shiro",
+    "symbol": "SHIRO",
+    "token": "factory/inj1wu5464syj9xmud55u99hfwhyjd5u8fxfmurs8j/shiro",
+    "icon": "/img/ShiroLogo.png",
+    "decimals": 6
   }
 ]
