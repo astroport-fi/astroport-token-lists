@@ -226,5 +226,12 @@
     "token": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
     "icon": "/img/CRINJ.png",
     "decimals": 6
+  },
+  {
+    "protocol": "WAGMI Coin",
+    "symbol": "WAGMI",
+    "token": "factory/inj188veuqed0dygkcmq5d24u3807n6csv4wdv28gh/wagmi",
+    "icon": "/img/WAGMI.png",
+    "decimals": 9
   }
 ]
