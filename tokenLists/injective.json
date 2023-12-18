@@ -228,6 +228,20 @@
     "decimals": 6
   },
   {
+    "protocol": "Shiro",
+    "symbol": "SHIRO",
+    "token": "factory/inj1wu5464syj9xmud55u99hfwhyjd5u8fxfmurs8j/shiro",
+    "icon": "/img/ShiroLogo.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "INJINU",
+    "symbol": "INJINU",
+    "token": "factory/inj1vjppa6h9lf75pt0v6qnxtej4xcl0qevnxzcrvm/INJINU",
+    "icon": "/img/injinu.png",
+    "decimals": 6
+  },
+  {
     "protocol": "WAGMI Coin",
     "symbol": "WAGMI",
     "token": "factory/inj188veuqed0dygkcmq5d24u3807n6csv4wdv28gh/wagmi",
