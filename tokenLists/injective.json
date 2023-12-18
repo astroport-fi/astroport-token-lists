@@ -219,5 +219,12 @@
     "token": " factory/inj1spdy83ds5ezq9rvtg0ndy8480ad5rlczcpvtu2/YUKI",
     "icon": "/img/yuki.png",
     "decimals": 6
+  },
+  {
+    "protocol": "CRINJ",
+    "symbol": "CRINJ",
+    "token": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
+    "icon": "/img/CRINJ.png",
+    "decimals": 6
   }
 ]
