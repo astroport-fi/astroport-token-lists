@@ -212,5 +212,12 @@
     "token": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
     "icon": "/img/Brett.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Yuki Dog",
+    "symbol": "YUKI",
+    "token": " factory/inj1spdy83ds5ezq9rvtg0ndy8480ad5rlczcpvtu2/YUKI",
+    "icon": "/img/yuki.png",
+    "decimals": 6
   }
 ]
