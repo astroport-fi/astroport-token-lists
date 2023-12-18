@@ -240,5 +240,12 @@
     "token": "factory/inj1vjppa6h9lf75pt0v6qnxtej4xcl0qevnxzcrvm/INJINU",
     "icon": "/img/injinu.png",
     "decimals": 6
+  },
+  {
+    "protocol": "WAGMI Coin",
+    "symbol": "WAGMI",
+    "token": "factory/inj188veuqed0dygkcmq5d24u3807n6csv4wdv28gh/wagmi",
+    "icon": "/img/WAGMI.png",
+    "decimals": 9
   }
 ]
