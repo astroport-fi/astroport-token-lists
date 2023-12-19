@@ -255,11 +255,18 @@
     "icon": "/img/max.jpg",
     "decimals": 6
   },
-    {
+  {
     "protocol": "AUTISM",
     "symbol": "AUTISM",
     "token": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
     "icon": "/img/autism.jpg",
+    "decimals": 6
+  },
+  {
+    "protocol": "BABYNINJA",
+    "symbol": "BABYNINJA",
+    "token": "factory/inj1h3y27yhly6a87d95937jztc3tupl3nt8fg3lcp/BABYNINJA",
+    "icon": "/img/BABYNINJA.png",
     "decimals": 6
   }
 ]
