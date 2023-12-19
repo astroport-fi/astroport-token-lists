@@ -192,5 +192,12 @@
     "token": "factory/neutron1tklm6cvr2wxg8k65t8gh5ewslnzdfd5fsk0w3f/corgi",
     "icon": "/img/BABYCORGI.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Eclipse",
+    "symbol": "ECLIP",
+    "token": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
+    "icon": "/img/eclipse.png",
+    "decimals": 6
   }
 ]
