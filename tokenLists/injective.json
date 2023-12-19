@@ -254,5 +254,12 @@
     "token": "factory/inj164jk46xjwsn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
     "icon": "/img/max.jpg",
     "decimals": 6
+  },
+  {
+    "protocol": "Alpha Bulls",
+    "symbol": "BULLS",
+    "token": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
+    "decimals": 6,
+    "icon": "/img/bulls.png"
   }
 ]
