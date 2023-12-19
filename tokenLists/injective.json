@@ -254,5 +254,12 @@
     "token": "factory/inj164jk46xjwsn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
     "icon": "/img/max.jpg",
     "decimals": 6
+  },
+    {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
   }
 ]
