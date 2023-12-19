@@ -247,5 +247,12 @@
     "token": "factory/inj188veuqed0dygkcmq5d24u3807n6csv4wdv28gh/wagmi",
     "icon": "/img/WAGMI.png",
     "decimals": 9
+  },
+  {
+    "protocol": "TRUFFLE",
+    "symbol": "TRUFFLE",
+    "token": "factory/inj1pjcmuxd2ek7mvx4gnv6quyn6c6rjxwcrs4h5y4/truffle",
+    "icon": "/img/truffle.png",
+    "decimals": 6
   }
 ]
