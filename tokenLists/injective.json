@@ -247,5 +247,12 @@
     "token": "factory/inj188veuqed0dygkcmq5d24u3807n6csv4wdv28gh/wagmi",
     "icon": "/img/WAGMI.png",
     "decimals": 9
+  },
+  {
+    "protocol": "MAX",
+    "symbol": "MAX",
+    "token": "factory/inj164jk46xjwsn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
+    "icon": "/img/max.jpg",
+    "decimals": 6
   }
 ]
