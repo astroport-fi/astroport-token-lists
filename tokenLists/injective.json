@@ -296,5 +296,12 @@
     "token": "factory/inj1nf43yjjx7sjc3eulffgfyxqhcraywwgrnqmqjc/INJDOGE",
     "decimals": 6,
     "icon": "/img/injectdoge.png"
+  },
+  {
+    "protocol": "LIOR",
+    "symbol": "LIOR",
+    "token": "factory/inj1cjus5ragdkvpmt627fw7wkj2ydsra9s0vap4zx/LIOR",
+    "decimals": 6,
+    "icon": "/img/lior.png"
   }
 ]
