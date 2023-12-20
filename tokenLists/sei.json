@@ -190,11 +190,18 @@
     "icon": "/img/CRBRUS.png",
     "decimals": 6
   },
-    {
+  {
     "protocol": "Pirate Dog",
     "symbol": "PDOG",
     "token": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
     "icon": "/img/PDOG.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Seixy",
+    "symbol": "SEIXY",
+    "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
+    "icon": "/img/SEIXY.png",
     "decimals": 6
   }
 ]
