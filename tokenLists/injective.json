@@ -1,5 +1,12 @@
 [
   {
+    "protocol": "INJINEER",
+    "symbol": "INJER",
+    "token": "factory/inj1sjmplasxl9zgj6yh45j3ndskgdhcfcss9djkdn/INJER",
+    "decimals": 6,
+    "icon": "/img/INJINEER.png"
+  },
+  {
     "protocol": "Injective",
     "symbol": "INJ",
     "token": "inj",
