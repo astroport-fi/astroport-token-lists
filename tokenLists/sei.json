@@ -204,6 +204,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEI CHAD",
+    "symbol": "SEICHAD",
+    "token": "factory/sei1q96rdw97rpzqut4fkklpsavptkae6mmdsh2u0l/chad",
+    "icon": "/img/SEICHAD.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Seixy",
     "symbol": "SEIXY",
     "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
