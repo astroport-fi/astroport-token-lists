@@ -7,6 +7,12 @@
     "coingeckoId": "astroport-fi"
   },
   {
+    "protocol": "Popo The Cat",
+    "symbol": "POPO",
+    "token": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
+    "icon": "/img/popo.png"
+  },
+  {
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
