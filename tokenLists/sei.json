@@ -196,5 +196,12 @@
     "token": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
     "icon": "/img/PDOG.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIze token",
+    "symbol": "SEIZE",
+    "token": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
+    "decimals": 6,
+    "icon": "/img/seize.png"
   }
 ]
