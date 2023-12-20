@@ -210,5 +210,12 @@
     "token": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
     "decimals": 6,
     "icon": "/img/seize.png"
+  },
+  {
+    "protocol": "SEIYAN",
+    "symbol": "SEIYAN",
+    "token": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
+    "icon": "/img/seiyan.png",
+    "decimals": 6
   }
 ]
