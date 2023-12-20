@@ -1,5 +1,12 @@
 [
   {
+    "protocol": "Inject Doge",
+    "symbol": "INJDoge",
+    "token": "factory/inj13zcns55uycr8lcw8q4gvdqp0jejgknk9whv8uh/INJDOGE",
+    "decimals": 6,
+    "icon": "/img/injectdoge.png"
+  },
+  {
     "protocol": "Injective",
     "symbol": "INJ",
     "token": "inj",
