@@ -203,5 +203,12 @@
     "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
     "icon": "/img/SEIXY.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIze token",
+    "symbol": "SEIZE",
+    "token": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
+    "decimals": 6,
+    "icon": "/img/seize.png"
   }
 ]
