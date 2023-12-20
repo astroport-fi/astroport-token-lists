@@ -282,5 +282,12 @@
     "token": "peggy0xb2617246d0c6c0087f18703d576831899ca94f01",
     "icon": "/img/zignaly-icon-gradient.png",
     "decimals": 18
- }
+  },
+  {
+    "protocol": "Inject Doge",
+    "symbol": "INJDoge",
+    "token": "factory/inj1nf43yjjx7sjc3eulffgfyxqhcraywwgrnqmqjc/INJDOGE",
+    "decimals": 6,
+    "icon": "/img/injectdoge.png"
+  }
 ]
