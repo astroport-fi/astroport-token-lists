@@ -197,7 +197,7 @@
     "protocol": "Eclipse",
     "symbol": "ECLIP",
     "token": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
-    "icon": "/img/eclipse.png",
+    "icon": "/img/eclipse.svg",
     "decimals": 6
   }
 ]
