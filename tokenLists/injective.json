@@ -256,6 +256,20 @@
     "decimals": 6
   },
   {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
+  },
+  {
+    "protocol": "BABYNINJA",
+    "symbol": "BABYNINJA",
+    "token": "factory/inj1h3y27yhly6a87d95937jztc3tupl3nt8fg3lcp/BABYNINJA",
+    "icon": "/img/BABYNINJA.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Alpha Bulls",
     "symbol": "BULLS",
     "token": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
