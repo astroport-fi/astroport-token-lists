@@ -1,12 +1,5 @@
 [
   {
-    "protocol": "Inject Doge",
-    "symbol": "INJDoge",
-    "token": "factory/inj1nf43yjjx7sjc3eulffgfyxqhcraywwgrnqmqjc/INJDOGE",
-    "decimals": 6,
-    "icon": "/img/injectdoge.png"
-  },
-  {
     "protocol": "Injective",
     "symbol": "INJ",
     "token": "inj",
@@ -282,5 +275,12 @@
     "token": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
     "decimals": 6,
     "icon": "/img/bulls.png"
+  },
+  {
+    "protocol": "Inject Doge",
+    "symbol": "INJDoge",
+    "token": "factory/inj1nf43yjjx7sjc3eulffgfyxqhcraywwgrnqmqjc/INJDOGE",
+    "decimals": 6,
+    "icon": "/img/injectdoge.png"
   }
 ]
