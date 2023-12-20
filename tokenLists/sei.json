@@ -196,5 +196,12 @@
     "token": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
     "icon": "/img/PDOG.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIYAN",
+    "symbol": "SEIYAN",
+    "token": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
+    "icon": "/img/seiyan.png",
+    "decimals": 6
   }
 ]
