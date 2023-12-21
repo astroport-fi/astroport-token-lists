@@ -317,5 +317,12 @@
     "token": "factory/inj13vau2mgx6mg7ams9nngjhyng58tl9zyw0n8s93/BABYKIRA",
     "decimals": 6,
     "icon": "/img/babykira.png"
+  },
+  {
+    "protocol": "InjBonk",
+    "symbol": "BONK",
+    "token": "factory/inj1cxcjn04l2vxg4zwrlhpghh32fdel856xn3a3rr/BONK",
+    "decimals": 6,
+    "icon": "/img/bonk.png"
   }
 ]
