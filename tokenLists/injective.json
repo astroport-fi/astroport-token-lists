@@ -296,5 +296,12 @@
     "token": "factory/inj15hxjpac22adg3s6znhpc27zx6ufhf6z7fseue2/injpepe",
     "decimals": 6,
     "icon": "/img/injpepe.png"
+  },
+  {
+    "protocol": "Injective Pepe",
+    "symbol": "IPEPE",
+    "token": "factory/inj1td7t8spd4k6uev6uunu40qvrrcwhr756d5qw59/ipepe",
+    "decimals": 6,
+    "icon": "/img/injpepe.png"
   }
 ]
