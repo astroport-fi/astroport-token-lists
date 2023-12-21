@@ -318,4 +318,11 @@
     "decimals": 6,
     "icon": "/img/babykira.png"
   }
+  {
+    "protocol": "Inj Bonk",
+    "symbol": "BONK",
+    "token": "factory/inj1cxcjn04l2vxg4zwrlhpghh32fdel856xn3a3rr/BONK",
+    "decimals": 6,
+    "icon": "/img/bonk inj.png"
+  }
 ]
