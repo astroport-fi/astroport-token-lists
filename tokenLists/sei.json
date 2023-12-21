@@ -7,6 +7,12 @@
     "coingeckoId": "astroport-fi"
   },
   {
+    "protocol": "POPO",
+    "symbol": "POPO",
+    "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
+    "icon": "/img/POPO.jpg"
+  },
+  {
     "protocol": "Popo The Cat",
     "symbol": "POPO",
     "token": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
@@ -204,6 +210,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEI CHAD",
+    "symbol": "SEICHAD",
+    "token": "factory/sei1q96rdw97rpzqut4fkklpsavptkae6mmdsh2u0l/chad",
+    "icon": "/img/SEICHAD.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Seixy",
     "symbol": "SEIXY",
     "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
@@ -223,5 +236,26 @@
     "token": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
     "icon": "/img/seiyan.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SeiyanInu",
+    "symbol": "SeiyanInu",
+    "token": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
+    "icon": "/img/SeiyanInu.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "COOK On SEI",
+    "symbol": "COOK",
+    "token": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
+    "decimals": 6,
+    "icon": "/img/cook150.png"
+  },
+  {
+    "protocol": "Mid",
+    "symbol": "MID",
+    "token": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
+    "decimals": 6,
+    "icon": "/img/mid.png"
   }
 ]
