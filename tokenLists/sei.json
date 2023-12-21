@@ -7,6 +7,12 @@
     "coingeckoId": "astroport-fi"
   },
   {
+    "protocol": "POPO",
+    "symbol": "POPO",
+    "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
+    "icon": "/img/POPO.jpg"
+  },
+  {
     "protocol": "Popo The Cat",
     "symbol": "POPO",
     "token": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
@@ -237,5 +243,12 @@
     "token": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
     "icon": "/img/SeiyanInu.png",
     "decimals": 6
+  }
+    {
+    "protocol": "COOK On SEI",
+    "symbol": "COOK",
+    "token": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
+    "decimals": 6,
+    "icon": "img/cook150.png"
   }
 ]
