@@ -1,12 +1,5 @@
 [
   {
-    "protocol": "Mid",
-    "symbol": "MID",
-    "token": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
-    "decimals": 6,
-    "icon": "/img/mid.png",
-  },
-  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -257,5 +250,12 @@
     "token": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
     "decimals": 6,
     "icon": "/img/cook150.png"
+  },
+  {
+    "protocol": "Mid",
+    "symbol": "MID",
+    "token": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
+    "decimals": 6,
+    "icon": "/img/mid.png"
   }
 ]
