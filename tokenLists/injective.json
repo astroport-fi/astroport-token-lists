@@ -298,6 +298,13 @@
     "icon": "/img/injectdoge.png"
   },
   {
+    "protocol": "Injective Pepe",
+    "symbol": "IPEPE",
+    "token": "factory/inj1td7t8spd4k6uev6uunu40qvrrcwhr756d5qw59/ipepe",
+    "decimals": 6,
+    "icon": "/img/injpepe.png"
+  },
+  {
     "protocol": "InjectiveCelestiaNoFapLadyBoy420Inu",
     "symbol": "INCEL",
     "token": "factory/inj17g4j3geupy762u0wrewqwprvtzar7k5et2zqsh/incel",
