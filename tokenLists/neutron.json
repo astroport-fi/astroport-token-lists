@@ -199,5 +199,12 @@
     "token": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
     "icon": "/img/eclipse.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Jimmy Neutron Finance",
+    "symbol": "JIMMY",
+    "token": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
+    "icon": "/img/jimmy.png",
+    "decimals": 6
   }
 ]
