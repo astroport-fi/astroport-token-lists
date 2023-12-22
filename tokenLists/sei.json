@@ -217,6 +217,13 @@
     "decimals": 6
   },
   {
+  "protocol": "Seitama",
+  "symbol": "SEITAMA",
+  "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
+  "icon": "/img/SEITAMA.png",
+  "decimals": 6
+  },
+  {
     "protocol": "Seixy",
     "symbol": "SEIXY",
     "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
