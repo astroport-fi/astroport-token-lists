@@ -338,5 +338,12 @@
     "token": "factory/inj18lh8zx4hx0pyksyu74srktv4vgxskkkafknggl/LAMA",
     "decimals": 6,
     "icon": "/img/lama_logo.png"
+  },
+  {
+    "protocol": "INJEX",
+    "symbol": "INJEX",
+    "token": "factory/inj1zhevrrwywg3az9ulxd9u233eyy4m2mmr6vegSg/INJEX",
+    "decimals": 6,
+    "icon": "/img/INJEX.png"
   }
 ]
