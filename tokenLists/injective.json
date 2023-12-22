@@ -352,5 +352,12 @@
     "token": "factory/inj1ezzzfm2exjz57hxuc65sl8s3d5y6ee0kxvu67n/ninjb",
     "decimals": 6,
     "icon": "/img/NINJB.png"
+  },
+  {
+    "protocol": "WIZZ",
+    "symbol": "WIZZ",
+    "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
+    "decimal": 6,
+    "icon": "/img/WIZZ.png"
   }
 ]
