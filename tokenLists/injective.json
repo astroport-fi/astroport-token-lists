@@ -345,5 +345,12 @@
     "token": "factory/inj1zhevrrwywg3az9ulxd9u233eyy4m2mmr6vegsg/INJEX",
     "decimals": 6,
     "icon": "/img/INJEX.png"
+  },
+  {
+    "protocol": "NINJB",
+    "symbol": "NINJB",
+    "token": "factory/inj1ezzzfm2exjz57hxuc65sl8s3d5y6ee0kxvu67n/ninjb",
+    "decimals": 6,
+    "icon": "/img/NINJB.png"
   }
 ]
