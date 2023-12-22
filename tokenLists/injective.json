@@ -324,5 +324,12 @@
     "token": "factory/inj1cxcjn04l2vxg4zwrlhpghh32fdel856xn3a3rr/BONK",
     "decimals": 6,
     "icon": "/img/injbonk.png"
+  },
+  {
+    "protocol": "LAMA",
+    "symbol": "LAMA",
+    "token": "factory/inj18lh8zx4hx0pyksyu74srktv4vgxskkkafknggl/LAMA",
+    "decimals": 6,
+    "icon": "/img/lama_logo.png"
   }
 ]
