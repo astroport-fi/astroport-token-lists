@@ -345,5 +345,12 @@
     "token": "factory/inj1zhevrrwywg3az9ulxd9u233eyy4m2mmr6vegSg/INJEX",
     "decimals": 6,
     "icon": "/img/INJEX.png"
+  },
+  {
+    "protocol": "PigFucker",
+    "symbol": "PIGFUCKER",
+    "token": "factory/inj17p7p03yn0z6zmjwk4kjfd7jh7uasxwmgt8wv26/pigfucker",
+    "decimals": 6,
+    "icon": "/img/PigFucker.png"
   }
 ]
