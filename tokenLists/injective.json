@@ -324,5 +324,12 @@
     "token": "factory/inj1cxcjn04l2vxg4zwrlhpghh32fdel856xn3a3rr/BONK",
     "decimals": 6,
     "icon": "/img/injbonk.png"
+  },
+  {
+    "protocol": "GROK",
+    "symbol": "GROK",
+    "token": "factory/inj1vgrf5mcvvg9p5c6jajqefn840nq74wjzgkt30z/GROK",
+    "decimals": 6,
+    "icon": "/img/GROK.png"
   }
 ]
