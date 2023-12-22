@@ -331,5 +331,12 @@
     "token": "factory/inj1vgrf5mcvvg9p5c6jajqefn840nq74wjzgkt30z/GROK",
     "decimals": 6,
     "icon": "/img/GROK.png"
+  },
+  {
+    "protocol": "LAMA",
+    "symbol": "LAMA",
+    "token": "factory/inj18lh8zx4hx0pyksyu74srktv4vgxskkkafknggl/LAMA",
+    "decimals": 6,
+    "icon": "/img/lama_logo.png"
   }
 ]
