@@ -357,7 +357,7 @@
     "protocol": "WIZZ",
     "symbol": "WIZZ",
     "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
-    "decimal": 6,
+    "decimals": 6,
     "icon": "/img/WIZZ.png"
   }
 ]
