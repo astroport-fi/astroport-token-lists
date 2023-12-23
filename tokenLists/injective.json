@@ -358,5 +358,13 @@
     "token": "factory/inj1xz4h76wctruu6l0hezq3dhtfkxzv56ztg4l29t/HANZO",
     "icon": "/img/hanzo.jpeg",
     "decimals": 6
+
+  },
+  {
+    "protocol": "WIZZ",
+    "symbol": "WIZZ",
+    "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
+    "decimals": 6,
+    "icon": "/img/WIZZ.png"
   }
 ]
