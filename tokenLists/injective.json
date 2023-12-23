@@ -358,7 +358,7 @@
     "symbol": "KARATE",
     "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
     "decimals": 6,
-    "icon": "img/karate.jpg"
+    "icon": "img/karate.png"
   },
   {
     "protocol": "WIZZ",
@@ -366,12 +366,5 @@
     "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
     "decimals": 6,
     "icon": "/img/WIZZ.png"
-  },
-  {
-    "protocol": "Doge Wif Karate",
-    "symbol": "KARATE",
-    "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
-    "decimals": 6,
-    "icon": "img/karate.jpg"
   }
 ]
