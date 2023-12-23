@@ -352,5 +352,12 @@
     "token": "factory/inj1ezzzfm2exjz57hxuc65sl8s3d5y6ee0kxvu67n/ninjb",
     "decimals": 6,
     "icon": "/img/NINJB.png"
+  },
+  {
+    "protocol": "Doge Wif Karate",
+    "symbol": "KARATE",
+    "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
+    "decimals": 6,
+    "icon": "img/karate.jpg"
   }
 ]
