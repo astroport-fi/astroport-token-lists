@@ -359,5 +359,12 @@
     "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
     "decimals": 6,
     "icon": "/img/WIZZ.png"
+  },
+  {
+    "protocol": "NinjaPepe",
+    "symbol": "NPEPE",
+    "token": "factory/inj1ga982yy0wumrlt4nnj79wcgmw7mzvw6jcyecl0/NPEPE",
+    "decimals": 6,
+    "icon": "/img/NPEPE.png"
   }
 ]
