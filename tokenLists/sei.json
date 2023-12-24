@@ -271,5 +271,12 @@
     "token": "sei1uguzgzldm6rnmvrzuvkze02zr2hm2jw5374dwzm6666zucml6hcssqt4c6"
     "decimals": 6,
     "icon": "/img/SEIMOYED.png"
+  },
+  {
+    "protocol": "Seitama",
+    "symbol": "SEITAMA",
+    "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
+    "icon": "/img/SEITAMA.png",
+    "decimals": 6
   }
 ]

@@ -352,5 +352,40 @@
     "token": "factory/inj1ezzzfm2exjz57hxuc65sl8s3d5y6ee0kxvu67n/ninjb",
     "decimals": 6,
     "icon": "/img/NINJB.png"
+  },{
+    "protocol": "Hattori Hanzo",
+    "symbol": "HANZO",
+    "token": "factory/inj1xz4h76wctruu6l0hezq3dhtfkxzv56ztg4l29t/HANZO",
+    "icon": "/img/hanzo.jpeg",
+    "decimals": 6
+
+  },
+  {
+    "protocol": "WIZZ",
+    "symbol": "WIZZ",
+    "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
+    "decimals": 6,
+    "icon": "/img/WIZZ.png"
+  },
+  {
+    "protocol": "HRBE",
+    "symbol": "HRBE",
+    "token": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
+    "decimals": 6,
+    "icon": "/img/HRBE.png"
+  },
+  {
+    "protocol": "NinjaPepe",
+    "symbol": "NPEPE",
+    "token": "factory/inj1ga982yy0wumrlt4nnj79wcgmw7mzvw6jcyecl0/NPEPE",
+    "decimals": 6,
+    "icon": "/img/NPEPE.png"
+  },
+  {
+    "protocol": "Doge Wif Karate",
+    "symbol": "KARATE",
+    "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
+    "decimals": 6,
+    "icon": "/img/karate.png"
   }
 ]

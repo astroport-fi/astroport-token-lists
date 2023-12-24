@@ -303,6 +303,13 @@
     "decimals": 10
   },
   {
+    "protocol": "DROGO",
+    "symbol": "DROGO",
+    "token": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
+    "icon": "/img/drogo.png",
+    "decimals": 6
+  },
+  {
     "protocol": "dioalma.protocol",
     "symbol": "Dinheiros",
     "token": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
