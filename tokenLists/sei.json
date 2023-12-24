@@ -278,5 +278,12 @@
     "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
     "icon": "/img/SEITAMA.png",
     "decimals": 6
+  },
+    {
+    "protocol": "Seiyan Hulk Illuminati Testosterone",
+    "symbol": "SHIT",
+    "token": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
+    "icon": "/img/seiyanhit.png",
+    "decimals": 6
   }
 ]
