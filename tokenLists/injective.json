@@ -361,6 +361,13 @@
     "icon": "/img/WIZZ.png"
   },
   {
+    "protocol": "HRBE",
+    "symbol": "HRBE",
+    "token": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
+    "decimals": 6,
+    "icon": "/img/HRBE.png"
+  },
+  {
     "protocol": "NinjaPepe",
     "symbol": "NPEPE",
     "token": "factory/inj1ga982yy0wumrlt4nnj79wcgmw7mzvw6jcyecl0/NPEPE",
