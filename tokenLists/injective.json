@@ -366,5 +366,19 @@
     "token": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
     "decimals": 6,
     "icon": "/img/HRBE.png"
+  },
+  {
+    "protocol": "NinjaPepe",
+    "symbol": "NPEPE",
+    "token": "factory/inj1ga982yy0wumrlt4nnj79wcgmw7mzvw6jcyecl0/NPEPE",
+    "decimals": 6,
+    "icon": "/img/NPEPE.png"
+  },
+  {
+    "protocol": "Doge Wif Karate",
+    "symbol": "KARATE",
+    "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
+    "decimals": 6,
+    "icon": "/img/karate.png"
   }
 ]
