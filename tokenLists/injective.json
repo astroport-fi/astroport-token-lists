@@ -387,5 +387,12 @@
     "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
     "decimals": 6,
     "icon": "/img/karate.png"
+  },
+    {
+    "protocol": "Got Milk?",
+    "symbol": "MILK",
+    "token": "factory/inj1fpl63h7at2epr55yn5svmqkq4fkye32vmxq8ry/MILK",
+    "decimals": 6,
+    "icon": "/img/milk.png"
   }
 ]
