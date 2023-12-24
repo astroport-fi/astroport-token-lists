@@ -312,5 +312,12 @@
     "token": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
     "icon": "/img/popeye.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Kryptonite",
+    "symbol": "SEILOR",
+    "token": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
+    "icon": "/img/seilor.png",
+    "decimals": 6
   }
 ]
