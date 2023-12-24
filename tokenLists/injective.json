@@ -352,6 +352,13 @@
     "token": "factory/inj1ezzzfm2exjz57hxuc65sl8s3d5y6ee0kxvu67n/ninjb",
     "decimals": 6,
     "icon": "/img/NINJB.png"
+  },{
+    "protocol": "Hattori Hanzo",
+    "symbol": "HANZO",
+    "token": "factory/inj1xz4h76wctruu6l0hezq3dhtfkxzv56ztg4l29t/HANZO",
+    "icon": "/img/hanzo.jpeg",
+    "decimals": 6
+
   },
   {
     "protocol": "WIZZ",
