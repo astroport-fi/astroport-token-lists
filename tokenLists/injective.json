@@ -177,6 +177,7 @@
     "token": "ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9",
     "icon": "/img/CRBRUS.png",
     "decimals": 6
+    "coingeckoId": "cerberus-2"
   },
   {
     "protocol": "Dog wif nunchucks",
@@ -396,10 +397,24 @@
     "icon": "/img/SHIBINJ.png"
   },
   {
+    "protocol": "Got Milk?",
+    "symbol": "MILK",
+    "token": "factory/inj1fpl63h7at2epr55yn5svmqkq4fkye32vmxq8ry/MILK",
+    "decimals": 6,
+    "icon": "/img/milk.png"
+  },
+  {
     "protocol": "Shinobi Inu",
     "symbol": "NOBI",
     "token": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",
     "decimals": 6,
     "icon": "/img/SHINOBIINU.png"
+  },
+  {
+    "protocol": "Pikachu",
+    "symbol": "PIKA",
+    "token": "factory/inj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00/PIKA",
+    "icon": "/img/pikachu.png",
+    "decimals": 6
   }
 ]
