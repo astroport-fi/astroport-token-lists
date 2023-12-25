@@ -389,6 +389,13 @@
     "icon": "/img/karate.png"
   },
   {
+    "protocol": "Got Milk?",
+    "symbol": "MILK",
+    "token": "factory/inj1fpl63h7at2epr55yn5svmqkq4fkye32vmxq8ry/MILK",
+    "decimals": 6,
+    "icon": "/img/milk.png"
+  },
+  {
     "protocol": "Shinobi Inu",
     "symbol": "NOBI",
     "token": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",
