@@ -278,5 +278,12 @@
     "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
     "icon": "/img/SEITAMA.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SENsei",
+    "symbol": "SEN",
+    "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
+    "icon": "/img/sen.png",
+    "decimals": 6
   }
 ]
