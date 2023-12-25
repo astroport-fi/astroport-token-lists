@@ -390,6 +390,13 @@
     "icon": "/img/karate.png"
   },
   {
+    "protocol": "ShibInuINJ",
+    "symbol": "SHIBINJ",
+    "token": "factory/inj13yzzxz90naqer4utnp03zlj5rguhu7v0hd2jzl/SHIBINJ",
+    "decimals": 6,
+    "icon": "/img/SHIBINJ.png"
+  },
+  {
     "protocol": "Got Milk?",
     "symbol": "MILK",
     "token": "factory/inj1fpl63h7at2epr55yn5svmqkq4fkye32vmxq8ry/MILK",
