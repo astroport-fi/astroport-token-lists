@@ -201,6 +201,7 @@
     "token": "ibc/71CEEB5CC09F75A3ACDC417108C14514351B6B2A540ACE9B37A80BF930845134",
     "icon": "/img/CRBRUS.png",
     "decimals": 6
+    "coingeckoId": "cerberus-2"
   },
   {
     "protocol": "Pirate Dog",
@@ -279,11 +280,23 @@
     "icon": "/img/SEITAMA.png",
     "decimals": 6
   },
-    {
+  {
     "protocol": "JASEL",
     "symbol": "JASEL",
     "token": "sei1ye3mehavasld2arsmfevs5nfqdagtpnuzdnt2ulp75zths9ngqcqhdvf5k",
-    "icon": "/img/jasel.png",
+    "icon": "/img/jasel.png"
+  },
+  {
+    "protocol": "SENsei",
+    "symbol": "SEN",
+    "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
+    "icon": "/img/sen.png"
+  },
+  {
+    "protocol": "Seiyan Hulk Illuminati Testosterone",
+    "symbol": "SHIT",
+    "token": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
+    "icon": "/img/seiyanhit.png",
     "decimals": 6
   }
 ]
