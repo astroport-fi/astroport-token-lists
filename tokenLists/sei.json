@@ -280,7 +280,13 @@
     "icon": "/img/SEITAMA.png",
     "decimals": 6
   },
-    {
+  {
+    "protocol": "SENsei",
+    "symbol": "SEN",
+    "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
+    "icon": "/img/sen.png"
+  },
+  {
     "protocol": "Seiyan Hulk Illuminati Testosterone",
     "symbol": "SHIT",
     "token": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
