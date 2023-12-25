@@ -281,6 +281,12 @@
     "decimals": 6
   },
   {
+    "protocol": "JASEL",
+    "symbol": "JASEL",
+    "token": "sei1ye3mehavasld2arsmfevs5nfqdagtpnuzdnt2ulp75zths9ngqcqhdvf5k",
+    "icon": "/img/jasel.png"
+  },
+  {
     "protocol": "SENsei",
     "symbol": "SEN",
     "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
