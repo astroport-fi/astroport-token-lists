@@ -169,7 +169,7 @@
     "token": "ibc/58923AAE6E879D7CB5FB0F2F05550FD4F696099AB0F5CDF0A05CC0309DD8BC78",
     "icon": "/img/CRBRUS.png",
     "decimals": 6,
-    "coingeckoId": "cerberus"
+    "coingeckoId": "cerberus-2"
   },
   {
     "protocol": "Chihuahua",
@@ -205,6 +205,13 @@
     "symbol": "JIMMY",
     "token": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
     "icon": "/img/jimmy.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Badcoin",
+    "symbol": "BAD",
+    "token": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
+    "icon": "/img/BAD.png",
     "decimals": 6
   }
 ]
