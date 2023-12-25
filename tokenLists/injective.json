@@ -394,5 +394,12 @@
     "token": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",
     "decimals": 6,
     "icon": "/img/SHINOBIINU.png"
+  },
+  {
+    "protocol": "Hachi",
+    "symbol": "HACHI",
+    "token": "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
+    "decimals": 6,
+    "icon": "/img/HACHI.jpg"
   }
 ]
