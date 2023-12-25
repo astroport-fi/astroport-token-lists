@@ -389,6 +389,13 @@
     "icon": "/img/karate.png"
   },
   {
+    "protocol": "ShibInuINJ",
+    "symbol": "SHIBINJ",
+    "token": "factory/inj13yzzxz90naqer4utnp03zlj5rguhu7v0hd2jzl/SHIBINJ",
+    "decimals": 6,
+    "icon": "/img/SHIBINJ.png"
+  },
+  {
     "protocol": "Shinobi Inu",
     "symbol": "NOBI",
     "token": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",
