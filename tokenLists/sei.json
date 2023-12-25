@@ -278,5 +278,12 @@
     "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
     "icon": "/img/SEITAMA.png",
     "decimals": 6
+  },
+    {
+    "protocol": "JASEL",
+    "symbol": "JASEL",
+    "token": "sei1ye3mehavasld2arsmfevs5nfqdagtpnuzdnt2ulp75zths9ngqcqhdvf5k",
+    "icon": "/img/jasel.png",
+    "decimals": 6
   }
 ]
