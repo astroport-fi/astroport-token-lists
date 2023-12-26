@@ -416,5 +416,12 @@
     "token": "factory/inj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00/PIKA",
     "icon": "/img/pikachu.png",
     "decimals": 6
+  },
+  {
+    "protocol": "WGMI",
+    "symbol": "WGMI",
+    "token": "factory/inj1rmjzj9fn47kdmfk4f3z39qr6czexxe0yjyc546/WGMI",
+    "icon": "/img/wgmi.png",
+    "decimals": 6
   }
 ]
