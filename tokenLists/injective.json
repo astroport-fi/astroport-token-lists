@@ -416,5 +416,12 @@
     "token": "factory/inj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00/PIKA",
     "icon": "/img/pikachu.png",
     "decimals": 6
+  },
+  {
+    "protocol": "LIOR",
+    "symbol": "LIOR",
+    "token": "factory-inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3-LIOR",
+    "icon": "/img/lior.png",
+    "decimals": 6
   }
 ]
