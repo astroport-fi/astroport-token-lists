@@ -417,4 +417,11 @@
     "icon": "/img/pikachu.png",
     "decimals": 6
   }
+    {
+    "protocol": "Mila",
+    "symbol": "MILA",
+    "token": "factory/inj1z08usf75ecfp3cqtwey6gx7nr79s3agal3k8xf/MILA",
+    "icon": "/img/Mila.png",
+    "decimals": 6
+  }
 ]
