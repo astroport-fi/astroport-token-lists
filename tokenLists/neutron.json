@@ -213,5 +213,12 @@
     "token": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
     "icon": "/img/BAD.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Gay Coin",
+    "symbol": "GAY",
+    "token": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/gay",
+    "icon": "/img/GAY.png",
+    "decimals": 6
   }
 ]
