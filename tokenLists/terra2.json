@@ -551,5 +551,12 @@
     "icon": "/img/CRBRUS.png",
     "decimals": 6,
     "coingeckoId": "cerberus-2"
+  },
+  {
+    "protocol": "Chris Armani Token",
+    "symbol": "ARMANI",
+    "token": "terra1aa7stl3fytvave9xtcexgv0kne4k7ks068dcljkrfj37hy8q270sjadav8",
+    "icon": "/img/armani.png",
+    "decimals": 6
   }
 ]
