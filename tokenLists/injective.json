@@ -420,7 +420,7 @@
   {
     "protocol": "LIOR",
     "symbol": "LIOR",
-    "token": "factory-inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3-LIOR",
+    "token": "factory/inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3/LIOR",
     "icon": "/img/lior.png",
     "decimals": 6
   }
