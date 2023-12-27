@@ -418,10 +418,17 @@
     "decimals": 6
   },
   {
+    "protocol": "WGMI",
+    "symbol": "WGMI",
+    "token": "factory/inj1rmjzj9fn47kdmfk4f3z39qr6czexxe0yjyc546/WGMI",
+    "icon": "/img/wgmi.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Injective Panda AI",
     "symbol": "IPDAI",
     "token": "factory/inj1y3g4wpgnc4s28gd9ure3vwm9cmvmdphml6mtul/IPDAI",
-    "icon": "img/IPANDAI.png",
+    "icon": "/img/IPANDAI.png",
     "decimals": 6
   },
   {
@@ -430,12 +437,19 @@
     "token": "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
     "decimals": 6,
     "icon": "/img/HACHI.jpg"
-  }
-    {
+  },
+  {
     "protocol": "Mila",
     "symbol": "MILA",
     "token": "factory/inj1z08usf75ecfp3cqtwey6gx7nr79s3agal3k8xf/MILA",
     "icon": "/img/Mila.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LIOR",
+    "symbol": "LIOR",
+    "token": "factory/inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3/LIOR",
+    "icon": "/img/lior.png",
     "decimals": 6
   },
   {
