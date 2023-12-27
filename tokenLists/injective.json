@@ -444,5 +444,12 @@
     "token": "factory/inj1z08usf75ecfp3cqtwey6gx7nr79s3agal3k8xf/MILA",
     "icon": "/img/Mila.png",
     "decimals": 6
+  },
+  {
+    "protocol": "LIOR",
+    "symbol": "LIOR",
+    "token": "factory/inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3/LIOR",
+    "icon": "/img/lior.png",
+    "decimals": 6
   }
 ]
