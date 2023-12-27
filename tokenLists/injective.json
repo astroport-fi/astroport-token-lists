@@ -416,5 +416,12 @@
     "token": "factory/inj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00/PIKA",
     "icon": "/img/pikachu.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Hachi",
+    "symbol": "HACHI",
+    "token": "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
+    "decimals": 6,
+    "icon": "/img/HACHI.jpg"
   }
 ]
