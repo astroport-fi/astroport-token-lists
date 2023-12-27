@@ -437,5 +437,12 @@
     "token": "factory/inj1z08usf75ecfp3cqtwey6gx7nr79s3agal3k8xf/MILA",
     "icon": "/img/Mila.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Dojo Bot",
+    "symbol": "DOJO",
+    "token": "factory/inj1any4rpwq7r850u6feajg5payvhwpunu9cxqevc/DOJO",
+    "icon": "/img/dojo.png",
+    "decimals": 6
   }
 ]
