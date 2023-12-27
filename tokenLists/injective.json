@@ -451,5 +451,12 @@
     "token": "factory/inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3/LIOR",
     "icon": "/img/lior.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Dojo Bot",
+    "symbol": "DOJO",
+    "token": "factory/inj1any4rpwq7r850u6feajg5payvhwpunu9cxqevc/DOJO",
+    "icon": "/img/dojo.png",
+    "decimals": 6
   }
 ]
