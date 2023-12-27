@@ -305,5 +305,12 @@
     "token": "factory/sei1ta5rkr6y2qlkj7px8w2cvear7m2822q4f4ea0m/sensei",
     "icon": "/img/Sensei_Dog.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Popeye the Seilor",
+    "symbol": "POPEYE",
+    "token": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
+    "icon": "/img/popeye.png",
+    "decimals": 6
   }
 ]
