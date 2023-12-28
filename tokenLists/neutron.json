@@ -220,5 +220,12 @@
     "token": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
     "icon": "/img/GAY.png",
     "decimals": 6
+  },
+  {
+    "protocol": "GODDARD",
+    "symbol": "GDD",
+    "token": "factory/neutron16q4r0zp85zz39nexv2edlg9rlr69vvuqw463yd/GODDARD",
+    "icon": "/img/GODDARD.svg",
+    "decimals": 6
   }
 ]
