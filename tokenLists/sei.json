@@ -319,5 +319,12 @@
     "token": "sei1t9qy9n068qhcs4a2mvz3wqwmxdfmjdt86f8j7nu0tzae4jllpwzs2h8sl6",
     "icon": "/img/seiga.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Kryptonite",
+    "symbol": "SEILOR",
+    "token": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
+    "icon": "/img/seilor.png",
+    "decimals": 6
   }
 ]
