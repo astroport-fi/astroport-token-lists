@@ -427,7 +427,7 @@
   {
     "protocol": "Injective Panda AI",
     "symbol": "IPDAI",
-    "token": "factory/inj1y3g4wpgnc4s28gd9ure3vwm9cmvmdphml6mtul/IPDAI",
+    "token": "factory/inj1y3g4wpgnc4s28gd9ure3vwm9cmvmdphml6mtul/ipdai",
     "icon": "/img/IPANDAI.png",
     "decimals": 6
   },
@@ -457,6 +457,34 @@
     "symbol": "DOJO",
     "token": "factory/inj1any4rpwq7r850u6feajg5payvhwpunu9cxqevc/DOJO",
     "icon": "/img/dojo.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MOONIFY",
+    "symbol": "MOONIFY",
+    "token": "factory/inj1ktq0gf7altpsf0l2qzql4sfs0vc0ru75cnj3a6/moonify",
+    "icon": "/img/moonify.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cheelee",
+    "symbol": "CHELE",
+    "token": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
+    "icon": "/img/cheele.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CopingInj",
+    "symbol": "CPINJ",
+    "token": "factory/inj1qczkutnsy3nmt909xtyjy4rsrkl2q4dm6aq960/coping",
+    "icon": "/img/CopingInj.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ROOSTER NINJA",
+    "symbol": "COCK",
+    "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
+    "icon": "/img/cock.png",
     "decimals": 6
   }
 ]
