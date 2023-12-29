@@ -326,5 +326,12 @@
     "token": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
     "icon": "/img/seilor.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEImurai Jack",
+    "symbol": "SEIMURAI",
+    "token": "factory/sei1rwgytfdq7vrf8hus43475v6t845vfkygn0ercw/seimuraidenom",
+    "icon": "/img/SEIMURAI.png",
+    "decimals": 6
   }
 ]
