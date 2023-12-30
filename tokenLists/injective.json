@@ -473,4 +473,11 @@
     "icon": "/img/CopingInj.png",
     "decimals": 6
   }
+  {
+    "protocol": "ROOSTER NINJA",
+    "symbol": "COCK",
+    "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
+    "icon": "/img/cock.png",
+    "decimals": 6
+  },
 ]
