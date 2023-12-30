@@ -58,6 +58,12 @@
     "coingeckoId": "cosmos"
   },
   {
+    "protocol": "SeiWhat?",
+    "symbol": "SeiWhat",
+    "token": "sei1pmjehr2r7a7zaqtm3klmw554cnz2jrgy9y9arvu5s44v0pkpl8gqd5cprg",
+    "icon": "/img/seiwhat.png"
+  },
+  {
     "protocol": "ETH (Wormhole ETH)",
     "symbol": "WETH",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
@@ -200,7 +206,8 @@
     "symbol": "CRBRUS",
     "token": "ibc/71CEEB5CC09F75A3ACDC417108C14514351B6B2A540ACE9B37A80BF930845134",
     "icon": "/img/CRBRUS.png",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "cerberus-2"
   },
   {
     "protocol": "Pirate Dog",
@@ -285,5 +292,64 @@
     "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
     "icon": "/img/seiya.png",
     "decimals": 6
+  },
+    "protocol": "JASEL",
+    "symbol": "JASEL",
+    "token": "sei1ye3mehavasld2arsmfevs5nfqdagtpnuzdnt2ulp75zths9ngqcqhdvf5k",
+    "icon": "/img/jasel.png"
+  },
+  {
+    "protocol": "SENsei",
+    "symbol": "SEN",
+    "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
+    "icon": "/img/sen.png"
+  },
+  {
+    "protocol": "Seiyan Hulk Illuminati Testosterone",
+    "symbol": "SHIT",
+    "token": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
+    "icon": "/img/seiyanhit.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Sensei Dog",
+    "symbol": "SENSEI",
+    "token": "factory/sei1ta5rkr6y2qlkj7px8w2cvear7m2822q4f4ea0m/sensei",
+    "icon": "/img/Sensei_Dog.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Popeye the Seilor",
+    "symbol": "POPEYE",
+    "token": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
+    "icon": "/img/popeye.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIGA",
+    "symbol": "SEIGA",
+    "token": "sei1t9qy9n068qhcs4a2mvz3wqwmxdfmjdt86f8j7nu0tzae4jllpwzs2h8sl6",
+    "icon": "/img/seiga.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Kryptonite",
+    "symbol": "SEILOR",
+    "token": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
+    "icon": "/img/seilor.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIFMOON",
+    "symbol": "SEIF",
+    "token": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
+    "icon": "/img/seifmoonicon.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEITAN",
+    "symbol": "SEITAN",
+    "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
+    "icon": "/img/seitan.png",
   }
 ]
