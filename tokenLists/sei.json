@@ -329,9 +329,9 @@
   },
   {
     "protocol": "SEImurai Jack",
-    "symbol": "SEIMURAI",
+    "symbol": "SEIMURAIJACK",
     "token": "factory/sei1rwgytfdq7vrf8hus43475v6t845vfkygn0ercw/seimuraidenom",
-    "icon": "/img/SEIMURAI.png",
+    "icon": "/img/SEIMURAIJACK.png",
     "decimals": 6
   }
 ]
