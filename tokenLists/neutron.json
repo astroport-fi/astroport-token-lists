@@ -227,5 +227,13 @@
     "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
     "icon": "/img/GODDARD.svg",
     "decimals": 6
-  }
+  },
+  { 
+    "protocol": "Raffy",
+    "symbol": "RAFFY",
+    "token": "factory/neutron17txgrugvf4snxrxladf8v9ge8lw2n4hjvwgvfh/Raffy",
+    "icon": "/img/RAFFY.svg",
+    "decimals": 6
+
+ }
 ]
