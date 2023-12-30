@@ -346,5 +346,12 @@
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
     "icon": "/img/seitan.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIDGE",
+    "symbol": "SEIDGE",
+    "token": "sei1r52q06mfszv9htlnrgj5fjzccpalfmawj29pzt2f3r5ttny83pgq9vydq9",
+    "icon": "/img/seidge.png",
+    "decimals": 6
   }
 ]
