@@ -460,6 +460,13 @@
     "decimals": 6
   },
   {
+    "protocol": "MOONIFY",
+    "symbol": "MOONIFY",
+    "token": "factory/inj1ktq0gf7altpsf0l2qzql4sfs0vc0ru75cnj3a6/moonify",
+    "icon": "/img/moonify.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Cheelee",
     "symbol": "CHELE",
     "token": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
