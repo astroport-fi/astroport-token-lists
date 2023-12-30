@@ -58,6 +58,12 @@
     "coingeckoId": "cosmos"
   },
   {
+    "protocol": "SeiWhat?",
+    "symbol": "SeiWhat",
+    "token": "sei1pmjehr2r7a7zaqtm3klmw554cnz2jrgy9y9arvu5s44v0pkpl8gqd5cprg",
+    "icon": "/img/seiwhat.png"
+  },
+  {
     "protocol": "ETH (Wormhole ETH)",
     "symbol": "WETH",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
