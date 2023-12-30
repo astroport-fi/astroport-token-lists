@@ -58,6 +58,12 @@
     "coingeckoId": "cosmos"
   },
   {
+    "protocol": "SeiWhat?",
+    "symbol": "SeiWhat",
+    "token": "sei1pmjehr2r7a7zaqtm3klmw554cnz2jrgy9y9arvu5s44v0pkpl8gqd5cprg",
+    "icon": "/img/seiwhat.png"
+  },
+  {
     "protocol": "ETH (Wormhole ETH)",
     "symbol": "WETH",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
@@ -325,6 +331,20 @@
     "symbol": "SEILOR",
     "token": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
     "icon": "/img/seilor.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIFMOON",
+    "symbol": "SEIF",
+    "token": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
+    "icon": "/img/seifmoonicon.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEITAN",
+    "symbol": "SEITAN",
+    "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
+    "icon": "/img/seitan.png",
     "decimals": 6
   },
   {
