@@ -346,5 +346,12 @@
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
     "icon": "/img/seitan.png",
     "decimals": 6
+  },
+  {
+    "protocol": "GOLDENRULES",
+    "symbol": "GOLDENRULES",
+    "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
+    "icon": "/img/goldenrules.png",
+    "decimals": 6
   }
 ]
