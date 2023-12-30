@@ -7,6 +7,12 @@
     "coingeckoId": "astroport-fi"
   },
   {
+    "protocol": "Seikura",
+    "symbol": "",
+    "token": "sei12j9z34emgzmq4n0ge3gkpkwx4w6fhj5f7twvh7t2a7yp2elyeptsmjsz0z",
+    "icon": "/img/seikura1.png"
+  },
+  {
     "protocol": "POPO",
     "symbol": "POPO",
     "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
