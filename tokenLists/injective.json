@@ -465,5 +465,12 @@
     "token": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
     "icon": "/img/cheele.png",
     "decimals": 6
+  },
+  {
+    "protocol": "CopingInj",
+    "symbol": "CPINJ",
+    "token": "factory/inj1qczkutnsy3nmt909xtyjy4rsrkl2q4dm6aq960/coping",
+    "icon": "/img/CopingInj.png",
+    "decimals": 6
   }
 ]
