@@ -1,5 +1,11 @@
 [
   {
+    "protocol": "seisyphus",
+    "symbol": "seisyphus",
+    "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
+    "icon": "/img/seisyphus.jpg"
+  },
+  {
     "protocol": "SEIGOD",
     "symbol": "SEIGOD",
     "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
