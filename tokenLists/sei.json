@@ -346,5 +346,12 @@
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
     "icon": "/img/seitan.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIBER",
+    "symbol": "SEIBER",
+    "token": "sei138tzlzk7kjjk3xgrqy0v2vvqvksp360y53983qdk7neljenp092sxw7w4h",
+    "icon": "/img/seiber.png",
+    "decimals": 6
   }
 ]
