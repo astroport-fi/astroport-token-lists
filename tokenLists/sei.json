@@ -346,6 +346,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEIKITTY",
+    "symbol": "SEIKITTY",
+    "token": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
+    "icon": "/img/kitty.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIFMOON",
     "symbol": "SEIF",
     "token": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
