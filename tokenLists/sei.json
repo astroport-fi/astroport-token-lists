@@ -341,6 +341,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEIMOON",
+    "symbol": "SEIMOON",
+    "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
+    "icon": "/img/seimoon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEITAN",
     "symbol": "SEITAN",
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
