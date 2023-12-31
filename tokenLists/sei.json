@@ -341,6 +341,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEIMOON",
+    "symbol": "SEIMOON",
+    "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
+    "icon": "/img/seimoon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEITAN",
     "symbol": "SEITAN",
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
@@ -352,6 +359,13 @@
     "symbol": "$GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
     "icon": "/img/goldenrules.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Saint Seiya",
+    "symbol": "SEIYA",
+    "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
+    "icon": "/img/seiya.png",
     "decimals": 6
   }
 ]
