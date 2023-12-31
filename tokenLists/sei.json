@@ -341,6 +341,12 @@
     "decimals": 6
   },
   {
+    "protocol": "DUBAI",
+    "symbol": "dubai",
+    "token": "sei1tje22eygsqq2kpkh9mvx98vm2car4lyrwm8zjagqxz5y7px7rw5qrsjkwx",
+    "icon": "/img/dubai.png"
+  },
+  {
     "protocol": "SEITAN",
     "symbol": "SEITAN",
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
