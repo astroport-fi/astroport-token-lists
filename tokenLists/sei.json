@@ -353,5 +353,12 @@
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
     "icon": "/img/seitan.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Saint Seiya",
+    "symbol": "SEIYA",
+    "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
+    "icon": "/img/seiya.png",
+    "decimals": 6
   }
 ]
