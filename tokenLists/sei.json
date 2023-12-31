@@ -346,5 +346,12 @@
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
     "icon": "/img/seitan.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEINT",
+    "symbol": "SEINT",
+    "token": "factory/sei1584g7vslgphlt8yfxlj3gjv2rlhflcde4rlz2l/useint",
+    "icon": "/img/seint.png",
+    "decimals": 6
   }
 ]
