@@ -18,6 +18,12 @@
     "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
     "icon": "/img/POPO.jpg"
   },
+ {
+    "protocol": "Messi",
+    "symbol": "Messei",
+    "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
+    "icon": "/img/messei.png"
+  },
   {
     "protocol": "Popo The Cat",
     "symbol": "POPO",
