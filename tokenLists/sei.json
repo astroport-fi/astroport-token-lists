@@ -333,5 +333,12 @@
     "token": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
     "icon": "/img/seifmoonicon.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEILORMOON",
+    "symbol": "SEILOR",
+    "token": "sei10hvptpurpqmyzcyqj9fgnpeazvpey07w67sy8ql48ualqe2wc69s5yh4a3",
+    "icon": "/img/seilormoon.png",
+    "decimals": 6
   }
 ]
