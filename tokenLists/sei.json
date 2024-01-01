@@ -386,5 +386,12 @@
     "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
     "icon": "/img/seiya.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIWA-清和",
+    "symbol": "SEIWA",
+    "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
+    "icon": "/img/SEIWA.png",
+    "decimals": 6
   }
 ]
