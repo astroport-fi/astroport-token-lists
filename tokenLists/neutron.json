@@ -227,5 +227,12 @@
     "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
     "icon": "/img/GODDARD.svg",
     "decimals": 6
+   },
+  {
+    "protocol": "Muffy",
+    "symbol": "MUFFY",
+    "token": "factory/neutron1szljj7e9nsyvqjg8fq49wt3nesdg20p6nf5w2a/Muffy",
+    "icon": "/img/MUFFY.svg",
+    "decimals": 6  
   }
 ]
