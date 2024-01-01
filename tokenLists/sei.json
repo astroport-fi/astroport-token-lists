@@ -1,4 +1,10 @@
 [
+ {
+    "protocol": "SEIMBA",
+    "symbol": "SEIMBA",
+    "token": "sei1lyc0uevjpmtkruf0k0u8elner5qc7cawa5vllpw24aucquk40tcs5kvwhf",
+    "icon": "/img/Seimba.png"
+  },
   {
     "protocol": "SEIGOD",
     "symbol": "SEIGOD",
