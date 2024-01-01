@@ -374,6 +374,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SeiDragon",
+    "symbol": "SEIGON",
+    "token": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
+    "icon": "/img/seigon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "GOLDENRULES",
     "symbol": "$GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
