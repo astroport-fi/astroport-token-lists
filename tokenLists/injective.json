@@ -176,7 +176,8 @@
     "symbol": "CRBRUS",
     "token": "ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9",
     "icon": "/img/CRBRUS.png",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "cerberus-2"
   },
   {
     "protocol": "Dog wif nunchucks",
@@ -345,5 +346,145 @@
     "token": "factory/inj1zhevrrwywg3az9ulxd9u233eyy4m2mmr6vegsg/INJEX",
     "decimals": 6,
     "icon": "/img/INJEX.png"
+  },
+  {
+    "protocol": "NINJB",
+    "symbol": "NINJB",
+    "token": "factory/inj1ezzzfm2exjz57hxuc65sl8s3d5y6ee0kxvu67n/ninjb",
+    "decimals": 6,
+    "icon": "/img/NINJB.png"
+  },
+  {
+    "protocol": "Hattori Hanzo",
+    "symbol": "HANZO",
+    "token": "factory/inj1xz4h76wctruu6l0hezq3dhtfkxzv56ztg4l29t/HANZO",
+    "icon": "/img/hanzo.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "WIZZ",
+    "symbol": "WIZZ",
+    "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
+    "decimals": 6,
+    "icon": "/img/WIZZ.png"
+  },
+  {
+    "protocol": "HRBE",
+    "symbol": "HRBE",
+    "token": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
+    "decimals": 6,
+    "icon": "/img/HRBE.png"
+  },
+  {
+    "protocol": "NinjaPepe",
+    "symbol": "NPEPE",
+    "token": "factory/inj1ga982yy0wumrlt4nnj79wcgmw7mzvw6jcyecl0/NPEPE",
+    "decimals": 6,
+    "icon": "/img/NPEPE.png"
+  },
+  {
+    "protocol": "Doge Wif Karate",
+    "symbol": "KARATE",
+    "token": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
+    "decimals": 6,
+    "icon": "/img/karate.png"
+  },
+  {
+    "protocol": "ShibInuINJ",
+    "symbol": "SHIBINJ",
+    "token": "factory/inj13yzzxz90naqer4utnp03zlj5rguhu7v0hd2jzl/SHIBINJ",
+    "decimals": 6,
+    "icon": "/img/SHIBINJ.png"
+  },
+  {
+    "protocol": "Got Milk?",
+    "symbol": "MILK",
+    "token": "factory/inj1fpl63h7at2epr55yn5svmqkq4fkye32vmxq8ry/MILK",
+    "decimals": 6,
+    "icon": "/img/milk.png"
+  },
+  {
+    "protocol": "Shinobi Inu",
+    "symbol": "NOBI",
+    "token": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",
+    "decimals": 6,
+    "icon": "/img/SHINOBIINU.png"
+  },
+  {
+    "protocol": "Pikachu",
+    "symbol": "PIKA",
+    "token": "factory/inj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00/PIKA",
+    "icon": "/img/pikachu.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "WGMI",
+    "symbol": "WGMI",
+    "token": "factory/inj1rmjzj9fn47kdmfk4f3z39qr6czexxe0yjyc546/WGMI",
+    "icon": "/img/wgmi.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Injective Panda AI",
+    "symbol": "IPDAI",
+    "token": "factory/inj1y3g4wpgnc4s28gd9ure3vwm9cmvmdphml6mtul/ipdai",
+    "icon": "/img/IPANDAI.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Hachi",
+    "symbol": "HACHI",
+    "token": "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
+    "decimals": 6,
+    "icon": "/img/HACHI.jpg"
+  },
+  {
+    "protocol": "Mila",
+    "symbol": "MILA",
+    "token": "factory/inj1z08usf75ecfp3cqtwey6gx7nr79s3agal3k8xf/MILA",
+    "icon": "/img/Mila.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LIOR",
+    "symbol": "LIOR",
+    "token": "factory/inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3/LIOR",
+    "icon": "/img/lior.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Dojo Bot",
+    "symbol": "DOJO",
+    "token": "factory/inj1any4rpwq7r850u6feajg5payvhwpunu9cxqevc/DOJO",
+    "icon": "/img/dojo.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MOONIFY",
+    "symbol": "MOONIFY",
+    "token": "factory/inj1ktq0gf7altpsf0l2qzql4sfs0vc0ru75cnj3a6/moonify",
+    "icon": "/img/moonify.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cheelee",
+    "symbol": "CHELE",
+    "token": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
+    "icon": "/img/cheele.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CopingInj",
+    "symbol": "CPINJ",
+    "token": "factory/inj1qczkutnsy3nmt909xtyjy4rsrkl2q4dm6aq960/coping",
+    "icon": "/img/CopingInj.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ROOSTER NINJA",
+    "symbol": "COCK",
+    "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
+    "icon": "/img/cock.png",
+    "decimals": 6
   }
 ]
