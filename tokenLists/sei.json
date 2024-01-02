@@ -393,5 +393,12 @@
     "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
     "icon": "/img/seiya.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIPEPE",
+    "symbol": "SEIPEPE",
+    "token": "sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja",
+    "icon": "/img/seipepe.png",
+    "decimals": 6
   }
 ]
