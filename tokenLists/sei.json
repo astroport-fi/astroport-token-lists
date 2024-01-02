@@ -1,17 +1,5 @@
 [
   {
-    "protocol": "seisyphus",
-    "symbol": "seisyphus",
-    "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
-    "icon": "/img/seisyphus.png"
-  },
-  {
-    "protocol": "SEIGOD",
-    "symbol": "SEIGOD",
-    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
-    "icon": "/img/seigod.png"
-  },
-  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -439,5 +427,11 @@
     "token": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
     "icon": "/img/seijay.png",
     "decimals": 6
+  },
+  {
+    "protocol": "seisyphus",
+    "symbol": "seisyphus",
+    "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
+    "icon": "/img/seisyphus.png"
   }
 ]
