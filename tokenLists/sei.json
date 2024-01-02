@@ -393,5 +393,12 @@
     "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
     "icon": "/img/SEIWA.png",
     "decimals": 6
+  },
+  {
+    "protocol": "COMMUNISM",
+    "symbol": "COMMUNISM",
+    "token": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
+    "icon": "/img/communism.png",
+    "decimals": 6
   }
 ]
