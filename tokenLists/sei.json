@@ -374,6 +374,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SeiyanJay",
+    "symbol": "SEIJAY",
+    "token": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
+    "icon": "/img/seijay.png",
+    "decimals": 6
+  },
+  {
     "protocol": "GOLDENRULES",
     "symbol": "$GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
