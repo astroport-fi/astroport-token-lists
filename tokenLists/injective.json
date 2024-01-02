@@ -486,5 +486,12 @@
     "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
     "icon": "/img/cock.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Injective Degens",
+    "symbol": "DGNZ",
+    "token": "factory/inj1l2kcs4yxsxe0c87qy4ejmvkgegvjf0hkyhqk59/DGNZ",
+    "icon": "/img/DGNZ.png",
+    "decimals": 6
   }
 ]
