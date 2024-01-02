@@ -227,5 +227,12 @@
     "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
     "icon": "/img/GODDARD.svg",
     "decimals": 6
-  }
+  },
+  {
+    "protocol": "AtomEconomicZone69JaeKwonInu",
+    "symbol": "CIRCUS",
+    "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "icon": "/img/circus.png",
+    "decimals": 6
+  }  
 ]
