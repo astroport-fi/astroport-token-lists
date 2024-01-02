@@ -386,5 +386,11 @@
     "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
     "icon": "/img/seiya.png",
     "decimals": 6
+  }, {
+    "protocol": "SEIMEN - SEIMEN",
+    "symbol": "SEIMEN",
+    "token": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
+    "icon": "/img/seimen.png",
+    "decimals": 6
   }
 ]
