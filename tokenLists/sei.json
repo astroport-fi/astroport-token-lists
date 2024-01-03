@@ -473,8 +473,8 @@
     "icon": "/img/Cruseider.png"
   },
   {
-    "protocol": "CRUSEIDER",
-    "symbol": "CRUSEIDE",
+    "protocol": "SEIKO",
+    "symbol": "SEIKO",
     "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
     "icon": "/img/seikotoken.png"
   }
