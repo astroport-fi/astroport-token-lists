@@ -1,11 +1,5 @@
 [
   {
-    "protocol": "SEIGOD",
-    "symbol": "SEIGOD",
-    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
-    "icon": "/img/seigod.png"
-  },
-  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -18,7 +12,7 @@
     "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
     "icon": "/img/POPO.jpg"
   },
- {
+  {
     "protocol": "Messi",
     "symbol": "Messei",
     "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
@@ -374,6 +368,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEIDOW",
+    "symbol": "SEIDOW",
+    "token": "sei1j536dz2apen5hfn3jxh394nnf3haphfuwu5c4suufxl2y2mmy5mse09tfr",
+    "icon": "/img/seidow.png",
+    "decimals": 6
+  },
+  {
     "protocol": "GOLDENRULES",
     "symbol": "$GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
@@ -386,5 +387,57 @@
     "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
     "icon": "/img/seiya.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIWA-清和",
+    "symbol": "SEIWA",
+    "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
+    "icon": "/img/SEIWA.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "COMMUNISM",
+    "symbol": "COMMUNISM",
+    "token": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
+    "icon": "/img/communism.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIPEPE",
+    "symbol": "SEIPEPE",
+    "token": "sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja",
+    "icon": "/img/seipepe.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIGOD",
+    "symbol": "SEIGOD",
+    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
+    "icon": "/img/seigod.png"
+  },
+  {
+    "protocol": "SEIMBA",
+    "symbol": "SEIMBA",
+    "token": "sei1lyc0uevjpmtkruf0k0u8elner5qc7cawa5vllpw24aucquk40tcs5kvwhf",
+    "icon": "/img/Seimba.png"
+  },
+  {
+    "protocol": "SeiyanJay",
+    "symbol": "SEIJAY",
+    "token": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
+    "icon": "/img/seijay.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "seisyphus",
+    "symbol": "seisyphus",
+    "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
+    "icon": "/img/seisyphus.png"
+  },
+  {
+    "protocol": "Kryptonite",
+    "symbol": "STSEI",
+    "token": "sei1ln7ntsqmxl8s502f83km9a475zyhcfhpj7v2fsm3pcmckdyys3tsktx9vk",
+    "icon": "/img/stsei.png"
   }
 ]
