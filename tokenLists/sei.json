@@ -434,4 +434,10 @@
     "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
     "icon": "/img/seisyphus.png"
   }
+  {
+    "protocol": "InseinClownPosse",
+    "symbol": "JUGGALO",
+    "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "icon": "/img/InseinClownPosse.png"
+  }
 ]
