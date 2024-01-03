@@ -433,5 +433,11 @@
     "symbol": "seisyphus",
     "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
     "icon": "/img/seisyphus.png"
+  },
+  {
+    "protocol": "SEINU",
+    "symbol": "SEINU",
+    "token": "factory/sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
+    "icon": "/img/SEINU.png"
   }
 ]
