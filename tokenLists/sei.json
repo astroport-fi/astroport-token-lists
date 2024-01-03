@@ -389,6 +389,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEIMEN - SEIMEN",
+    "symbol": "SEIMEN",
+    "token": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
+    "icon": "/img/seimen.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIWA-清和",
     "symbol": "SEIWA",
     "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
