@@ -471,5 +471,11 @@
     "symbol": "CRUSEIDE",
     "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
     "icon": "/img/Cruseider.png"
+  },
+  {
+    "protocol": "Sei Less",
+    "symbol": "SeiLess",
+    "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
+    "icon": "/img/seiless.jpg"
   }
 ]
