@@ -461,6 +461,12 @@
     "icon": "/img/SEINU.jpg"
   },
   {
+    "protocol": "SEI7",
+    "symbol": "SEI7",
+    "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
+    "icon": "/img/sei7.png"
+  },
+  {
     "protocol": "BeeInu",
     "symbol": "BEE",
     "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
