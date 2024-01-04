@@ -471,5 +471,11 @@
     "symbol": "CRUSEIDE",
     "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
     "icon": "/img/Cruseider.png"
+  },
+    {
+    "protocol": "Seito Kaiba",
+    "symbol": "SEITO",
+    "token": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
+    "icon": "/img/seito-kaiba.png"
   }
 ]
