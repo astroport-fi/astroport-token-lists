@@ -480,6 +480,12 @@
     "icon": "/img/stsei.png"
   },
   {
+    "protocol": "SeiMario",
+    "symbol": "SEIRIO",
+    "token": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
+    "icon": "/img/seirio.png"
+  },
+  {
     "protocol": "SEINU",
     "symbol": "SEINU",
     "token": "factory/sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
