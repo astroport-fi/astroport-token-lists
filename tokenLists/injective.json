@@ -486,5 +486,12 @@
     "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
     "icon": "/img/cock.png",
     "decimals": 6
+  },
+  {
+	"protocol": "Injectools",
+    "symbol": "INJECT",
+    "token": "factory/inj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk/INJECT",
+    "icon": "/img/INJECT.png",
+    "decimals": 6
   }
 ]
