@@ -486,5 +486,12 @@
     "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
     "icon": "/img/cock.png",
     "decimals": 6
+  },
+  {
+    "protocol": "DOGGO",
+    "symbol": "DOGGO",
+    "token": "factory/inj162vxyf3utfwe4ectg29sjsn5pgq3w634r3nu0a/DOGGO",
+    "icon": "/img/DOGGO.png",
+    "decimals": 6
   }
 ]
