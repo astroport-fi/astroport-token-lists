@@ -471,5 +471,11 @@
     "symbol": "CRUSEIDE",
     "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
     "icon": "/img/Cruseider.png"
+  },
+   "protocol": "SEIZURE",
+  "symbol": "SEIZURE",
+  "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
+  "icon": "/img/Seizure.png",
+  "decimals": 6
   }
 ]
