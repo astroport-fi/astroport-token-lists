@@ -471,5 +471,12 @@
     "symbol": "SEINU",
     "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
     "icon": "/img/seinucoin.jpg"
+  },
+  {
+    "protocol": "SEIKO",
+    "symbol": "SEIKO",
+    "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
+    "icon": "/img/seikotoken.png",
+    "decimals": 6
   }
 ]
