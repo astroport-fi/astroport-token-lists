@@ -368,6 +368,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SeiDragon",
+    "symbol": "SEIGON",
+    "token": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
+    "icon": "/img/seigon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIDOW",
     "symbol": "SEIDOW",
     "token": "sei1j536dz2apen5hfn3jxh394nnf3haphfuwu5c4suufxl2y2mmy5mse09tfr",
@@ -448,9 +455,41 @@
     "icon": "/img/stsei.png"
   },
   {
-    "protocol": "SEINU",
+    "protocol": "BeeInu",
+    "symbol": "BEE",
+    "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
+    "icon": "/img/bee.png"
+  },
+  {
+    "protocol": "CRUSEIDER",
+    "symbol": "CRUSEIDE",
+    "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
+    "icon": "/img/Cruseider.png"
+  },
+  {
+    "protocol": "seinucoin",
     "symbol": "SEINU",
-    "token": "factory/sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "icon": "/img/SEINU.jpg"
+    "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
+    "icon": "/img/seinucoin.jpg"
+  },
+  {
+    "protocol": "SEIKO",
+    "symbol": "SEIKO",
+    "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
+    "icon": "/img/seikotoken.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEILAMANDER",
+    "symbol": "SEILAMANDER",
+    "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
+    "icon": "/img/seilamander.png"
+  },
+  {
+    "protocol": "SEIZURE",
+    "symbol": "SEIZURE",
+    "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
+    "icon": "/img/Seizure.png",
+    "decimals": 6
   }
 ]
