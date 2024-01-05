@@ -478,5 +478,11 @@
     "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
     "icon": "/img/seikotoken.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEILAMANDER",
+    "symbol": "SEILAMANDER",
+    "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
+    "icon": "/img/seilamander.png"
   }
 ]
