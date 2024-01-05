@@ -491,5 +491,12 @@
     "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
     "icon": "/img/Seizure.png",
     "decimals": 6
+  },
+  {
+    "protocol": "ASTROBOT",
+    "symbol": "ASBOT",
+    "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
+    "icon": "/img/ASBOT.png",
+    "decimals": 6
   }
 ]
