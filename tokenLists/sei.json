@@ -484,5 +484,12 @@
     "symbol": "SEILAMANDER",
     "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
     "icon": "/img/seilamander.png"
+  },
+  {
+    "protocol": "SEIZURE",
+    "symbol": "SEIZURE",
+    "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
+    "icon": "/img/Seizure.png",
+    "decimals": 6
   }
 ]
