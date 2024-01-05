@@ -455,12 +455,6 @@
     "icon": "/img/stsei.png"
   },
   {
-    "protocol": "SEINU",
-    "symbol": "SEINU",
-    "token": "factory/sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "icon": "/img/SEINU.jpg"
-  },
-  {
     "protocol": "BeeInu",
     "symbol": "BEE",
     "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
@@ -471,6 +465,12 @@
     "symbol": "CRUSEIDE",
     "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
     "icon": "/img/Cruseider.png"
+  },
+  {
+    "protocol": "seinucoin",
+    "symbol": "SEINU",
+    "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
+    "icon": "/img/seinucoin.jpg"
   },
   {
     "protocol": "SEIKO",
