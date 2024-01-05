@@ -1,11 +1,5 @@
 [
   {
-    "protocol": "SEILAMANDER",
-    "symbol": "SEILAMANDER",
-    "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
-    "icon": "/img/seilamander.png"
-  },
-  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -484,5 +478,11 @@
     "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
     "icon": "/img/seikotoken.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEILAMANDER",
+    "symbol": "SEILAMANDER",
+    "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
+    "icon": "/img/seilamander.png"
   }
 ]
