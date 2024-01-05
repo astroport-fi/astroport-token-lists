@@ -131,6 +131,13 @@
     "decimals": 18
   },
   {
+    "protocol": "Waifu",
+    "symbol": "WAIFU",
+    "token": "factory/inj12dvzf9tx2ndc9498aqpkrxgugr3suysqwlmn49/waifuinj",
+    "icon": "/img/waifu-logo.jpeg",
+    "decimals": 6
+  },
+  {
     "protocol": "Puggo",
     "symbol": "PUG",
     "token": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
