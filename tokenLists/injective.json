@@ -493,5 +493,12 @@
     "token": "factory/inj162vxyf3utfwe4ectg29sjsn5pgq3w634r3nu0a/DOGGO",
     "icon": "/img/DOGGO.png",
     "decimals": 6
+  },
+  {
+    "protocol": "ALIEN",
+    "symbol": "$ALIEN",
+    "token": "factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN",
+    "icon": "/img/alien.png",
+    "decimals": 6
   }
 ]
