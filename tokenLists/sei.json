@@ -1,5 +1,11 @@
 [
   {
+    "protocol": "PEPSEI",
+    "symbol": "PEPSEI",
+    "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
+    "icon": "/img/pepsei.png"
+  },
+  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
