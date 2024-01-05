@@ -500,5 +500,12 @@
     "token": "factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN",
     "icon": "/img/alien.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Injectools",
+    "symbol": "INJECT",
+    "token": "factory/inj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk/INJECT",
+    "icon": "/img/INJECT.png",
+    "decimals": 6
   }
 ]
