@@ -19,6 +19,12 @@
     "icon": "/img/messei.png"
   },
   {
+    "protocol": "SeiPunia",
+    "symbol": "PUNIA",
+    "token": "sei1dt3482zk86pma94xreahkcaqt233wwj8h9kwz244hu93m5cgqensx5lv6f",
+    "icon": "/img/PUNIA.png"
+  },
+  {
     "protocol": "Popo The Cat",
     "symbol": "POPO",
     "token": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
