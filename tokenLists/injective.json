@@ -507,5 +507,12 @@
     "token": "factory/inj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk/INJECT",
     "icon": "/img/INJECT.png",
     "decimals": 6
-  }
+  },
+  {
+    "protocol": "GODS",
+    "symbol": "GODS",
+    "token": "factory/inj147s5vh6ck67zjtpgd674c7efd47jqck55chw4l/inj-GODS",
+    "icon": "/img/GODS.png",
+    "decimals": 6
+  },
 ]
