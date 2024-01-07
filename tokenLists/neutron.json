@@ -234,5 +234,12 @@
     "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "icon": "/img/circus.png",
     "decimals": 6
+  },
+  {
+    "protocol": "The Simpsons",
+    "symbol": "Simpsons",
+    "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
+    "icon": "/img/simpsons.png",
+    "decimals": 6
   }  
 ]
