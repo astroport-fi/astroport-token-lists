@@ -243,6 +243,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Astro Boy",
+    "symbol": "BOY",
+    "token": "neutron1s4z8carrrj00vvtg3k7twn9pq7ldyy33ttyzsejtmphzxhj3vhns6y0368",
+    "icon": "/img/ASTROBOY.png",
+    "decimals": 6
+  },
+  {
     "protocol": "The Simpsons",
     "symbol": "Simpsons",
     "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
