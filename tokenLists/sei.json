@@ -504,12 +504,6 @@
     "icon": "/img/seirio.png"
   },
   {
-    "protocol": "SEINU",
-    "symbol": "SEINU",
-    "token": "factory/sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "icon": "/img/SEINU.jpg"
-  },
-  {
     "protocol": "SEI7",
     "symbol": "SEI7",
     "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
