@@ -515,4 +515,11 @@
     "icon": "/img/GODS.png",
     "decimals": 6
   },
+  {
+    "protocol": "Levana",
+    "symbol": "LVN",
+    "token": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+    "icon": "/img/lvn.png",
+    "decimals": 6
+  }
 ]
