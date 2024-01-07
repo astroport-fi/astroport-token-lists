@@ -255,5 +255,12 @@
     "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
     "icon": "/img/simpsons.png",
     "decimals": 6
+   },
+   {
+    "protocol": "Quirky",
+    "symbol": "QRKY",
+    "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
+    "icon": "/img/QUIRKY.svg",
+    "decimals": 6
   }
 ]
