@@ -42,7 +42,7 @@
     "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
     "icon": "/img/messei.png"
   },
-   {
+  {
     "protocol": "Zeno",
     "symbol": "SeiZeno",
     "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
@@ -556,7 +556,7 @@
     "protocol": "Sei Tonakai",
     "symbol": "SEIKAI",
     "token": "sei1s0wygdkh832s473t9zv3u86nudmuxvv9qfq29q5uda5ccq94ppdqp44w3h",
-    "icon": "/img/seikai.png",
+    "icon": "/img/seikai2.png",
     "decimals": 6
   },
   {
@@ -578,7 +578,7 @@
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
     "icon": "/img/ASBOT.png",
     "decimals": 6
-  },   
+  },
   {
     "protocol": "TOKENTEST",
     "symbol": "TOKENTEST",
