@@ -354,6 +354,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEILORMOON",
+    "symbol": "SEILOR",
+    "token": "sei10hvptpurpqmyzcyqj9fgnpeazvpey07w67sy8ql48ualqe2wc69s5yh4a3",
+    "icon": "/img/seilormoon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIMOON",
     "symbol": "SEIMOON",
     "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
