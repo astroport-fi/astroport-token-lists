@@ -523,8 +523,9 @@
     "symbol": "LVN",
     "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
     "icon": "/img/lvn.png",
-    "decimals": 6
-  }
+    "decimals": 6,
+    "coingeckoId": "levana-protocol"
+  },
   {
     "protocol": "InseinClownPosse",
     "symbol": "JUGGALO",
