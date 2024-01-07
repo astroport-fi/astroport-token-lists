@@ -525,4 +525,10 @@
     "icon": "/img/lvn.png",
     "decimals": 6
   }
+  {
+    "protocol": "InseinClownPosse",
+    "symbol": "JUGGALO",
+    "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "icon": "/img/InseinClownPosse.png"
+  }
 ]
