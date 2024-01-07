@@ -235,11 +235,18 @@
     "icon": "/img/circus.png",
     "decimals": 6
   },
-    {
+  {
     "protocol": "WEN",
     "symbol": "LAMBO",
     "token": "neutron1plhm5ddznjmfvn2xdva5hfqvl5ksjdrwjc43e6mks9uam0r5r5xsd8kzzz",
     "icon": "/img/LAMBO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Simpsons",
+    "symbol": "Simpsons",
+    "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
+    "icon": "/img/simpsons.png",
     "decimals": 6
   }
 ]
