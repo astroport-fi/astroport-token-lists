@@ -541,6 +541,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Sei Tonakai",
+    "symbol": "SEIKAI",
+    "token": "sei1s0wygdkh832s473t9zv3u86nudmuxvv9qfq29q5uda5ccq94ppdqp44w3h",
+    "icon": "/img/seikai.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEILAMANDER",
     "symbol": "SEILAMANDER",
     "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
