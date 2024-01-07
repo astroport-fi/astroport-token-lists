@@ -1,5 +1,29 @@
 [
   {
+    "protocol": "PEPSEI",
+    "symbol": "PEPSEI",
+    "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
+    "icon": "/img/pepsei.png"
+  },
+  {
+    "protocol": "SEIGE",
+    "symbol": "SEIGE",
+    "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
+    "icon": "/img/seige.png"
+  },
+  {
+    "protocol": "SEIKAI",
+    "symbol": "SEIKAI",
+    "token": "sei1g7npmwla97wcexnstfwq4hzgfp7kju5pfsa3tkzt68gwzqz9rgqqr9uf0f",
+    "icon": "/img/Seikai.png"
+  },
+  {
+    "protocol": "SEIGOD",
+    "symbol": "SEIGOD",
+    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
+    "icon": "/img/seigod.png"
+  },
+  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -17,6 +41,18 @@
     "symbol": "Messei",
     "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
     "icon": "/img/messei.png"
+  },
+  {
+    "protocol": "Zeno",
+    "symbol": "SeiZeno",
+    "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
+    "icon": "/img/zeno.png"
+  },
+  {
+    "protocol": "SeiPunia",
+    "symbol": "PUNIA",
+    "token": "sei1dt3482zk86pma94xreahkcaqt233wwj8h9kwz244hu93m5cgqensx5lv6f",
+    "icon": "/img/PUNIA.png"
   },
   {
     "protocol": "Popo The Cat",
@@ -354,6 +390,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEILORMOON",
+    "symbol": "SEILOR",
+    "token": "sei10hvptpurpqmyzcyqj9fgnpeazvpey07w67sy8ql48ualqe2wc69s5yh4a3",
+    "icon": "/img/seilormoon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIMOON",
     "symbol": "SEIMOON",
     "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
@@ -455,6 +498,18 @@
     "icon": "/img/stsei.png"
   },
   {
+    "protocol": "SeiMario",
+    "symbol": "SEIRIO",
+    "token": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
+    "icon": "/img/seirio.png"
+  },
+  {
+    "protocol": "SEI7",
+    "symbol": "SEI7",
+    "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
+    "icon": "/img/sei7.png"
+  },
+  {
     "protocol": "BeeInu",
     "symbol": "BEE",
     "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
@@ -467,6 +522,18 @@
     "icon": "/img/Cruseider.png"
   },
   {
+    "protocol": "Seito Kaiba",
+    "symbol": "SEITO",
+    "token": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
+    "icon": "/img/seito-kaiba.png"
+  },
+  {
+    "protocol": "Sei Less",
+    "symbol": "SeiLess",
+    "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
+    "icon": "/img/seiless150.jpg"
+  },
+  {
     "protocol": "seinucoin",
     "symbol": "SEINU",
     "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
@@ -477,6 +544,13 @@
     "symbol": "SEIKO",
     "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
     "icon": "/img/seikotoken.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Sei Tonakai",
+    "symbol": "SEIKAI",
+    "token": "sei1s0wygdkh832s473t9zv3u86nudmuxvv9qfq29q5uda5ccq94ppdqp44w3h",
+    "icon": "/img/seikai2.png",
     "decimals": 6
   },
   {
@@ -497,6 +571,34 @@
     "symbol": "ASBOT",
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
     "icon": "/img/ASBOT.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "TOKENTEST",
+    "symbol": "TOKENTEST",
+    "token": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
+    "icon": "/img/TOKENTEST.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Levana",
+    "symbol": "LVN",
+    "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
+    "icon": "/img/lvn.png",
+    "decimals": 6,
+    "coingeckoId": "levana-protocol"
+  },
+  {
+    "protocol": "InseinClownPosse",
+    "symbol": "JUGGALO",
+    "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "icon": "/img/InseinClownPosse.png"
+  },
+  {
+    "protocol": "JayAndJeff",
+    "symbol": "JAJ",
+    "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+    "icon": "/img/JayAndJeff.png",
     "decimals": 6
   }
 ]
