@@ -1,5 +1,11 @@
 [
   {
+    "protocol": "PEPSEI",
+    "symbol": "PEPSEI",
+    "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
+    "icon": "/img/pepsei.png"
+  },
+  {
     "protocol": "SEIGE",
     "symbol": "SEIGE",
     "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
@@ -41,6 +47,12 @@
     "symbol": "SeiZeno",
     "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
     "icon": "/img/zeno.png"
+  },
+  {
+    "protocol": "SeiPunia",
+    "symbol": "PUNIA",
+    "token": "sei1dt3482zk86pma94xreahkcaqt233wwj8h9kwz244hu93m5cgqensx5lv6f",
+    "icon": "/img/PUNIA.png"
   },
   {
     "protocol": "Popo The Cat",
@@ -541,6 +553,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Sei Tonakai",
+    "symbol": "SEIKAI",
+    "token": "sei1s0wygdkh832s473t9zv3u86nudmuxvv9qfq29q5uda5ccq94ppdqp44w3h",
+    "icon": "/img/seikai.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEILAMANDER",
     "symbol": "SEILAMANDER",
     "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
@@ -558,6 +577,13 @@
     "symbol": "ASBOT",
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
     "icon": "/img/ASBOT.png",
+    "decimals": 6
+  },   
+  {
+    "protocol": "TOKENTEST",
+    "symbol": "TOKENTEST",
+    "token": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
+    "icon": "/img/TOKENTEST.png",
     "decimals": 6
   },
   {
