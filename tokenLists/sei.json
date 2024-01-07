@@ -498,5 +498,12 @@
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
     "icon": "/img/ASBOT.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Levana",
+    "symbol": "LVN",
+    "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
+    "icon": "/img/lvn.png",
+    "decimals": 6
   }
 ]
