@@ -486,6 +486,12 @@
     "icon": "/img/Cruseider.png"
   },
   {
+    "protocol": "Sei Less",
+    "symbol": "SeiLess",
+    "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
+    "icon": "/img/seiless150.jpg"
+  },
+  {
     "protocol": "seinucoin",
     "symbol": "SEINU",
     "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
