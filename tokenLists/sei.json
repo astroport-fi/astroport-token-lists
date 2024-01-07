@@ -593,5 +593,12 @@
     "symbol": "JUGGALO",
     "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
     "icon": "/img/InseinClownPosse.png"
+  },
+  {
+    "protocol": "JayAndJeff",
+    "symbol": "JAJ",
+    "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+    "icon": "/img/JayAndJeff.png",
+    "decimals": 6
   }
 ]
