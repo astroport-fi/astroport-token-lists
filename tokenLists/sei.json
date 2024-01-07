@@ -1,5 +1,17 @@
 [
   {
+    "protocol": "SEIKAI",
+    "symbol": "SEIKAI",
+    "token": "sei1g7npmwla97wcexnstfwq4hzgfp7kju5pfsa3tkzt68gwzqz9rgqqr9uf0f",
+    "icon": "/img/Seikai.png"
+  },
+  {
+    "protocol": "SEIGOD",
+    "symbol": "SEIGOD",
+    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
+    "icon": "/img/seigod.png"
+  },
+  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -354,6 +366,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEILORMOON",
+    "symbol": "SEILOR",
+    "token": "sei10hvptpurpqmyzcyqj9fgnpeazvpey07w67sy8ql48ualqe2wc69s5yh4a3",
+    "icon": "/img/seilormoon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIMOON",
     "symbol": "SEIMOON",
     "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
@@ -383,7 +402,7 @@
   },
   {
     "protocol": "GOLDENRULES",
-    "symbol": "$GNR",
+    "symbol": "GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
     "icon": "/img/goldenrules.png",
     "decimals": 6
@@ -455,12 +474,6 @@
     "icon": "/img/stsei.png"
   },
   {
-    "protocol": "SEINU",
-    "symbol": "SEINU",
-    "token": "factory/sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "icon": "/img/SEINU.jpg"
-  },
-  {
     "protocol": "BeeInu",
     "symbol": "BEE",
     "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
@@ -477,5 +490,52 @@
     "symbol": "SeiLess",
     "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
     "icon": "/img/seiless150.jpg"
+  },
+  {
+    "protocol": "seinucoin",
+    "symbol": "SEINU",
+    "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
+    "icon": "/img/seinucoin.jpg"
+  },
+  {
+    "protocol": "SEIKO",
+    "symbol": "SEIKO",
+    "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
+    "icon": "/img/seikotoken.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEILAMANDER",
+    "symbol": "SEILAMANDER",
+    "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
+    "icon": "/img/seilamander.png"
+  },
+  {
+    "protocol": "SEIZURE",
+    "symbol": "SEIZURE",
+    "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
+    "icon": "/img/Seizure.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ASTROBOT",
+    "symbol": "ASBOT",
+    "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
+    "icon": "/img/ASBOT.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Levana",
+    "symbol": "LVN",
+    "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
+    "icon": "/img/lvn.png",
+    "decimals": 6,
+    "coingeckoId": "levana-protocol"
+  },
+  {
+    "protocol": "InseinClownPosse",
+    "symbol": "JUGGALO",
+    "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "icon": "/img/InseinClownPosse.png"
   }
 ]
