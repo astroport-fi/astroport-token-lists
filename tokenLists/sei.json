@@ -572,6 +572,13 @@
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
     "icon": "/img/ASBOT.png",
     "decimals": 6
+  },   
+  {
+    "protocol": "TOKENTEST",
+    "symbol": "TOKENTEST",
+    "token": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
+    "icon": "/img/TOKENTEST.png",
+    "decimals": 6
   },
   {
     "protocol": "Levana",
