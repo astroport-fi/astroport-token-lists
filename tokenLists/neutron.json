@@ -220,5 +220,19 @@
     "token": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
     "icon": "/img/GAY.png",
     "decimals": 6
-  }
+  },
+  {
+    "protocol": "GODDARD",
+    "symbol": "GDD",
+    "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
+    "icon": "/img/GODDARD.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "AtomEconomicZone69JaeKwonInu",
+    "symbol": "CIRCUS",
+    "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "icon": "/img/circus.png",
+    "decimals": 6
+  }  
 ]
