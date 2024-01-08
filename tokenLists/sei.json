@@ -11,6 +11,12 @@
     "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
     "icon": "/img/seige.png"
   },
+ {
+    "protocol": "Krillin",
+    "symbol": "Krillin",
+    "token": "sei1nyszrhsn8pqmf2ahkuzvj3jdq0zejxwfmvy89kkjg6mxceuyw0ts6fktpw",
+    "icon": "/img/krillin.png"
+  },
   {
     "protocol": "SEIKAI",
     "symbol": "SEIKAI",
