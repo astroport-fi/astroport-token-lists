@@ -516,6 +516,13 @@
     "decimals": 6
   },
   {
+    "protocol": "PUNK",
+    "symbol": "PUNK",
+    "token": "factory/inj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs/PUNK",
+    "icon": "/img/PUNK.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Levana",
     "symbol": "LVN",
     "token": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
