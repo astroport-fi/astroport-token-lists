@@ -262,5 +262,12 @@
     "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
     "icon": "/img/QUIRKY.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "What the Fuck",
+    "symbol": "WTF",
+    "token": "neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf",
+    "icon": "/img/WTF.png",
+    "decimals": 6
   }
 ]
