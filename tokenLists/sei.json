@@ -600,5 +600,12 @@
     "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
     "icon": "/img/JayAndJeff.png",
     "decimals": 6
+  },
+  {
+    "protocol": "RUSEIA",
+    "symbol": "RUSEIA",
+    "token": "sei1zy4uamcva634d2ukfd9nl2rv63qvxvvh47vahle38tgp52xwndhsr523n8",
+    "icon": "/img/ruseia.png",
+    "deciamls": 6
   }
 ]
