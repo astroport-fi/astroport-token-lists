@@ -118,6 +118,12 @@
     "icon": "/img/seiwhat.png"
   },
   {
+    "protocol": "SeiWhale",
+    "symbol": "SEI",
+    "token": "sei19u0lgmeykqxq4vwmtvcm3jt20txsjvy4e92t6qxpea5u7j82t6pq4zfg0j",
+    "icon": "/img/seiwhale.png"
+  },
+  {
     "protocol": "ETH (Wormhole ETH)",
     "symbol": "WETH",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
