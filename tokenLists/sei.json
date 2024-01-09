@@ -43,16 +43,16 @@
     "icon": "/img/messei.png"
   },
   {
+    "protocol": "SeiPunia",
+    "symbol": "PUNIA",
+    "token": "sei1v59mrw485axfgzwtxq8m9me59hjz04h9umlpp99wy9z4xkw3nqdql0nt53",
+    "icon": "/img/PUNIA.png"
+  },
+  {
     "protocol": "Zeno",
     "symbol": "SeiZeno",
     "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
     "icon": "/img/zeno.png"
-  },
-  {
-    "protocol": "SeiPunia",
-    "symbol": "PUNIA",
-    "token": "sei1dt3482zk86pma94xreahkcaqt233wwj8h9kwz244hu93m5cgqensx5lv6f",
-    "icon": "/img/PUNIA.png"
   },
   {
     "protocol": "Popo The Cat",
