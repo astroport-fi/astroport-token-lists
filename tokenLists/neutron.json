@@ -234,5 +234,33 @@
     "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "icon": "/img/circus.png",
     "decimals": 6
-  }  
+  },
+  {
+    "protocol": "WEN",
+    "symbol": "LAMBO",
+    "token": "neutron1plhm5ddznjmfvn2xdva5hfqvl5ksjdrwjc43e6mks9uam0r5r5xsd8kzzz",
+    "icon": "/img/WENLAMBO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Astro Boy",
+    "symbol": "BOY",
+    "token": "neutron1s4z8carrrj00vvtg3k7twn9pq7ldyy33ttyzsejtmphzxhj3vhns6y0368",
+    "icon": "/img/ASTROBOY.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Simpsons",
+    "symbol": "Simpsons",
+    "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
+    "icon": "/img/simpsons.png",
+    "decimals": 6
+   },
+   {
+    "protocol": "Quirky",
+    "symbol": "QRKY",
+    "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
+    "icon": "/img/QUIRKY.svg",
+    "decimals": 6
+  }
 ]
