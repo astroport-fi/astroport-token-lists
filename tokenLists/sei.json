@@ -595,6 +595,12 @@
     "icon": "/img/InseinClownPosse.png"
   },
   {
+    "protocol": "SeiGogeta",
+    "symbol": "GOGETA",
+    "token": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
+    "icon": "/img/gogeta.png"
+  },
+  {
     "protocol": "JayAndJeff",
     "symbol": "JAJ",
     "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
