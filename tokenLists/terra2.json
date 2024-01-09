@@ -565,5 +565,12 @@
     "token": "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s",
     "icon": "/img/ITO.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Ado",
+    "symbol": "ADO",
+    "token": "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+    "icon": "/img/ADO.png",
+    "decimals": 6
   }
 ]
