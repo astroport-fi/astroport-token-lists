@@ -607,5 +607,12 @@
     "token": "sei1xtaqu07zzm66ruz4mxwsqs2hf3pa8engjyqgpgm2h38m33zjhylqzkr286",
     "icon": "/img/chainseiman.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Tokyo Drift",
+    "symbol": "TOKYO",
+    "token": "sei143upjav09jdczmc2thta0sd0x7djke0w0mnzjwcgpymkwehuun5ss6asws",
+    "icon": "/img/tokyo.png",
+    "decimals": 6
   }
 ]
