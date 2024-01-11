@@ -269,5 +269,12 @@
     "token": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
     "icon": "/img/LAIKA.png",
     "decimals": 6
+  },
+  {
+    "protocol": "BITCOSMOS",
+    "symbol": "BTC",
+    "token": "neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj",
+    "icon": "/img/bitcosmos.svg",
+    "decimals": 6
   }
 ]
