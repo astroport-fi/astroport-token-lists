@@ -1,5 +1,29 @@
 [
   {
+    "protocol": "PEPSEI",
+    "symbol": "PEPSEI",
+    "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
+    "icon": "/img/pepsei.png"
+  },
+  {
+    "protocol": "SEIGE",
+    "symbol": "SEIGE",
+    "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
+    "icon": "/img/seige.png"
+  },
+  {
+    "protocol": "SEIKAI",
+    "symbol": "SEIKAI",
+    "token": "sei1g7npmwla97wcexnstfwq4hzgfp7kju5pfsa3tkzt68gwzqz9rgqqr9uf0f",
+    "icon": "/img/Seikai.png"
+  },
+  {
+    "protocol": "SEIGOD",
+    "symbol": "SEIGOD",
+    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
+    "icon": "/img/seigod.png"
+  },
+  {
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -11,6 +35,24 @@
     "symbol": "POPO",
     "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
     "icon": "/img/POPO.jpg"
+  },
+  {
+    "protocol": "Messi",
+    "symbol": "Messei",
+    "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
+    "icon": "/img/messei.png"
+  },
+  {
+    "protocol": "SeiPunia",
+    "symbol": "PUNIA",
+    "token": "sei1v59mrw485axfgzwtxq8m9me59hjz04h9umlpp99wy9z4xkw3nqdql0nt53",
+    "icon": "/img/PUNIA.png"
+  },
+  {
+    "protocol": "Zeno",
+    "symbol": "SeiZeno",
+    "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
+    "icon": "/img/zeno.png"
   },
   {
     "protocol": "Popo The Cat",
@@ -334,6 +376,13 @@
     "decimals": 6
   },
   {
+    "protocol": "SEIKITTY",
+    "symbol": "SEIKITTY",
+    "token": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
+    "icon": "/img/kitty.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEIFMOON",
     "symbol": "SEIF",
     "token": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
@@ -341,10 +390,229 @@
     "decimals": 6
   },
   {
+    "protocol": "SEILORMOON",
+    "symbol": "SEILOR",
+    "token": "sei10hvptpurpqmyzcyqj9fgnpeazvpey07w67sy8ql48ualqe2wc69s5yh4a3",
+    "icon": "/img/seilormoon.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIMOON",
+    "symbol": "SEIMOON",
+    "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
+    "icon": "/img/seimoon.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEITAN",
     "symbol": "SEITAN",
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
     "icon": "/img/seitan.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SeiDragon",
+    "symbol": "SEIGON",
+    "token": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
+    "icon": "/img/seigon.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIDOW",
+    "symbol": "SEIDOW",
+    "token": "sei1j536dz2apen5hfn3jxh394nnf3haphfuwu5c4suufxl2y2mmy5mse09tfr",
+    "icon": "/img/seidow.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "GOLDENRULES",
+    "symbol": "GNR",
+    "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
+    "icon": "/img/goldenrules.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Saint Seiya",
+    "symbol": "SEIYA",
+    "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
+    "icon": "/img/seiya.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIMEN - SEIMEN",
+    "symbol": "SEIMEN",
+    "token": "sei1r02h7s9yvv062f3vd09urrjxcz630d3q76ay4q32n2jmdxm8hhlqma7het",
+    "icon": "/img/seimen.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIWA-清和",
+    "symbol": "SEIWA",
+    "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
+    "icon": "/img/SEIWA.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "COMMUNISM",
+    "symbol": "COMMUNISM",
+    "token": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
+    "icon": "/img/communism.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIPEPE",
+    "symbol": "SEIPEPE",
+    "token": "sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja",
+    "icon": "/img/seipepe.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIGOD",
+    "symbol": "SEIGOD",
+    "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
+    "icon": "/img/seigod.png"
+  },
+  {
+    "protocol": "SEIMBA",
+    "symbol": "SEIMBA",
+    "token": "sei1lyc0uevjpmtkruf0k0u8elner5qc7cawa5vllpw24aucquk40tcs5kvwhf",
+    "icon": "/img/Seimba.png"
+  },
+  {
+    "protocol": "SeiyanJay",
+    "symbol": "SEIJAY",
+    "token": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
+    "icon": "/img/seijay.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "seisyphus",
+    "symbol": "seisyphus",
+    "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
+    "icon": "/img/seisyphus.png"
+  },
+  {
+    "protocol": "Kryptonite",
+    "symbol": "STSEI",
+    "token": "sei1ln7ntsqmxl8s502f83km9a475zyhcfhpj7v2fsm3pcmckdyys3tsktx9vk",
+    "icon": "/img/stsei.png"
+  },
+  {
+    "protocol": "SeiMario",
+    "symbol": "SEIRIO",
+    "token": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
+    "icon": "/img/seirio.png"
+  },
+  {
+    "protocol": "SEI7",
+    "symbol": "SEI7",
+    "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
+    "icon": "/img/sei7.png"
+  },
+  {
+    "protocol": "BeeInu",
+    "symbol": "BEE",
+    "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
+    "icon": "/img/bee.png"
+  },
+  {
+    "protocol": "CRUSEIDER",
+    "symbol": "CRUSEIDE",
+    "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
+    "icon": "/img/Cruseider.png"
+  },
+  {
+    "protocol": "Seito Kaiba",
+    "symbol": "SEITO",
+    "token": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
+    "icon": "/img/seito-kaiba.png"
+  },
+  {
+    "protocol": "Sei Less",
+    "symbol": "SeiLess",
+    "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
+    "icon": "/img/seiless150.jpg"
+  },
+  {
+    "protocol": "seinucoin",
+    "symbol": "SEINU",
+    "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
+    "icon": "/img/seinucoin.jpg"
+  },
+  {
+    "protocol": "SEIKO",
+    "symbol": "SEIKO",
+    "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
+    "icon": "/img/seikotoken.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Sei Tonakai",
+    "symbol": "SEIKAI",
+    "token": "sei1s0wygdkh832s473t9zv3u86nudmuxvv9qfq29q5uda5ccq94ppdqp44w3h",
+    "icon": "/img/seikai2.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEILAMANDER",
+    "symbol": "SEILAMANDER",
+    "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
+    "icon": "/img/seilamander.png"
+  },
+  {
+    "protocol": "SEIZURE",
+    "symbol": "SEIZURE",
+    "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
+    "icon": "/img/Seizure.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ASTROBOT",
+    "symbol": "ASBOT",
+    "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
+    "icon": "/img/ASBOT.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "TOKENTEST",
+    "symbol": "TOKENTEST",
+    "token": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
+    "icon": "/img/TOKENTEST.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Levana",
+    "symbol": "LVN",
+    "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
+    "icon": "/img/lvn.png",
+    "decimals": 6,
+    "coingeckoId": "levana-protocol"
+  },
+  {
+    "protocol": "InseinClownPosse",
+    "symbol": "JUGGALO",
+    "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "icon": "/img/InseinClownPosse.png"
+  },
+  {
+    "protocol": "JayAndJeff",
+    "symbol": "JAJ",
+    "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+    "icon": "/img/JayAndJeff.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ChainSEI Man",
+    "symbol": "SEIMAN",
+    "token": "sei1xtaqu07zzm66ruz4mxwsqs2hf3pa8engjyqgpgm2h38m33zjhylqzkr286",
+    "icon": "/img/chainseiman.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIKWONDO",
+    "symbol": "KWND",
+    "token": "sei1kpeqt8rjv542halq29exemavvg33mj92u5pylhx9taukakcajg7sjplsfn",
+    "icon": "/img/SEIKWONDO.png",
     "decimals": 6
   }
 ]
