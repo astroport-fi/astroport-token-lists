@@ -11,6 +11,12 @@
     "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
     "icon": "/img/seige.png"
   },
+  {
+    "protocol": "SEINOBI INU",
+    "symbol": "SEINOBI",
+    "token": "sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84",
+    "icon": "/img/seinobi.png"
+  },
  {
     "protocol": "Krillin",
     "symbol": "Krillin",
