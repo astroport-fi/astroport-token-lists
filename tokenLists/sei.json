@@ -614,5 +614,12 @@
     "token": "sei1kpeqt8rjv542halq29exemavvg33mj92u5pylhx9taukakcajg7sjplsfn",
     "icon": "/img/SEIKWONDO.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIKWONDO",
+    "symbol": "KWND",
+    "token": "sei1f5fv8eyhthky7dj66vpdlf5lj7mdl2psm3vpk2vm859qlqqmkm2qk4k6th",
+    "icon": "/img/SEIKWONDO.png",
+    "decimals": 6
   }
 ]
