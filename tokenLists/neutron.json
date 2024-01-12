@@ -245,7 +245,7 @@
   {
     "protocol": "Astro Boy",
     "symbol": "BOY",
-    "token": "neutron1s4z8carrrj00vvtg3k7twn9pq7ldyy33ttyzsejtmphzxhj3vhns6y0368",
+    "token": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
     "icon": "/img/ASTROBOY.png",
     "decimals": 6
   },
@@ -261,6 +261,13 @@
     "symbol": "QRKY",
     "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
     "icon": "/img/QUIRKY.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Laika the Space Dog",
+    "symbol": "LAIKA",
+    "token": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
+    "icon": "/img/LAIKA.png",
     "decimals": 6
   }
 ]

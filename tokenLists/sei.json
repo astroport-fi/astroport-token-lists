@@ -447,7 +447,7 @@
   {
     "protocol": "SEIMEN - SEIMEN",
     "symbol": "SEIMEN",
-    "token": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
+    "token": "sei1r02h7s9yvv062f3vd09urrjxcz630d3q76ay4q32n2jmdxm8hhlqma7het",
     "icon": "/img/seimen.png",
     "decimals": 6
   },
@@ -605,6 +605,13 @@
     "symbol": "JAJ",
     "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
     "icon": "/img/JayAndJeff.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ChainSEI Man",
+    "symbol": "SEIMAN",
+    "token": "sei1xtaqu07zzm66ruz4mxwsqs2hf3pa8engjyqgpgm2h38m33zjhylqzkr286",
+    "icon": "/img/chainseiman.png",
     "decimals": 6
   }
 ]
