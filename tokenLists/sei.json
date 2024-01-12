@@ -614,5 +614,12 @@
     "token": "sei1kpeqt8rjv542halq29exemavvg33mj92u5pylhx9taukakcajg7sjplsfn",
     "icon": "/img/SEIKWONDO.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIVIOUR",
+    "symbol": "SEIV",
+    "token": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
+    "icon": "/img/seiv.png",
+    "decimals": 6
   }
 ]
