@@ -276,5 +276,12 @@
     "token": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
     "icon": "/img/LAIKA.png",
     "decimals": 6
+  },
+  {
+    "protocol": "BULLDOG",
+    "symbol": "BDG",
+    "token": "neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq",
+    "icon": "/img/bulldog.svg",
+    "decimals": 6
   }
 ]
