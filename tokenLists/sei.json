@@ -633,6 +633,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Hunter x Hunter",
+    "symbol": "HUNTER",
+    "token": "sei1w2r9qeu73rqkh3gf9gnz5w7nkuwc24wrcpygccaeht5nwdrcw89st0duvx",
+    "icon": "/img/hunter.png",
+    "decimals": 6
+  },
+  {
     "protocol": "TROLL",
     "symbol": "TROLL",
     "token": "sei1vf0pnrp3s3f3cyhsqr5ykgw08dz4qmwwm0deyc7j3djhc0y9yf8styp38v",
