@@ -279,7 +279,7 @@
   },
   {
     "protocol": "BITCOSMOS",
-    "symbol": "BTS",
+    "symbol": "BTC",
     "token": "neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj",
     "icon": "/img/bitcosmos.svg",
   },
