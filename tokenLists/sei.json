@@ -633,6 +633,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Tokyo Drift",
+    "symbol": "TOKYO",
+    "token": "sei143upjav09jdczmc2thta0sd0x7djke0w0mnzjwcgpymkwehuun5ss6asws",
+    "icon": "/img/tokyo.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Hunter x Hunter",
     "symbol": "HUNTER",
     "token": "sei1w2r9qeu73rqkh3gf9gnz5w7nkuwc24wrcpygccaeht5nwdrcw89st0duvx",
