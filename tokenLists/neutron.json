@@ -225,7 +225,7 @@
     "protocol": "GODDARD",
     "symbol": "GDD",
     "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
-    "icon": "/img/GODDARD.svg",
+    "icon": "/img/goddard.svg",
     "decimals": 6
   },
   {
@@ -264,10 +264,24 @@
     "decimals": 6
   },
   {
+    "protocol": "What the Fuck",
+    "symbol": "WTF",
+    "token": "neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf",
+    "icon": "/img/WTF.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Laika the Space Dog",
     "symbol": "LAIKA",
     "token": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
     "icon": "/img/LAIKA.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BULLDOG",
+    "symbol": "BDG",
+    "token": "neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq",
+    "icon": "/img/bulldog.svg",
     "decimals": 6
   }
 ]

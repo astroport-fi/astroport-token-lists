@@ -529,5 +529,12 @@
     "icon": "/img/lvn.png",
     "decimals": 6,
     "coingeckoId": "levana-protocol"
+  },
+  {
+    "protocol": "INJUSSY",
+    "symbol": "INJUSSY",
+    "token": "factory/inj1s9smy53dtqq087usaf02sz984uddndwuj2f0wt/injussy",
+    "icon": "/img/injussy.png",
+    "decimals": 6
   }
 ]
