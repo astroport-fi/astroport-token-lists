@@ -467,6 +467,13 @@
     "decimals": 6
   },
   {
+    "protocol": "KARMA",
+    "symbol": "KARMA",
+    "token": "factory/inj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm/karmainj",
+    "icon": "/img/karma.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Cheelee",
     "symbol": "CHELE",
     "token": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
