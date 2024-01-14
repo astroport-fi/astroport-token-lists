@@ -543,5 +543,12 @@
     "token": "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923",
     "icon": "/img/dojo.svg",
     "decimals": 18
+  },
+  {
+    "protocol": "Dog Wif Shoes",
+    "symbol": "WIFS",
+    "token": "factory/inj10edtfelcttj3s98f755ntfplt0da5xv4z8z0lf/dogwifshoes",
+    "icon": "/img/wifs.png",
+    "decimals": 6
   }
 ]
