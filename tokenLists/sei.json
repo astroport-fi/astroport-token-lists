@@ -666,5 +666,12 @@
     "token": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
     "icon": "/img/seiv.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Joshi Kousei",
+    "symbol": "KOUSEI",
+    "token": "sei1pyugu4r6m690fwhy2d2c8vy8gktas747satfyje9xzn4pcg5xgqqgfqnp5",
+    "icon": "/img/kousei.png",
+    "decimals": 6
   }
 ]
