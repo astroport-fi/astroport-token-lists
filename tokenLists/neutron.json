@@ -290,5 +290,12 @@
     "token": "neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p",
     "icon": "/img/bengal.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Visit Dinosaurgame.lol",
+    "symbol": "DSR",
+    "token": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "icon": "/img/dinosaur.svg",
+    "decimals": 6
   }
 ]
