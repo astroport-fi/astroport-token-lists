@@ -673,5 +673,12 @@
     "token": "sei1pyugu4r6m690fwhy2d2c8vy8gktas747satfyje9xzn4pcg5xgqqgfqnp5",
     "icon": "/img/kousei.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SeiGrok",
+    "symbol": "SGK",
+    "token": "sei18874lnhhg9c0s77lzq3z0akgftyjm5eu344pckrw8z3n24urgdnq7qsqdc",
+    "icon": "/img/SeiGrok.png",
+    "decimals": 6
   }
 ]
