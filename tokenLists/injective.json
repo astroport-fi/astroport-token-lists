@@ -369,6 +369,13 @@
     "icon": "/img/WIZZ.png"
   },
   {
+    "protocol": "RAMEN",
+    "symbol": "RAMEN",
+    "token": "factory/inj1z5utcc5u90n8a5m8gv30char6j4hdzxz6t3pke/ramen",
+    "decimals": 6,
+    "icon": "/img/ramen.jpeg"
+  },
+  {
     "protocol": "HRBE",
     "symbol": "HRBE",
     "token": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
