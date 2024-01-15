@@ -283,5 +283,12 @@
     "token": "neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq",
     "icon": "/img/bulldog.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "BENGAL CAT",
+    "symbol": "BENGAL",
+    "token": "neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p",
+    "icon": "/img/bengal.svg",
+    "decimals": 6
   }
 ]
