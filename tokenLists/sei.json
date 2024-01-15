@@ -666,5 +666,12 @@
     "token": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
     "icon": "/img/seiv.png",
     "decimals": 6
+  },
+   {
+    "protocol": "SeiGrok",
+    "symbol": "SGK",
+    "token": "sei18874lnhhg9c0s77lzq3z0akgftyjm5eu344pckrw8z3n24urgdnq7qsqdc",
+    "icon": "/img/SeiGrok.png",
+    "decimals": 6
   }
 ]
