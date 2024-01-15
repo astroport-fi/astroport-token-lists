@@ -17,7 +17,7 @@
     "token": "sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84",
     "icon": "/img/seinobi.png"
   },
- {
+  {
     "protocol": "Krillin",
     "symbol": "Krillin",
     "token": "sei1nyszrhsn8pqmf2ahkuzvj3jdq0zejxwfmvy89kkjg6mxceuyw0ts6fktpw",
@@ -679,6 +679,13 @@
     "symbol": "SGK",
     "token": "sei18874lnhhg9c0s77lzq3z0akgftyjm5eu344pckrw8z3n24urgdnq7qsqdc",
     "icon": "/img/SeiGrok.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEISINO",
+    "symbol": "DOJO",
+    "token": "sei19fd3zhuyfwpe6n85sf8x2c0xygvlcq6r8m4f5yd87fw9tp9akk2sdvpwrr",
+    "icon": "/img/dojoseisino.webp",
     "decimals": 6
   }
 ]
