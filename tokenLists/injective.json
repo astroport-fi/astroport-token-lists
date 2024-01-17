@@ -564,5 +564,12 @@
     "token": "factory/inj10edtfelcttj3s98f755ntfplt0da5xv4z8z0lf/dogwifshoes",
     "icon": "/img/wifs.png",
     "decimals": 6
+  },
+  {
+    "protocol": "CROCO Token",
+    "symbol": "CROCO",
+    "token": "factory/inj1y6zxg76ltrjdx7xppvtrdqlc5ujyhfra8aqr3f/CROCO",
+    "icon": "/img/CRO.png",
+    "decimals": 6
   }
 ]
