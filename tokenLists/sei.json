@@ -701,5 +701,12 @@
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
     "icon": "/img/saber.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "Doge DAO",
+    "symbol": "DOGEDAO",
+    "token": "sei12tjnl906he8h65ldkenwgfjr6zd3v07mvqyhjhcaw8lnch9yw8zsgndfu3",
+    "decimals": 6,
+    "icon": "/img/dogedao.png"
   }
 ]
