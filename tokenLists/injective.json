@@ -564,5 +564,12 @@
     "token": "factory/inj10edtfelcttj3s98f755ntfplt0da5xv4z8z0lf/dogwifshoes",
     "icon": "/img/wifs.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Orne",
+    "symbol": "ORNE",
+    "token": "ibc/3D99439444ACDEE71DBC4A774E49DB74B58846CCE31B9A868A7A61E4C14D321E",
+    "icon": "/img/orne.png",
+    "coingeckoId": "orne"
   }
 ]
