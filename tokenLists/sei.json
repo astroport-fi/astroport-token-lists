@@ -701,5 +701,11 @@
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
     "icon": "/img/saber.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "DeFi Protocol",
+    "symbol": "DEFI",
+    "token": "sei1m43vc5g9vqltp94ctsvufq9tp32nudwt3n5pn5je5smelpc6t0psem9s4k",
+    "icon": "/img/defi.png"
   }
 ]
