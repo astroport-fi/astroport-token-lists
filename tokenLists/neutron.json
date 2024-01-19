@@ -297,5 +297,12 @@
     "token": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
     "icon": "/img/dinosaur.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "newtroll.XYZ",
+    "symbol": "NTRL",
+    "token": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
+    "icon": "/img/newtroll.svg",
+    "decimals": 6
   }
 ]
