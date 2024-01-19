@@ -694,5 +694,12 @@
     "token": "sei1krmg8v3y8lv4z3cd8g3yzy4nexn5jcx07swdqrru4l07upg3q6hsp8rxee",
     "icon": "/img/seigma.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SABER",
+    "symbol": "SABER",
+    "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
+    "icon": "/img/saber.webp",
+    "decimals": 6
   }
 ]
