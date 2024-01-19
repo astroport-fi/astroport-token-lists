@@ -701,5 +701,11 @@
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
     "icon": "/img/saber.webp",
     "decimals": 6
-  }
+  },
+  {
+    "protocol": "Tensa Zangetsu",
+    "symbol": "TENSA",
+    "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
+    "icon": "/img/zangetsu.png"
+  },
 ]
