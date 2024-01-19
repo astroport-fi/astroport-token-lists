@@ -297,5 +297,12 @@
     "token": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
     "icon": "/img/dinosaur.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "www.retrogame.site",
+    "symbol": "RETRO",
+    "token": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
+    "icon": "/img/retro.svg",
+    "decimals": 6
   }
 ]
