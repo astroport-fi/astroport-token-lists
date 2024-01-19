@@ -572,10 +572,18 @@
     "decimals": 6
   },
   {
+    "protocol": "CROCO Token",
+    "symbol": "CROCO",
+    "token": "factory/inj1y6zxg76ltrjdx7xppvtrdqlc5ujyhfra8aqr3f/CROCO",
+    "icon": "/img/CRO.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Orne",
     "symbol": "ORNE",
     "token": "ibc/3D99439444ACDEE71DBC4A774E49DB74B58846CCE31B9A868A7A61E4C14D321E",
     "icon": "/img/orne.png",
-    "coingeckoId": "orne"
+    "coingeckoId": "orne",
+    "decimals": 6
   }
 ]
