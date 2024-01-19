@@ -95,6 +95,12 @@
     "coingeckoId": "sommelier"
   },
   {
+    "protocol": "DROGO",
+    "symbol": "DROGO",
+    "token": "ibc/565FE65B82C091F8BAD1379FA1B4560C036C07913355ED4BD8D156DA63F43712",
+    "icon": "/img/drogo.png"
+  },
+  {
     "protocol": "Persistence",
     "symbol": "XPRT",
     "token": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
@@ -563,6 +569,21 @@
     "symbol": "WIFS",
     "token": "factory/inj10edtfelcttj3s98f755ntfplt0da5xv4z8z0lf/dogwifshoes",
     "icon": "/img/wifs.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CROCO Token",
+    "symbol": "CROCO",
+    "token": "factory/inj1y6zxg76ltrjdx7xppvtrdqlc5ujyhfra8aqr3f/CROCO",
+    "icon": "/img/CRO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Orne",
+    "symbol": "ORNE",
+    "token": "ibc/3D99439444ACDEE71DBC4A774E49DB74B58846CCE31B9A868A7A61E4C14D321E",
+    "icon": "/img/orne.png",
+    "coingeckoId": "orne",
     "decimals": 6
   }
 ]
