@@ -701,5 +701,12 @@
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
     "icon": "/img/saber.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "Mario Simulation",
+    "symbol": "MARIO",
+    "token": "sei1tx8ktmg4a3h0kdfygjxx8uqv4yftk2m44x63d2lzgxyc0e7vwpgqgupcgp",
+    "decimals": 6,
+    "icon": "/img/mario.png"
   }
 ]
