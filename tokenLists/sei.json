@@ -701,5 +701,13 @@
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
     "icon": "/img/saber.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "OX",
+    "symbol": "OX",
+    "token": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
+    "icon": "/img/ox.svg",
+    "decimals": 18,
+    "coingeckoId": "open-exchange-token"
   }
 ]
