@@ -1,10 +1,4 @@
-[
-  {
-    "protocol": "Apollo DAO",
-    "symbol": "APOLLO",
-    "token": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
-    "icon": "/img/apollo.svg"
-  },
+[  
   {
     "protocol": "Astroport",
     "symbol": "ASTRO",
@@ -310,5 +304,11 @@
     "token": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
     "icon": "/img/goddardntrn.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Apollo DAO",
+    "symbol": "APOLLO",
+    "token": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+    "icon": "/img/apollo.svg"
   }
 ]
