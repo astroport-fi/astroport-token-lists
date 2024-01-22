@@ -696,6 +696,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Smoke Weed Every Sei",
+    "symbol": "THSEI",
+    "token": "sei1lhtx9rn8u97h8k2rq5mrvws29ls6l43p9ynkqdgm69mk40em82aswvgq2n",
+    "icon": "/img/thsei.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SABER",
     "symbol": "SABER",
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
