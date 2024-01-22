@@ -594,5 +594,12 @@
     "icon": "/img/wBNB.png",
     "decimals": 8,
     "coingeckoId": "binance-coin-wormhole"
+  },
+    {
+    "protocol": "Pyth Network",
+    "symbol": "PYTH",
+    "token": "terra1uaha4gdzn5dz5ela76x74rlah8954m8ehwjyq4v75hq7relx49tszzsh36",
+    "icon": "/img/pyth.svg",
+    "decimals": 6,
   }
 ]
