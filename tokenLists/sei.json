@@ -703,6 +703,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Mario Simulation",
+    "symbol": "MARIO",
+    "token": "sei1tx8ktmg4a3h0kdfygjxx8uqv4yftk2m44x63d2lzgxyc0e7vwpgqgupcgp",
+    "decimals": 6,
+    "icon": "/img/mario.png"
+  },
+  {
     "protocol": "Jefe",
     "symbol": "JEFE",
     "token": "sei1ghvu97srekvecplqn9m70d0khuq2n6q7asj8jsh7l4txr6kx89lsvl9yk3",
