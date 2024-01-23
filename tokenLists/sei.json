@@ -696,11 +696,51 @@
     "decimals": 6
   },
   {
+    "protocol": "Smoke Weed Every Sei",
+    "symbol": "THSEI",
+    "token": "sei1lhtx9rn8u97h8k2rq5mrvws29ls6l43p9ynkqdgm69mk40em82aswvgq2n",
+    "icon": "/img/thsei.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SABER",
     "symbol": "SABER",
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
     "icon": "/img/saber.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "DeFi Protocol",
+    "symbol": "DEFI",
+    "token": "sei1m43vc5g9vqltp94ctsvufq9tp32nudwt3n5pn5je5smelpc6t0psem9s4k",
+    "icon": "/img/defi.png"
+  },
+  {
+    "protocol": "Doge DAO",
+    "symbol": "DOGEDAO",
+    "token": "sei12tjnl906he8h65ldkenwgfjr6zd3v07mvqyhjhcaw8lnch9yw8zsgndfu3",
+    "decimals": 6,
+    "icon": "/img/dogedao.png"
+  },
+  {
+    "protocol": "Mario Simulation",
+    "symbol": "MARIO",
+    "token": "sei1tx8ktmg4a3h0kdfygjxx8uqv4yftk2m44x63d2lzgxyc0e7vwpgqgupcgp",
+    "decimals": 6,
+    "icon": "/img/mario.png"
+  },
+  {
+    "protocol": "Jefe",
+    "symbol": "JEFE",
+    "token": "sei1ghvu97srekvecplqn9m70d0khuq2n6q7asj8jsh7l4txr6kx89lsvl9yk3",
+    "decimals": 6,
+    "icon": "/img/jefe.png"
+  },
+  {
+    "protocol": "Tensa Zangetsu",
+    "symbol": "TENSA",
+    "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
+    "icon": "/img/zangetsu.png"
   },
   {
     "protocol": "OX",
@@ -709,5 +749,12 @@
     "icon": "/img/ox.svg",
     "decimals": 18,
     "coingeckoId": "open-exchange-token"
+  },
+  {
+    "protocol": "SEIGNEUR",
+    "symbol": "SEIGNEUR",
+    "token": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
+    "icon": "/img/SEIGNEUR.png",
+    "decimals": 6
   }
 ]
