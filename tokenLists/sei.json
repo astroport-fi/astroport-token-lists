@@ -708,5 +708,33 @@
     "token": "sei12tjnl906he8h65ldkenwgfjr6zd3v07mvqyhjhcaw8lnch9yw8zsgndfu3",
     "decimals": 6,
     "icon": "/img/dogedao.png"
+  },
+  {
+    "protocol": "Mario Simulation",
+    "symbol": "MARIO",
+    "token": "sei1tx8ktmg4a3h0kdfygjxx8uqv4yftk2m44x63d2lzgxyc0e7vwpgqgupcgp",
+    "decimals": 6,
+    "icon": "/img/mario.png"
+  },
+  {
+    "protocol": "Jefe",
+    "symbol": "JEFE",
+    "token": "sei1ghvu97srekvecplqn9m70d0khuq2n6q7asj8jsh7l4txr6kx89lsvl9yk3",
+    "decimals": 6,
+    "icon": "/img/jefe.png"
+  },
+  {
+    "protocol": "Tensa Zangetsu",
+    "symbol": "TENSA",
+    "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
+    "icon": "/img/zangetsu.png"
+  },
+  {
+    "protocol": "OX",
+    "symbol": "OX",
+    "token": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
+    "icon": "/img/ox.svg",
+    "decimals": 18,
+    "coingeckoId": "open-exchange-token"
   }
 ]
