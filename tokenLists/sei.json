@@ -742,5 +742,12 @@
     "icon": "/img/ox.svg",
     "decimals": 18,
     "coingeckoId": "open-exchange-token"
+  },
+  {
+    "protocol": "SEIGNEUR",
+    "symbol": "SEIGNEUR",
+    "token": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
+    "icon": "/img/SEIGNEUR.png",
+    "decimals": 6
   }
 ]
