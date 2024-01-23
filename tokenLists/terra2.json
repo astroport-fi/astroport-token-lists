@@ -601,5 +601,12 @@
     "token": "terra1uaha4gdzn5dz5ela76x74rlah8954m8ehwjyq4v75hq7relx49tszzsh36",
     "icon": "/img/pyth.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
+    "icon": "/img/WOSMO.PNG",
+    "decimals": 6
   }
 ]
