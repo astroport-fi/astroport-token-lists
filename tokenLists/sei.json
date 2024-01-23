@@ -703,6 +703,12 @@
     "decimals": 6
   },
   {
+    "protocol": "DeFi Protocol",
+    "symbol": "DEFI",
+    "token": "sei1m43vc5g9vqltp94ctsvufq9tp32nudwt3n5pn5je5smelpc6t0psem9s4k",
+    "icon": "/img/defi.png"
+  },
+  {
     "protocol": "Doge DAO",
     "symbol": "DOGEDAO",
     "token": "sei12tjnl906he8h65ldkenwgfjr6zd3v07mvqyhjhcaw8lnch9yw8zsgndfu3",
