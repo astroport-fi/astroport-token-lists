@@ -304,5 +304,12 @@
     "token": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
     "icon": "/img/goddardntrn.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Newt Killer | Max Supply 21.000",
+    "symbol": "NEWTK",
+    "token": "factory/neutron1x6dz920jhwuw9e4vf0rwwdrlkc2ztyss0eyl2n/newtkiller",
+    "icon": "/img/newtk.svg",
+    "decimals": 6
   }
 ]
