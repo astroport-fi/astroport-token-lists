@@ -703,6 +703,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Jefe",
+    "symbol": "JEFE",
+    "token": "sei1ghvu97srekvecplqn9m70d0khuq2n6q7asj8jsh7l4txr6kx89lsvl9yk3",
+    "decimals": 6,
+    "icon": "/img/jefe.png"
+  },
+  {
     "protocol": "Tensa Zangetsu",
     "symbol": "TENSA",
     "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
