@@ -585,5 +585,11 @@
     "icon": "/img/orne.png",
     "coingeckoId": "orne",
     "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/DD648F5D3CDA56D0D8D8820CF703D246B9FC4007725D8B38D23A21FF1A1477E3",
+    "icon": "/img/WOSMO.png"
   }
 ]

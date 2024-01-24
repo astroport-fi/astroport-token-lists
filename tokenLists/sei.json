@@ -756,5 +756,13 @@
     "token": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
     "icon": "/img/SEIGNEUR.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
+    "icon": "/img/WOSMO.png",
+    "decimals": 6,
+    "coingeckoId": ""
   }
 ]
