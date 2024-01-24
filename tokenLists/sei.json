@@ -764,5 +764,12 @@
     "icon": "/img/WOSMO.png",
     "decimals": 6,
     "coingeckoId": ""
+  },
+  {
+    "protocol": "Sei Mars",
+    "symbol": "SEIMARS",
+    "token": "factory/sei1yg63c0kcy2lrcq2szzcctysuyltyxm8d752ee6/seimars",
+    "icon": "/img/seimars.png",
+    "decimals": 6
   }
 ]
