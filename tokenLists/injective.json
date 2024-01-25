@@ -1,4 +1,11 @@
 [
+    {
+    "protocol": "MIB",
+    "symbol": "MIB",
+    "token": "factory/inj1s9pckznjz4hmgtxu5t9gerxtalch7wtle4y3a6/MIB",
+    "icon": "/img/kira.jpeg",
+    "decimals": 6
+  },
   {
     "protocol": "INJINEER",
     "symbol": "INJER",
