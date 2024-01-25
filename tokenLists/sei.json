@@ -17,7 +17,7 @@
     "token": "sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84",
     "icon": "/img/seinobi.png"
   },
- {
+  {
     "protocol": "Krillin",
     "symbol": "Krillin",
     "token": "sei1nyszrhsn8pqmf2ahkuzvj3jdq0zejxwfmvy89kkjg6mxceuyw0ts6fktpw",
@@ -459,7 +459,7 @@
   {
     "protocol": "SEIMEN - SEIMEN",
     "symbol": "SEIMEN",
-    "token": "sei1r02h7s9yvv062f3vd09urrjxcz630d3q76ay4q32n2jmdxm8hhlqma7het",
+    "token": "sei1sfm7432ag7jvegr03xl74fkjv5kevd3qetngnxupl8dcq6k736msf3nxum",
     "icon": "/img/seimen.png",
     "decimals": 6
   },
@@ -666,5 +666,103 @@
     "token": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
     "icon": "/img/seiv.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Joshi Kousei",
+    "symbol": "KOUSEI",
+    "token": "sei1pyugu4r6m690fwhy2d2c8vy8gktas747satfyje9xzn4pcg5xgqqgfqnp5",
+    "icon": "/img/kousei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SeiGrok",
+    "symbol": "SGK",
+    "token": "sei18874lnhhg9c0s77lzq3z0akgftyjm5eu344pckrw8z3n24urgdnq7qsqdc",
+    "icon": "/img/SeiGrok.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEISINO",
+    "symbol": "DOJO",
+    "token": "sei19fd3zhuyfwpe6n85sf8x2c0xygvlcq6r8m4f5yd87fw9tp9akk2sdvpwrr",
+    "icon": "/img/dojoseisino.webp",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIGMA AI",
+    "symbol": "SEIGMA",
+    "token": "sei1krmg8v3y8lv4z3cd8g3yzy4nexn5jcx07swdqrru4l07upg3q6hsp8rxee",
+    "icon": "/img/seigma.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Smoke Weed Every Sei",
+    "symbol": "THSEI",
+    "token": "sei1lhtx9rn8u97h8k2rq5mrvws29ls6l43p9ynkqdgm69mk40em82aswvgq2n",
+    "icon": "/img/thsei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SABER",
+    "symbol": "SABER",
+    "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
+    "icon": "/img/saber.webp",
+    "decimals": 6
+  },
+  {
+    "protocol": "DeFi Protocol",
+    "symbol": "DEFI",
+    "token": "sei1m43vc5g9vqltp94ctsvufq9tp32nudwt3n5pn5je5smelpc6t0psem9s4k",
+    "icon": "/img/defi.png"
+  },
+  {
+    "protocol": "Doge DAO",
+    "symbol": "DOGEDAO",
+    "token": "sei12tjnl906he8h65ldkenwgfjr6zd3v07mvqyhjhcaw8lnch9yw8zsgndfu3",
+    "decimals": 6,
+    "icon": "/img/dogedao.png"
+  },
+  {
+    "protocol": "Mario Simulation",
+    "symbol": "MARIO",
+    "token": "sei1tx8ktmg4a3h0kdfygjxx8uqv4yftk2m44x63d2lzgxyc0e7vwpgqgupcgp",
+    "decimals": 6,
+    "icon": "/img/mario.png"
+  },
+  {
+    "protocol": "Jefe",
+    "symbol": "JEFE",
+    "token": "sei1ghvu97srekvecplqn9m70d0khuq2n6q7asj8jsh7l4txr6kx89lsvl9yk3",
+    "decimals": 6,
+    "icon": "/img/jefe.png"
+  },
+  {
+    "protocol": "Tensa Zangetsu",
+    "symbol": "TENSA",
+    "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
+    "icon": "/img/zangetsu.png"
+  },
+  {
+    "protocol": "OX",
+    "symbol": "OX",
+    "token": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
+    "icon": "/img/ox.svg",
+    "decimals": 18,
+    "coingeckoId": "open-exchange-token"
+  },
+  {
+    "protocol": "SEIGNEUR",
+    "symbol": "SEIGNEUR",
+    "token": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
+    "icon": "/img/SEIGNEUR.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
+    "icon": "/img/WOSMO.png",
+    "decimals": 6,
+    "coingeckoId": ""
   }
 ]

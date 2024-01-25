@@ -95,6 +95,12 @@
     "coingeckoId": "sommelier"
   },
   {
+    "protocol": "DROGO",
+    "symbol": "DROGO",
+    "token": "ibc/565FE65B82C091F8BAD1379FA1B4560C036C07913355ED4BD8D156DA63F43712",
+    "icon": "/img/drogo.png"
+  },
+  {
     "protocol": "Persistence",
     "symbol": "XPRT",
     "token": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
@@ -369,6 +375,13 @@
     "icon": "/img/WIZZ.png"
   },
   {
+    "protocol": "RAMEN",
+    "symbol": "RAMEN",
+    "token": "factory/inj1z5utcc5u90n8a5m8gv30char6j4hdzxz6t3pke/ramen",
+    "decimals": 6,
+    "icon": "/img/ramen.jpeg"
+  },
+  {
     "protocol": "HRBE",
     "symbol": "HRBE",
     "token": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
@@ -435,7 +448,7 @@
     "protocol": "Hachi",
     "symbol": "HACHI",
     "token": "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
-    "decimals": 6,
+    "decimals": 9,
     "icon": "/img/HACHI.jpg"
   },
   {
@@ -464,6 +477,13 @@
     "symbol": "MOONIFY",
     "token": "factory/inj1ktq0gf7altpsf0l2qzql4sfs0vc0ru75cnj3a6/moonify",
     "icon": "/img/moonify.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "KARMA",
+    "symbol": "KARMA",
+    "token": "factory/inj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm/karmainj",
+    "icon": "/img/karma.png",
     "decimals": 6
   },
   {
@@ -536,5 +556,40 @@
     "token": "factory/inj1s9smy53dtqq087usaf02sz984uddndwuj2f0wt/injussy",
     "icon": "/img/injussy.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Dojo Token",
+    "symbol": "DOJO",
+    "token": "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923",
+    "icon": "/img/dojo.svg",
+    "decimals": 18
+  },
+  {
+    "protocol": "Dog Wif Shoes",
+    "symbol": "WIFS",
+    "token": "factory/inj10edtfelcttj3s98f755ntfplt0da5xv4z8z0lf/dogwifshoes",
+    "icon": "/img/wifs.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CROCO Token",
+    "symbol": "CROCO",
+    "token": "factory/inj1y6zxg76ltrjdx7xppvtrdqlc5ujyhfra8aqr3f/CROCO",
+    "icon": "/img/CRO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Orne",
+    "symbol": "ORNE",
+    "token": "ibc/3D99439444ACDEE71DBC4A774E49DB74B58846CCE31B9A868A7A61E4C14D321E",
+    "icon": "/img/orne.png",
+    "coingeckoId": "orne",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/DD648F5D3CDA56D0D8D8820CF703D246B9FC4007725D8B38D23A21FF1A1477E3",
+    "icon": "/img/WOSMO.png"
   }
 ]
