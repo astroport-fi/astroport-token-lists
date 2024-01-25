@@ -255,8 +255,8 @@
     "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
     "icon": "/img/simpsons.png",
     "decimals": 6
-   },
-   {
+  },
+  {
     "protocol": "Quirky",
     "symbol": "QRKY",
     "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
@@ -332,5 +332,12 @@
     "token": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
     "icon": "/img/WOSMO.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
+    "icon": "/img/stDYDX.png",
+    "decimals": 18
   }
 ]
