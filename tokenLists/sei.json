@@ -785,5 +785,12 @@
     "token": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei",
     "icon": "/img/isei.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIVIOUR",
+    "symbol": "SEIV",
+    "token": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
+    "icon": "/img/seiv.png",
+    "decimals": 6
   }
 ]
