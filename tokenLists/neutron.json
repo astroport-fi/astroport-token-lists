@@ -299,6 +299,13 @@
     "decimals": 6
   },
   {
+    "protocol": "www.retrogame.site",
+    "symbol": "RETRO",
+    "token": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
+    "icon": "/img/retro.svg",
+    "decimals": 6
+  },
+  {
     "protocol": "newtroll.XYZ",
     "symbol": "NTRL",
     "token": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
