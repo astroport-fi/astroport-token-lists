@@ -766,6 +766,13 @@
     "coingeckoId": ""
   },
   {
+    "protocol": "Sei Mars",
+    "symbol": "SEIMARS",
+    "token": "factory/sei1yg63c0kcy2lrcq2szzcctysuyltyxm8d752ee6/seimars",
+    "icon": "/img/seimars.png",
+    "decimals": 6
+  },
+  {
     "protocol": "AUTISM",
     "symbol": "AUTISM",
     "token": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
