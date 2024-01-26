@@ -299,6 +299,13 @@
     "decimals": 6
   },
   {
+    "protocol": "www.hangman.lol",
+    "symbol": "HGM",
+    "token": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
+    "icon": "/img/hangman.svg",
+    "decimals": 6
+  },
+  {
     "protocol": "www.retrogame.site",
     "symbol": "RETRO",
     "token": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
