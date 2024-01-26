@@ -598,5 +598,11 @@
     "symbol": "WOSMO",
     "token": "ibc/DD648F5D3CDA56D0D8D8820CF703D246B9FC4007725D8B38D23A21FF1A1477E3",
     "icon": "/img/WOSMO.png"
+  },
+  {
+    "protocol": "CHAKRA",
+    "symbol": "CHAKRA",
+    "token": "factory/inj13zsd797dnkgpxcrf3zxxjzykzcz55tw7kk5x3y/CHAKRA",
+    "icon": "/img/CHAKRA.png"
   }
 ]
