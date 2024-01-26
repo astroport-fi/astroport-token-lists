@@ -608,5 +608,12 @@
     "token": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
     "icon": "/img/WOSMO.png",
     "decimals": 6
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
   }
 ]
