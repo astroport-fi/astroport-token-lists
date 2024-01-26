@@ -297,5 +297,12 @@
     "token": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
     "icon": "/img/dinosaur.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "HANGMAN",
+    "symbol": "HGM",
+    "token": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
+    "icon": "/img/hangman.svg",
+    "decimals": 6
   }
 ]
