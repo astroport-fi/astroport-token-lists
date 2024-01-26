@@ -255,8 +255,8 @@
     "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
     "icon": "/img/simpsons.png",
     "decimals": 6
-   },
-   {
+  },
+  {
     "protocol": "Quirky",
     "symbol": "QRKY",
     "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
@@ -299,6 +299,20 @@
     "decimals": 6
   },
   {
+    "protocol": "www.retrogame.site",
+    "symbol": "RETRO",
+    "token": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
+    "icon": "/img/retro.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "newtroll.XYZ",
+    "symbol": "NTRL",
+    "token": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
+    "icon": "/img/newtroll.svg",
+    "decimals": 6
+  },
+  {
     "protocol": "Goddard",
     "symbol": "GODRD",
     "token": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
@@ -324,6 +338,20 @@
     "symbol": "WOSMO",
     "token": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
     "icon": "/img/WOSMO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
+    "icon": "/img/stDYDX.png",
+    "decimals": 18
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
+    "icon": "/img/autism.jpg",
     "decimals": 6
   }
 ]
