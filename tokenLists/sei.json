@@ -764,5 +764,12 @@
     "icon": "/img/WOSMO.png",
     "decimals": 6,
     "coingeckoId": ""
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
   }
 ]
