@@ -332,5 +332,12 @@
     "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
     "icon": "/img/stDYDX.png",
     "decimals": 18
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
   }
 ]
