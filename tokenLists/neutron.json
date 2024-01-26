@@ -255,8 +255,8 @@
     "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
     "icon": "/img/simpsons.png",
     "decimals": 6
-   },
-   {
+  },
+  {
     "protocol": "Quirky",
     "symbol": "QRKY",
     "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
@@ -303,6 +303,48 @@
     "symbol": "HGM",
     "token": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
     "icon": "/img/hangman.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Goddard",
+    "symbol": "GODRD",
+    "token": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
+    "icon": "/img/goddardntrn.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Newt Killer | Max Supply 21.000",
+    "symbol": "NEWTK",
+    "token": "factory/neutron1x6dz920jhwuw9e4vf0rwwdrlkc2ztyss0eyl2n/newtkiller",
+    "icon": "/img/newtk.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Apollo DAO",
+    "symbol": "APOLLO",
+    "token": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+    "icon": "/img/apollo.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
+    "icon": "/img/WOSMO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
+    "icon": "/img/stDYDX.png",
+    "decimals": 18
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
+    "icon": "/img/autism.jpg",
     "decimals": 6
   }
 ]

@@ -309,7 +309,7 @@
     "icon": "/img/drogo.png",
     "decimals": 6
   },
-    {
+  {
     "protocol": "GUGU",
     "symbol": "GUGU",
     "token": "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
@@ -585,6 +585,35 @@
     "symbol": "ADO",
     "token": "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
     "icon": "/img/ADO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Wormhole Wrapped BNB",
+    "symbol": "wBNB",
+    "token": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+    "icon": "/img/wBNB.png",
+    "decimals": 8,
+    "coingeckoId": "binance-coin-wormhole"
+  },
+  {
+    "protocol": "Pyth Network",
+    "symbol": "PYTH",
+    "token": "terra1uaha4gdzn5dz5ela76x74rlah8954m8ehwjyq4v75hq7relx49tszzsh36",
+    "icon": "/img/pyth.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
+    "icon": "/img/WOSMO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
+    "icon": "/img/autism.jpg",
     "decimals": 6
   }
 ]
