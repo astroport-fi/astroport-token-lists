@@ -299,7 +299,7 @@
     "decimals": 6
   },
   {
-    "protocol": "HANGMAN",
+    "protocol": "www.hangman.lol",
     "symbol": "HGM",
     "token": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
     "icon": "/img/hangman.svg",
