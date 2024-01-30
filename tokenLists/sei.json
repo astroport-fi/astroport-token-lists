@@ -792,5 +792,12 @@
     "token": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
     "icon": "/img/SEIV.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/2FFE07C4B4EFC0DDA099A16C6AF3C9CCA653CC56077E87217A585D48794B0BC7",
+    "icon": "/img/baddog.png",
+    "decimals": 6
   }
 ]
