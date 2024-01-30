@@ -604,5 +604,12 @@
     "symbol": "CHAKRA",
     "token": "factory/inj13zsd797dnkgpxcrf3zxxjzykzcz55tw7kk5x3y/CHAKRA",
     "icon": "/img/CHAKRA.png"
+  },
+  {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/2FFE07C4B4EFC0DDA099A16C6AF3C9CCA653CC56077E87217A585D48794B0BC7",
+    "icon": "/img/baddog.png",
+    "decimals": 6
   }
 ]
