@@ -360,5 +360,12 @@
     "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
     "icon": "/img/autism.jpg",
     "decimals": 6
+  },
+  {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/2FFE07C4B4EFC0DDA099A16C6AF3C9CCA653CC56077E87217A585D48794B0BC7",
+    "icon": "/img/baddog.png",
+    "decimals": 6
   }
 ]
