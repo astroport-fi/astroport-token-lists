@@ -615,5 +615,12 @@
     "token": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
     "icon": "/img/autism.jpg",
     "decimals": 6
+  },
+  {
+    "protocol": "DNA DAO",
+    "symbol": "DNA",
+    "token": "terra1epka8wevu90rxlvt6g5x9veevd800a760vtuftc5kqdfmrh47qds9f0m8h",
+    "icon": "/img/DNA.png",
+    "decimals": 6
   }
 ]
