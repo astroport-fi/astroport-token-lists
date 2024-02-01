@@ -792,5 +792,12 @@
     "token": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
     "icon": "/img/SEIV.png",
     "decimals": 6
+  },
+  {
+    "protocol": "CRUSEIDER",
+    "symbol": "CRUSEIDER",
+    "token": "sei1apdylqwr3f8ar2qgnlpam8sg720xs35lsk07m4rk52pvdnl2qrxswjpm32",
+    "icon": "/img/Cruseider.png",
+    "decimals": 6
   }
 ]
