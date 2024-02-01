@@ -108,6 +108,7 @@
     "symbol": "TIA",
     "token": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
     "icon": "/img/tia.png",
+    "decimals": 6,
     "coingeckoId": "celestia"
   },
   {
@@ -359,6 +360,13 @@
     "symbol": "AUTISM",
     "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
     "icon": "/img/autism.jpg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stride Staked TIA",
+    "symbol": "stTIA",
+    "token": "ibc/6569E05DEE32B339D9286A52BE33DFCEFC97267F23EF9CFDE0C055140967A9A5",
+    "icon": "/img/sttia.svg",
     "decimals": 6
   }
 ]
