@@ -799,5 +799,12 @@
     "token": "sei1apdylqwr3f8ar2qgnlpam8sg720xs35lsk07m4rk52pvdnl2qrxswjpm32",
     "icon": "/img/Cruseider.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEILONG",
+    "symbol": "SLONG",
+    "token": "sei1gg7l7vkanwhquhgasltakm28q90vkpqhpe9wqaaf750jk72unqdsv9wrdu",
+    "icon": "/img/SLONG.png",
+    "decimals": 6
   }
 ]
