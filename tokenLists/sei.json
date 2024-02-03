@@ -799,5 +799,12 @@
     "token": "sei1apdylqwr3f8ar2qgnlpam8sg720xs35lsk07m4rk52pvdnl2qrxswjpm32",
     "icon": "/img/Cruseider.png",
     "decimals": 6
+  },
+   {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/9DE1CEEB32514C5A9F6C49E92C03FA3B70ADCE30D9E553A9218868743D49BDF3",
+    "icon": "/img/baddog.png",
+    "decimals": 6
   }
 ]
