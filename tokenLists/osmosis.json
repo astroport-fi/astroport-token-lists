@@ -4,5 +4,11 @@
     "symbol": "WOSMO",
     "token": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "icon": "/img/WOSMO.png"
+  },
+   {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/2FFE07C4B4EFC0DDA099A16C6AF3C9CCA653CC56077E87217A585D48794B0BC7",
+    "icon": "/img/baddog.png"
   }
 ]
