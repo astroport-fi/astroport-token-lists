@@ -801,6 +801,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/9DE1CEEB32514C5A9F6C49E92C03FA3B70ADCE30D9E553A9218868743D49BDF3",
+    "icon": "/img/baddog.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SEILONG",
     "symbol": "SLONG",
     "token": "sei1gg7l7vkanwhquhgasltakm28q90vkpqhpe9wqaaf750jk72unqdsv9wrdu",
