@@ -1,5 +1,5 @@
 [
-    {
+  {
     "protocol": "MIB",
     "symbol": "MIB",
     "token": "factory/inj1s9pckznjz4hmgtxu5t9gerxtalch7wtle4y3a6/MIB",
@@ -609,7 +609,7 @@
     "protocol": "Chihuahuawifhat",
     "symbol": "BADDOG",
     "token": "ibc/F8AB96FFB2BF8F69AA42481D43B24E9121FF7403A4E95673D9135128CA769577",
-    "icon": "/img/baddog.png"
+    "icon": "/img/baddog.png",
     "decimals": 6
   }
 ]
