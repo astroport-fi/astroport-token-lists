@@ -310,6 +310,13 @@
     "decimals": 6
   },
   {
+    "protocol": "GUGU",
+    "symbol": "GUGU",
+    "token": "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
+    "icon": "/img/gugu.png",
+    "decimals": 6
+  },
+  {
     "protocol": "dioalma.protocol",
     "symbol": "Dinheiros",
     "token": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
@@ -359,6 +366,13 @@
     "icon": "/img/kuji.png",
     "decimals": 6,
     "coingeckoId": "kujira"
+  },
+  {
+    "protocol": "Eris Amplified KUJI",
+    "symbol": "ampKUJI",
+    "token": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04",
+    "icon": "/img/ampKUJI.png",
+    "decimals": 6
   },
   {
     "protocol": "Cosmos Hub",
@@ -564,6 +578,49 @@
     "symbol": "ITO",
     "token": "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s",
     "icon": "/img/ITO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Ado",
+    "symbol": "ADO",
+    "token": "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+    "icon": "/img/ADO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Wormhole Wrapped BNB",
+    "symbol": "wBNB",
+    "token": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+    "icon": "/img/wBNB.png",
+    "decimals": 8,
+    "coingeckoId": "binance-coin-wormhole"
+  },
+  {
+    "protocol": "Pyth Network",
+    "symbol": "PYTH",
+    "token": "terra1uaha4gdzn5dz5ela76x74rlah8954m8ehwjyq4v75hq7relx49tszzsh36",
+    "icon": "/img/pyth.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
+    "icon": "/img/WOSMO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
+  },
+  {
+    "protocol": "DNA DAO",
+    "symbol": "DNA",
+    "token": "terra1epka8wevu90rxlvt6g5x9veevd800a760vtuftc5kqdfmrh47qds9f0m8h",
+    "icon": "/img/DNA.png",
     "decimals": 6
   }
 ]

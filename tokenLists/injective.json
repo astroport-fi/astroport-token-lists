@@ -1,5 +1,12 @@
 [
   {
+    "protocol": "MIB",
+    "symbol": "MIB",
+    "token": "factory/inj1s9pckznjz4hmgtxu5t9gerxtalch7wtle4y3a6/MIB",
+    "icon": "/img/MIB.png",
+    "decimals": 6
+  },
+  {
     "protocol": "INJINEER",
     "symbol": "INJER",
     "token": "factory/inj1sjmplasxl9zgj6yh45j3ndskgdhcfcss9djkdn/INJER",
@@ -93,6 +100,12 @@
     "token": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
     "icon": "/img/somm.png",
     "coingeckoId": "sommelier"
+  },
+  {
+    "protocol": "DROGO",
+    "symbol": "DROGO",
+    "token": "ibc/565FE65B82C091F8BAD1379FA1B4560C036C07913355ED4BD8D156DA63F43712",
+    "icon": "/img/drogo.png"
   },
   {
     "protocol": "Persistence",
@@ -209,7 +222,7 @@
   },
   {
     "protocol": "AOI",
-    "symbol": "$AOI",
+    "symbol": "AOI",
     "token": "factory/inj169ed97mcnf8ay6rgvskn95n6tyt46uwvy5qgs0/aoi",
     "icon": "/img/aoi.webp",
     "decimals": 6
@@ -314,7 +327,7 @@
   },
   {
     "protocol": "Babykira",
-    "symbol": "$Babykira",
+    "symbol": "Babykira",
     "token": "factory/inj13vau2mgx6mg7ams9nngjhyng58tl9zyw0n8s93/BABYKIRA",
     "decimals": 6,
     "icon": "/img/babykira.png"
@@ -367,6 +380,13 @@
     "token": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
     "decimals": 6,
     "icon": "/img/WIZZ.png"
+  },
+  {
+    "protocol": "RAMEN",
+    "symbol": "RAMEN",
+    "token": "factory/inj1z5utcc5u90n8a5m8gv30char6j4hdzxz6t3pke/ramen",
+    "decimals": 6,
+    "icon": "/img/ramen.jpeg"
   },
   {
     "protocol": "HRBE",
@@ -435,7 +455,7 @@
     "protocol": "Hachi",
     "symbol": "HACHI",
     "token": "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
-    "decimals": 6,
+    "decimals": 9,
     "icon": "/img/HACHI.jpg"
   },
   {
@@ -467,6 +487,13 @@
     "decimals": 6
   },
   {
+    "protocol": "KARMA",
+    "symbol": "KARMA",
+    "token": "factory/inj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm/karmainj",
+    "icon": "/img/karma.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Cheelee",
     "symbol": "CHELE",
     "token": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
@@ -485,6 +512,104 @@
     "symbol": "COCK",
     "token": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
     "icon": "/img/cock.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DOGGO",
+    "symbol": "DOGGO",
+    "token": "factory/inj162vxyf3utfwe4ectg29sjsn5pgq3w634r3nu0a/DOGGO",
+    "icon": "/img/DOGGO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ALIEN",
+    "symbol": "ALIEN",
+    "token": "factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN",
+    "icon": "/img/alien.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Injectools",
+    "symbol": "INJECT",
+    "token": "factory/inj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk/INJECT",
+    "icon": "/img/INJECT.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "GODS",
+    "symbol": "GODS",
+    "token": "factory/inj147s5vh6ck67zjtpgd674c7efd47jqck55chw4l/inj-GODS",
+    "icon": "/img/GODS.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PUNK",
+    "symbol": "PUNK",
+    "token": "factory/inj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs/PUNK",
+    "icon": "/img/PUNK.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Levana",
+    "symbol": "LVN",
+    "token": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+    "icon": "/img/lvn.png",
+    "decimals": 6,
+    "coingeckoId": "levana-protocol"
+  },
+  {
+    "protocol": "INJUSSY",
+    "symbol": "INJUSSY",
+    "token": "factory/inj1s9smy53dtqq087usaf02sz984uddndwuj2f0wt/injussy",
+    "icon": "/img/injussy.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Dojo Token",
+    "symbol": "DOJO",
+    "token": "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923",
+    "icon": "/img/dojo.svg",
+    "decimals": 18
+  },
+  {
+    "protocol": "Dog Wif Shoes",
+    "symbol": "WIFS",
+    "token": "factory/inj10edtfelcttj3s98f755ntfplt0da5xv4z8z0lf/dogwifshoes",
+    "icon": "/img/wifs.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CROCO Token",
+    "symbol": "CROCO",
+    "token": "factory/inj1y6zxg76ltrjdx7xppvtrdqlc5ujyhfra8aqr3f/CROCO",
+    "icon": "/img/CRO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Orne",
+    "symbol": "ORNE",
+    "token": "ibc/3D99439444ACDEE71DBC4A774E49DB74B58846CCE31B9A868A7A61E4C14D321E",
+    "icon": "/img/orne.png",
+    "coingeckoId": "orne",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/DD648F5D3CDA56D0D8D8820CF703D246B9FC4007725D8B38D23A21FF1A1477E3",
+    "icon": "/img/WOSMO.png"
+  },
+  {
+    "protocol": "CHAKRA",
+    "symbol": "CHAKRA",
+    "token": "factory/inj13zsd797dnkgpxcrf3zxxjzykzcz55tw7kk5x3y/CHAKRA",
+    "icon": "/img/CHAKRA.png"
+  },
+  {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/F8AB96FFB2BF8F69AA42481D43B24E9121FF7403A4E95673D9135128CA769577",
+    "icon": "/img/baddog.png",
     "decimals": 6
   }
 ]

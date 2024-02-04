@@ -108,6 +108,7 @@
     "symbol": "TIA",
     "token": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
     "icon": "/img/tia.png",
+    "decimals": 6,
     "coingeckoId": "celestia"
   },
   {
@@ -225,7 +226,154 @@
     "protocol": "GODDARD",
     "symbol": "GDD",
     "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
-    "icon": "/img/GODDARD.svg",
+    "icon": "/img/gdd.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "AtomEconomicZone69JaeKwonInu",
+    "symbol": "CIRCUS",
+    "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "icon": "/img/circus.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "WEN",
+    "symbol": "LAMBO",
+    "token": "neutron1plhm5ddznjmfvn2xdva5hfqvl5ksjdrwjc43e6mks9uam0r5r5xsd8kzzz",
+    "icon": "/img/WENLAMBO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Astro Boy",
+    "symbol": "BOY",
+    "token": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
+    "icon": "/img/ASTROBOY.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Simpsons",
+    "symbol": "Simpsons",
+    "token": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
+    "icon": "/img/simpsons.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Quirky",
+    "symbol": "QRKY",
+    "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
+    "icon": "/img/QUIRKY.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "What the Fuck",
+    "symbol": "WTF",
+    "token": "neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf",
+    "icon": "/img/WTF.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Laika the Space Dog",
+    "symbol": "LAIKA",
+    "token": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
+    "icon": "/img/LAIKA.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BULLDOG",
+    "symbol": "BDG",
+    "token": "neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq",
+    "icon": "/img/bulldog.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "BENGAL CAT",
+    "symbol": "BENGAL",
+    "token": "neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p",
+    "icon": "/img/bengal.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Visit Dinosaurgame.lol",
+    "symbol": "DSR",
+    "token": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "icon": "/img/dinosaur.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "www.hangman.lol",
+    "symbol": "HGM",
+    "token": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
+    "icon": "/img/hangman.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "www.retrogame.site",
+    "symbol": "RETRO",
+    "token": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
+    "icon": "/img/retro.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "newtroll.XYZ",
+    "symbol": "NTRL",
+    "token": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
+    "icon": "/img/newtroll.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Goddard",
+    "symbol": "GODRD",
+    "token": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
+    "icon": "/img/goddardntrn.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Newt Killer | Max Supply 21.000",
+    "symbol": "NEWTK",
+    "token": "factory/neutron1x6dz920jhwuw9e4vf0rwwdrlkc2ztyss0eyl2n/newtkiller",
+    "icon": "/img/newtk.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Apollo DAO",
+    "symbol": "APOLLO",
+    "token": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+    "icon": "/img/apollo.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WOSMO",
+    "token": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
+    "icon": "/img/WOSMO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
+    "icon": "/img/stDYDX.png",
+    "decimals": 18
+  },
+  {
+    "protocol": "AUTISM",
+    "symbol": "AUTISM",
+    "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
+    "icon": "/img/autism.jpg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stride Staked TIA",
+    "symbol": "stTIA",
+    "token": "ibc/6569E05DEE32B339D9286A52BE33DFCEFC97267F23EF9CFDE0C055140967A9A5",
+    "icon": "/img/sttia.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/EC279EDDCD229637600C1027C1F1074A1EA09B5B30013D00C10DAB8572DB0B4B",
+    "icon": "/img/baddog.png",
     "decimals": 6
   }
 ]
