@@ -375,5 +375,19 @@
     "token": "ibc/EC279EDDCD229637600C1027C1F1074A1EA09B5B30013D00C10DAB8572DB0B4B",
     "icon": "/img/baddog.png",
     "decimals": 6
+  },
+  {
+    "protocol": "CW20 Wrapped NTRN",
+    "symbol": "NTRN",
+    "token": "neutron1mlney6eg8nhf26586sn2n678y3qu3jy2jcu0w3u3ztnmv3lc3ags06xl6s",
+    "icon": "/img/neutron.svg",
+    "coingeckoId": "neutron-3"
+  },
+  {
+    "protocol": "CW20 Wrapped NTRN",
+    "symbol": "NTRN",
+    "token": "neutron1hr8ux3vyrtpxgnejwnmc9g6rx3ag92r6na3ajpeu7upr0tv6kgwsu4awa3",
+    "icon": "/img/neutron.svg",
+    "coingeckoId": "neutron-3"
   }
 ]
