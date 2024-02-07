@@ -1,5 +1,14 @@
 [
   {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+    "icon": "/img/astro.svg",
+    "coingeckoId": "astroport-fi",
+    "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+    "originChainId": "phoenix-1"
+  },
+  {
     "protocol": "MIB",
     "symbol": "MIB",
     "token": "factory/inj1s9pckznjz4hmgtxu5t9gerxtalch7wtle4y3a6/MIB",
@@ -20,13 +29,6 @@
     "decimals": 18,
     "icon": "/img/injective.svg",
     "coingeckoId": "injective-protocol"
-  },
-  {
-    "protocol": "Astroport",
-    "symbol": "ASTRO",
-    "token": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-    "icon": "/img/astro.svg",
-    "coingeckoId": "astroport-fi"
   },
   {
     "protocol": "USDC",

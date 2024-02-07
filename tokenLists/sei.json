@@ -1,5 +1,14 @@
 [
   {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+    "icon": "/img/astro.svg",
+    "coingeckoId": "astroport-fi",
+    "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+    "originChainId": "phoenix-1"
+  },
+  {
     "protocol": "PEPSEI",
     "symbol": "PEPSEI",
     "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
@@ -34,13 +43,6 @@
     "symbol": "SEIGOD",
     "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
     "icon": "/img/seigod.png"
-  },
-  {
-    "protocol": "Astroport",
-    "symbol": "ASTRO",
-    "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
-    "icon": "/img/astro.svg",
-    "coingeckoId": "astroport-fi"
   },
   {
     "protocol": "POPO",
