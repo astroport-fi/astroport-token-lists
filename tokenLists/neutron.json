@@ -13,34 +13,44 @@
     "symbol": "NTRN",
     "token": "untrn",
     "icon": "/img/neutron.svg",
-    "coingeckoId": "neutron-3"
+    "coingeckoId": "neutron-3",
+    "originDenom": "untrn",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "USDC",
     "symbol": "USDC.axl",
     "token": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "icon": "/img/axlusdc.svg",
-    "coingeckoId": "axlusdc"
+    "coingeckoId": "axlusdc",
+    "originDenom": "uusdc",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "Cosmos",
     "symbol": "ATOM",
     "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "icon": "/img/atom.svg",
-    "coingeckoId": "cosmos"
+    "coingeckoId": "cosmos",
+    "originDenom": "uatom",
+    "originChainId": "cosmoshub-4"
   },
   {
     "protocol": "Stride Staked ATOM",
     "symbol": "stATOM",
     "token": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
-    "icon": "/img/stAtom.svg"
+    "icon": "/img/stAtom.svg",
+    "originDenom": "stuatom",
+    "originChainId": "stride-1"
   },
   {
     "protocol": "USDT",
     "symbol": "USDT.axl",
     "token": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
     "icon": "/img/axlusdt.svg",
-    "coingeckoId": "axelar-usdt"
+    "coingeckoId": "axelar-usdt",
+    "originDenom": "uusdt",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "Kusama",
@@ -71,7 +81,9 @@
     "symbol": "MARS",
     "token": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
     "icon": "/img/mars.png",
-    "coingeckoId": "mars-protocol"
+    "coingeckoId": "mars-protocol",
+    "originDenom": "umars",
+    "originChainId": "mars-1"
   },
   {
     "protocol": "CW20 Wrapped Lido",
@@ -87,7 +99,9 @@
     "token": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
     "icon": "/img/wstETH.svg",
     "decimals": 18,
-    "coingeckoId": "wrapped-steth"
+    "coingeckoId": "wrapped-steth",
+    "originDenom": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Ethereum",
@@ -95,7 +109,9 @@
     "token": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
     "icon": "/img/eth.svg",
     "decimals": 18,
-    "coingeckoId": "axlweth"
+    "coingeckoId": "axlweth",
+    "originDenom": "weth-wei",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "Axelar",
@@ -103,7 +119,9 @@
     "token": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
     "icon": "/img/axl.svg",
     "decimals": 6,
-    "coingeckoId": "axelar"
+    "coingeckoId": "axelar",
+    "originDenom": "uaxl",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "Celestia",
@@ -111,14 +129,18 @@
     "token": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
     "icon": "/img/tia.png",
     "decimals": 6,
-    "coingeckoId": "celestia"
+    "coingeckoId": "celestia",
+    "originDenom": "utia",
+    "originChainId": "celestia"
   },
   {
     "protocol": "Nolus",
     "symbol": "NLS",
     "token": "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972",
     "icon": "/img/nolus.svg",
-    "coingeckoId": "nolus"
+    "coingeckoId": "nolus",
+    "originDenom": "unls",
+    "originChainId": "pirin-1"
   },
   {
     "protocol": "Lido",
@@ -126,14 +148,18 @@
     "token": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
     "icon": "/img/wstETH.svg",
     "decimals": 18,
-    "coingeckoId": "bridged-wrapped-steth-axelar"
+    "coingeckoId": "bridged-wrapped-steth-axelar",
+    "originDenom": "wsteth-wei",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "DYDX",
     "symbol": "DYDX",
     "token": "ibc/2CB87BCE0937B1D1DFCEE79BE4501AAF3C265E923509AEAC410AD85D27F35130",
     "icon": "/img/dydx.svg",
-    "decimals": 18
+    "decimals": 18,
+    "originDenom": "adydx",
+    "originChainId": "dydx-mainnet-1"
   },
   {
     "protocol": "Noble",
@@ -141,7 +167,9 @@
     "token": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
     "icon": "/img/usdc.svg",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc",
+    "originChainId": "noble-1"
   },
   {
     "protocol": "Osmosis",
@@ -149,7 +177,9 @@
     "token": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
     "icon": "/img/osmo.svg",
     "decimals": 6,
-    "coingeckoId": "osmosis"
+    "coingeckoId": "osmosis",
+    "originDenom": "uosmo",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "PSTAKE",
@@ -157,14 +187,18 @@
     "token": "ibc/3649CE0C8A2C79048D8C6F31FF18FA69C9BC7EB193512E0BD03B733011290445",
     "icon": "/img/stkatom.svg",
     "decimals": 6,
-    "coingeckoId": "stkatom"
+    "coingeckoId": "stkatom",
+    "originDenom": "stk/uatom",
+    "originChainId": "core-1"
   },
   {
     "protocol": "AstroPepe",
     "symbol": "ASTROPEPE",
     "token": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
     "icon": "/img/astropepe.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Cerberus",
@@ -180,63 +214,81 @@
     "token": "ibc/BEF5C9D724E1EBB04FEE237CB5F602B22B0FFE8065F540FD8BC6F9E1A4B8573D",
     "icon": "/img/huahua.png",
     "decimals": 6,
-    "coingeckoId": "chihuahua-chain"
+    "coingeckoId": "chihuahua-chain",
+    "originDenom": "uhuahua",
+    "originChainId": "chihuahua-1"
   },
   {
     "protocol": "Newt",
     "symbol": "NEWT",
     "token": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
     "icon": "/img/NEWT.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Baby Corgi",
     "symbol": "CORGI",
     "token": "factory/neutron1tklm6cvr2wxg8k65t8gh5ewslnzdfd5fsk0w3f/corgi",
     "icon": "/img/BABYCORGI.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1tklm6cvr2wxg8k65t8gh5ewslnzdfd5fsk0w3f/corgi",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Eclipse",
     "symbol": "ECLIP",
     "token": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
     "icon": "/img/eclipse.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Jimmy Neutron Finance",
     "symbol": "JIMMY",
     "token": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
     "icon": "/img/jimmy.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Badcoin",
     "symbol": "BAD",
     "token": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
     "icon": "/img/BAD.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Gay Coin",
     "symbol": "GAY",
     "token": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
     "icon": "/img/GAY.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "GODDARD",
     "symbol": "GDD",
     "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
     "icon": "/img/gdd.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "AtomEconomicZone69JaeKwonInu",
     "symbol": "CIRCUS",
     "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "icon": "/img/circus.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "WEN",
@@ -264,7 +316,9 @@
     "symbol": "QRKY",
     "token": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
     "icon": "/img/QUIRKY.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron18ps4ypzkq0dwzp84jctnd8ljrdcjgr6v27gymt/Quirky",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "What the Fuck",
@@ -299,77 +353,99 @@
     "symbol": "DSR",
     "token": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
     "icon": "/img/dinosaur.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "www.hangman.lol",
     "symbol": "HGM",
     "token": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
     "icon": "/img/hangman.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1gjzvc9jjwkp5zrkn0q6h8y33wlqq3ef80rd8ap/uhangman",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "www.retrogame.site",
     "symbol": "RETRO",
     "token": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
     "icon": "/img/retro.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "newtroll.XYZ",
     "symbol": "NTRL",
     "token": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
     "icon": "/img/newtroll.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Goddard",
     "symbol": "GODRD",
     "token": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
     "icon": "/img/goddardntrn.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Newt Killer | Max Supply 21.000",
     "symbol": "NEWTK",
     "token": "factory/neutron1x6dz920jhwuw9e4vf0rwwdrlkc2ztyss0eyl2n/newtkiller",
     "icon": "/img/newtk.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron1x6dz920jhwuw9e4vf0rwwdrlkc2ztyss0eyl2n/newtkiller",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Apollo DAO",
     "symbol": "APOLLO",
     "token": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
     "icon": "/img/apollo.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+    "originChainId": "neutron-1"
   },
   {
     "protocol": "Osmosis",
     "symbol": "WOSMO",
     "token": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
     "icon": "/img/WOSMO.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "Stride Staked DYDX",
     "symbol": "stDYDX",
     "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
     "icon": "/img/stDYDX.png",
-    "decimals": 18
+    "decimals": 18,
+    "originDenom": "stadydx",
+    "originChainId": "stride-1"
   },
   {
     "protocol": "AUTISM",
     "symbol": "AUTISM",
     "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
     "icon": "/img/autism.jpg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+    "originChainId": "injective-1"
   },
   {
     "protocol": "Stride Staked TIA",
     "symbol": "stTIA",
     "token": "ibc/6569E05DEE32B339D9286A52BE33DFCEFC97267F23EF9CFDE0C055140967A9A5",
     "icon": "/img/sttia.svg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "stutia",
+    "originChainId": "stride-1"
   },
   {
     "protocol": "Chihuahuawifhat",

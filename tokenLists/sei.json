@@ -79,7 +79,9 @@
     "symbol": "SEI",
     "token": "usei",
     "icon": "/img/sei.png",
-    "coingeckoId": "sei-network"
+    "coingeckoId": "sei-network",
+    "originDenom": "usei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Axelar USDC",
@@ -87,7 +89,9 @@
     "token": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "decimals": 6,
     "icon": "/img/axlusdc.svg",
-    "coingeckoId": "axlusdc"
+    "coingeckoId": "axlusdc",
+    "originDenom": "uusdc",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "Osmosis",
@@ -95,7 +99,9 @@
     "token": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
     "decimals": 6,
     "icon": "/img/osmo.svg",
-    "coingeckoId": "osmosis"
+    "coingeckoId": "osmosis",
+    "originDenom": "uosmo",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "Atom (Osmosis)",
@@ -111,7 +117,9 @@
     "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "decimals": 6,
     "icon": "/img/atom.svg",
-    "coingeckoId": "cosmos"
+    "coingeckoId": "cosmos",
+    "originDenom": "uatom",
+    "originChainId": "cosmoshub-4"
   },
   {
     "protocol": "SeiWhat?",
@@ -131,14 +139,18 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
     "decimals": 8,
     "icon": "/img/weth.png",
-    "coingeckoId": "weth"
+    "coingeckoId": "weth",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole ETH)",
     "symbol": "USDC.eth",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
     "decimals": 6,
-    "icon": "/img/usdc.svg"
+    "icon": "/img/usdc.svg",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDT (Wormhole ETH)",
@@ -146,7 +158,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
     "decimals": 6,
     "icon": "/img/usdt.svg",
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "BTC (Wormhole ETH)",
@@ -154,7 +168,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
     "decimals": 8,
     "icon": "/img/wbtc.svg",
-    "coingeckoId": "wrapped-bitcoin"
+    "coingeckoId": "wrapped-bitcoin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole ARB)",
@@ -162,7 +178,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
     "decimals": 6,
     "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "ETH (Wormhole ARB)",
@@ -170,7 +188,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
     "decimals": 8,
     "icon": "/img/weth.png",
-    "coingeckoId": "weth"
+    "coingeckoId": "weth",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole Matic)",
@@ -178,7 +198,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
     "decimals": 6,
     "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole OP)",
@@ -186,7 +208,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
     "decimals": 6,
     "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole SOL)",
@@ -194,7 +218,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
     "decimals": 6,
     "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole BSC)",
@@ -202,7 +228,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
     "decimals": 8,
     "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "ETH (Wormhole BSC)",
@@ -210,7 +238,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
     "decimals": 8,
     "icon": "/img/weth.png",
-    "coingeckoId": "weth"
+    "coingeckoId": "weth",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDT (Wormhole BSC)",
@@ -218,7 +248,9 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
     "decimals": 8,
     "icon": "/img/usdt.svg",
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Stride",
@@ -261,7 +293,9 @@
     "symbol": "SENSEI",
     "token": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
     "icon": "/img/sensei.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Cerberus",
@@ -276,28 +310,36 @@
     "symbol": "PDOG",
     "token": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
     "icon": "/img/PDOG.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEI CHAD",
     "symbol": "SEICHAD",
     "token": "factory/sei1q96rdw97rpzqut4fkklpsavptkae6mmdsh2u0l/chad",
     "icon": "/img/SEICHAD.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1q96rdw97rpzqut4fkklpsavptkae6mmdsh2u0l/chad",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Seixy",
     "symbol": "SEIXY",
     "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
     "icon": "/img/SEIXY.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIze token",
     "symbol": "SEIZE",
     "token": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
     "decimals": 6,
-    "icon": "/img/seize.png"
+    "icon": "/img/seize.png",
+    "originDenom": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIYAN",
@@ -311,7 +353,9 @@
     "symbol": "SeiyanInu",
     "token": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
     "icon": "/img/SeiyanInu.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "COOK On SEI",
@@ -325,7 +369,9 @@
     "symbol": "MID",
     "token": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
     "decimals": 6,
-    "icon": "/img/mid.png"
+    "icon": "/img/mid.png",
+    "originDenom": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "PSEIOP",
@@ -346,7 +392,9 @@
     "symbol": "SEITAMA",
     "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
     "icon": "/img/SEITAMA.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "JASEL",
@@ -365,21 +413,27 @@
     "symbol": "SHIT",
     "token": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
     "icon": "/img/seiyanhit.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Sensei Dog",
     "symbol": "SENSEI",
     "token": "factory/sei1ta5rkr6y2qlkj7px8w2cvear7m2822q4f4ea0m/sensei",
     "icon": "/img/Sensei_Dog.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1ta5rkr6y2qlkj7px8w2cvear7m2822q4f4ea0m/sensei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Popeye the Seilor",
     "symbol": "POPEYE",
     "token": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
     "icon": "/img/popeye.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIGA",
@@ -400,7 +454,9 @@
     "symbol": "SEIKITTY",
     "token": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
     "icon": "/img/kitty.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIFMOON",
@@ -421,7 +477,9 @@
     "symbol": "SEIMOON",
     "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
     "icon": "/img/seimoon.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEITAN",
@@ -435,7 +493,9 @@
     "symbol": "SEIGON",
     "token": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
     "icon": "/img/seigon.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIDOW",
@@ -449,7 +509,9 @@
     "symbol": "GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
     "icon": "/img/goldenrules.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Saint Seiya",
@@ -470,14 +532,18 @@
     "symbol": "SEIWA",
     "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
     "icon": "/img/SEIWA.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "COMMUNISM",
     "symbol": "COMMUNISM",
     "token": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
     "icon": "/img/communism.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIPEPE",
@@ -503,13 +569,17 @@
     "symbol": "SEIJAY",
     "token": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
     "icon": "/img/seijay.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "seisyphus",
     "symbol": "seisyphus",
     "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
-    "icon": "/img/seisyphus.png"
+    "icon": "/img/seisyphus.png",
+    "originDenom": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Kryptonite",
@@ -521,13 +591,17 @@
     "protocol": "SeiMario",
     "symbol": "SEIRIO",
     "token": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
-    "icon": "/img/seirio.png"
+    "icon": "/img/seirio.png",
+    "originDenom": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEI7",
     "symbol": "SEI7",
     "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
-    "icon": "/img/sei7.png"
+    "icon": "/img/sei7.png",
+    "originDenom": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "BeeInu",
@@ -545,7 +619,9 @@
     "protocol": "Seito Kaiba",
     "symbol": "SEITO",
     "token": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
-    "icon": "/img/seito-kaiba.png"
+    "icon": "/img/seito-kaiba.png",
+    "originDenom": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Sei Less",
@@ -598,7 +674,9 @@
     "symbol": "TOKENTEST",
     "token": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
     "icon": "/img/TOKENTEST.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Levana",
@@ -606,19 +684,25 @@
     "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
     "icon": "/img/lvn.png",
     "decimals": 6,
-    "coingeckoId": "levana-protocol"
+    "coingeckoId": "levana-protocol",
+    "originDenom": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "InseinClownPosse",
     "symbol": "JUGGALO",
     "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
-    "icon": "/img/InseinClownPosse.png"
+    "icon": "/img/InseinClownPosse.png",
+    "originDenom": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SeiGogeta",
     "symbol": "GOGETA",
     "token": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
-    "icon": "/img/gogeta.png"
+    "icon": "/img/gogeta.png",
+    "originDenom": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "JayAndJeff",
@@ -667,7 +751,9 @@
     "symbol": "SEIV",
     "token": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
     "icon": "/img/seiv.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Joshi Kousei",
@@ -750,14 +836,18 @@
     "token": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
     "icon": "/img/ox.svg",
     "decimals": 18,
-    "coingeckoId": "open-exchange-token"
+    "coingeckoId": "open-exchange-token",
+    "originDenom": "ox-wei",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "SEIGNEUR",
     "symbol": "SEIGNEUR",
     "token": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
     "icon": "/img/SEIGNEUR.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Osmosis",
@@ -765,35 +855,45 @@
     "token": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
     "icon": "/img/WOSMO.png",
     "decimals": 6,
-    "coingeckoId": ""
+    "coingeckoId": "",
+    "originDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "Sei Mars",
     "symbol": "SEIMARS",
     "token": "factory/sei1yg63c0kcy2lrcq2szzcctysuyltyxm8d752ee6/seimars",
     "icon": "/img/seimars.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1yg63c0kcy2lrcq2szzcctysuyltyxm8d752ee6/seimars",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "AUTISM",
     "symbol": "AUTISM",
     "token": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
     "icon": "/img/autism.jpg",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+    "originChainId": "injective-1"
   },
   {
     "protocol": "Liquid Staking Sei via Silo",
     "symbol": "iSEI",
     "token": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei",
     "icon": "/img/isei.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIVIOUR",
     "symbol": "SEIV",
     "token": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
     "icon": "/img/seiv-2.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "CRUSEIDER",
