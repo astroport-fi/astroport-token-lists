@@ -460,5 +460,12 @@
     "token": "neutron1hr8ux3vyrtpxgnejwnmc9g6rx3ag92r6na3ajpeu7upr0tv6kgwsu4awa3",
     "icon": "/img/neutron.svg",
     "coingeckoId": "neutron-3"
+  },
+  {
+    "protocol": "Dymension",
+    "symbol": "DYM",
+    "token": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
+    "icon": "/img/dym.svg",
+    "decimals": 18
   }
 ]
