@@ -915,5 +915,15 @@
     "token": "sei1gg7l7vkanwhquhgasltakm28q90vkpqhpe9wqaaf750jk72unqdsv9wrdu",
     "icon": "/img/SLONG.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Noble",
+    "symbol": "USDC",
+    "token": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
+    "icon": "/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc",
+    "originChainId": "noble-1"
   }
 ]
