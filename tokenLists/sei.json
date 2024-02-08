@@ -505,8 +505,8 @@
     "decimals": 6
   },
   {
-    "protocol": "GOLDENRULES",
-    "symbol": "GNR",
+    "protocol": "goldenrules.lol",
+    "symbol": "$GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
     "icon": "/img/goldenrules.png",
     "decimals": 6,
