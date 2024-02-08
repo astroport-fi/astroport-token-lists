@@ -449,7 +449,7 @@
   },
   {
     "protocol": "Chihuahuawifhat",
-    "symbol": "(Osmosis)BADDOG",
+    "symbol": "BADDOG(Osmosis)",
     "token": "ibc/EC279EDDCD229637600C1027C1F1074A1EA09B5B30013D00C10DAB8572DB0B4B",
     "icon": "/img/baddog.png",
     "decimals": 6
