@@ -932,6 +932,7 @@
     "token": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
     "icon": "/img/usdt.svg",
     "decimals": 6,
+    "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
     "originChainId": "kava_2222-10"
   }
