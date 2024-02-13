@@ -935,5 +935,12 @@
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
     "originChainId": "kava_2222-10"
+  },
+  {
+    "protocol": "Seipex Credits",
+    "symbol": "SPEX",
+    "token": "sei1g3d4402zhnvwhkfkr0fnjaqajn3jqvv49vprgqymg4htg5zs2v5qu6wqmt",
+    "icon": "/img/seipex.png",
+    "decimals": 6
   }
 ]
