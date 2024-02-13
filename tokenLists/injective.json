@@ -773,5 +773,13 @@
     "token": "ibc/F8AB96FFB2BF8F69AA42481D43B24E9121FF7403A4E95673D9135128CA769577",
     "icon": "/img/baddog.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "BADKID",
+    "token": "ibc/A0C5AD197FECAF6636F589071338DC7ECD6B0809CD3A5AB131EAAA5395E7E5E8",
+    "icon": "/img/badkid.png",
+    "originDenom": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
+    "originChainId": "osmosis-1"
   }
 ]
