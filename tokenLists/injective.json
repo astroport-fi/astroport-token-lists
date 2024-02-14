@@ -773,5 +773,13 @@
     "token": "ibc/F8AB96FFB2BF8F69AA42481D43B24E9121FF7403A4E95673D9135128CA769577",
     "icon": "/img/baddog.png",
     "decimals": 6
+  },
+  {
+    "protocol": "NINPO",
+    "symbol": "NINPO",
+    "token": "inj1sudjgsyhufqu95yp7rqad3g78ws8g6htf32h88",
+    "icon": "/img/ninpo.png",
+    "originDenom": "inj1sudjgsyhufqu95yp7rqad3g78ws8g6htf32h88",
+    "originChainId": "injective-1"
   }
 ]
