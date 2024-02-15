@@ -468,11 +468,20 @@
     "icon": "/img/dym.svg",
     "decimals": 18
   },
-    {
+  {
     "protocol": "Chihuahuawifhat",
     "symbol": "BADDOG",
     "token": "ibc/784AAB8E04449646EF2AE3DE2DC71459A71E286E2941541DE6CAAB85872DC9A9",
     "icon": "/img/baddog.png",
     "decimals": 6
-  }
+  },
+  {
+    "protocol": "Stride",
+    "symbol": "STRD",
+    "token": "ibc/3552CECB7BCE1891DB6070D37EC6E954C972B1400141308FCD85FD148BD06DE5",
+    "icon": "/img/strd.svg",
+    "decimals": 6,
+    "originDenom": "ustrd",
+    "originChainId": "stride-1"
+  },
 ]
