@@ -792,5 +792,11 @@
     "coingeckoId": "kujira",
     "originDenom": "ukuji",
     "originChainId": "kaiyo-1"
+  },
+  {
+    "protocol": "NINPO",
+    "symbol": "NINPO",
+    "token": "inj1sudjgsyhufqu95yp7rqad3g78ws8g6htf32h88",
+    "icon": "/img/ninpo.png"
   }
 ]
