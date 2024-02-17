@@ -942,5 +942,12 @@
     "token": "sei1g3d4402zhnvwhkfkr0fnjaqajn3jqvv49vprgqymg4htg5zs2v5qu6wqmt",
     "icon": "/img/seipex.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Colors",
+    "symbol": "COLOR",
+    "token": "sei1vurdf82s0h9w0ca5zqajltvaqtwq6j556ld7mpnhyqg3vk422mrqv3xtrz",
+    "icon": "/img/colors.png",
+    "decimals": 6
   }
 ]
