@@ -775,6 +775,15 @@
     "decimals": 6
   },
   {
+    "protocol": "Osmosis",
+    "symbol": "BADKID",
+    "token": "ibc/A0C5AD197FECAF6636F589071338DC7ECD6B0809CD3A5AB131EAAA5395E7E5E8",
+    "icon": "/img/badkid.png",
+    "originDenom": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
+    "originChainId": "osmosis-1",
+    "decimals": 6
+  },
+  {
     "protocol": "Kujira",
     "symbol": "KUJI",
     "token": "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
