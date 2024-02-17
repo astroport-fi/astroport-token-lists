@@ -16,6 +16,7 @@
     "protocol": "BADKID",
     "symbol": "BADKID",
     "token": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
-    "icon": "/img/badkid.png"
+    "icon": "/img/badkid.png",
+    "decimals": 6
   }
 ]
