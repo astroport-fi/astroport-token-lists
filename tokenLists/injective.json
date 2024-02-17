@@ -773,5 +773,15 @@
     "token": "ibc/F8AB96FFB2BF8F69AA42481D43B24E9121FF7403A4E95673D9135128CA769577",
     "icon": "/img/baddog.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Kujira",
+    "symbol": "KUJI",
+    "token": "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
+    "icon": "/img/kuji.png",
+    "decimals": 6,
+    "coingeckoId": "kujira",
+    "originDenom": "ukuji",
+    "originChainId": "kaiyo-1"
   }
 ]
