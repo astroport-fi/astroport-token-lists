@@ -482,7 +482,8 @@
     "icon": "/img/strd.svg",
     "decimals": 6,
     "originDenom": "ustrd",
-    "originChainId": "stride-1"
+    "originChainId": "stride-1",
+    "coingeckoId": "stride"
   },
   {
     "protocol": "Osmosis",
