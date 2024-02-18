@@ -942,5 +942,12 @@
     "token": "sei1g3d4402zhnvwhkfkr0fnjaqajn3jqvv49vprgqymg4htg5zs2v5qu6wqmt",
     "icon": "/img/seipex.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Seipex Spexes",
+    "symbol": "SPEXES",
+    "token": "sei1nz629g2ljxhnh9xjnx4pagjf4xy5gvkjfafdruykyuttak75ucdsgxs8xc",
+    "icon": "/img/spexes_astro.png",
+    "decimals": 6
   }
 ]
