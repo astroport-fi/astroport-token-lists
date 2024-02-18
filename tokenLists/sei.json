@@ -944,6 +944,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Colors",
+    "symbol": "COLOR",
+    "token": "sei1vurdf82s0h9w0ca5zqajltvaqtwq6j556ld7mpnhyqg3vk422mrqv3xtrz",
+    "icon": "/img/colors.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Seipex Spexes",
     "symbol": "SPEXES",
     "token": "sei1nz629g2ljxhnh9xjnx4pagjf4xy5gvkjfafdruykyuttak75ucdsgxs8xc",
