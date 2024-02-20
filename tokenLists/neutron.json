@@ -492,5 +492,14 @@
     "icon": "/img/badkid.png",
     "originDenom": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Cartel on Cosmos",
+    "symbol": "CARTEL",
+    "token": "factory/neutron1w0pz4mjw7n96kkragj8etgfgakg5vw9lzg77wq/cartel",
+    "icon": "/img/cartel.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1w0pz4mjw7n96kkragj8etgfgakg5vw9lzg77wq/cartel",
+    "originChainId": "neutron-1"
   }
 ]
