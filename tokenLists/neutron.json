@@ -449,7 +449,7 @@
   },
   {
     "protocol": "Chihuahuawifhat",
-    "symbol": "BADDOG(Osmosis)",
+    "symbol": "BADDOG (Osmosis)",
     "token": "ibc/EC279EDDCD229637600C1027C1F1074A1EA09B5B30013D00C10DAB8572DB0B4B",
     "icon": "/img/baddog.png",
     "decimals": 6
@@ -491,6 +491,16 @@
     "token": "ibc/9F8417FBA11E5E01F7F85DDD48C400EB746E95084C11706041663845B4A700A8",
     "icon": "/img/badkid.png",
     "originDenom": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
+    "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Wrapped Bitcoin",
+    "symbol": "WBTC (Osmosis)",
+    "token": "ibc/78F7404035221CD1010518C7BC3DD99B90E59C2BA37ABFC3CE56B0CFB7E8901B",
+    "icon": "/img/wbtc.svg",
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "originDenom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
     "originChainId": "osmosis-1"
   }
 ]
