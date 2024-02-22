@@ -798,5 +798,14 @@
     "symbol": "NINPO",
     "token": "inj1sudjgsyhufqu95yp7rqad3g78ws8g6htf32h88",
     "icon": "/img/ninpo.png"
+  },
+  {
+    "protocol": "JUDO",
+    "symbol": "JUDO",
+    "token": "inj16ukv8g2jcmml7gykxn5ws8ykhxjkugl4zhft5h",
+    "icon": "/img/judo.png",
+    "decimals": 6,
+    "originDenom": "inj16ukv8g2jcmml7gykxn5ws8ykhxjkugl4zhft5h",
+    "originChainId": "injective-1"
   }
 ]
