@@ -956,5 +956,11 @@
     "token": "sei1nz629g2ljxhnh9xjnx4pagjf4xy5gvkjfafdruykyuttak75ucdsgxs8xc",
     "icon": "/img/spexes_astro.png",
     "decimals": 6
+  },
+  {
+    "protocol": "BeepX",
+    "symbol": "BEEP",
+    "token": "sei1fm4vp2csdmpu697vqqfgusr6c6nykrrysl7dxakmtutk9txsnfzq5lh4zp",
+    "decimals": 15
   }
 ]
