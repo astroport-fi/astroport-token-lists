@@ -495,6 +495,15 @@
     "originChainId": "osmosis-1"
   },
   {
+    "protocol": "Cartel on Cosmos",
+    "symbol": "CARTEL",
+    "token": "factory/neutron1w0pz4mjw7n96kkragj8etgfgakg5vw9lzg77wq/cartel",
+    "icon": "/img/cartel.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1w0pz4mjw7n96kkragj8etgfgakg5vw9lzg77wq/cartel",
+    "originChainId": "neutron-1"
+  },
+  {
     "protocol": "Wrapped Bitcoin",
     "symbol": "WBTC (Osmosis)",
     "token": "ibc/78F7404035221CD1010518C7BC3DD99B90E59C2BA37ABFC3CE56B0CFB7E8901B",
