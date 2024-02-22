@@ -490,6 +490,7 @@
     "symbol": "BADKID",
     "token": "ibc/9F8417FBA11E5E01F7F85DDD48C400EB746E95084C11706041663845B4A700A8",
     "icon": "/img/badkid.png",
+    "decimals": 6,
     "originDenom": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
     "originChainId": "osmosis-1"
   },
