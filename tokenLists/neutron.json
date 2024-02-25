@@ -415,7 +415,7 @@
     "protocol": "Osmosis",
     "symbol": "WOSMO",
     "token": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
-    "icon": "/img/WOSMO.png",
+    "icon": "/img/wosmo.png",
     "decimals": 6,
     "originDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "originChainId": "osmosis-1"

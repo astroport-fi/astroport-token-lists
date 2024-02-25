@@ -853,7 +853,7 @@
     "protocol": "Osmosis",
     "symbol": "WOSMO",
     "token": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
-    "icon": "/img/WOSMO.png",
+    "icon": "/img/wosmo.png",
     "decimals": 6,
     "coingeckoId": "",
     "originDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
