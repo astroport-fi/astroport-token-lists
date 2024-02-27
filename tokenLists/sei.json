@@ -9,6 +9,15 @@
     "originChainId": "phoenix-1"
   },
   {
+    "protocol": "MilliCoinSei",
+    "symbol": "MILLI",
+    "token": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an",
+    "icon": "/img/milli.png",
+    "decimals": 6,
+    "originDenom": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an",
+    "originChainId": "pacific-1"
+  },
+  {
     "protocol": "PEPSEI",
     "symbol": "PEPSEI",
     "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
