@@ -6,7 +6,7 @@
     "symbol": "LUNO",
     "description": "In Roman mythology, Juno (Latin: Iuno; pronounced [[Help:Pronunciation|[ˈjuːnoː]]]) was the protector and advisor of the state.",
     "decimals": 6,
-    "image": "juno/asset/luno.png",
+    "image": "/img/luno.png",
     "default": false,
     "coinGeckoId": ""
   }
