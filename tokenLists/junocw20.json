@@ -5,5 +5,7 @@
     "token": "juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
     "icon": "/img/luno.png",
     "decimals": 6
+    "originDenom": "cw20:juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
+    "originChainId": "juno-1"
   }
 ]
