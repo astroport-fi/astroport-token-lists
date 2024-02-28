@@ -1,13 +1,9 @@
 [
   {
-    "chainId": -1,
-    "chainName": "juno",
-    "address": "juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
+    "protocol": "Juno Network",
     "symbol": "LUNO",
-    "description": "In Roman mythology, Juno (Latin: Iuno; pronounced [[Help:Pronunciation|[ˈjuːnoː]]]) was the protector and advisor of the state.",
-    "decimals": 6,
-    "image": "/img/luno.png",
-    "default": false,
-    "coinGeckoId": ""
+    "token": "juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
+    "icon": "/img/luno.png",
+    "decimals": 6
   }
 ]
