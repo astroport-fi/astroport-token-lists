@@ -512,5 +512,14 @@
     "coingeckoId": "wrapped-bitcoin",
     "originDenom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Juno Network",
+    "symbol": "LUNO",
+    "token": "juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
+    "icon": "/img/luno.png",
+    "decimals": 6,
+    "originDenom": "cw20:juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
+    "originChainId": "juno-1"
   }
 ]
