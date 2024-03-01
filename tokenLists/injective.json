@@ -807,5 +807,14 @@
     "decimals": 6,
     "originDenom": "inj16ukv8g2jcmml7gykxn5ws8ykhxjkugl4zhft5h",
     "originChainId": "injective-1"
-  }
+  },
+  {
+    "protocol": "QUNT",
+    "symbol": "QUNT",
+    "token": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+    "icon": "/img/QUNT.png",
+    "decimals": 6,
+    "originDenom": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+    "originChainId": "injective-1"
+  },
 ]
