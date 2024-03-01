@@ -273,15 +273,6 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "GODDARD",
-    "symbol": "GDD",
-    "token": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
-    "icon": "/img/gdd.svg",
-    "decimals": 6,
-    "originDenom": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
-    "originChainId": "neutron-1"
-  },
-  {
     "protocol": "AtomEconomicZone69JaeKwonInu",
     "symbol": "CIRCUS",
     "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
