@@ -971,5 +971,12 @@
     "symbol": "BEEP",
     "token": "sei1fm4vp2csdmpu697vqqfgusr6c6nykrrysl7dxakmtutk9txsnfzq5lh4zp",
     "decimals": 15
+  },
+  {
+    "protocol": "Seionara",
+    "symbol": "SNARA",
+    "token": "factory/sei10mwfmhhyr9zyfsyhl8hneu4qptxks2llgngk5t/seionara",
+    "icon": "/img/seionara.png",
+    "decimals": 6
   }
 ]
