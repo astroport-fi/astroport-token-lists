@@ -9,12 +9,12 @@
     "originChainId": "phoenix-1"
   },
   {
-    "protocol": "MilliCoinSei",
+    "protocol": "MILLI",
     "symbol": "MILLI",
-    "token": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an",
+    "token": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
     "icon": "/img/milli.png",
     "decimals": 6,
-    "originDenom": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an",
+    "originDenom": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
     "originChainId": "pacific-1"
   },
   {
@@ -971,5 +971,12 @@
     "symbol": "BEEP",
     "token": "sei1fm4vp2csdmpu697vqqfgusr6c6nykrrysl7dxakmtutk9txsnfzq5lh4zp",
     "decimals": 15
+  },
+  {
+    "protocol": "Seionara",
+    "symbol": "SNARA",
+    "token": "factory/sei10mwfmhhyr9zyfsyhl8hneu4qptxks2llgngk5t/seionara",
+    "icon": "/img/seionara.png",
+    "decimals": 6
   }
 ]
