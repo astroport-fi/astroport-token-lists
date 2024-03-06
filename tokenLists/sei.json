@@ -8,6 +8,13 @@
     "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "originChainId": "phoenix-1"
   },
+ {
+    "protocol": "AKITAAAAAA",
+    "symbol": "AAAAAA",
+    "token": "sei1vw6rxcg0kczy8728phdgxpuw78za2h9lgm4h7q0ughw364yz7luq26tchc",
+    "icon": "/img/akita-transparent.png",
+    "decimals": 6
+  },
   {
     "protocol": "MILLI",
     "symbol": "MILLI",
