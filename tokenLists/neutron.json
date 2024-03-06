@@ -4,6 +4,7 @@
     "symbol": "ASTRO",
     "token": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
     "icon": "/img/astro.svg",
+    "decimals": 6,
     "coingeckoId": "astroport-fi",
     "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "originChainId": "phoenix-1"
@@ -13,6 +14,7 @@
     "symbol": "NTRN",
     "token": "untrn",
     "icon": "/img/neutron.svg",
+    "decimals": 6,
     "coingeckoId": "neutron-3",
     "originDenom": "untrn",
     "originChainId": "neutron-1"
@@ -24,7 +26,8 @@
     "icon": "/img/axlusdc.svg",
     "coingeckoId": "axlusdc",
     "originDenom": "uusdc",
-    "originChainId": "axelar-dojo-1"
+    "originChainId": "axelar-dojo-1",
+    "decimals": 6
   },
   {
     "protocol": "Cosmos",
@@ -33,7 +36,8 @@
     "icon": "/img/atom.svg",
     "coingeckoId": "cosmos",
     "originDenom": "uatom",
-    "originChainId": "cosmoshub-4"
+    "originChainId": "cosmoshub-4",
+    "decimals": 6
   },
   {
     "protocol": "Stride Staked ATOM",
@@ -41,7 +45,8 @@
     "token": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
     "icon": "/img/stAtom.svg",
     "originDenom": "stuatom",
-    "originChainId": "stride-1"
+    "originChainId": "stride-1",
+    "decimals": 6
   },
   {
     "protocol": "USDT",
@@ -50,7 +55,8 @@
     "icon": "/img/axlusdt.svg",
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
-    "originChainId": "axelar-dojo-1"
+    "originChainId": "axelar-dojo-1",
+    "decimals": 6
   },
   {
     "protocol": "Kusama",
@@ -83,7 +89,8 @@
     "icon": "/img/mars.png",
     "coingeckoId": "mars-protocol",
     "originDenom": "umars",
-    "originChainId": "mars-1"
+    "originChainId": "mars-1",
+    "decimals": 6
   },
   {
     "protocol": "CW20 Wrapped Lido",
@@ -140,7 +147,8 @@
     "icon": "/img/nolus.svg",
     "coingeckoId": "nolus",
     "originDenom": "unls",
-    "originChainId": "pirin-1"
+    "originChainId": "pirin-1",
+    "decimals": 6
   },
   {
     "protocol": "Lido",
@@ -459,6 +467,7 @@
     "symbol": "NTRN",
     "token": "neutron1hr8ux3vyrtpxgnejwnmc9g6rx3ag92r6na3ajpeu7upr0tv6kgwsu4awa3",
     "icon": "/img/neutron.svg",
+    "decimals": 6,
     "coingeckoId": "neutron-3"
   },
   {

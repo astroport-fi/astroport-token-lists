@@ -3,7 +3,8 @@
     "protocol": "WOSMO",
     "symbol": "WOSMO",
     "token": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
-    "icon": "/img/wosmo.png"
+    "icon": "/img/wosmo.png",
+    "decimals": 6
   },
   {
     "protocol": "Chihuahuawifhat",
