@@ -21,7 +21,7 @@
   },
   {
     "protocol": "BTSG",
-    "symbol": "BTSG",
+    "symbol": "BTSG.sif",
     "token": "ibc/CCF4908522F309E2E8C2A3129321C78A6C01C90085502CE3C46EE20580BCD9B4",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/btsg.png",
     "decimals": 18,
@@ -78,7 +78,7 @@
   },
   {
     "protocol": "ARB",
-    "symbol": "ARB",
+    "symbol": "ARB.axl",
     "token": "ibc/10E5E5B06D78FFBB61FD9F89209DEE5FD4446ED0550CBB8E3747DA79E10D9DC6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/arbitrum/images/arb.png",
     "decimals": 18,
@@ -98,7 +98,7 @@
   },
   {
     "protocol": "axlMKR",
-    "symbol": "axlMKR",
+    "symbol": "MKR.axl",
     "token": "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg",
     "decimals": 18,
@@ -108,7 +108,7 @@
   },
   {
     "protocol": "PEPE",
-    "symbol": "PEPE",
+    "symbol": "PEPE.axl",
     "token": "ibc/E47F4E97C534C95B942729E1B25DBDE111EA791411CFF100515050BEA0AC0C6B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/pepe.png",
     "decimals": 18,
@@ -128,7 +128,7 @@
   },
   {
     "protocol": "USDC",
-    "symbol": "USDC",
+    "symbol": "USDC.axl.avalanche",
     "token": "ibc/F17C9CA112815613C5B6771047A093054F837C3020CBA59DFFD9D780A8B2984C",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png",
     "decimals": 6,
@@ -175,7 +175,7 @@
   },
   {
     "protocol": "YieldETH",
-    "symbol": "YieldETH",
+    "symbol": "YieldETH.axl",
     "token": "ibc/FBB3FEF80ED2344D821D4F95C31DBFD33E4E31D5324CAD94EF756E67B749F668",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/yieldeth.png",
     "decimals": 18,
@@ -214,7 +214,7 @@
   },
   {
     "protocol": "USDC",
-    "symbol": "USDC",
+    "symbol": "USDC.grv",
     "token": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
     "decimals": 6,
@@ -242,7 +242,7 @@
   },
   {
     "protocol": "DNXC",
-    "symbol": "DNXC",
+    "symbol": "DNXC.sif",
     "token": "ibc/A34E137CEB4F379E0808F729814FA3EAB99C6C2CE21C48C4FB6463ABF95B6408",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/dnxc.png",
     "decimals": 18,
@@ -281,7 +281,7 @@
   },
   {
     "protocol": "USDT",
-    "symbol": "USDT",
+    "symbol": "USDT.sif",
     "token": "ibc/156AAF60BB330F06D4DB515FEA6D3D14A5379C2201C79A73AE242CC27591246C",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdt.png",
     "decimals": 6,
@@ -320,7 +320,7 @@
   },
   {
     "protocol": "rETH",
-    "symbol": "rETH",
+    "symbol": "rETH.axl",
     "token": "ibc/E610B83FD5544E00A8A1967A2EB3BEF25F1A8CFE8650FE247A8BD4ECA9DC9222",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/reth.png",
     "decimals": 18,
@@ -350,7 +350,7 @@
   },
   {
     "protocol": "APE",
-    "symbol": "APE",
+    "symbol": "APE.axl",
     "token": "ibc/F83CC6471DA4D4B508F437244F10B9E4C68975344E551A2DEB6B8617AB08F0D4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ape.svg",
     "decimals": 18,
@@ -407,7 +407,7 @@
   },
   {
     "protocol": "OX",
-    "symbol": "OX",
+    "symbol": "OX.axl",
     "token": "ibc/61DE6748CA641D2422C6D07C53F6C7215EEF7AE8BC61439B83A0DEA061B487E1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ox.svg",
     "decimals": 18,
@@ -454,7 +454,7 @@
   },
   {
     "protocol": "BNT",
-    "symbol": "BNT",
+    "symbol": "BNT.sif",
     "token": "ibc/6A8A4CB26590C4CAB7AF75F9621C4DF3294E7228A68FE7CEA47214127E5626C4",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/bnt.png",
     "decimals": 18,
@@ -474,7 +474,7 @@
   },
   {
     "protocol": "AXS",
-    "symbol": "AXS",
+    "symbol": "AXS.sif",
     "token": "ibc/5452AEA55B480F3E6CF87373F518F5E04827EBB2CF3E10D5327BE556035905EA",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/axs.png",
     "decimals": 18,
@@ -484,7 +484,7 @@
   },
   {
     "protocol": "OCC",
-    "symbol": "OCC",
+    "symbol": "OCC.grv",
     "token": "ibc/0362302C7F45A97E304A087F05553DCECF0EAED24A17BC3D5B1BCC5E5B787E4C",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/occamfi.png",
     "decimals": 18,
@@ -493,7 +493,7 @@
   },
   {
     "protocol": "BNB",
-    "symbol": "BNB",
+    "symbol": "BNB.carbon",
     "token": "ibc/09B40B4315A4A188A84E0C5F2A11013604B3F8D8542970A1F767481B6560E66B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.png",
     "decimals": 18,
@@ -541,7 +541,7 @@
   },
   {
     "protocol": "USDT",
-    "symbol": "USDT",
+    "symbol": "USDT.grv",
     "token": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
     "decimals": 6,
@@ -617,7 +617,7 @@
   },
   {
     "protocol": "axlWMATIC",
-    "symbol": "axlWMATIC",
+    "symbol": "WMATIC.axl",
     "token": "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.png",
     "decimals": 18,
@@ -686,7 +686,7 @@
   },
   {
     "protocol": "cbETH",
-    "symbol": "cbETH",
+    "symbol": "cbETH.axl",
     "token": "ibc/4D7A6F2A7744B1534C984A21F9EDFFF8809FC71A9E9243FFB702073E7FCA513A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/cbeth.png",
     "decimals": 18,
@@ -725,7 +725,7 @@
   },
   {
     "protocol": "pSTAKE",
-    "symbol": "pSTAKE",
+    "symbol": "pSTAKE.grv",
     "token": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.png",
     "decimals": 18,
@@ -735,7 +735,7 @@
   },
   {
     "protocol": "sfrxETH",
-    "symbol": "sfrxETH",
+    "symbol": "sfrxETH.axl",
     "token": "ibc/81F578C39006EB4B27FFFA9460954527910D73390991B379C03B18934D272F46",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/sfrxeth.svg",
     "decimals": 18,
@@ -745,7 +745,7 @@
   },
   {
     "protocol": "axlUSDT",
-    "symbol": "axlUSDT",
+    "symbol": "USDT.axl",
     "token": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.png",
     "decimals": 6,
@@ -802,7 +802,7 @@
   },
   {
     "protocol": "GLTO",
-    "symbol": "GLTO",
+    "symbol": "GLTO.peggy",
     "token": "ibc/072E5B3D6F278B3E6A9C51D7EAD1A737148609512C5EBE8CBCB5663264A0DDB7",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/glto.png",
     "decimals": 6,
@@ -830,7 +830,7 @@
   },
   {
     "protocol": "wstETH",
-    "symbol": "wstETH",
+    "symbol": "wstETH.axl",
     "token": "ibc/B2BD584CD2A0A9CE53D4449667E26160C7D44A9C41AF50F602C201E5B3CCA46C",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
     "decimals": 18,
@@ -877,7 +877,7 @@
   },
   {
     "protocol": "Band",
-    "symbol": "Band",
+    "symbol": "Band.sif",
     "token": "ibc/E867271A6D9BB3D1AE7DF8E4BFB32744F990CA6C981D1BB816F9F8B5441D6B59",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/band.png",
     "decimals": 18,
@@ -915,7 +915,7 @@
   },
   {
     "protocol": "CONV",
-    "symbol": "CONV",
+    "symbol": "CONV.sif",
     "token": "ibc/3BD8B9C0E5B1C6910F5E78B0B4F66942EFA255F180BB8F387EDE2DED85CF6528",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/conv.png",
     "decimals": 18,
@@ -989,7 +989,7 @@
   },
   {
     "protocol": "GRT",
-    "symbol": "GRT",
+    "symbol": "GRT.sif",
     "token": "ibc/6500D6B3F63B7386E9A4EBF39E7D10B99707D2FFA6705A2E2712F7620EBDD1EC",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/grt.png",
     "decimals": 18,
@@ -1048,7 +1048,7 @@
   },
   {
     "protocol": "AKRO",
-    "symbol": "AKRO",
+    "symbol": "AKRO.sif",
     "token": "ibc/C75CD65E9BD422B1C4649CA33048807D1473A81A7190E774FE5F9B2E0896D46C",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/akro.png",
     "decimals": 18,
@@ -1068,7 +1068,7 @@
   },
   {
     "protocol": "LINK",
-    "symbol": "LINK",
+    "symbol": "LINK.sif",
     "token": "ibc/24974672B990F73622F6D0000B00B5BFCF56BD864FA9459CDD7C1B58A6139BCC",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/link.png",
     "decimals": 18,
@@ -1115,7 +1115,7 @@
   },
   {
     "protocol": "MATIC",
-    "symbol": "MATIC",
+    "symbol": "MATIC.sif",
     "token": "ibc/3624ED410166AC6F418D30390F003114003788620CFFAEE5C881F1B44A4DDA75",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/matic.png",
     "decimals": 18,
@@ -1163,7 +1163,7 @@
   },
   {
     "protocol": "WBTC",
-    "symbol": "WBTC",
+    "symbol": "WBTC.axl",
     "token": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png",
     "decimals": 8,
@@ -1173,7 +1173,7 @@
   },
   {
     "protocol": "COCOS",
-    "symbol": "COCOS",
+    "symbol": "COCOS.sif",
     "token": "ibc/FAF3DD2FCCF5631A60E4F30CC68FBBF980A2FB20FBD2BCFD13EB37E316FCA4A5",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/cocos.png",
     "decimals": 18,
@@ -1182,7 +1182,7 @@
   },
   {
     "protocol": "DAI",
-    "symbol": "DAI",
+    "symbol": "DAI.sif",
     "token": "ibc/FD4CB2BCFBE3983D4EC289515F835406574287B7CBF3D85F516BC7014952E2EF",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/dai.png",
     "decimals": 18,
@@ -1202,7 +1202,7 @@
   },
   {
     "protocol": "WETH",
-    "symbol": "WETH",
+    "symbol": "WETH.axl",
     "token": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
     "decimals": 18,
@@ -1242,7 +1242,7 @@
   },
   {
     "protocol": "WAVAX",
-    "symbol": "WAVAX",
+    "symbol": "WAVAX.axl",
     "token": "ibc/6F62F01D913E3FFE472A38C78235B8F021B511BC6596ADFF02615C8F83D3B373",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg",
     "decimals": 18,
@@ -1310,7 +1310,7 @@
   },
   {
     "protocol": "SHIB",
-    "symbol": "SHIB",
+    "symbol": "SHIB.sif",
     "token": "ibc/E4FFFC6D32085A6A10A4ACED57594434AE603F94C4A4D44F3FD5A9609E5B2BFE",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/shib.png",
     "decimals": 18,
@@ -1359,7 +1359,7 @@
   },
   {
     "protocol": "DAI",
-    "symbol": "DAI",
+    "symbol": "DAI.grv",
     "token": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/dai.svg",
     "decimals": 18,
@@ -1378,7 +1378,7 @@
   },
   {
     "protocol": "ENJ",
-    "symbol": "ENJ",
+    "symbol": "ENJ.sif",
     "token": "ibc/1C65320EE79A82EB2C716CE7F6E51A36833FEA6B7E7D62447C6566D41E9FF97B",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/enj.png",
     "decimals": 18,
@@ -1388,7 +1388,7 @@
   },
   {
     "protocol": "AAVE",
-    "symbol": "AAVE",
+    "symbol": "AAVE.sif",
     "token": "ibc/38372C22B3AC4CDB680E30D919E4A330481F5F4E01307A44FC3052914793F7A2",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/aave.png",
     "decimals": 18,
@@ -1418,7 +1418,7 @@
   },
   {
     "protocol": "AAVE",
-    "symbol": "AAVE",
+    "symbol": "AAVE.axl",
     "token": "ibc/384E5DD50BDE042E1AAF51F312B55F08F95BC985C503880189258B4D9374CBBE",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg",
     "decimals": 18,
@@ -1456,7 +1456,7 @@
   },
   {
     "protocol": "QUICK",
-    "symbol": "QUICK",
+    "symbol": "QUICK.sif",
     "token": "ibc/8F018FF2E2FDC4596BEFA2DDC38AAFF5487CCFBE10B5F31E83F6193B144AAFA2",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/quick.png",
     "decimals": 18,
@@ -1503,7 +1503,7 @@
   },
   {
     "protocol": "USDC",
-    "symbol": "USDC",
+    "symbol": "USDC.carbon",
     "token": "ibc/B39116ED5DA87C0DD8E959A9D0DFF5B4E38608669528A20DEFF29D7447B6087B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
     "decimals": 6,
@@ -1550,7 +1550,7 @@
   },
   {
     "protocol": "WBTC",
-    "symbol": "WBTC",
+    "symbol": "WBTC.grv",
     "token": "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png",
     "decimals": 8,
@@ -1608,7 +1608,7 @@
   },
   {
     "protocol": "axlWBNB",
-    "symbol": "axlWBNB",
+    "symbol": "WBNB.axl",
     "token": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.png",
     "decimals": 18,
@@ -1636,7 +1636,7 @@
   },
   {
     "protocol": "WGLMR",
-    "symbol": "WGLMR",
+    "symbol": "WGLMR.axl",
     "token": "ibc/1E26DB0E5122AED464D98462BD384FCCB595732A66B3970AE6CE0B58BAE0FC49",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.png",
     "decimals": 18,
@@ -1895,7 +1895,7 @@
   },
   {
     "protocol": "ANT",
-    "symbol": "ANT",
+    "symbol": "ANT.sif",
     "token": "ibc/D04E6A86F25AA29B6BFDCE3F9221D624B271305497F24F8C151035353920DA68",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/ant.png",
     "decimals": 18,
@@ -1905,7 +1905,7 @@
   },
   {
     "protocol": "POND",
-    "symbol": "POND",
+    "symbol": "POND.sif",
     "token": "ibc/F409BAB3C37B59F9979B915A1500E2A2991B83886B831D390EF090DBD86B5525",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/pond.png",
     "decimals": 18,
@@ -1924,7 +1924,7 @@
   },
   {
     "protocol": "USDT",
-    "symbol": "USDT",
+    "symbol": "USDT.peggy",
     "token": "ibc/2AD3C64D19ADFBB522CD738B58F421102143F827C1CAFF574A8BF0B81017D53D",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdt.png",
     "decimals": 6,
@@ -1943,7 +1943,7 @@
   },
   {
     "protocol": "axlDOT",
-    "symbol": "axlDOT",
+    "symbol": "DOT.axl",
     "token": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.png",
     "decimals": 10,
@@ -1953,7 +1953,7 @@
   },
   {
     "protocol": "WFTM",
-    "symbol": "WFTM",
+    "symbol": "WFTM.axl",
     "token": "ibc/5E2DFDF1734137302129EA1C1BA21A580F96F778D4F021815EA4F6DB378DA1A4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png",
     "decimals": 18,
@@ -2001,7 +2001,7 @@
   },
   {
     "protocol": "ETH",
-    "symbol": "ETH",
+    "symbol": "ETH.sif",
     "token": "ibc/5F77DE202CBE3B263AB321AC7FF6A2D35857DACF213FF9CE03E40D43CBA6A870",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/eth.png",
     "decimals": 18,
@@ -2011,7 +2011,7 @@
   },
   {
     "protocol": "WETH",
-    "symbol": "WETH",
+    "symbol": "WETH.grv",
     "token": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
     "decimals": 18,
@@ -2048,7 +2048,7 @@
   },
   {
     "protocol": "RAI",
-    "symbol": "RAI",
+    "symbol": "RAI.axl",
     "token": "ibc/BD796662F8825327D41C96355DF62045A5BA225BAE31C0A86289B9D88ED3F44E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/rai.svg",
     "decimals": 18,
@@ -2087,7 +2087,7 @@
   },
   {
     "protocol": "LINA",
-    "symbol": "LINA",
+    "symbol": "LINA.sif",
     "token": "ibc/9883832395B05DCED4CF1CC95403C49536CA58850C886C149186E89471528912",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/lina.png",
     "decimals": 18,
@@ -2116,7 +2116,7 @@
   },
   {
     "protocol": "USDC",
-    "symbol": "USDC",
+    "symbol": "USDC.sif",
     "token": "ibc/B538674E3091987E4AABF264899829CBB209EB5EFF89500213F5335F1BCED307",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdc.png",
     "decimals": 6,
@@ -2126,7 +2126,7 @@
   },
   {
     "protocol": "ETH",
-    "symbol": "ETH",
+    "symbol": "ETH.carbon",
     "token": "ibc/0824A92510C1CE67BF02944854A5D7C7F392DF111045B4551ADDF7EFFEA05A32",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg",
     "decimals": 18,
@@ -2184,7 +2184,7 @@
   },
   {
     "protocol": "sDAI",
-    "symbol": "sDAI",
+    "symbol": "sDAI.grv",
     "token": "ibc/723134C962D78FC0E35610DB6D6A19B5B791D04FE8F4154E4AAB7BDAB28DBB45",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/sdai.png",
     "decimals": 18,
@@ -2193,7 +2193,7 @@
   },
   {
     "protocol": "cUSD",
-    "symbol": "cUSD",
+    "symbol": "cUSD.axl",
     "token": "ibc/73ACC8C994C1335BDEE9F473865EE46ED6529D345B1FE8905ED1FD5F2628AADA",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/celo/asset/cusd.png",
     "decimals": 18,
@@ -2241,7 +2241,7 @@
   },
   {
     "protocol": "PAGE",
-    "symbol": "PAGE",
+    "symbol": "PAGE.grv",
     "token": "ibc/23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/page.png",
     "decimals": 8,
@@ -2326,7 +2326,7 @@
   },
   {
     "protocol": "IOTX",
-    "symbol": "IOTX",
+    "symbol": "IOTX.sif",
     "token": "ibc/9F887C35128086A768DE6A6D300A6F464FE82263352CA78EA64CF89A605CE972",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/iotx.png",
     "decimals": 18,
@@ -2336,7 +2336,7 @@
   },
   {
     "protocol": "axlLINK",
-    "symbol": "axlLINK",
+    "symbol": "LINK.axl",
     "token": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.png",
     "decimals": 18,
@@ -2364,7 +2364,7 @@
   },
   {
     "protocol": "WBTC",
-    "symbol": "WBTC",
+    "symbol": "WBTC.sif",
     "token": "ibc/3684F836AD9063BFE53DDC5594B179403C609E1CA30F24FE5D2DDE2126FCAE98",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/wbtc.png",
     "decimals": 8,
@@ -2411,7 +2411,7 @@
   },
   {
     "protocol": "BOND",
-    "symbol": "BOND",
+    "symbol": "BOND.sif",
     "token": "ibc/79DB2F9D2525460B6EB75ECFB8EAE0EC7986172FDF29E66E0AE5C452D1242D79",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/bond.png",
     "decimals": 18,
@@ -2421,7 +2421,7 @@
   },
   {
     "protocol": "BAL",
-    "symbol": "BAL",
+    "symbol": "BAL.sif",
     "token": "ibc/13EED12E8F9D922CD593302BDEC0154C58EDA4DBB8DF723F3BBFD0476BA3D988",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/bal.png",
     "decimals": 18,
@@ -2470,7 +2470,7 @@
   },
   {
     "protocol": "PAXG",
-    "symbol": "PAXG",
+    "symbol": "PAXG.grv",
     "token": "ibc/A5CCD24BA902843B1003A7EEE5F937C632808B9CF4925601241B15C5A0A51A53",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/paxg.png",
     "decimals": 18,
@@ -2508,7 +2508,7 @@
   },
   {
     "protocol": "axlFIL",
-    "symbol": "axlFIL",
+    "symbol": "FIL.axl",
     "token": "ibc/18FB5C09D9D2371F659D4846A956FA56225E377EE3C3652A2BF3542BF809159D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/filecoin/images/wfil.png",
     "decimals": 18,
@@ -2518,7 +2518,7 @@
   },
   {
     "protocol": "SHIB",
-    "symbol": "SHIB",
+    "symbol": "SHIB.axl",
     "token": "ibc/19305E20681911F14D1FB275E538CDE524C3BF88CF9AE5D5F78F4D4DA05E85B2",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/shib.svg",
     "decimals": 18,
@@ -2528,7 +2528,7 @@
   },
   {
     "protocol": "USTC",
-    "symbol": "USTC",
+    "symbol": "USTC.sif",
     "token": "ibc/1D9132FB8C4913723A89CCA37038B6B400305C7F04652670C41FB5FE73880310",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/ust.png",
     "decimals": 18,
@@ -2605,7 +2605,7 @@
   },
   {
     "protocol": "WSCRT",
-    "symbol": "WSCRT",
+    "symbol": "WSCRT.sif",
     "token": "ibc/1BC5AE276CEBAF1837F985B1A750FD35932F1AC0EC8411CAD1EE9D643BF4855B",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/wscrt.png",
     "decimals": 6,
@@ -2654,7 +2654,7 @@
   },
   {
     "protocol": "USDC",
-    "symbol": "USDC",
+    "symbol": "USDC.axl.polygon",
     "token": "ibc/231FD77ECCB2DB916D314019DA30FE013202833386B1908A191D16989AD80B5A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png",
     "decimals": 6,
@@ -2731,7 +2731,7 @@
   },
   {
     "protocol": "axlBUSD",
-    "symbol": "axlBUSD",
+    "symbol": "BUSD.axl",
     "token": "ibc/6329DD8CF31A334DD5BE3F68C846C9FE313281362B37686A62343BAC1EB1546D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png",
     "decimals": 18,
@@ -2851,7 +2851,7 @@
   },
   {
     "protocol": "FRAX",
-    "symbol": "FRAX",
+    "symbol": "FRAX.axl",
     "token": "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/frax.svg",
     "decimals": 18,
@@ -2917,7 +2917,7 @@
   },
   {
     "protocol": "YFI",
-    "symbol": "YFI",
+    "symbol": "YFI.sif",
     "token": "ibc/1826B7AA4052BBCD027D9BE044B7979F5DD39D89754605FE050C3DFA4304A1F8",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/yfi.png",
     "decimals": 18,
@@ -2937,7 +2937,7 @@
   },
   {
     "protocol": "STETH",
-    "symbol": "STETH",
+    "symbol": "STETH.grv",
     "token": "ibc/454E820139E40BD6285C821392A6AAC976D9FC59D75F1937784FC0D9B62F38D0",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/steth.png",
     "decimals": 18,
@@ -3124,7 +3124,7 @@
   },
   {
     "protocol": "axlDAI",
-    "symbol": "axlDAI",
+    "symbol": "DAI.axl",
     "token": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.png",
     "decimals": 18,
@@ -3153,7 +3153,7 @@
   },
   {
     "protocol": "CREAM",
-    "symbol": "CREAM",
+    "symbol": "CREAM.sif",
     "token": "ibc/6B02EF600BA79CD60D4A85BA4DC81D02559827E715386A3BC4C5D8386F8037E4",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/cream.png",
     "decimals": 18,
