@@ -3,14 +3,16 @@
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/4552BF8EE9C7AFD889CACF426F866350AAE28DC73507B1411972C8C1B9B38732",
-    "icon": "/img/astro.svg"
+    "icon": "/img/astro.svg",
+    "decimals": 6
   },
   {
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
     "icon": "/img/sei.png",
-    "coingeckoId": "sei-network"
+    "coingeckoId": "sei-network",
+    "decimals": 6
   },
   {
     "protocol": "Rum",

@@ -1,0 +1,83 @@
+[
+  {
+    "protocol": "OSMO",
+    "token": "uosmo",
+    "symbol": "OSMO",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+    "decimals": 6,
+    "coingeckoId": "osmosis"
+  },
+  {
+    "protocol": "Cosmos",
+    "token": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
+    "symbol": "ATOM",
+    "icon": "/tokens/generated/atom.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "WFTM",
+    "token": "ibc/055E7CBD9F1EF910CA7CA1DD293B39439CB33172F929194855DBAC6CB3081B95",
+    "symbol": "WFTM",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png",
+    "decimals": 18
+  },
+  {
+    "protocol": "axlWMATIC",
+    "token": "ibc/BBB55EA097A0EDF27EE323BF922C84536E6B1805BE764E24DB59B70802E748B6",
+    "symbol": "WMATIC",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.svg",
+    "decimals": 18
+  },
+  {
+    "protocol": "STARS",
+    "token": "ibc/1D082F4F5EE0A1F582B03B35F0F663A9CF9C6333874EDBF405559F8ABA024F24",
+    "symbol": "STARS",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
+    "decimals": 6,
+    "coingeckoId": "stargaze"
+  },
+  {
+    "protocol": "axlWETH",
+    "token": "ibc/29320BE25C3BF64A2355344625410899C1EB164038E328531C36095B0AA8BBFC",
+    "symbol": "WETH",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
+    "decimals": 18
+  },
+  {
+    "protocol": "ION",
+    "token": "uion",
+    "symbol": "ION",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
+    "decimals": 6,
+    "coingeckoId": "ion"
+  },
+  {
+    "protocol": "WAVAX",
+    "token": "ibc/609C07B33C99E40A50498BDDECDD14D8BCC89D1A14D4E36053082AEA2E8D193D",
+    "symbol": "WAVAX",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg",
+    "decimals": 18
+  },
+  {
+    "protocol": "AXL",
+    "token": "ibc/9463E39D230614B313B487836D13A392BD1731928713D4C8427A083627048DB3",
+    "symbol": "AXL",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
+    "decimals": 6,
+    "coingeckoId": "axelar"
+  },
+  {
+    "protocol": "TIA",
+    "token": "ibc/0E22FFB61DB307FE01D3D0DFF4A8EBEB6CC4997DCF9E901AE0751A2FFF4B90DD",
+    "symbol": "TIA",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/celestiatestnet/images/celestia.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "aUSDC",
+    "token": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
+    "symbol": "aUSDC",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
+    "decimals": 6
+  }
+]
