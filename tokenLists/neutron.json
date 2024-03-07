@@ -534,13 +534,17 @@
   "symbol": "KUJI",
   "token": "ibc/1053E271314D36FECBC915B51474F8B3962597CE88FF3E4A74795B0E3F367A8B",
   "icon": "/img/kuji.svg",
-  "decimals": 6
+  "decimals": 6,
+  "originDenom": "ukuji",
+  "originChainId": "kaiyo-1"
   },
   {
   "protocol": "Manta DAO",
   "symbol": "MNTA",
   "token": "ibc/83794D4DD229BCBA72347244EE5FC4594880FF236F9A0A98680D10954DE9641C",
   "icon": "/img/manta.svg",
-  "decimals": 6
+  "decimals": 6,
+  "originDenom": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+  "originChainId": "kaiyo-1"
   }
 ]
