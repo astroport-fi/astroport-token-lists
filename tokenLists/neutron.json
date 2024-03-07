@@ -528,5 +528,19 @@
     "token": "factory/neutron1qzf6t478xuutq0ahkm07pl2y2tctreccrlafkrl38k4cafk3rgdq3lfky5/VaultToken/pcl/capped/stTIA/TIA",
     "icon": "/img/(sttia-tia)vt.svg",
     "decimals": 12
+  },
+  {
+  "protocol": "Kujira",
+  "symbol": "Kujira",
+  "token": "ibc/1053E271314D36FECBC915B51474F8B3962597CE88FF3E4A74795B0E3F367A8B",
+  "icon": "/img/kuji.svg",
+  "decimals": 6
+  },
+  {
+  "protocol": "Manta",
+  "symbol": "Manta (Kujira)",
+  "token": "factory:kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7:umnta",
+  "icon": "/img/manta.svg",
+  "decimals": 6
   }
 ]
