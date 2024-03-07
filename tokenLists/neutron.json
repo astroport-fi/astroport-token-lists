@@ -539,7 +539,7 @@
   {
   "protocol": "Manta DAO",
   "symbol": "MNTA",
-  "token": "factory:kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7:umnta",
+  "token": "ibc/83794D4DD229BCBA72347244EE5FC4594880FF236F9A0A98680D10954DE9641C",
   "icon": "/img/manta.svg",
   "decimals": 6
   }
