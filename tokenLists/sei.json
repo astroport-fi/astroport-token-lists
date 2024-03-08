@@ -25,11 +25,11 @@
     "icon": "/img/pepsei.png",
     "decimals": 6
   },
-   {
+  {
     "protocol": "Dragon Ball Currency",
     "symbol": "ZENI",
     "token": "sei1kttw09hrkccutqrns9058pmt8gjzr5gglum0tha760mz0rd6mktqwkg63d",
-    "icon": "/img/zeni.png",
+    "icon": "/img/ZENI.png",
     "decimals": 6
   },
   {
