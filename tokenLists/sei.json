@@ -1018,5 +1018,12 @@
     "token": "factory/sei10mwfmhhyr9zyfsyhl8hneu4qptxks2llgngk5t/seionara",
     "icon": "/img/seionara.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Frozen Fire Sei",
+    "symbol": "FROZENFIRE",
+    "token": "sei15r5n74ydc65rr3dlungqwtmk0lgf3acfflv8wqrv66n5te6hs7ss86z5jy",
+    "icon": "/img/FrozenFireSei.png",
+    "decimals": 6
   }
 ]
