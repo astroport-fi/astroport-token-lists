@@ -827,7 +827,16 @@
     "symbol": "BMOS",
     "token": "ibc/D9353C3B1407A7F7FE0A5CCB7D06249B57337888C95C6648AEAF2C83F4F3074E",
     "icon": "/img/bitmos.png",
+    "decimals": 6,
     "originDenom": "cw20:terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
     "originChainId": "phoenix-1"
+  },
+    "protocol": "QUNT",
+    "symbol": "QUNT",
+    "token": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+    "icon": "/img/QUNT.png",
+    "decimals": 6,
+    "originDenom": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+    "originChainId": "injective-1"
   }
 ]
