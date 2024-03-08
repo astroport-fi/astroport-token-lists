@@ -17,38 +17,44 @@
     "protocol": "Stader LunaX Token",
     "symbol": "LunaX",
     "token": "terra138fmmywk3zvqezaqwnxyv8kyr8k7q4e7latncv0xreej62u9mx0su95h7d",
-    "icon": "/img/lunax.png"
+    "icon": "/img/lunax.png",
+    "decimals": 6
   },
   {
     "protocol": "Dune",
     "symbol": "RAND",
     "token": "terra1dvhew6vf87m8m49cqrszpf9ht9efy84wtxdn7cdqsnevnwuynxss3apnve",
-    "icon": "/img/dune.svg"
+    "icon": "/img/dune.svg",
+    "decimals": 6
   },
   {
     "protocol": "Dune",
     "symbol": "STB",
     "token": "terra1s50rr0vz05xmmkz5wnc2kqkjq5ldwjrdv4sqzf983pzfxuj7jgsq4ehcu2",
-    "icon": "/img/dune.svg"
+    "icon": "/img/dune.svg",
+    "decimals": 6
   },
   {
     "protocol": "Dune",
     "symbol": "STBL",
     "token": "terra1dw6s040xnv2sp8lfgeu8jjtwp0jtws6ahtmw2a3h9j9r0eddy47qesq8j2",
-    "icon": "/img/dune.svg"
+    "icon": "/img/dune.svg",
+    "decimals": 6
   },
   {
     "protocol": "Terra",
     "symbol": "LUNA",
     "token": "uluna",
     "icon": "/img/luna.svg",
-    "coingeckoId": "terra-luna-2"
+    "coingeckoId": "terra-luna-2",
+    "decimals": 6
   },
   {
     "protocol": "Valkyrie Token",
     "symbol": "VKR",
     "token": "terra1xqtstvlwcpz3kpcpw6vqh2grstw34wcezws5pawll95uuysu0hnqk6muds",
-    "icon": "/img/vkr.jpg"
+    "icon": "/img/vkr.jpg",
+    "decimals": 6
   },
   {
     "protocol": "Sayve",

@@ -4,6 +4,7 @@
     "symbol": "ASTRO",
     "token": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "icon": "/img/astro.svg",
+    "decimals": 6,
     "coingeckoId": "astroport-fi",
     "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "originChainId": "phoenix-1"
@@ -12,13 +13,15 @@
     "protocol": "Astroport",
     "symbol": "xASTRO",
     "token": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
-    "icon": "/img/xAstro.svg"
+    "icon": "/img/xAstro.svg",
+    "decimals": 6
   },
   {
     "protocol": "Stader LunaX Token",
     "symbol": "LunaX",
     "token": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
-    "icon": "/img/lunax.png"
+    "icon": "/img/lunax.png",
+    "decimals": 6
   },
   {
     "protocol": "USDC.axl",
@@ -27,7 +30,8 @@
     "icon": "/img/axlusdc.svg",
     "coingeckoId": "axlusdc",
     "originDenom": "uusdc",
-    "originChainId": "axelar-dojo-1"
+    "originChainId": "axelar-dojo-1",
+    "decimals": 6
   },
   {
     "protocol": "USDT.axl",
@@ -36,7 +40,8 @@
     "icon": "/img/axlusdt.svg",
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
-    "originChainId": "axelar-dojo-1"
+    "originChainId": "axelar-dojo-1",
+    "decimals": 6
   },
   {
     "protocol": "Terra",
@@ -45,31 +50,36 @@
     "icon": "/img/luna.svg",
     "coingeckoId": "terra-luna-2",
     "originDenom": "uluna",
-    "originChainId": "phoenix-1"
+    "originChainId": "phoenix-1",
+    "decimals": 6
   },
   {
     "protocol": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "token": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
-    "icon": "/img/ampLuna.png"
+    "icon": "/img/ampLuna.png",
+    "decimals": 6
   },
   {
     "protocol": "Steak Token",
     "symbol": "STEAK",
     "token": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
-    "icon": "/img/steak.png"
+    "icon": "/img/steak.png",
+    "decimals": 6
   },
   {
     "protocol": "FatManTerra",
     "symbol": "FATMAN",
     "token": "terra1zf90xr38pdgq0yjq2d56scclpfyu3ep4d720s9r2yw9gmwg7khaq0c30rl",
-    "icon": "/img/fatman.png"
+    "icon": "/img/fatman.png",
+    "decimals": 6
   },
   {
     "protocol": "Luna Bird",
     "symbol": "LUBI",
     "token": "terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s",
-    "icon": "/img/lunabird.png"
+    "icon": "/img/lunabird.png",
+    "decimals": 6
   },
   {
     "protocol": "Wormhole Wrapped CW20",
@@ -96,7 +106,8 @@
     "protocol": "Valkyrie Token",
     "symbol": "VKR",
     "token": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
-    "icon": "/img/vkr.jpg"
+    "icon": "/img/vkr.jpg",
+    "decimals": 6
   },
   {
     "protocol": "Redacted Money",
@@ -118,19 +129,22 @@
     "token": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
     "icon": "/img/usk.png",
     "originDenom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-    "originChainId": "kaiyo-1"
+    "originChainId": "kaiyo-1",
+    "decimals": 6
   },
   {
     "protocol": "CLUNA",
     "symbol": "CLUNA",
     "token": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
-    "icon": "/img/cLUNA.svg"
+    "icon": "/img/cLUNA.svg",
+    "decimals": 6
   },
   {
     "protocol": "orne",
     "symbol": "ORNE",
     "token": "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw",
-    "icon": "/img/orne.png"
+    "icon": "/img/orne.png",
+    "decimals": 6
   },
   {
     "protocol": "BackBone Labs",
@@ -180,7 +194,8 @@
     "token": "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33",
     "icon": "/img/comdex.svg",
     "originDenom": "ucmdx",
-    "originChainId": "comdex-1"
+    "originChainId": "comdex-1",
+    "decimals": 6
   },
   {
     "protocol": "Harbor Protocol",
@@ -188,7 +203,8 @@
     "token": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
     "icon": "/img/cmst.svg",
     "originDenom": "ucmst",
-    "originChainId": "comdex-1"
+    "originChainId": "comdex-1",
+    "decimals": 6
   },
   {
     "protocol": "Sayve",
@@ -692,7 +708,7 @@
     "icon": "/img/DNA.png",
     "decimals": 6
   },
-    {
+  {
     "protocol": "Bitmos",
     "symbol": "BMOS",
     "token": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",

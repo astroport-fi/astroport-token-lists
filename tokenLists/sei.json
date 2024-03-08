@@ -4,84 +4,103 @@
     "symbol": "ASTRO",
     "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
     "icon": "/img/astro.svg",
+    "decimals": 6,
     "coingeckoId": "astroport-fi",
     "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "originChainId": "phoenix-1"
   },
   {
-    "protocol": "MilliCoinSei",
+    "protocol": "MILLI",
     "symbol": "MILLI",
-    "token": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an",
+    "token": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
     "icon": "/img/milli.png",
     "decimals": 6,
-    "originDenom": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an",
+    "originDenom": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
     "originChainId": "pacific-1"
   },
   {
     "protocol": "PEPSEI",
     "symbol": "PEPSEI",
     "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
-    "icon": "/img/pepsei.png"
+    "icon": "/img/pepsei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Dragon Ball Currency",
+    "symbol": "ZENI",
+    "token": "sei1kttw09hrkccutqrns9058pmt8gjzr5gglum0tha760mz0rd6mktqwkg63d",
+    "icon": "/img/ZENI.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIGE",
     "symbol": "SEIGE",
     "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
-    "icon": "/img/seige.png"
+    "icon": "/img/seige.png",
+    "decimals": 6
   },
   {
     "protocol": "SEINOBI INU",
     "symbol": "SEINOBI",
     "token": "sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84",
-    "icon": "/img/seinobi.png"
+    "icon": "/img/seinobi.png",
+    "decimals": 6
   },
   {
     "protocol": "Krillin",
     "symbol": "Krillin",
     "token": "sei1nyszrhsn8pqmf2ahkuzvj3jdq0zejxwfmvy89kkjg6mxceuyw0ts6fktpw",
-    "icon": "/img/krillin.png"
+    "icon": "/img/krillin.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIKAI",
     "symbol": "SEIKAI",
     "token": "sei1g7npmwla97wcexnstfwq4hzgfp7kju5pfsa3tkzt68gwzqz9rgqqr9uf0f",
-    "icon": "/img/Seikai.png"
+    "icon": "/img/Seikai.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIGOD",
     "symbol": "SEIGOD",
     "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
-    "icon": "/img/seigod.png"
+    "icon": "/img/seigod.png",
+    "decimals": 6
   },
   {
     "protocol": "POPO",
     "symbol": "POPO",
     "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
-    "icon": "/img/POPO.jpg"
+    "icon": "/img/POPO.jpg",
+    "decimals": 6
   },
   {
     "protocol": "Messi",
     "symbol": "Messei",
     "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
-    "icon": "/img/messei.png"
+    "icon": "/img/messei.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiPunia",
     "symbol": "PUNIA",
     "token": "sei1v59mrw485axfgzwtxq8m9me59hjz04h9umlpp99wy9z4xkw3nqdql0nt53",
-    "icon": "/img/PUNIA.png"
+    "icon": "/img/PUNIA.png",
+    "decimals": 6
   },
   {
     "protocol": "Zeno",
     "symbol": "SeiZeno",
     "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
-    "icon": "/img/zeno.png"
+    "icon": "/img/zeno.png",
+    "decimals": 6
   },
   {
     "protocol": "Popo The Cat",
     "symbol": "POPO",
     "token": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
-    "icon": "/img/popo.png"
+    "icon": "/img/popo.png",
+    "decimals": 6
   },
   {
     "protocol": "SEI",
@@ -90,7 +109,8 @@
     "icon": "/img/sei.png",
     "coingeckoId": "sei-network",
     "originDenom": "usei",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "Axelar USDC",
@@ -134,13 +154,15 @@
     "protocol": "SeiWhat?",
     "symbol": "SeiWhat",
     "token": "sei1pmjehr2r7a7zaqtm3klmw554cnz2jrgy9y9arvu5s44v0pkpl8gqd5cprg",
-    "icon": "/img/seiwhat.png"
+    "icon": "/img/seiwhat.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiWhale",
     "symbol": "SEI",
     "token": "sei19u0lgmeykqxq4vwmtvcm3jt20txsjvy4e92t6qxpea5u7j82t6pq4zfg0j",
-    "icon": "/img/seiwhale.png"
+    "icon": "/img/seiwhale.png",
+    "decimals": 6
   },
   {
     "protocol": "ETH (Wormhole ETH)",
@@ -409,13 +431,15 @@
     "protocol": "JASEL",
     "symbol": "JASEL",
     "token": "sei1ye3mehavasld2arsmfevs5nfqdagtpnuzdnt2ulp75zths9ngqcqhdvf5k",
-    "icon": "/img/jasel.png"
+    "icon": "/img/jasel.png",
+    "decimals": 6
   },
   {
     "protocol": "SENsei",
     "symbol": "SEN",
     "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
-    "icon": "/img/sen.png"
+    "icon": "/img/sen.png",
+    "decimals": 6
   },
   {
     "protocol": "Seiyan Hulk Illuminati Testosterone",
@@ -565,13 +589,15 @@
     "protocol": "SEIGOD",
     "symbol": "SEIGOD",
     "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
-    "icon": "/img/seigod.png"
+    "icon": "/img/seigod.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIMBA",
     "symbol": "SEIMBA",
     "token": "sei1lyc0uevjpmtkruf0k0u8elner5qc7cawa5vllpw24aucquk40tcs5kvwhf",
-    "icon": "/img/Seimba.png"
+    "icon": "/img/Seimba.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiyanJay",
@@ -588,13 +614,15 @@
     "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
     "icon": "/img/seisyphus.png",
     "originDenom": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "Kryptonite",
     "symbol": "STSEI",
     "token": "sei1ln7ntsqmxl8s502f83km9a475zyhcfhpj7v2fsm3pcmckdyys3tsktx9vk",
-    "icon": "/img/stsei.png"
+    "icon": "/img/stsei.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiMario",
@@ -602,7 +630,8 @@
     "token": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
     "icon": "/img/seirio.png",
     "originDenom": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "SEI7",
@@ -610,19 +639,22 @@
     "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
     "icon": "/img/sei7.png",
     "originDenom": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "BeeInu",
     "symbol": "BEE",
     "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
-    "icon": "/img/bee.png"
+    "icon": "/img/bee.png",
+    "decimals": 6
   },
   {
     "protocol": "CRUSEIDER",
     "symbol": "CRUSEIDE",
     "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
-    "icon": "/img/Cruseider.png"
+    "icon": "/img/Cruseider.png",
+    "decimals": 6
   },
   {
     "protocol": "Seito Kaiba",
@@ -630,19 +662,22 @@
     "token": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
     "icon": "/img/seito-kaiba.png",
     "originDenom": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "Sei Less",
     "symbol": "SeiLess",
     "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
-    "icon": "/img/seiless150.jpg"
+    "icon": "/img/seiless150.jpg",
+    "decimals": 6
   },
   {
     "protocol": "seinucoin",
     "symbol": "SEINU",
     "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "icon": "/img/seinucoin.jpg"
+    "icon": "/img/seinucoin.jpg",
+    "decimals": 6
   },
   {
     "protocol": "SEIKO",
@@ -662,7 +697,8 @@
     "protocol": "SEILAMANDER",
     "symbol": "SEILAMANDER",
     "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
-    "icon": "/img/seilamander.png"
+    "icon": "/img/seilamander.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIZURE",
@@ -703,7 +739,8 @@
     "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
     "icon": "/img/InseinClownPosse.png",
     "originDenom": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "SeiGogeta",
@@ -711,7 +748,8 @@
     "token": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
     "icon": "/img/gogeta.png",
     "originDenom": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
-    "originChainId": "pacific-1"
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "JayAndJeff",
@@ -810,7 +848,8 @@
     "protocol": "DeFi Protocol",
     "symbol": "DEFI",
     "token": "sei1m43vc5g9vqltp94ctsvufq9tp32nudwt3n5pn5je5smelpc6t0psem9s4k",
-    "icon": "/img/defi.png"
+    "icon": "/img/defi.png",
+    "decimals": 6
   },
   {
     "protocol": "Doge DAO",
@@ -837,7 +876,8 @@
     "protocol": "Tensa Zangetsu",
     "symbol": "TENSA",
     "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
-    "icon": "/img/zangetsu.png"
+    "icon": "/img/zangetsu.png",
+    "decimals": 6
   },
   {
     "protocol": "OX",
@@ -971,5 +1011,19 @@
     "symbol": "BEEP",
     "token": "sei1fm4vp2csdmpu697vqqfgusr6c6nykrrysl7dxakmtutk9txsnfzq5lh4zp",
     "decimals": 15
+  },
+  {
+    "protocol": "Seionara",
+    "symbol": "SNARA",
+    "token": "factory/sei10mwfmhhyr9zyfsyhl8hneu4qptxks2llgngk5t/seionara",
+    "icon": "/img/seionara.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Frozen Fire Sei",
+    "symbol": "FROZENFIRE",
+    "token": "sei15r5n74ydc65rr3dlungqwtmk0lgf3acfflv8wqrv66n5te6hs7ss86z5jy",
+    "icon": "/img/FrozenFireSei.png",
+    "decimals": 6
   }
 ]
