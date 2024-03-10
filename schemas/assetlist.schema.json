@@ -1,0 +1,43 @@
+{
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/asset"
+  },
+  "minItems": 1,
+  "$defs": {
+    "asset": {
+      "type": "object",
+      "properties": {
+        "protocol": {
+          "type": "string",
+          "description": "The protocol name used for displaying purposes only"
+        },
+        "symbol": {
+          "type": "string",
+          "description": "The symbol of an asset. eg: ASTRO"
+        },
+        "token": {
+          "type": "string",
+          "description": "The token address on the original chain"
+        },
+        "icon": {
+          "type": "string"
+        },
+        "decimals": {
+          "type": "integer"
+        },
+        "coingeckoId": {
+          "type": "string"
+        },
+        "originDenom": {
+          "type": "string"
+        },
+        "originChainId": {
+          "type": "string"
+        }
+      },
+      "required": ["protocol", "symbol", "token"],
+      "additionalProperties": false
+    }
+  }
+}
