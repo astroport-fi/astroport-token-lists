@@ -1025,5 +1025,12 @@
     "token": "sei15r5n74ydc65rr3dlungqwtmk0lgf3acfflv8wqrv66n5te6hs7ss86z5jy",
     "icon": "/img/FrozenFireSei.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SeiLoot",
+    "symbol": "LOOT",
+    "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
+    "icon": "/img/SeiLoot.png",
+    "decimals": 6
   }
 ]
