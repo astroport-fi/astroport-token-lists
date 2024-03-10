@@ -713,6 +713,8 @@
     "symbol": "BMOS",
     "token": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
     "icon": "/img/bitmos.png",
-    "decimals": 6
+    "decimals": 6,
+    "originDenom": "cw20:terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
+    "originChainId": "phoenix-1"
   }
 ]
