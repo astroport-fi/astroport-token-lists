@@ -226,7 +226,16 @@
     "originDenom": "uhuahua",
     "originChainId": "chihuahua-1"
   },
-  {
+   {
+    "protocol": "SunnyProp16JunoWhaleInu",
+    "symbol": "Prop16",
+    "token": "factory/neutron1fjn0vr4dma5crx2rctv6vmfwxx0v0vrdk50l3p/SunnyProp16JunoWhaleInu",
+    "icon": "/img/sunny.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1fjn0vr4dma5crx2rctv6vmfwxx0v0vrdk50l3p/SunnyProp16JunoWhaleInu",
+    "originChainId": "neutron-1"
+  },  
+   {
     "protocol": "Newt",
     "symbol": "NEWT",
     "token": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
