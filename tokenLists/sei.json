@@ -1032,5 +1032,12 @@
     "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
     "icon": "/img/SeiLoot.png",
     "decimals": 6
+  },
+  {
+    "protocol": "F*ck Scammer",
+    "symbol": "GOKU",
+    "token": "sei14hrvtmrmplgkhl3gj9c7m96nd7lysjd9wpdg46cepg7q0wqfzx7q6th9ym",
+    "icon": "/img/goku.png",
+    "decimals": 6
   }
 ]
