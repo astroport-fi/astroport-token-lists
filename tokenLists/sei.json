@@ -1037,7 +1037,7 @@
     "protocol": "ShubaInu",
     "symbol": "SHUBA",
     "token": "factory/sei13l3utvzaxg2enzhl9sm3u76amq3s3h0m2mureq/ShubaInu",
-    "icon": "https://amber-clean-aardvark-392.mypinata.cloud/ipfs/QmTpvmFsG7NGDzqghStWoKmzY4xVuMAn42ZfbWXDZ6niRr",
+    "icon": "/img/Shuba.png",
     "decimals": 6
   }
 ]
