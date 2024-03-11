@@ -1034,6 +1034,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Doge in Sei",
+    "symbol": "DOGE",
+    "token": "sei1s7hycuvkynlmrn0amgqhhzvuu636ux4vcmxen88k59utszfcnpwqm3zrml",
+    "icon": "/img/doge-in-sei.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SeiLoot",
     "symbol": "LOOT",
     "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
