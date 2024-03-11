@@ -1053,5 +1053,12 @@
     "token": "sei1hwj2uyrqf508skvwuknautzey5heqz88rkf3hkpepurx0rnx4zvsvvt62t",
     "icon": "/img/OWL.png",
     "decimals": 6
+  },
+   {
+    "protocol": "ShubaInu",
+    "symbol": "SHUBA",
+    "token": "factory/sei13l3utvzaxg2enzhl9sm3u76amq3s3h0m2mureq/ShubaInu",
+    "icon": "/img/Shuba.png",
+    "decimals": 6
   }
 ]
