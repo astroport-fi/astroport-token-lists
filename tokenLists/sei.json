@@ -1053,5 +1053,12 @@
     "token": "sei1hwj2uyrqf508skvwuknautzey5heqz88rkf3hkpepurx0rnx4zvsvvt62t",
     "icon": "/img/OWL.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIWIFHAT",
+    "symbol": "SIF",
+    "token": "factory/sei1s6kwljuxrgg93sju2aq8n2ln20u3q0m5kjxpg0/SIF",
+    "icon": "/img/SIF.png",
+    "decimals": 6
   }
 ]
