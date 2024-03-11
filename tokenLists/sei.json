@@ -10,6 +10,13 @@
     "originChainId": "phoenix-1"
   },
   {
+    "protocol": "AKITAAAAAA",
+    "symbol": "AAAAAA",
+    "token": "sei1vw6rxcg0kczy8728phdgxpuw78za2h9lgm4h7q0ughw364yz7luq26tchc",
+    "icon": "/img/AKITAAAAAA.png",
+    "decimals": 6
+  },
+  {
     "protocol": "MILLI",
     "symbol": "MILLI",
     "token": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
@@ -1031,6 +1038,13 @@
     "symbol": "SCAM",
     "token": "factory/sei1xm2pytv4nkljevy80rdwj7nteffqvf76pkqpdr/scam",
     "icon": "/img/SCAM.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SeiLoot",
+    "symbol": "LOOT",
+    "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
+    "icon": "/img/SeiLoot.png",
     "decimals": 6
   }
 ]
