@@ -1039,5 +1039,12 @@
     "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
     "icon": "/img/SeiLoot.png",
     "decimals": 6
+  },
+  {
+    "protocol": "WWW.OOZARU.MONSTER",
+    "symbol": "OOZARU",
+    "token": "sei1wlf9j5uv50rcg0u5j6xk00px5tflptzprj39keck27eg8g7qd7hqq6kvda",
+    "icon": "/img/oozaru.png",
+    "decimals": 6
   }
 ]
