@@ -1039,5 +1039,12 @@
     "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
     "icon": "/img/SeiLoot.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Quantum",
+    "symbol": "QATM",
+    "token": "sei1mhpfh8sq6ygmcasuc2e38ldshrssdtsmaz2tu7ekgdnmvxqgrnesqt6ah6",
+    "icon": "/img/Quantum.png",
+    "decimals": 6
   }
 ]
