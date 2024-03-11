@@ -1034,6 +1034,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Wolf Or Sheep",
+    "symbol": "SCAM",
+    "token": "factory/sei1xm2pytv4nkljevy80rdwj7nteffqvf76pkqpdr/scam",
+    "icon": "/img/SCAM.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SeiLoot",
     "symbol": "LOOT",
     "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
