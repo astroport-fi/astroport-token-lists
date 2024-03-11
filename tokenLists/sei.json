@@ -1045,6 +1045,12 @@
     "symbol": "OOZARU",
     "token": "sei1wlf9j5uv50rcg0u5j6xk00px5tflptzprj39keck27eg8g7qd7hqq6kvda",
     "icon": "/img/oozaru.png",
+  },
+  {
+    "protocol": "OWL",
+    "symbol": "OWL",
+    "token": "sei1hwj2uyrqf508skvwuknautzey5heqz88rkf3hkpepurx0rnx4zvsvvt62t",
+    "icon": "/img/OWL.png",
     "decimals": 6
   }
 ]
