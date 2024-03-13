@@ -195,7 +195,7 @@
   {
     "protocol": "ASTRO",
     "symbol": "ASTRO",
-    "token": "ibc/E5916C205E90C7C3481AFD8663A13C1D6C63145FB6C38DA9FC151FEE706F32EF",
+    "token": "ibc/C25A2303FE24B922DAFFDCE377AC5A42E5EF746806D32E2ED4B610DE85C203F7",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png",
     "decimals": 6,
     "coingeckoId": "astroport-fi",
