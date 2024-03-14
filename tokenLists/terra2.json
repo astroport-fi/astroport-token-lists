@@ -420,6 +420,15 @@
     "originChainId": "kaiyo-1"
   },
   {
+    "protocol": "Jiooji",
+    "symbol": "MJJ",
+    "token": "factory/terra1hj8vslywgrgwuluajuggzpgcudk5fc9d4e6la08426dffgyl7ujs8a3e88/mjj",
+    "icon": "/img/MJJ.png",
+    "decimals": 6,
+    "originDenom": "factory/terra1hj8vslywgrgwuluajuggzpgcudk5fc9d4e6la08426dffgyl7ujs8a3e88/mjj",
+    "originChainId": "phoenix-1"
+  },
+  {
     "protocol": "Cosmos Hub",
     "symbol": "ATOM",
     "token": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
