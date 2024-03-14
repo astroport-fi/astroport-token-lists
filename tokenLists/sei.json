@@ -1078,5 +1078,12 @@
     "token": "sei1n86gts4gc4grpepgkgwq38dtyjtqt9x3tfpp2tttenreg83etddsv507rq",
     "icon": "/img/cell.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Boo",
+    "symbol": "BOO",
+    "token": "sei1kpdvchmvjqx7tr66pdetxcmq2jmc8q6kfl7m5x8a83chcn4a5ccqffk43f",
+    "icon": "/img/BOO.png",
+    "decimals": 6
   }
 ]
