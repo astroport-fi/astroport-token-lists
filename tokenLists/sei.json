@@ -1071,5 +1071,12 @@
     "decimals": 6,
     "originDenom": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
     "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "Perfect CELL",
+    "symbol": "CELL",
+    "token": "sei1n86gts4gc4grpepgkgwq38dtyjtqt9x3tfpp2tttenreg83etddsv507rq",
+    "icon": "/img/cell.png",
+    "decimals": 6
   }
 ]
