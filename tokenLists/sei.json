@@ -1062,5 +1062,14 @@
     "decimals": 6,
     "originDenom": "sei1pe3yvcs5cscp3xskss48ljpym656nh8lay83jrct985knqys2jwqd48r4y",
     "originChainId": "pacific-1"
+  },
+   {
+    "protocol": "Chase",
+    "symbol": "CHASE",
+    "token": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
+    "icon": "/img/ChaseLogo.png",
+    "decimals": 6,
+    "originDenom": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
+    "originChainId": "pacific-1"
   }
 ]
