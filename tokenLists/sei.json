@@ -1106,5 +1106,12 @@
     "token": "sei13g7sem97g7jamcar4wkfz3yda90xy96efv7qp9azlvqpxh6phmjqthe5zv",
     "icon": "/img/DamneD.png",
     "decimals": 6
+  },
+  {
+    "protocol": "CipherCircle",
+    "symbol": "CCIRCLE",
+    "token": "sei106dv4r68ctnyg7xw8jw3n37zxm2fkgv6p9rzzqvjpxg5z09fzdasfk2qch",
+    "icon": "/img/CipherCircle.png",
+    "decimals": 6
   }
 ]
