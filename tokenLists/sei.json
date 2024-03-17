@@ -1057,17 +1057,61 @@
   {
     "protocol": "Swiper",
     "symbol": "SWIPER",
-    "token": "factory/sei1ptkjfpvnr6hle7pwr9egwzh8r56ulx7uujq6fl/uswiper",
+    "token": "sei1pe3yvcs5cscp3xskss48ljpym656nh8lay83jrct985knqys2jwqd48r4y",
     "icon": "/img/swiper.png",
     "decimals": 6,
-    "originDenom": "factory/sei1ptkjfpvnr6hle7pwr9egwzh8r56ulx7uujq6fl/uswiper",
+    "originDenom": "sei1pe3yvcs5cscp3xskss48ljpym656nh8lay83jrct985knqys2jwqd48r4y",
     "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "Chase",
+    "symbol": "CHASE",
+    "token": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
+    "icon": "/img/ChaseLogo.png",
+    "decimals": 6,
+    "originDenom": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
+    "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "Perfect CELL",
+    "symbol": "CELL",
+    "token": "sei1n86gts4gc4grpepgkgwq38dtyjtqt9x3tfpp2tttenreg83etddsv507rq",
+    "icon": "/img/cell.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Boo",
+    "symbol": "BOO",
+    "token": "sei1kpdvchmvjqx7tr66pdetxcmq2jmc8q6kfl7m5x8a83chcn4a5ccqffk43f",
+    "icon": "/img/BOO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIWIFHAT",
+    "symbol": "SIF",
+    "token": "factory/sei1s6kwljuxrgg93sju2aq8n2ln20u3q0m5kjxpg0/SIF",
+    "icon": "/img/SIF.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MASTER ROSHI",
+    "symbol": "ROSHI",
+    "token": "sei1xwvx5u4rdlrlmddz620tjpqvdcyrgxs50l5uwgk799yj62gdj78shry37d",
+    "icon": "/img/masterroshi.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DamneD",
+    "symbol": "DMND",
+    "token": "sei13g7sem97g7jamcar4wkfz3yda90xy96efv7qp9azlvqpxh6phmjqthe5zv",
+    "icon": "/img/DamneD.png",
+    "decimals": 6
   },
   {
     "protocol": "CipherCircle",
     "symbol": "CCIRCLE",
     "token": "sei106dv4r68ctnyg7xw8jw3n37zxm2fkgv6p9rzzqvjpxg5z09fzdasfk2qch",
     "icon": "/img/CipherCircle.png",
-    "decimals": 6
+    "decimals: 6
   }
 ]
