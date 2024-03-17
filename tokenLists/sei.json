@@ -1092,5 +1092,12 @@
     "token": "factory/sei1s6kwljuxrgg93sju2aq8n2ln20u3q0m5kjxpg0/SIF",
     "icon": "/img/SIF.png",
     "decimals": 6
+  },
+  {
+    "protocol": "ROSHI",
+    "symbol": "MASTER ROSHI",
+    "token": "sei1xwvx5u4rdlrlmddz620tjpqvdcyrgxs50l5uwgk799yj62gdj78shry37d",
+    "icon": "/img/masterroshi.png",
+    "decimals": 6
   }
 ]
