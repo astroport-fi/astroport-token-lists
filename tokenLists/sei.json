@@ -1113,5 +1113,12 @@
     "token": "sei106dv4r68ctnyg7xw8jw3n37zxm2fkgv6p9rzzqvjpxg5z09fzdasfk2qch",
     "icon": "/img/CipherCircle.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Quantum",
+    "symbol": "QATM",
+    "token": "sei1mhpfh8sq6ygmcasuc2e38ldshrssdtsmaz2tu7ekgdnmvxqgrnesqt6ah6",
+    "icon": "/img/Quantum.png",
+    "decimals": 6
   }
 ]
