@@ -1063,7 +1063,7 @@
     "originDenom": "sei1pe3yvcs5cscp3xskss48ljpym656nh8lay83jrct985knqys2jwqd48r4y",
     "originChainId": "pacific-1"
   },
-   {
+  {
     "protocol": "Chase",
     "symbol": "CHASE",
     "token": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
@@ -1098,6 +1098,13 @@
     "symbol": "ROSHI",
     "token": "sei1xwvx5u4rdlrlmddz620tjpqvdcyrgxs50l5uwgk799yj62gdj78shry37d",
     "icon": "/img/masterroshi.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DamneD",
+    "symbol": "DMND",
+    "token": "sei13g7sem97g7jamcar4wkfz3yda90xy96efv7qp9azlvqpxh6phmjqthe5zv",
+    "icon": "/img/DamneD.png",
     "decimals": 6
   }
 ]
