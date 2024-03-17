@@ -1062,5 +1062,12 @@
     "decimals": 6,
     "originDenom": "factory/sei1ptkjfpvnr6hle7pwr9egwzh8r56ulx7uujq6fl/uswiper",
     "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "DamneD",
+    "symbol": "DMND",
+    "token": "sei13g7sem97g7jamcar4wkfz3yda90xy96efv7qp9azlvqpxh6phmjqthe5zv",
+    "icon": "/img/DamneD.png",
+    "decimals": 6
   }
 ]
