@@ -716,5 +716,14 @@
     "decimals": 6,
     "originDenom": "cw20:terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
     "originChainId": "phoenix-1"
+  },
+  {
+    "protocol": "Winnie the Pooh",
+    "symbol": "HOONEY",
+    "token": "terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3",
+    "icon": "/img/hooney.png",
+    "decimals": 6,
+    "originDenom": "cw20:terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3",
+    "originChainId": "phoenix-1"
   }
 ]
