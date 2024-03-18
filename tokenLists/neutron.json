@@ -546,5 +546,14 @@
     "decimals": 6,
     "originDenom": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
     "originChainId": "kaiyo-1"
+  },
+  {
+    "protocol": "MOO",
+    "symbol": "MOO",
+    "token": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/MOO",
+    "icon": "/img/MOO.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/MOO",
+    "originChainId": "neutron-1"
   }
 ]
