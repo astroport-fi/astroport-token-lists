@@ -1120,5 +1120,12 @@
     "token": "sei1mhpfh8sq6ygmcasuc2e38ldshrssdtsmaz2tu7ekgdnmvxqgrnesqt6ah6",
     "icon": "/img/Quantum.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SeiPepe",
+    "symbol": "SEIPEPE",
+    "token": "factory/sei1nx560efk4hxyr4sj9j2l6nxp8f6r9xkpy04wcc/seipepe",
+    "icon": "/img/SeiPepe.png",
+    "decimals": 6
   }
 ]
