@@ -46,7 +46,8 @@
     "icon": "/img/stAtom.svg",
     "originDenom": "stuatom",
     "originChainId": "stride-1",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "stride-staked-atom"
   },
   {
     "protocol": "USDT",
@@ -435,7 +436,8 @@
     "icon": "/img/stDYDX.png",
     "decimals": 18,
     "originDenom": "stadydx",
-    "originChainId": "stride-1"
+    "originChainId": "stride-1",
+    "coingeckoId": "stride-staked-dydx"
   },
   {
     "protocol": "AUTISM",
@@ -453,7 +455,8 @@
     "icon": "/img/sttia.svg",
     "decimals": 6,
     "originDenom": "stutia",
-    "originChainId": "stride-1"
+    "originChainId": "stride-1",
+    "coingeckoId": "stride-staked-tia"
   },
   {
     "protocol": "Chihuahuawifhat",
@@ -475,7 +478,8 @@
     "symbol": "DYM",
     "token": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
     "icon": "/img/dym.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "dymension"
   },
   {
     "protocol": "Chihuahuawifhat",
@@ -546,5 +550,24 @@
     "decimals": 6,
     "originDenom": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
     "originChainId": "kaiyo-1"
+  },
+  {
+    "protocol": "MOO",
+    "symbol": "MOO",
+    "token": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/MOO",
+    "icon": "/img/MOO.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/MOO",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Stride Staked DYM",
+    "symbol": "stDYM",
+    "token": "ibc/8D0C1AC5A72FB7EC187632D01BACBB68EF743CA1AF16A15C00ACBB9CF49A0070",
+    "icon": "/img/stdym.svg",
+    "decimals": 18,
+    "originDenom": "stadym",
+    "originChainId": "stride-1",
+    "coingeckoId": "stride-staked-dym"
   }
 ]

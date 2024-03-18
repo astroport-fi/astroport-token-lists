@@ -839,5 +839,11 @@
     "decimals": 6,
     "originDenom": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "RIP",
+    "symbol": "RIP",
+    "token": "inj1eu8ty289eyjvm4hcrg70n4u95jggh9eekfxs5y",
+    "decimals": 18
   }
 ]
