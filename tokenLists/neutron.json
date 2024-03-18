@@ -555,5 +555,14 @@
     "decimals": 6,
     "originDenom": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/MOO",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Stride Staked DYM",
+    "symbol": "stDYM",
+    "token": "ibc/8D0C1AC5A72FB7EC187632D01BACBB68EF743CA1AF16A15C00ACBB9CF49A0070",
+    "icon": "/img/stdym.svg",
+    "decimals": 18,
+    "originDenom": "stadym",
+    "originChainId": "stride-1"
   }
 ]
