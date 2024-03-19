@@ -10,6 +10,13 @@
     "originChainId": "phoenix-1"
   },
   {
+    "protocol": "RUGGED on Sei",
+    "symbol": "RUGGED",
+    "token": "sei1yjpdd8yjvtyv9q0uy2df6zaaje278czvgjd2aym5pwue6z4r2xtsvx63rs",
+    "icon": "/img/ruggedonsei.png",
+    "decimals": 6
+  },
+  {
     "protocol": "AKITAAAAAA",
     "symbol": "AAAAAA",
     "token": "sei1vw6rxcg0kczy8728phdgxpuw78za2h9lgm4h7q0ughw364yz7luq26tchc",
