@@ -17,6 +17,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Sese",
+    "symbol": "Sese",
+    "token": "sei1t07yl53e53yj9kgsh4j2taj5nk4c56vjc6r7nw0l7wuxsp9xh06q6stf0x",
+    "icon": "/img/sese.png",
+    "decimals": 6
+  },
+  {
     "protocol": "MILLI",
     "symbol": "MILLI",
     "token": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
