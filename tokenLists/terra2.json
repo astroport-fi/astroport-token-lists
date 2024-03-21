@@ -393,9 +393,10 @@
   {
     "protocol": "Kava",
     "symbol": "KAVA",
-    "token": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
+    "token": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
     "icon": "/img/kava.svg",
     "decimals": 6,
+    "coingeckoId": "kava",
     "originDenom": "ukava",
     "originChainId": "kava_2222-10"
   },
@@ -431,7 +432,7 @@
   {
     "protocol": "Kava",
     "symbol": "USDT",
-    "token": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "token": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
     "icon": "/img/usdt.svg",
     "decimals": 6,
     "coingeckoId": "tether",
