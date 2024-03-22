@@ -1141,5 +1141,12 @@
     "token": "factory/sei1nx560efk4hxyr4sj9j2l6nxp8f6r9xkpy04wcc/seipepe",
     "icon": "/img/SeiPepe.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SuperTusks",
+    "symbol": "Orcs",
+    "token": "sei1kgjdksz4tmre0f4syps408vg2eqgxvx73tvw0veke08wy8wy87kqlr3f8h",
+    "icon": "/img/SuperTusks.png",
+    "decimals": 6
   }
 ]
