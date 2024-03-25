@@ -845,5 +845,13 @@
     "symbol": "RIP",
     "token": "inj1eu8ty289eyjvm4hcrg70n4u95jggh9eekfxs5y",
     "decimals": 18
+  },
+  {
+    "protocol": "DarkDeathCoin",
+    "symbol": "DarkDeath",
+    "token": "factory/inj133nvqdan8c79fhqfkmc3h59v30v4urgwuuejke/DarkDeath",
+    "decimals": 6,
+    "originDenom": "factory/inj133nvqdan8c79fhqfkmc3h59v30v4urgwuuejke/DarkDeath",
+    "originChainId": "injective-1"
   }
 ]
