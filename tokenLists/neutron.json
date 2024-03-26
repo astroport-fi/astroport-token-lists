@@ -587,5 +587,14 @@
     "originDenom": "stadym",
     "originChainId": "stride-1",
     "coingeckoId": "stride-staked-dym"
-  }
+  },
+  {
+    "protocol": "Atom 1K LFG",
+    "symbol": "ATOM1KLFG",
+    "token": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
+    "icon": "/img/cartel.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
+    "originChainId": "neutron-1"
+  },
 ]
