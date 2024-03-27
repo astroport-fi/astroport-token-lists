@@ -1141,5 +1141,12 @@
     "token": "factory/sei1nx560efk4hxyr4sj9j2l6nxp8f6r9xkpy04wcc/seipepe",
     "icon": "/img/SeiPepe.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SEIX",
+    "symbol": "SEIX",
+    "token": "sei1n4ksj6rgjt3dpl0nphceshdgr9d7xefnutfsk7hn6dxga7zl6p3s787f2w",
+    "icon": "/img/SEIX.png",
+    "decimals": 6
   }
 ]
