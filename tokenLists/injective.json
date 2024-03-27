@@ -849,7 +849,7 @@
   {
     "protocol": "NCACToken",
     "symbol": "NCACTE",
-    "token": "/factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
+    "token": "factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
     "icon": "/img/NCACTE.png",
     "decimals": 6,
     "originDenom": "factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
