@@ -854,5 +854,13 @@
     "decimals": 6,
     "originDenom": "factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "RKO",
+    "symbol": "RKO",
+    "token": "factory/inj1muuaghrdm2rfss9cdpxzhk3v7xqj8ltngrm0xd/RKO",
+    "icon": "/img/RKO.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1muuaghrdm2rfss9cdpxzhk3v7xqj8ltngrm0xd/RKO"
   }
 ]
