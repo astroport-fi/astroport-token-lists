@@ -596,5 +596,14 @@
     "decimals": 6,
     "originDenom": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Seppuku",
+    "symbol": "SEPPUKU",
+    "token": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU",
+    "icon": "/img/SEPPUKU.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU",
+    "originChainId": "neutron-1"
   }
 ]
