@@ -536,15 +536,6 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "Juno Network",
-    "symbol": "LUNO (Juno)",
-    "token": "juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
-    "icon": "/img/luno.png",
-    "decimals": 6,
-    "originDenom": "cw20:juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
-    "originChainId": "juno-1"
-  },
-  {
     "protocol": "Apollo DAO",
     "symbol": "(stTIA/TIA)VT",
     "token": "factory/neutron1qzf6t478xuutq0ahkm07pl2y2tctreccrlafkrl38k4cafk3rgdq3lfky5/VaultToken/pcl/capped/stTIA/TIA",
@@ -603,7 +594,16 @@
     "token": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU",
     "icon": "/img/SEPPUKU.png",
     "decimals": 6,
-    "originDenom": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU",
+    "originDenom": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU"
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "MIP229",
+    "symbol": "MIP229",
+    "token": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
+    "icon": "/img/mip229.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
     "originChainId": "neutron-1"
   }
 ]
