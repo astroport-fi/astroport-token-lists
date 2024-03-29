@@ -587,5 +587,14 @@
     "decimals": 6,
     "originDenom": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "MIP229",
+    "symbol": "MIP229",
+    "token": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
+    "icon": "/img/mip229.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
+    "originChainId": "neutron-1"
   }
 ]
