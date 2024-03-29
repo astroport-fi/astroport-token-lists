@@ -872,4 +872,13 @@
     "originDenom": "factory/inj1rrg35k5g58vunyze4tqvqhef2fgrurkpxxdr43/KiraWifHat",
     "originChainId": "injective-1"
   }
+  {
+    "protocol": "NINJABOY",
+    "symbol": "NBOY",
+    "token": "factory/inj1nmc5namhwszx0yartvjm6evsxrj0ctq2qa30l7/NBOY",
+    "icon": "/img/NBOY.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1nmc5namhwszx0yartvjm6evsxrj0ctq2qa30l7/NBOY",
+    "originChainId": "injective-1"
+  },
 ]
