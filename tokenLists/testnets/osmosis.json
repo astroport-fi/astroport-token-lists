@@ -8,6 +8,14 @@
     "coingeckoId": "osmosis"
   },
   {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "factory/osmo1gv3su99m8pvvm2hqkhgwqyzrtlec4nv682cqn0/astro",
+    "icon": "/img/astro.svg",
+    "decimals": 6,
+    "coingeckoId": "astroport-fi"
+  },
+  {
     "protocol": "Cosmos",
     "token": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
     "symbol": "ATOM",
