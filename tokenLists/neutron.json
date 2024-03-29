@@ -589,6 +589,15 @@
     "originChainId": "neutron-1"
   },
   {
+    "protocol": "Seppuku",
+    "symbol": "SEPPUKU",
+    "token": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU",
+    "icon": "/img/SEPPUKU.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron169mg9zwc6dn2qzncnz4r3d6v52wuue08wxksvc/SEPPUKU",
+    "originChainId": "neutron-1"
+  },
+  {
     "protocol": "MIP229",
     "symbol": "MIP229",
     "token": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
