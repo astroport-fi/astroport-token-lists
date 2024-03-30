@@ -580,6 +580,15 @@
     "coingeckoId": "stride-staked-dym"
   },
   {
+    "protocol": "SCRAP",
+    "symbol": "SCRAP",
+    "token": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/SCRAP",
+    "icon": "/img/SCRAP.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/SCRAP",
+    "originChainId": "neutron-1"
+  },
+  {
     "protocol": "Atom 1K LFG",
     "symbol": "ATOM1KLFG",
     "token": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
