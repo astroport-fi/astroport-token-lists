@@ -582,10 +582,10 @@
   {
     "protocol": "SCRAP",
     "symbol": "SCRAP",
-    "token": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/SCRAP",
+    "token": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/scrap",
     "icon": "/img/SCRAP.png",
     "decimals": 6,
-    "originDenom": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/SCRAP",
+    "originDenom": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/scrap",
     "originChainId": "neutron-1"
   },
   {
