@@ -735,5 +735,12 @@
     "decimals": 6,
     "originDenom": "cw20:terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3",
     "originChainId": "phoenix-1"
+  },
+  {
+    "protocol": "Sayve",
+    "symbol": "LINGO",
+    "token": "terra1snxd2zatvm37l8wxvnfj5u24k3k6qqtx3ut3mv8htmalsy32rkusd4m4ae",
+    "icon": "/img/Lingo.png",
+    "decimals": 6
   }
 ]
