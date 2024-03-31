@@ -10,6 +10,13 @@
     "originChainId": "phoenix-1"
   },
   {
+    "protocol": "Yoshi",
+    "symbol": "YOSHI",
+    "token": "sei1pwft6dl98sus6w2rwgdckjxrut4gksjums70enau0jlx3vep63js8c8avq",
+    "icon": "/img/yoshionsei.png",
+    "decimals": 6
+  },
+  {
     "protocol": "RUGGED on Sei",
     "symbol": "RUGGED",
     "token": "sei1yjpdd8yjvtyv9q0uy2df6zaaje278czvgjd2aym5pwue6z4r2xtsvx63rs",
@@ -1140,6 +1147,27 @@
     "symbol": "SEIPEPE",
     "token": "factory/sei1nx560efk4hxyr4sj9j2l6nxp8f6r9xkpy04wcc/seipepe",
     "icon": "/img/SeiPepe.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SuperTusks",
+    "symbol": "Orcs",
+    "token": "sei1kgjdksz4tmre0f4syps408vg2eqgxvx73tvw0veke08wy8wy87kqlr3f8h",
+    "icon": "/img/SuperTusks.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIX",
+    "symbol": "SEIX",
+    "token": "sei1n4ksj6rgjt3dpl0nphceshdgr9d7xefnutfsk7hn6dxga7zl6p3s787f2w",
+    "icon": "/img/SEIX.png",
+    "decimals": 18
+  },
+  {
+    "protocol": "SEITTERS",
+    "symbol": "SEITTERS",
+    "token": "factory/sei1v3pfvczvfhtpkjjfw3waulx4arax2jc7uj92cw/SEITTERS",
+    "icon": "/img/seitters.png",
     "decimals": 6
   }
 ]
