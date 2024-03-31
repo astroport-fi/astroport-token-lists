@@ -624,4 +624,13 @@
     "originDenom": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/ONUJ",
     "originChainId": "neutron-1"
   },
+    {
+    "protocol": "Who's the Boss?",
+    "symbol": "DANZA",
+    "token": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
+    "icon": "/img/DANZA.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
+    "originChainId": "neutron-1"
+  },
 ]
