@@ -614,5 +614,14 @@
     "decimals": 6,
     "originDenom": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
     "originChainId": "neutron-1"
-  }
+  },
+  {
+    "protocol": "Juno but backwards",
+    "symbol": "ONUJ",
+    "token": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/ONUJ",
+    "icon": "/img/onuj.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/ONUJ",
+    "originChainId": "neutron-1"
+  },
 ]
