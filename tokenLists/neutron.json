@@ -614,5 +614,15 @@
     "decimals": 6,
     "originDenom": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "STARS",
+    "symbol": "STARS",
+    "token": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
+    "decimals": 6,
+    "coingeckoId": "stargaze",
+    "originDenom": "ustars",
+    "originChainId": "stargaze-1"
   }
 ]
