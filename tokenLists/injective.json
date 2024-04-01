@@ -863,4 +863,12 @@
     "decimals": 6,
     "originDenom": "factory/inj1muuaghrdm2rfss9cdpxzhk3v7xqj8ltngrm0xd/RKO"
   }
+  {
+    "protocol": "Koga",
+    "symbol": "KOGA",
+    "token": "factory/inj1npvrye90c9j7vfv8ldh9apt8t3a9mv9lsv52yd/KOGA",
+    "icon": "/img/koga.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1npvrye90c9j7vfv8ldh9apt8t3a9mv9lsv52yd/KOGA"
+  }
 ]
