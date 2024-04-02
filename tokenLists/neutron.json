@@ -624,5 +624,13 @@
     "coingeckoId": "stargaze",
     "originDenom": "ustars",
     "originChainId": "stargaze-1"
-  }
+    },
+    {
+    "protocol": "YAWP",
+    "symbol": "YAWP",
+    "token": "factory/neutron1shu8ygztjpwppfa454c4a74e49erfyus0y432q/YAWP",
+    "icon": "/img/YAWP.svg",
+    "decimals": 6,
+    "originDenom": "factory/neutron1shu8ygztjpwppfa454c4a74e49erfyus0y432q/YAWP",
+    "originChainId": "neutron-1"
 ]
