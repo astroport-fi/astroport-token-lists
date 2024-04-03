@@ -742,5 +742,12 @@
     "token": "terra1snxd2zatvm37l8wxvnfj5u24k3k6qqtx3ut3mv8htmalsy32rkusd4m4ae",
     "icon": "/img/Lingo.png",
     "decimals": 6
+  },  
+  {
+    "protocol": "Steady Lads",
+    "symbol": "LADS",
+    "token": "terra1eh8eq60cjy997w5dc3a6exfzanlaurupav8klx7m9u9ddfgh25mqjwl5vj",
+    "icon": "/img/LADS.png",
+    "decimals": 6
   }
 ]

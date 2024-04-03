@@ -263,7 +263,7 @@
     "originDenom": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
     "originChainId": "neutron-1"
   },
- {
+  {
     "protocol": "TakumiProp16JunoWhaleInu",
     "symbol": "PROP16",
     "token": "factory/neutron1fjn0vr4dma5crx2rctv6vmfwxx0v0vrdk50l3p/TakumiProp16JunoWhaleInu",
@@ -271,7 +271,7 @@
     "decimals": 6,
     "originDenom": "factory/neutron1fjn0vr4dma5crx2rctv6vmfwxx0v0vrdk50l3p/TakumiProp16JunoWhaleInu",
     "originChainId": "neutron-1"
-  },  
+  },
   {
     "protocol": "Badcoin",
     "symbol": "BAD",
@@ -616,16 +616,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "Juno but backwards",
-    "symbol": "ONUJ",
-    "token": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/ONUJ",
-    "icon": "/img/onuj.png",
-    "decimals": 6,
-    "originDenom": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/ONUJ",
-    "originChainId": "neutron-1"
-  },
-    {
-    "protocol": "Who's the Boss?",
+    "protocol": "Whos the Boss?",
     "symbol": "DANZA",
     "token": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
     "icon": "/img/DANZA.png",
@@ -633,4 +624,23 @@
     "originDenom": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
     "originChainId": "neutron-1"
   },
+=======
+    "protocol": "STARS",
+    "symbol": "STARS",
+    "token": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
+    "decimals": 6,
+    "coingeckoId": "stargaze",
+    "originDenom": "ustars",
+    "originChainId": "stargaze-1"
+  },
+  {
+    "protocol": "YAWP",
+    "symbol": "YAWP",
+    "token": "factory/neutron1shu8ygztjpwppfa454c4a74e49erfyus0y432q/YAWP",
+    "icon": "/img/YAWP.svg",
+    "decimals": 6,
+    "originDenom": "factory/neutron1shu8ygztjpwppfa454c4a74e49erfyus0y432q/YAWP",
+    "originChainId": "neutron-1"
+  }
 ]
