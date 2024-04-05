@@ -1169,5 +1169,12 @@
     "token": "factory/sei1v3pfvczvfhtpkjjfw3waulx4arax2jc7uj92cw/SEITTERS",
     "icon": "/img/seitters.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SeiSpark",
+    "symbol": "SEIS",
+    "token": "sei13jzezcyz23h9edxckz53fes4a3a9ztjxpx5j8wf8n5c6w270zlfqdz6fqf",
+    "icon": "/img/SeiSpark.png",
+    "decimals": 6
   }
 ]
