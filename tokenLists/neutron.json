@@ -592,7 +592,7 @@
     "protocol": "Atom 1K LFG",
     "symbol": "ATOM1KLFG",
     "token": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
-    "icon": "/img/ATOM1KLFG.png",
+    "icon": "/img/ATOM1KLFGc.png",
     "decimals": 6,
     "originDenom": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
     "originChainId": "neutron-1"
@@ -613,6 +613,15 @@
     "icon": "/img/mip229.png",
     "decimals": 6,
     "originDenom": "factory/neutron1hf07vxv7f53xjwxq8ec2nuet9k0cq7qepxm7c6/mip229",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Whos the Boss?",
+    "symbol": "DANZA",
+    "token": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
+    "icon": "/img/DANZA.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
     "originChainId": "neutron-1"
   },
   {
