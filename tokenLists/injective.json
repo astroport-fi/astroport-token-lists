@@ -862,5 +862,14 @@
     "icon": "/img/RKO.png",
     "decimals": 6,
     "originDenom": "factory/inj1muuaghrdm2rfss9cdpxzhk3v7xqj8ltngrm0xd/RKO"
+  },
+  {
+    "protocol": "KiraWifHat",
+    "symbol": "KiraWifHat",
+    "token": "factory/inj1rrg35k5g58vunyze4tqvqhef2fgrurkpxxdr43/KiraWifHat",
+    "icon": "/img/Kira-Wif-Hat.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1rrg35k5g58vunyze4tqvqhef2fgrurkpxxdr43/KiraWifHat",
+    "originChainId": "injective-1"
   }
 ]
