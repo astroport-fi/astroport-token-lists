@@ -851,34 +851,27 @@
     "symbol": "NCACTE",
     "token": "factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
     "icon": "/img/NCACTE.png",
-    "decimals": 6,
-    "originDenom": "factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
-    "originChainId": "injective-1"
+    "decimals": 6
   },
   {
     "protocol": "RKO",
     "symbol": "RKO",
     "token": "factory/inj1muuaghrdm2rfss9cdpxzhk3v7xqj8ltngrm0xd/RKO",
     "icon": "/img/RKO.png",
-    "decimals": 6,
-    "originDenom": "factory/inj1muuaghrdm2rfss9cdpxzhk3v7xqj8ltngrm0xd/RKO"
+    "decimals": 6
   },
   {
     "protocol": "KiraWifHat",
     "symbol": "KiraWifHat",
     "token": "factory/inj1rrg35k5g58vunyze4tqvqhef2fgrurkpxxdr43/KiraWifHat",
     "icon": "/img/Kira-Wif-Hat.png",
-    "decimals": 6,
-    "originDenom": "factory/inj1rrg35k5g58vunyze4tqvqhef2fgrurkpxxdr43/KiraWifHat",
-    "originChainId": "injective-1"
-  }
+    "decimals": 6
+  },
   {
     "protocol": "NINJABOY",
     "symbol": "NBOY",
     "token": "factory/inj1nmc5namhwszx0yartvjm6evsxrj0ctq2qa30l7/NBOY",
     "icon": "/img/NBOY.png",
-    "decimals": 6,
-    "originDenom": "factory/inj1nmc5namhwszx0yartvjm6evsxrj0ctq2qa30l7/NBOY",
-    "originChainId": "injective-1"
-  },
+    "decimals": 6
+  }
 ]
