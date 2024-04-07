@@ -610,7 +610,7 @@
     "protocol": "SEIPEPE",
     "symbol": "SEIPEPE",
     "token": "sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja",
-    "icon": "/img/seipepe.png",
+    "icon": "/img/seipepe-cw20.png",
     "decimals": 6
   },
   {
@@ -1146,7 +1146,7 @@
     "protocol": "SeiPepe",
     "symbol": "SEIPEPE",
     "token": "factory/sei1nx560efk4hxyr4sj9j2l6nxp8f6r9xkpy04wcc/seipepe",
-    "icon": "/img/SeiPepe.png",
+    "icon": "/img/seipepe.png",
     "decimals": 6
   },
   {
