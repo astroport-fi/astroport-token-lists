@@ -642,5 +642,11 @@
     "decimals": 6,
     "originDenom": "factory/neutron1shu8ygztjpwppfa454c4a74e49erfyus0y432q/YAWP",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Neutron - Axelar LP",
+    "symbol": "NTRN-AXL-LP",
+    "token": "neutron1vfekl4kt5q73s6g9qalkkxaegsdctmhqhl6gqx2znf7ltlaae4nsv60hy8",
+    "decimals": 6
   }
 ]
