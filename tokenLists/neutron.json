@@ -647,6 +647,7 @@
     "protocol": "Neutron - Axelar LP",
     "symbol": "NTRN-AXL-LP",
     "token": "neutron1vfekl4kt5q73s6g9qalkkxaegsdctmhqhl6gqx2znf7ltlaae4nsv60hy8",
+    "icon": "/img/ntrn-axl-lp.png",
     "decimals": 6
   }
 ]
