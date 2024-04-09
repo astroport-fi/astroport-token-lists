@@ -679,5 +679,15 @@
     "coingeckoId": "saga-2",
     "originDenom": "usaga",
     "originChainId": "ssc-1"
+  },
+  {
+    "protocol": "Stride Staked SAGA",
+    "symbol": "stSAGA",
+    "token": "ibc/4EAAAE537853E9C0DDF458F0710C37BB3DE7C6A675AB75DB5731ACE93D6CC57B",
+    "icon": "/img/stSAGA.svg",
+    "decimals": 6,
+    "coingeckoId": "stride-staked-saga",
+    "originDenom": "stusaga",
+    "originChainId": "stride-1"
   }
 ]
