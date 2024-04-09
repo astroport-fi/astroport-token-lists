@@ -676,7 +676,7 @@
     "token": "ibc/74B554DD3FF10F5D60E30175ADFB47E59F77F7C57024A8104A4F78CDC2EAD125",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/saga/images/saga.svg",
     "decimals": 6,
-    "coingeckoId": "saga",
+    "coingeckoId": "saga-2",
     "originDenom": "usaga",
     "originChainId": "ssc-1"
   }
