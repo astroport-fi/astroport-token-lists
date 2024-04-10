@@ -689,5 +689,14 @@
     "coingeckoId": "stride-staked-saga",
     "originDenom": "stusaga",
     "originChainId": "stride-1"
+  },  
+  {
+    "protocol": "SLOTH",
+    "symbol": "SLOTH",
+    "token": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
+    "icon": "/img/sloth.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
+    "originChainId": "neutron-1"
   }
 ]
