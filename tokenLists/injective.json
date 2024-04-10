@@ -873,5 +873,12 @@
     "token": "factory/inj1nmc5namhwszx0yartvjm6evsxrj0ctq2qa30l7/NBOY",
     "icon": "/img/NBOY.png",
     "decimals": 6
+  },
+  {
+    "protocol": "D.A.R.E.",
+    "symbol": "Drugs",
+    "token": "inj19vy83ne9tzta2yqynj8yg7dq9ghca6yqn9hyej",
+    "icon": "/img/drugs.jpg",
+    "decimals": 18
   }
 ]
