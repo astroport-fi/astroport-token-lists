@@ -689,14 +689,15 @@
     "coingeckoId": "stride-staked-saga",
     "originDenom": "stusaga",
     "originChainId": "stride-1"
-  },  
+  },
   {
-    "protocol": "SLOTH",
-    "symbol": "SLOTH",
-    "token": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
-    "icon": "/img/sloth.png",
+    "protocol": "IST",
+    "symbol": "IST",
+    "token": "ibc/BED1812F0A7BEF7800FE1A8280289A40D137158C6CD3ADD65923C2D673D739E8",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png",
     "decimals": 6,
-    "originDenom": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
-    "originChainId": "neutron-1"
+    "coingeckoId": "inter-stable-token",
+    "originDenom": "uist",
+    "originChainId": "agoric-3"
   }
 ]
