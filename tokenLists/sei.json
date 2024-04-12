@@ -2,12 +2,20 @@
   {
     "protocol": "Astroport",
     "symbol": "ASTRO",
-    "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+    "token": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
     "icon": "/img/astro.svg",
     "decimals": 6,
     "coingeckoId": "astroport-fi",
-    "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-    "originChainId": "phoenix-1"
+    "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO.cw20",
+    "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+    "icon": "/img/astro-cw20.svg",
+    "decimals": 6,
+    "coingeckoId": "astroport-fi"
   },
   {
     "protocol": "Yoshi",
