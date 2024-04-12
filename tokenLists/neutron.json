@@ -698,5 +698,15 @@
     "decimals": 6,
     "originDenom": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Hava Coin",
+    "symbol": "HAVA",
+    "token": "ibc/CCD676A501897583884E68318499E079C47CD336B48E168BB6DAD84831B10E36",
+    "icon": "/img/hava.png",
+    "decimals": 6,
+    "coingeckoId": "hava-coin",
+    "originDenom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
+    "originChainId": "injective-1"
   }
 ]
