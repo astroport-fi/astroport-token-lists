@@ -5,6 +5,7 @@
     "token": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
     "icon": "/img/astro.svg",
     "decimals": 6,
+    "coingeckoId": "astroport-fi",
     "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
     "originChainId": "neutron-1"
   },
