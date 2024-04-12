@@ -363,6 +363,13 @@
     "decimals": 6
   },
   {
+    "protocol": "CLON",
+    "symbol": "CLON",
+    "token": "terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2",
+    "icon": "/img/clon1.png",
+    "decimals": 6
+  },
+  {
     "protocol": "dioalma.protocol",
     "symbol": "Dinheiros",
     "token": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
