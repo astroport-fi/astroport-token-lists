@@ -749,5 +749,15 @@
     "token": "terra1eh8eq60cjy997w5dc3a6exfzanlaurupav8klx7m9u9ddfgh25mqjwl5vj",
     "icon": "/img/LADS.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Hava Coin",
+    "symbol": "HAVA",
+    "token": "ibc/271DAA570D495549CD1381840C125FABEF3F840CD618105C4CD7160CBEBDD257",
+    "icon": "/img/hava.png",
+    "decimals": 6,
+    "coingeckoId": "hava-coin",
+    "originDenom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
+    "originChainId": "injective-1"
   }
 ]
