@@ -888,5 +888,12 @@
     "token": "inj19vy83ne9tzta2yqynj8yg7dq9ghca6yqn9hyej",
     "icon": "/img/drugs.jpg",
     "decimals": 18
+  },
+  {
+    "protocol": "Basket",
+    "symbol": "BSKT",
+    "token": "inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
+    "icon": "/img/bskt.png",
+    "decimals": 5
   }
 ]
