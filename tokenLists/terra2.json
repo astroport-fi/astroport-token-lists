@@ -2,8 +2,17 @@
   {
     "protocol": "Astroport",
     "symbol": "ASTRO",
-    "token": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+    "token": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
     "icon": "/img/astro.svg",
+    "decimals": 6,
+    "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO.cw20",
+    "token": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+    "icon": "/img/astro-cw20.svg",
     "decimals": 6,
     "coingeckoId": "astroport-fi",
     "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
@@ -11,9 +20,9 @@
   },
   {
     "protocol": "Astroport",
-    "symbol": "xASTRO",
+    "symbol": "xASTRO.cw20",
     "token": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
-    "icon": "/img/xAstro.svg",
+    "icon": "/img/xastro-cw20.svg",
     "decimals": 6
   },
   {
@@ -742,7 +751,7 @@
     "token": "terra1snxd2zatvm37l8wxvnfj5u24k3k6qqtx3ut3mv8htmalsy32rkusd4m4ae",
     "icon": "/img/Lingo.png",
     "decimals": 6
-  },  
+  },
   {
     "protocol": "Steady Lads",
     "symbol": "LADS",

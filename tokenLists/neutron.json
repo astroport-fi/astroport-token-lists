@@ -2,12 +2,26 @@
   {
     "protocol": "Astroport",
     "symbol": "ASTRO",
-    "token": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+    "token": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
     "icon": "/img/astro.svg",
     "decimals": 6,
-    "coingeckoId": "astroport-fi",
-    "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-    "originChainId": "phoenix-1"
+    "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO.cw20",
+    "token": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+    "icon": "/img/astro-cw20.svg",
+    "decimals": 6,
+    "coingeckoId": "astroport-fi"
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "xASTRO",
+    "token": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
+    "icon": "/img/xAstro.svg",
+    "decimals": 6
   },
   {
     "protocol": "Neutron",
@@ -689,7 +703,7 @@
     "coingeckoId": "stride-staked-saga",
     "originDenom": "stusaga",
     "originChainId": "stride-1"
-  },  
+  },
   {
     "protocol": "SLOTH",
     "symbol": "SLOTH",
