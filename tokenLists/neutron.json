@@ -714,4 +714,13 @@
     "originDenom": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
     "originChainId": "neutron-1"
   }
+   {
+    "protocol": "Nelson on Neutron",
+    "symbol": "NELSON",
+    "token": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NELSON",
+    "icon": "/img/nelson.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NELSON",
+    "originChainId": "neutron-1"
+  }
 ]
