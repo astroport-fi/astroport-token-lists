@@ -718,7 +718,7 @@
     "protocol": "woof",
     "symbol": "WOOF",
     "token": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/WOOF",
-    "icon": "/img/woof.svg",
+    "icon": "/img/woof.png",
     "decimals": 6,
     "originDenom": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/WOOF",
     "originChainId": "neutron-1"
