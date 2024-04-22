@@ -18,6 +18,15 @@
     "coingeckoId": "astroport-fi"
   },
   {
+    "protocol": "CLON",
+    "symbol": "CLON",
+    "token": "ibc/695B1D16DE4D0FD293E6B79451640974080B59AA60942974C1CC906568DED795",
+    "icon": "/img/clon1.png",
+    "originDenom": "cw20:terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2",
+    "originChainId": "phoenix-1",
+    "decimals": 6
+  },
+  {
     "protocol": "MIB",
     "symbol": "MIB",
     "token": "factory/inj1s9pckznjz4hmgtxu5t9gerxtalch7wtle4y3a6/MIB",
