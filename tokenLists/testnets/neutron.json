@@ -3,13 +3,15 @@
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA",
-    "icon": "/img/astro.svg"
+    "icon": "/img/astro.svg",
+    "decimals": 6
   },
   {
     "protocol": "Neutron",
     "symbol": "NTRN",
     "token": "untrn",
     "icon": "/img/neutron.svg",
+    "decimals": 6,
     "coingeckoId": "neutron-3"
   },
   {
