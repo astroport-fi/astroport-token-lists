@@ -355,13 +355,6 @@
     "icon": "/img/drogo.png",
     "decimals": 6
   },
-    {
-    "protocol": "GUGU",
-    "symbol": "GUGU",
-    "token": "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
-    "icon": "/img/gugu.png",
-    "decimals": 6
-  },
   {
     "protocol": "GUGU",
     "symbol": "GUGU",
