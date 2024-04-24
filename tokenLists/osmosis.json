@@ -639,7 +639,7 @@
     "protocol": "HAVA",
     "symbol": "HAVA",
     "token": "ibc/BB23594A71B0A7AFF92599C1706CC10592D8AC01C88091346018C4570751E55B",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/hava.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/hava.png",
     "decimals": 6,
     "originDenom": "factory/juno195asgku87kxgu48s447z0ryhsyn5rl3yzvfw0d/uhava",
     "originChainId": "juno-1"
