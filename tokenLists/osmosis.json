@@ -3170,15 +3170,5 @@
     "coingeckoId": "cream-2",
     "originDenom": "ccream",
     "originChainId": "sifchain-1"
-  },
-  {
-    "protocol": "Basket",
-    "symbol": "BSKT",
-    "token": "ibc/25311F95D4A78931F91AEDF869DF8C443184208A1A036B3F3FAC6E99BAD23283",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/bskt.png",
-    "decimals": 5,
-    "coingeckoId": "basket",
-    "originDenom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
-    "originChainId": "injective-1"
   }
 ]
