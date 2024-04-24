@@ -722,5 +722,15 @@
     "decimals": 6,
     "originDenom": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/WOOF",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "IST",
+    "symbol": "IST",
+    "token": "ibc/BED1812F0A7BEF7800FE1A8280289A40D137158C6CD3ADD65923C2D673D739E8",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png",
+    "decimals": 6,
+    "coingeckoId": "inter-stable-token",
+    "originDenom": "uist",
+    "originChainId": "agoric-3"
   }
 ]
