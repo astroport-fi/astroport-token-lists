@@ -742,8 +742,8 @@
     "coingeckoId": "hava-coin",
     "originDenom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
     "originChainId": "injective-1"
-  }
-   {
+  },
+  {
     "protocol": "Nelson on Neutron",
     "symbol": "NELSON",
     "token": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NELSON",
