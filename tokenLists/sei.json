@@ -1191,5 +1191,12 @@
     "token": "sei13jzezcyz23h9edxckz53fes4a3a9ztjxpx5j8wf8n5c6w270zlfqdz6fqf",
     "icon": "/img/SeiSpark.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Basket",
+    "symbol": "BSKT",
+    "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/FM2av5h53R9EgDZZ8KXr5ujodp9mHZGRn9W3YLorhbsV",
+    "icon": "/img/bskt.png",
+    "decimals": 5
   }
 ]

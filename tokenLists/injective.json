@@ -907,5 +907,12 @@
     "coingeckoId": "hava-coin",
     "originDenom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Basket",
+    "symbol": "BSKT",
+    "token": "inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
+    "icon": "/img/bskt.png",
+    "decimals": 5
   }
 ]
