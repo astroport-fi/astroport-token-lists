@@ -897,5 +897,15 @@
     "token": "inj19vy83ne9tzta2yqynj8yg7dq9ghca6yqn9hyej",
     "icon": "/img/drugs.jpg",
     "decimals": 18
+  },
+  {
+    "protocol": "Hava Coin",
+    "symbol": "HAVA",
+    "token": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/hava.png",
+    "decimals": 6,
+    "coingeckoId": "hava-coin",
+    "originDenom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
+    "originChainId": "injective-1"
   }
 ]
