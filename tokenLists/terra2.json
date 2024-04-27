@@ -464,6 +464,16 @@
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
     "originChainId": "kava_2222-10"
+  },  
+  {
+    "protocol": "Kava",
+    "symbol": "USDT.ch216",
+    "token": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "icon": "/img/usdt.svg",
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "originDenom": "erc20/tether/usdt",
+    "originChainId": "kava_2222-10"
   },
   {
     "protocol": "Noble",
