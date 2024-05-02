@@ -1198,5 +1198,12 @@
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/FM2av5h53R9EgDZZ8KXr5ujodp9mHZGRn9W3YLorhbsV",
     "icon": "/img/bskt.png",
     "decimals": 5
+  },
+  {
+    "protocol": "Chickegg",
+    "symbol": "CHICKEGG",
+    "token": "factory/sei17k3ah8kd2k6u4prlsvm8f3psghw2at7cf2mjpr/chickegg",
+    "icon": "/img/chickegg.png",
+    "decimals": 6
   }
 ]
