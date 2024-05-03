@@ -914,5 +914,13 @@
     "token": "inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
     "icon": "/img/bskt.png",
     "decimals": 5
+  },
+  {
+    "protocol": "KiraWifHat",
+    "symbol": "KiraWifHat",
+    "token": "factory/inj1kujwsrwlqa7yj9545r9tfmrlqcknlmwm3rqe0q/KiraWifHat",
+    "icon": "/img/kirawifhat.png",
+    "decimals": 6,
+    "originChainId": "injective-1"
   }
 ]
