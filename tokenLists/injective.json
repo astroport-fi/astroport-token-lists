@@ -26,6 +26,15 @@
     "originChainId": "phoenix-1",
     "decimals": 6
   },
+    {
+    "protocol": "CLON",
+    "symbol": "babyCLON",
+    "token": "inj1pyghkw9q0kx8mnuhcxpqnczfxst0way2ep9s54",
+    "icon": "/img/bclon.png",
+    "originDenom": "cw20:inj1pyghkw9q0kx8mnuhcxpqnczfxst0way2ep9s54",
+    "originChainId": "injective-protocol",
+    "decimals": 6
+  },
   {
     "protocol": "MIB",
     "symbol": "MIB",
