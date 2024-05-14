@@ -58,5 +58,11 @@
     "token": "factory/neutron15lku24mqhvy4v4gryrqs4662n9v9q4ux9tayn89cmdzldjcgawushxvm76/amatom",
     "icon": "/img/amATOM.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Amulet",
+    "symbol": "(Old) amATOM",
+    "token": "neutron1msegcqvewc0jfls03jge4ezntm7p5gyyfypdff4h745qe7hze6fqhzsfxd",
+    "decimals": 6
   }
 ]
