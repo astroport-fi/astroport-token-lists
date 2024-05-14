@@ -51,5 +51,12 @@
     "symbol": "NLS",
     "token": "ibc/830F6CA3E33406586DFAADB25908769CB111046755EDAAD1D8D6A6E72A5E0C87",
     "icon": "/img/nolus.svg"
+  },
+  {
+    "protocol": "Amulet",
+    "symbol": "amATOM",
+    "token": "factory/neutron15lku24mqhvy4v4gryrqs4662n9v9q4ux9tayn89cmdzldjcgawushxvm76/amatom",
+    "icon": "/img/amATOM.svg",
+    "decimals": 6
   }
 ]
