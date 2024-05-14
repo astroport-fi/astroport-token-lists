@@ -64,5 +64,15 @@
     "symbol": "(Old) amATOM",
     "token": "neutron1msegcqvewc0jfls03jge4ezntm7p5gyyfypdff4h745qe7hze6fqhzsfxd",
     "decimals": 6
+  },
+  {
+    "protocol": "Cosmos",
+    "symbol": "ATOM",
+    "token": "ibc/9DF365E2C0EF4EA02FA771F638BB9C0C830EFCD354629BDC017F79B348B4E989",
+    "icon": "/img/atom.svg",
+    "coingeckoId": "cosmos",
+    "originDenom": "uatom",
+    "originChainId": "theta-testnet-001",
+    "decimals": 6
   }
 ]
