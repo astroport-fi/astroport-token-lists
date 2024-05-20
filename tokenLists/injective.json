@@ -914,5 +914,23 @@
     "token": "inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
     "icon": "/img/bskt.png",
     "decimals": 5
+  },
+  {
+    "protocol": "Kakeru",
+    "symbol": "IUSD",
+    "token": "factory/inj1l7u9lv8dfqkjnc7antm5lk7lmskh8zldh9yg05/iUSD",
+    "icon": "/img/iusd.png",
+    "decimals": 18,
+    "originDenom": "factory/inj1l7u9lv8dfqkjnc7antm5lk7lmskh8zldh9yg05/iUSD",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Kakeru",
+    "symbol": "WNINJ",
+    "token": "factory/inj1ducfa3t9sj5uyxs7tzqwxhp6mcfdag2jcq2km6/wnINJ",
+    "icon": "/img/wninj.png",
+    "decimals": 18,
+    "originDenom": "factory/inj1ducfa3t9sj5uyxs7tzqwxhp6mcfdag2jcq2km6/wnINJ",
+    "originChainId": "injective-1"
   }
 ]
