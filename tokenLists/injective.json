@@ -932,5 +932,14 @@
     "decimals": 18,
     "originDenom": "factory/inj1ducfa3t9sj5uyxs7tzqwxhp6mcfdag2jcq2km6/wnINJ",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "TRUMP",
+    "symbol": "NINJATRUMP",
+    "token": "factory/inj1f95tm7382nhj42e48s427nevh3rkj64xe7da5z/NINJATRUMP",
+    "icon": "/img/ninjatrump.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1f95tm7382nhj42e48s427nevh3rkj64xe7da5z/NINJATRUMP",
+    "originChainId": "injective-1"
   }
 ]
