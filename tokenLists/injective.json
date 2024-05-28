@@ -920,7 +920,33 @@
     "symbol": "KiraWifHat",
     "token": "factory/inj1kujwsrwlqa7yj9545r9tfmrlqcknlmwm3rqe0q/KiraWifHat",
     "icon": "/img/kirawifhat.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Kakeru",
+    "symbol": "IUSD",
+    "token": "factory/inj1l7u9lv8dfqkjnc7antm5lk7lmskh8zldh9yg05/iUSD",
+    "icon": "/img/iusd.png",
+    "decimals": 18,
+    "originDenom": "factory/inj1l7u9lv8dfqkjnc7antm5lk7lmskh8zldh9yg05/iUSD",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Kakeru",
+    "symbol": "WNINJ",
+    "token": "factory/inj1ducfa3t9sj5uyxs7tzqwxhp6mcfdag2jcq2km6/wnINJ",
+    "icon": "/img/wninj.png",
+    "decimals": 18,
+    "originDenom": "factory/inj1ducfa3t9sj5uyxs7tzqwxhp6mcfdag2jcq2km6/wnINJ",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "TRUMP",
+    "symbol": "NINJATRUMP",
+    "token": "factory/inj1f95tm7382nhj42e48s427nevh3rkj64xe7da5z/NINJATRUMP",
+    "icon": "/img/ninjatrump.png",
     "decimals": 6,
+    "originDenom": "factory/inj1f95tm7382nhj42e48s427nevh3rkj64xe7da5z/NINJATRUMP",
     "originChainId": "injective-1"
   }
 ]

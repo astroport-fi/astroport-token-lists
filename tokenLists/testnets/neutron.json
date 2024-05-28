@@ -51,5 +51,28 @@
     "symbol": "NLS",
     "token": "ibc/830F6CA3E33406586DFAADB25908769CB111046755EDAAD1D8D6A6E72A5E0C87",
     "icon": "/img/nolus.svg"
+  },
+  {
+    "protocol": "Amulet",
+    "symbol": "amATOM",
+    "token": "factory/neutron15lku24mqhvy4v4gryrqs4662n9v9q4ux9tayn89cmdzldjcgawushxvm76/amatom",
+    "icon": "/img/amATOM.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Amulet",
+    "symbol": "(Old) amATOM",
+    "token": "neutron1msegcqvewc0jfls03jge4ezntm7p5gyyfypdff4h745qe7hze6fqhzsfxd",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos",
+    "symbol": "ATOM",
+    "token": "ibc/9DF365E2C0EF4EA02FA771F638BB9C0C830EFCD354629BDC017F79B348B4E989",
+    "icon": "/img/atom.svg",
+    "coingeckoId": "cosmos",
+    "originDenom": "uatom",
+    "originChainId": "theta-testnet-001",
+    "decimals": 6
   }
 ]
