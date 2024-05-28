@@ -916,6 +916,13 @@
     "decimals": 5
   },
   {
+    "protocol": "KiraWifHat",
+    "symbol": "KiraWifHat",
+    "token": "factory/inj1kujwsrwlqa7yj9545r9tfmrlqcknlmwm3rqe0q/KiraWifHat",
+    "icon": "/img/kirawifhat.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Kakeru",
     "symbol": "IUSD",
     "token": "factory/inj1l7u9lv8dfqkjnc7antm5lk7lmskh8zldh9yg05/iUSD",
