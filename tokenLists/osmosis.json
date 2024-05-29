@@ -48,7 +48,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "ION",
+    "protocol": "Ion DAO",
     "symbol": "ION",
     "token": "uion",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
@@ -58,7 +58,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "OSMO",
+    "protocol": "Osmosis",
     "symbol": "OSMO",
     "token": "uosmo",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
@@ -77,7 +77,7 @@
     "originChainId": "phoenix-1"
   },
   {
-    "protocol": "ARB",
+    "protocol": "Axelar Arbitrum",
     "symbol": "ARB.axl",
     "token": "ibc/10E5E5B06D78FFBB61FD9F89209DEE5FD4446ED0550CBB8E3747DA79E10D9DC6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/arbitrum/images/arb.png",
@@ -87,7 +87,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "CRE",
+    "protocol": "Crescent",
     "symbol": "CRE",
     "token": "ibc/5A7C219BA5F7582B99629BA3B2A01A61BFDA0F6FD1FE95B5366F7334C4BC0580",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.png",
@@ -97,7 +97,7 @@
     "originChainId": "crescent-1"
   },
   {
-    "protocol": "axlMKR",
+    "protocol": "Axelar Maker",
     "symbol": "MKR.axl",
     "token": "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg",
@@ -107,7 +107,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "PEPE",
+    "protocol": "Axelar PEPE",
     "symbol": "PEPE.axl",
     "token": "ibc/E47F4E97C534C95B942729E1B25DBDE111EA791411CFF100515050BEA0AC0C6B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/pepe.png",
@@ -117,7 +117,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "stkOSMO",
+    "protocol": "Persistence Staked Osmosis",
     "symbol": "stkOSMO",
     "token": "ibc/ECBE78BF7677320A93E7BA1761D144BCBF0CBC247C290C049655E106FE5DC68E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkosmo.png",
@@ -127,7 +127,7 @@
     "originChainId": "core-1"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Axler Avalanche USDC",
     "symbol": "USDC.axl.avalanche",
     "token": "ibc/F17C9CA112815613C5B6771047A093054F837C3020CBA59DFFD9D780A8B2984C",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png",
@@ -136,7 +136,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "SOL",
+    "protocol": "Solana",
     "symbol": "SOL",
     "token": "ibc/8B4B5C22A96B068AB7F49A3E9DFDBA14B0896476949D5941E51C18CDEDD41630",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/solana/asset/sol.png",
@@ -146,7 +146,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "DYM",
+    "protocol": "Dymension",
     "symbol": "DYM",
     "token": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dymension/images/dymension-logo.png",
@@ -156,7 +156,7 @@
     "originChainId": "dymension_1100-1"
   },
   {
-    "protocol": "FUZN",
+    "protocol": "Fuzion",
     "symbol": "FUZN",
     "token": "ibc/B5DC1A7CE12BE59030297ABAFF0B533BDC597B42E983C187C439C0C033F51B24",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/fuzion.png",
@@ -174,7 +174,7 @@
     "originChainId": "evmos_9001-2"
   },
   {
-    "protocol": "YieldETH",
+    "protocol": "Axelar YieldETH",
     "symbol": "YieldETH.axl",
     "token": "ibc/FBB3FEF80ED2344D821D4F95C31DBFD33E4E31D5324CAD94EF756E67B749F668",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/yieldeth.png",
@@ -193,7 +193,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "ASTRO",
+    "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/B8C608CEE08C4F30A15A7955306F2EDAF4A02BB191CABC4185C1A57FD978DA1B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png",
@@ -203,7 +203,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "ASTRO",
+    "protocol": "Astroport",
     "symbol": "ASTRO.cw20",
     "token": "ibc/C25A2303FE24B922DAFFDCE377AC5A42E5EF746806D32E2ED4B610DE85C203F7",
     "icon": "/img/astro-cw20.svg",
@@ -213,7 +213,7 @@
     "originChainId": "phoenix-1"
   },
   {
-    "protocol": "TALIS",
+    "protocol": "Talis",
     "symbol": "TALIS",
     "token": "ibc/1F6175290F87534F4F196FA8F82B0123BED1775CB14FA3F1EDEB8984E98C60FC",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/injective/asset/talis.png",
@@ -223,7 +223,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Gravity USDC",
     "symbol": "USDC.grv",
     "token": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
@@ -261,7 +261,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "JUNO",
+    "protocol": "Juno",
     "symbol": "JUNO",
     "token": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
@@ -300,17 +300,17 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "AXL",
+    "protocol": "Axelar",
     "symbol": "AXL",
     "token": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
+    "icon": "/img/axl.svg",
     "decimals": 6,
     "coingeckoId": "axelar",
     "originDenom": "uaxl",
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "IST",
+    "protocol": "Inter Stable Token",
     "symbol": "IST",
     "token": "ibc/92BE0717F4678905E53F4E45B2DED18BC0CB97BF1F8B6A25AFEDF3D5A879B4D5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png",
@@ -329,7 +329,7 @@
     "originChainId": "quicksilver-2"
   },
   {
-    "protocol": "rETH",
+    "protocol": "Axelar Rocket Pool Ethereum",
     "symbol": "rETH.axl",
     "token": "ibc/E610B83FD5544E00A8A1967A2EB3BEF25F1A8CFE8650FE247A8BD4ECA9DC9222",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/reth.png",
@@ -339,7 +339,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "KUJI",
+    "protocol": "Kujira",
     "symbol": "KUJI",
     "token": "ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
@@ -359,7 +359,7 @@
     "originChainId": "pacific-1"
   },
   {
-    "protocol": "APE",
+    "protocol": "Axelar APE",
     "symbol": "APE.axl",
     "token": "ibc/F83CC6471DA4D4B508F437244F10B9E4C68975344E551A2DEB6B8617AB08F0D4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ape.svg",
@@ -369,7 +369,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "BNB",
+    "protocol": "Binance Coin",
     "symbol": "BNB",
     "token": "ibc/DF5927A3502279A66D9B6CB764832F87D6B9347DC6E60E4C8405D648B2E823F9",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/bnb-beacon-chain/asset/bnb.png",
@@ -379,10 +379,10 @@
     "originChainId": "kava_2222-10"
   },
   {
-    "protocol": "AKT",
+    "protocol": "Akash",
     "symbol": "AKT",
     "token": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png",
+    "icon": "/img/akt.svg",
     "decimals": 6,
     "coingeckoId": "akash-network",
     "originDenom": "uakt",
@@ -416,7 +416,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "OX",
+    "protocol": "Axelar OX",
     "symbol": "OX.axl",
     "token": "ibc/61DE6748CA641D2422C6D07C53F6C7215EEF7AE8BC61439B83A0DEA061B487E1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ox.svg",
@@ -425,7 +425,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "NOIS",
+    "protocol": "Nois",
     "symbol": "NOIS",
     "token": "ibc/6928AFA9EA721938FED13B051F9DBF1272B16393D20C49EA5E4901BB76D94A90",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nois/images/nois.png",
@@ -434,10 +434,10 @@
     "originChainId": "nois-1"
   },
   {
-    "protocol": "stTIA",
+    "protocol": "Stride Celestia",
     "symbol": "stTIA",
     "token": "ibc/698350B8A61D575025F3ED13E9AC9C0F45C89DEFE92F76D5838F1D3C1A7FF7C9",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.png",
+    "icon": "/img/sttia.svg",
     "decimals": 6,
     "coingeckoId": "stride-staked-tia",
     "originDenom": "stutia",
@@ -453,7 +453,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "WETH",
+    "protocol": "Wrapped Ethereum",
     "symbol": "WETH",
     "token": "ibc/FC078DDBEF8E5ADC597C0C1C858774CEB9D0CFEDBFD918967EDFB3AA2019A4E3",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/weth.png",
@@ -473,7 +473,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "FLIX",
+    "protocol": "Omniflix",
     "symbol": "FLIX",
     "token": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png",
@@ -483,7 +483,7 @@
     "originChainId": "omniflixhub-1"
   },
   {
-    "protocol": "AXS",
+    "protocol": "Sifchain Axie Infinity",
     "symbol": "AXS.sif",
     "token": "ibc/5452AEA55B480F3E6CF87373F518F5E04827EBB2CF3E10D5327BE556035905EA",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/axs.png",
@@ -502,7 +502,7 @@
     "originChainId": "gravity-bridge-3"
   },
   {
-    "protocol": "BNB",
+    "protocol": "Carbon Binance Coin",
     "symbol": "BNB.carbon",
     "token": "ibc/09B40B4315A4A188A84E0C5F2A11013604B3F8D8542970A1F767481B6560E66B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.png",
@@ -521,7 +521,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "BUSD",
+    "protocol": "Binance USD",
     "symbol": "BUSD",
     "token": "ibc/5FF35A66F29B2521AD994CD9A323E22D430BB2B3A64C0A7079E2229DB5D96E97",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/bnb-beacon-chain/asset/busd.png",
@@ -540,7 +540,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "stSTARS",
+    "protocol": "Stride Stars",
     "symbol": "stSTARS",
     "token": "ibc/5DD1F95ED336014D00CE2520977EC71566D282F9749170ADC83A392E0EA7426A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.png",
@@ -550,7 +550,7 @@
     "originChainId": "stride-1"
   },
   {
-    "protocol": "USDT",
+    "protocol": "Gravity Tether",
     "symbol": "USDT.grv",
     "token": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
@@ -569,7 +569,7 @@
     "originChainId": "stargaze-1"
   },
   {
-    "protocol": "LUNA",
+    "protocol": "Terra Luna",
     "symbol": "LUNA",
     "token": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png",
@@ -597,7 +597,7 @@
     "originChainId": "chihuahua-1"
   },
   {
-    "protocol": "LUM",
+    "protocol": "Lum Network",
     "symbol": "LUM",
     "token": "ibc/8A34AF0C1943FD0DFCDE9ADBF0B2C9959C45E87E6088EA2FC6ADACD59261B8A2",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumnetwork/images/lum.png",
@@ -616,7 +616,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "STRD",
+    "protocol": "Stride",
     "symbol": "STRD",
     "token": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.png",
@@ -626,7 +626,7 @@
     "originChainId": "stride-1"
   },
   {
-    "protocol": "axlWMATIC",
+    "protocol": "Axeker Wrapped Matic",
     "symbol": "WMATIC.axl",
     "token": "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.png",
@@ -655,7 +655,7 @@
     "originChainId": "kava_2222-10"
   },
   {
-    "protocol": "MNTL",
+    "protocol": "Mantle",
     "symbol": "MNTL",
     "token": "ibc/CBA34207E969623D95D057D9B11B0C8B32B89A71F170577D982FDDE623813FFC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png",
@@ -675,7 +675,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "CRO",
+    "protocol": "Chronos",
     "symbol": "CRO",
     "token": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cro.svg",
@@ -685,7 +685,7 @@
     "originChainId": "crypto-org-chain-mainnet-1"
   },
   {
-    "protocol": "CMDX",
+    "protocol": "Comdex",
     "symbol": "CMDX",
     "token": "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png",
@@ -695,7 +695,7 @@
     "originChainId": "comdex-1"
   },
   {
-    "protocol": "cbETH",
+    "protocol": "Axelar Coinbase Wrapped Staked Ethereum",
     "symbol": "cbETH.axl",
     "token": "ibc/4D7A6F2A7744B1534C984A21F9EDFFF8809FC71A9E9243FFB702073E7FCA513A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/cbeth.png",
@@ -705,17 +705,17 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "MARS",
+    "protocol": "Mars Protocol",
     "symbol": "MARS",
     "token": "ibc/573FCD90FACEE750F55A8864EF7D38265F07E5A9273FA0E8DAFD39951332B580",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.png",
+    "icon": "/img/mars.svg",
     "decimals": 6,
     "coingeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "originDenom": "umars",
     "originChainId": "mars-1"
   },
   {
-    "protocol": "QCK",
+    "protocol": "Quicksilver",
     "symbol": "QCK",
     "token": "ibc/635CB83EF1DFE598B10A3E90485306FD0D47D34217A4BE5FD9977FA010A5367D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png",
@@ -734,7 +734,7 @@
     "originChainId": "phoenix-1"
   },
   {
-    "protocol": "pSTAKE",
+    "protocol": "Gravity Persistence Stake",
     "symbol": "pSTAKE.grv",
     "token": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.png",
@@ -754,27 +754,27 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "axlUSDT",
+    "protocol": "Axelar Tether",
     "symbol": "USDT.axl",
     "token": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.png",
+    "icon": "/img/axlusdt.svg",
     "decimals": 6,
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "DYDX",
+    "protocol": "dYdX",
     "symbol": "DYDX",
     "token": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.png",
+    "icon": "/img/dydx.svg",
     "decimals": 18,
     "coingeckoId": "dydx",
     "originDenom": "adydx",
     "originChainId": "dydx-mainnet-1"
   },
   {
-    "protocol": "GRDN",
+    "protocol": "Guardian",
     "symbol": "GRDN",
     "token": "ibc/BAC9C6998F1F5C316D3353622EAEDAF8BD00FAABEB374FECDF8C9BC475172CFA",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/guardian.png",
@@ -792,10 +792,10 @@
     "originChainId": "stargaze-1"
   },
   {
-    "protocol": "stDYDX",
+    "protocol": "Stride dYdX",
     "symbol": "stDYDX",
     "token": "ibc/980E82A9F8E7CA8CD480F4577E73682A6D3855A267D1831485D7EBEF0E7A6C2C",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stdydx.png",
+    "icon": "/img/stdydx.svg",
     "decimals": 18,
     "coingeckoId": "stride-staked-dydx",
     "originDenom": "stadydx",
@@ -820,7 +820,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "WYND",
+    "protocol": "Wynd DAO",
     "symbol": "WYND",
     "token": "ibc/2FBAC4BF296D7844796844B35978E5899984BA5A6314B2DD8F83C215550010B3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wynd.png",
@@ -830,7 +830,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "FRNZ",
+    "protocol": "Frienzies",
     "symbol": "FRNZ",
     "token": "ibc/7FA7EC64490E3BDE5A1A28CBE73CC0AD22522794957BC891C46321E3A6074DB9",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/frnz.png",
@@ -839,17 +839,17 @@
     "originChainId": "noble-1"
   },
   {
-    "protocol": "wstETH",
+    "protocol": "Axeler Wrapped Staked Ethereum",
     "symbol": "wstETH.axl",
     "token": "ibc/B2BD584CD2A0A9CE53D4449667E26160C7D44A9C41AF50F602C201E5B3CCA46C",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
+    "icon": "/img/axlwsteth.svg",
     "decimals": 18,
     "coingeckoId": "wrapped-steth",
     "originDenom": "wsteth-wei",
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "stCMDX",
+    "protocol": "Stride Comdex",
     "symbol": "stCMDX",
     "token": "ibc/CB10783FD6E5CB6155E6CA0B1558061874EEE85291DD4306D1C0B2724E361EC5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stcmdx.png",
@@ -886,7 +886,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "Band",
+    "protocol": "Sifchain Band Protocol",
     "symbol": "Band.sif",
     "token": "ibc/E867271A6D9BB3D1AE7DF8E4BFB32744F990CA6C981D1BB816F9F8B5441D6B59",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/band.png",
@@ -905,7 +905,7 @@
     "originChainId": "nyx"
   },
   {
-    "protocol": "ATOM",
+    "protocol": "Cosmos Hub",
     "symbol": "ATOM",
     "token": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
@@ -924,7 +924,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "CONV",
+    "protocol": "Sifchain Convergence",
     "symbol": "CONV.sif",
     "token": "ibc/3BD8B9C0E5B1C6910F5E78B0B4F66942EFA255F180BB8F387EDE2DED85CF6528",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/conv.png",
@@ -943,7 +943,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "BAD",
+    "protocol": "Bad Coin",
     "symbol": "BAD",
     "token": "ibc/442A08C33AE9875DF90792FFA73B5728E1CAECE87AB4F26AE9B422F1E682ED23",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/bad.png",
@@ -952,7 +952,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Noble",
     "symbol": "USDC",
     "token": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.png",
@@ -998,7 +998,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "GRT",
+    "protocol": "The Graph",
     "symbol": "GRT.sif",
     "token": "ibc/6500D6B3F63B7386E9A4EBF39E7D10B99707D2FFA6705A2E2712F7620EBDD1EC",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/grt.png",
@@ -1008,7 +1008,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "EVMOS",
+    "protocol": "Evmos",
     "symbol": "EVMOS",
     "token": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.png",
@@ -1018,7 +1018,7 @@
     "originChainId": "evmos_9001-2"
   },
   {
-    "protocol": "FURY",
+    "protocol": "Fan Fury",
     "symbol": "FURY",
     "token": "ibc/7CE5F388D661D82A0774E47B5129DA51CC7129BD1A70B5FA6BCEBB5B0A2FAEAF",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/fanfury.png",
@@ -1028,7 +1028,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "PLQ",
+    "protocol": "Planq",
     "symbol": "PLQ",
     "token": "ibc/B1E0166EA0D759FDF4B207D1F5F12210D8BFE36F2345CEFC76948CE2B36DFBAF",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png",
@@ -1047,7 +1047,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "stEVMOS",
+    "protocol": "Stide Evmos",
     "symbol": "stEVMOS",
     "token": "ibc/C5579A9595790017C600DD726276D978B9BF314CF82406CE342720A9C7911A01",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.png",
@@ -1057,7 +1057,7 @@
     "originChainId": "stride-1"
   },
   {
-    "protocol": "AKRO",
+    "protocol": "Sifchain Akropolis",
     "symbol": "AKRO.sif",
     "token": "ibc/C75CD65E9BD422B1C4649CA33048807D1473A81A7190E774FE5F9B2E0896D46C",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/akro.png",
@@ -1067,7 +1067,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "SCRT",
+    "protocol": "Secret Network",
     "symbol": "SCRT",
     "token": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png",
@@ -1077,7 +1077,7 @@
     "originChainId": "secret-4"
   },
   {
-    "protocol": "LINK",
+    "protocol": "Sifchain Chainlink",
     "symbol": "LINK.sif",
     "token": "ibc/24974672B990F73622F6D0000B00B5BFCF56BD864FA9459CDD7C1B58A6139BCC",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/link.png",
@@ -1114,17 +1114,17 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "wstETH",
+    "protocol": "Wrapped Staked Ethereum",
     "symbol": "wstETH",
     "token": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
+    "icon": "/img/wsteth.svg",
     "decimals": 18,
     "coingeckoId": "wrapped-steth",
     "originDenom": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "MATIC",
+    "protocol": "Sifchain Matic",
     "symbol": "MATIC.sif",
     "token": "ibc/3624ED410166AC6F418D30390F003114003788620CFFAEE5C881F1B44A4DDA75",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/matic.png",
@@ -1134,7 +1134,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "qATOM",
+    "protocol": "Quicksilver Atom",
     "symbol": "qATOM",
     "token": "ibc/FA602364BEC305A696CBDF987058E99D8B479F0318E47314C49173E8838C5BAC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.png",
@@ -1152,7 +1152,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "GRAVITON",
+    "protocol": "Graviton",
     "symbol": "GRAVITON",
     "token": "ibc/E97634A40119F1898989C2A23224ED83FDD0A57EA46B3A094E287288D1672B44",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png",
@@ -1162,7 +1162,7 @@
     "originChainId": "gravity-bridge-3"
   },
   {
-    "protocol": "TORI",
+    "protocol": "Teritori",
     "symbol": "TORI",
     "token": "ibc/EB7FB9C8B425F289B63703413327C2051030E848CE4EAAEA2E51199D6D39D3EC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/utori.png",
@@ -1172,10 +1172,10 @@
     "originChainId": "teritori-1"
   },
   {
-    "protocol": "WBTC",
+    "protocol": "Axelar Wrapped Bitcoin",
     "symbol": "WBTC.axl",
     "token": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png",
+    "icon": "/img/axlwbtc.svg",
     "decimals": 8,
     "coingeckoId": "axlwbtc",
     "originDenom": "wbtc-satoshi",
@@ -1191,7 +1191,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "DAI",
+    "protocol": "Sifchain Dai",
     "symbol": "DAI.sif",
     "token": "ibc/FD4CB2BCFBE3983D4EC289515F835406574287B7CBF3D85F516BC7014952E2EF",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/dai.png",
@@ -1201,27 +1201,27 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "USDC.axl",
+    "protocol": "Axelar USDC",
     "symbol": "USDC.axl",
     "token": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png",
+    "icon": "/img/axlusdc.svg",
     "decimals": 6,
     "coingeckoId": "axlusdc",
     "originDenom": "uusdc",
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "WETH",
+    "protocol": "Axelar Wrapped Ethereum",
     "symbol": "WETH.axl",
     "token": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+    "icon": "/img/axlweth.svg",
     "decimals": 18,
     "coingeckoId": "axlweth",
     "originDenom": "weth-wei",
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "WBTC",
+    "protocol": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "token": "ibc/F287710FBC818A3F6C77312B1C6FA32785766E93CF7C052EA140219AEBA0878E",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/wbtc.png",
@@ -1241,7 +1241,7 @@
     "originChainId": "carbon-1"
   },
   {
-    "protocol": "NSTK",
+    "protocol": "Unstake Finance",
     "symbol": "NSTK",
     "token": "ibc/F74225B0AFD2F675AF56E9BE3F235486BCDE5C5E09AA88A97AFD2E052ABFE04C",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/nstk.svg",
@@ -1251,7 +1251,7 @@
     "originChainId": "kaiyo-1"
   },
   {
-    "protocol": "WAVAX",
+    "protocol": "Axelar Wrapped Avax",
     "symbol": "WAVAX.axl",
     "token": "ibc/6F62F01D913E3FFE472A38C78235B8F021B511BC6596ADFF02615C8F83D3B373",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg",
@@ -1261,7 +1261,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "stSOMM",
+    "protocol": "Stride Sommelier",
     "symbol": "stSOMM",
     "token": "ibc/5A0060579D24FBE5268BEA74C3281E7FE533D361C41A99307B4998FEC611E46B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stsomm.png",
@@ -1271,7 +1271,7 @@
     "originChainId": "stride-1"
   },
   {
-    "protocol": "FET",
+    "protocol": "Fetch AI",
     "symbol": "FET",
     "token": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/fet.png",
@@ -1281,10 +1281,10 @@
     "originChainId": "fetchhub-4"
   },
   {
-    "protocol": "stATOM",
+    "protocol": "Stride Atom",
     "symbol": "stATOM",
     "token": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.png",
+    "icon": "/img/statom.svg",
     "decimals": 6,
     "coingeckoId": "stride-staked-atom",
     "originDenom": "stuatom",
@@ -1309,7 +1309,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "TIA",
+    "protocol": "Celestia",
     "symbol": "TIA",
     "token": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.png",
@@ -1319,7 +1319,7 @@
     "originChainId": "celestia"
   },
   {
-    "protocol": "SHIB",
+    "protocol": "Sifchain Shiba Inu",
     "symbol": "SHIB.sif",
     "token": "ibc/E4FFFC6D32085A6A10A4ACED57594434AE603F94C4A4D44F3FD5A9609E5B2BFE",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/shib.png",
@@ -1329,7 +1329,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "USK",
+    "protocol": "Kujira USK",
     "symbol": "USK",
     "token": "ibc/44492EAB24B72E3FB59B9FA619A22337FB74F95D8808FE6BC78CC0E6C18DC2EC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/usk.png",
@@ -1368,7 +1368,7 @@
     "originChainId": "pacific-1"
   },
   {
-    "protocol": "DAI",
+    "protocol": "Gravity DAI",
     "symbol": "DAI.grv",
     "token": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/dai.svg",
@@ -1397,7 +1397,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "AAVE",
+    "protocol": "Sifchain Aave",
     "symbol": "AAVE.sif",
     "token": "ibc/38372C22B3AC4CDB680E30D919E4A330481F5F4E01307A44FC3052914793F7A2",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/aave.png",
@@ -1407,7 +1407,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "PYTH",
+    "protocol": "Pyth Network",
     "symbol": "PYTH",
     "token": "ibc/30E4399A40BD81F4F8B3AA34364A48EAC85675A53BE4DF0AC55EBE34D4310148",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/solana/asset/pyth.png",
@@ -1427,7 +1427,7 @@
     "originChainId": "crescent-1"
   },
   {
-    "protocol": "AAVE",
+    "protocol": "Axelar Aave",
     "symbol": "AAVE.axl",
     "token": "ibc/384E5DD50BDE042E1AAF51F312B55F08F95BC985C503880189258B4D9374CBBE",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg",
@@ -1455,17 +1455,17 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "INJ",
+    "protocol": "Injective",
     "symbol": "INJ",
     "token": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png",
+    "icon": "/img/inj.svg",
     "decimals": 18,
     "coingeckoId": "injective-protocol",
     "originDenom": "inj",
     "originChainId": "injective-1"
   },
   {
-    "protocol": "QUICK",
+    "protocol": "Sifchain Quickswap",
     "symbol": "QUICK.sif",
     "token": "ibc/8F018FF2E2FDC4596BEFA2DDC38AAFF5487CCFBE10B5F31E83F6193B144AAFA2",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/quick.png",
@@ -1502,7 +1502,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "LORE",
+    "protocol": "Gitopia",
     "symbol": "LORE",
     "token": "ibc/B1C1806A540B3E165A2D42222C59946FB85BA325596FC85662D7047649F419F3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gitopia/images/lore.png",
@@ -1512,7 +1512,7 @@
     "originChainId": "gitopia"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Carbon USDC",
     "symbol": "USDC.carbon",
     "token": "ibc/B39116ED5DA87C0DD8E959A9D0DFF5B4E38608669528A20DEFF29D7447B6087B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
@@ -1530,7 +1530,7 @@
     "originChainId": "stargaze-1"
   },
   {
-    "protocol": "PASG",
+    "protocol": "Passage",
     "symbol": "PASG",
     "token": "ibc/208B2F137CDE510B44C41947C045CFDC27F996A9D990EA64460BDD5B3DBEB2ED",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png",
@@ -1549,17 +1549,17 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "stkATOM",
+    "protocol": "Persistence Staked Atom",
     "symbol": "stkATOM",
     "token": "ibc/CAA179E40F0266B0B29FB5EAA288FB9212E628822265D4141EBD1C47C3CBFCBC",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.png",
+    "icon": "/img/stkatom.svg",
     "decimals": 6,
     "coingeckoId": "stkatom",
     "originDenom": "stk/uatom",
     "originChainId": "core-1"
   },
   {
-    "protocol": "WBTC",
+    "protocol": "Gravity Wrapped Bitcoin",
     "symbol": "WBTC.grv",
     "token": "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png",
@@ -1598,7 +1598,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "HUAHUA",
+    "protocol": "Chihuahua",
     "symbol": "HUAHUA",
     "token": "ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
@@ -1617,7 +1617,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "axlWBNB",
+    "protocol": "Axelar Wrapped Binance Coin",
     "symbol": "WBNB.axl",
     "token": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.png",
@@ -1645,7 +1645,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "WGLMR",
+    "protocol": "Axelar Wrapped Moonbeam",
     "symbol": "WGLMR.axl",
     "token": "ibc/1E26DB0E5122AED464D98462BD384FCCB595732A66B3970AE6CE0B58BAE0FC49",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.png",
@@ -1655,7 +1655,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "HOPERS",
+    "protocol": "Hopers",
     "symbol": "HOPERS",
     "token": "ibc/D3ADAF73F84CDF205BCB72C142FDAEEA2C612AB853CEE6D6C06F184FA38B1099",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/hopers.png",
@@ -1694,7 +1694,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "NLS",
+    "protocol": "Nolus",
     "symbol": "NLS",
     "token": "ibc/D9AFCECDD361D38302AA66EB3BAC23B95234832C51D12489DC451FA2B7C72782",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nolus/images/nolus.png",
@@ -1714,7 +1714,7 @@
     "originChainId": "pacific-1"
   },
   {
-    "protocol": "AURA",
+    "protocol": "Aura Network",
     "symbol": "AURA",
     "token": "ibc/E4673C5CDB56B4225AB1625F3B478740AE9F11E1A6BEBC1B30F8A5080D6AFBD6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aura/images/Aura-logo-2.2.png",
@@ -1742,7 +1742,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "CANTO",
+    "protocol": "Canto",
     "symbol": "CANTO",
     "token": "ibc/47CAF2DB8C016FAC960F33BC492FD8E454593B65CC59D70FA9D9F30424F9C32F",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/canto/images/canto.png",
@@ -1752,7 +1752,7 @@
     "originChainId": "canto_7700-1"
   },
   {
-    "protocol": "USDT",
+    "protocol": "Tether",
     "symbol": "USDT",
     "token": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
@@ -1771,7 +1771,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "stIBCX",
+    "protocol": "Stride IBCX",
     "symbol": "stIBCX",
     "token": "factory/osmo1xqw2sl9zk8a6pch0csaw78n4swg5ws8t62wc5qta4gnjxfqg6v2qcs243k/stuibcx",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/stibcx.png",
@@ -1780,7 +1780,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "HARBOR",
+    "protocol": "Harbor",
     "symbol": "HARBOR",
     "token": "ibc/AD4DEA52408EA07C0C9E19444EC8DA84A274A70AD2687A710EFDDEB28BB2986A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/harbor.png",
@@ -1799,7 +1799,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "LVN",
+    "protocol": "Levana",
     "symbol": "LVN",
     "token": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
@@ -1809,7 +1809,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "AUTISM",
+    "protocol": "Autism",
     "symbol": "AUTISM",
     "token": "ibc/9DDF52A334F92BC57A9E0D59DFF9984EAC61D2A14E5162605DF601AA58FDFC6D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/autism.png",
@@ -1819,7 +1819,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "MBRN",
+    "protocol": "Membrane",
     "symbol": "MBRN",
     "token": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/umbrn",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/MBRN.svg",
@@ -1838,7 +1838,7 @@
     "originChainId": "chihuahua-1"
   },
   {
-    "protocol": "ARB",
+    "protocol": "Arbitrum",
     "symbol": "ARB",
     "token": "ibc/A0B36C71F6331A9884F466E81F80195E905B4F0B210512007877802AC909E25A",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/arbitrum/asset/arb.png",
@@ -1894,7 +1894,7 @@
     "originChainId": "migaloo-1"
   },
   {
-    "protocol": "XPRT",
+    "protocol": "Persistance XPRT",
     "symbol": "XPRT",
     "token": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png",
@@ -1904,7 +1904,7 @@
     "originChainId": "core-1"
   },
   {
-    "protocol": "ANT",
+    "protocol": "Sifchain ANT",
     "symbol": "ANT.sif",
     "token": "ibc/D04E6A86F25AA29B6BFDCE3F9221D624B271305497F24F8C151035353920DA68",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/ant.png",
@@ -1914,7 +1914,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "POND",
+    "protocol": "Sifchain POND",
     "symbol": "POND.sif",
     "token": "ibc/F409BAB3C37B59F9979B915A1500E2A2991B83886B831D390EF090DBD86B5525",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/pond.png",
@@ -1933,7 +1933,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "USDT",
+    "protocol": "Peggy USDT",
     "symbol": "USDT.peggy",
     "token": "ibc/2AD3C64D19ADFBB522CD738B58F421102143F827C1CAFF574A8BF0B81017D53D",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdt.png",
@@ -1952,7 +1952,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "axlDOT",
+    "protocol": "Axelar Polkadot",
     "symbol": "DOT.axl",
     "token": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.png",
@@ -1962,7 +1962,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "WFTM",
+    "protocol": "Axelar Wrapped Fantom",
     "symbol": "WFTM.axl",
     "token": "ibc/5E2DFDF1734137302129EA1C1BA21A580F96F778D4F021815EA4F6DB378DA1A4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png",
@@ -1972,7 +1972,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "ECLIP",
+    "protocol": "Eclipse",
     "symbol": "ECLIP",
     "token": "ibc/6D2561C8849B856A0518172805ED22C3D66DDCDAC18E4792D7D932A278025C15",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/neutron/asset/eclipse.png",
@@ -2010,7 +2010,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "ETH",
+    "protocol": "Sifchain Ethereum",
     "symbol": "ETH.sif",
     "token": "ibc/5F77DE202CBE3B263AB321AC7FF6A2D35857DACF213FF9CE03E40D43CBA6A870",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/eth.png",
@@ -2020,7 +2020,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "WETH",
+    "protocol": "Gravity Wrapped Ethereum",
     "symbol": "WETH.grv",
     "token": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
@@ -2057,7 +2057,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "RAI",
+    "protocol": "Axelar RAI",
     "symbol": "RAI.axl",
     "token": "ibc/BD796662F8825327D41C96355DF62045A5BA225BAE31C0A86289B9D88ED3F44E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/rai.svg",
@@ -2076,7 +2076,7 @@
     "originChainId": "migaloo-1"
   },
   {
-    "protocol": "JKL",
+    "protocol": "Jackal Protocol",
     "symbol": "JKL",
     "token": "ibc/8E697BDABE97ACE8773C6DF7402B2D1D5104DD1EEABE12608E3469B7F64C15BA",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.png",
@@ -2086,7 +2086,7 @@
     "originChainId": "jackal-1"
   },
   {
-    "protocol": "STARS",
+    "protocol": "Stagaze",
     "symbol": "STARS",
     "token": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
@@ -2096,7 +2096,7 @@
     "originChainId": "stargaze-1"
   },
   {
-    "protocol": "LINA",
+    "protocol": "Sifchain LINA",
     "symbol": "LINA.sif",
     "token": "ibc/9883832395B05DCED4CF1CC95403C49536CA58850C886C149186E89471528912",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/lina.png",
@@ -2106,7 +2106,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "SOMM",
+    "protocol": "Sommelier",
     "symbol": "SOMM",
     "token": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.png",
@@ -2125,7 +2125,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Sifchain USDC",
     "symbol": "USDC.sif",
     "token": "ibc/B538674E3091987E4AABF264899829CBB209EB5EFF89500213F5335F1BCED307",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdc.png",
@@ -2135,7 +2135,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "ETH",
+    "protocol": "Carbon Ethereum",
     "symbol": "ETH.carbon",
     "token": "ibc/0824A92510C1CE67BF02944854A5D7C7F392DF111045B4551ADDF7EFFEA05A32",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg",
@@ -2154,7 +2154,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "USTC",
+    "protocol": "Terra UST Classic",
     "symbol": "USTC",
     "token": "ibc/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/ust.png",
@@ -2164,7 +2164,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "stINJ",
+    "protocol": "Stride Injective",
     "symbol": "stINJ",
     "token": "ibc/C04DFC9BCD893E57F2BEFE40F63EFD18D2768514DBD5F63ABD2FF7F48FC01D36",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stinj.png",
@@ -2193,7 +2193,7 @@
     "originChainId": "migaloo-1"
   },
   {
-    "protocol": "sDAI",
+    "protocol": "Gravity Staked DAI",
     "symbol": "sDAI.grv",
     "token": "ibc/723134C962D78FC0E35610DB6D6A19B5B791D04FE8F4154E4AAB7BDAB28DBB45",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/sdai.png",
@@ -2202,7 +2202,7 @@
     "originChainId": "gravity-bridge-3"
   },
   {
-    "protocol": "cUSD",
+    "protocol": "Celo Dollar",
     "symbol": "cUSD.axl",
     "token": "ibc/73ACC8C994C1335BDEE9F473865EE46ED6529D345B1FE8905ED1FD5F2628AADA",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/celo/asset/cusd.png",
@@ -2212,10 +2212,10 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "APOLLO",
+    "protocol": "Apollo",
     "symbol": "APOLLO",
     "token": "ibc/73BB20AF857D1FE6E061D01CA13870872AD0C979497CAF71BEA25B1CBF6879F1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/apollo.svg",
+    "icon": "/img/apollo.svg",
     "decimals": 6,
     "originDenom": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
     "originChainId": "neutron-1"
@@ -2231,7 +2231,7 @@
     "originChainId": "dimension_37-1"
   },
   {
-    "protocol": "WHALE",
+    "protocol": "White Whale",
     "symbol": "WHALE",
     "token": "ibc/EDD6F0D66BCD49C1084FB2C35353B4ACD7B9191117CE63671B61320548F7C89D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.png",
@@ -2316,7 +2316,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "stLUNA",
+    "protocol": "Stride Luna",
     "symbol": "stLUNA",
     "token": "ibc/C491E7582E94AE921F6A029790083CDE1106C28F3F6C4AD7F1340544C13EC372",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.png",
@@ -2345,7 +2345,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "axlLINK",
+    "protocol": "Axelar Chainlink",
     "symbol": "LINK.axl",
     "token": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.png",
@@ -2373,7 +2373,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "WBTC",
+    "protocol": "Sifchain Wrapped Bitcoin",
     "symbol": "WBTC.sif",
     "token": "ibc/3684F836AD9063BFE53DDC5594B179403C609E1CA30F24FE5D2DDE2126FCAE98",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/wbtc.png",
@@ -2420,7 +2420,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "BOND",
+    "protocol": "Sifchain Barn Bridge",
     "symbol": "BOND.sif",
     "token": "ibc/79DB2F9D2525460B6EB75ECFB8EAE0EC7986172FDF29E66E0AE5C452D1242D79",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/bond.png",
@@ -2430,7 +2430,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "BAL",
+    "protocol": "Sifchain Balancer",
     "symbol": "BAL.sif",
     "token": "ibc/13EED12E8F9D922CD593302BDEC0154C58EDA4DBB8DF723F3BBFD0476BA3D988",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/bal.png",
@@ -2450,7 +2450,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "WBTC",
+    "protocol": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "token": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png",
@@ -2460,7 +2460,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "UMEE",
+    "protocol": "Umee",
     "symbol": "UMEE",
     "token": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png",
@@ -2479,7 +2479,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "PAXG",
+    "protocol": "Gravity Pax Gold",
     "symbol": "PAXG.grv",
     "token": "ibc/A5CCD24BA902843B1003A7EEE5F937C632808B9CF4925601241B15C5A0A51A53",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/paxg.png",
@@ -2517,7 +2517,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "axlFIL",
+    "protocol": "Axelar Filcoin",
     "symbol": "FIL.axl",
     "token": "ibc/18FB5C09D9D2371F659D4846A956FA56225E377EE3C3652A2BF3542BF809159D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/filecoin/images/wfil.png",
@@ -2527,7 +2527,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "SHIB",
+    "protocol": "Axelar Shiba Inu",
     "symbol": "SHIB.axl",
     "token": "ibc/19305E20681911F14D1FB275E538CDE524C3BF88CF9AE5D5F78F4D4DA05E85B2",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/shib.svg",
@@ -2537,7 +2537,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "USTC",
+    "protocol": "Sifchain Terra UST Classic",
     "symbol": "USTC.sif",
     "token": "ibc/1D9132FB8C4913723A89CCA37038B6B400305C7F04652670C41FB5FE73880310",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/ust.png",
@@ -2547,7 +2547,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "KIRA",
+    "protocol": "Kira the Injective cat",
     "symbol": "KIRA",
     "token": "ibc/D9FCD4244CA221F5D5236E31CB13F6E547826526AFDF7084462F47F2173AE5F1",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/injective/asset/kira.png",
@@ -2557,7 +2557,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "qOSMO",
+    "protocol": "Quicksilver Osmosis",
     "symbol": "qOSMO",
     "token": "ibc/42D24879D4569CE6477B7E88206ADBFE47C222C6CAD51A54083E4A72594269FC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qosmo.png",
@@ -2584,7 +2584,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "stUMEE",
+    "protocol": "Stride Umee",
     "symbol": "stUMEE",
     "token": "ibc/02F196DA6FD0917DD5FEA249EE61880F4D941EE9059E7964C5C9B50AF103800F",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stumee.png",
@@ -2594,7 +2594,7 @@
     "originChainId": "stride-1"
   },
   {
-    "protocol": "QSR",
+    "protocol": "Quasar",
     "symbol": "QSR",
     "token": "ibc/1B708808D372E959CD4839C594960309283424C775F4A038AAEBE7F83A988477",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quasar/images/quasar.png",
@@ -2614,7 +2614,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "WSCRT",
+    "protocol": "Sifchain Wrapped Secret",
     "symbol": "WSCRT.sif",
     "token": "ibc/1BC5AE276CEBAF1837F985B1A750FD35932F1AC0EC8411CAD1EE9D643BF4855B",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/wscrt.png",
@@ -2624,7 +2624,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "REGEN",
+    "protocol": "Regen",
     "symbol": "REGEN",
     "token": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/regen/images/regen.png",
@@ -2643,7 +2643,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "stOSMO",
+    "protocol": "Stride Osmosis",
     "symbol": "stOSMO",
     "token": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.png",
@@ -2653,7 +2653,7 @@
     "originChainId": "stride-1"
   },
   {
-    "protocol": "USDCar",
+    "protocol": "Wormhole Arbitrum USDC",
     "symbol": "USDCar",
     "token": "ibc/D2945E710AB3D24E236076A185FC51F1D8379869F55CC00F841F5ED9604F8B2E",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdc.png",
@@ -2663,7 +2663,7 @@
     "originChainId": "pacific-1"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Axelar Polygon USDC",
     "symbol": "USDC.axl.polygon",
     "token": "ibc/231FD77ECCB2DB916D314019DA30FE013202833386B1908A191D16989AD80B5A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png",
@@ -2672,7 +2672,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "ARCH",
+    "protocol": "Archway",
     "symbol": "ARCH",
     "token": "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.png",
@@ -2682,7 +2682,7 @@
     "originChainId": "archway-1"
   },
   {
-    "protocol": "CMST",
+    "protocol": "Composite",
     "symbol": "CMST",
     "token": "ibc/23CA6C8D1AB2145DD13EB1E089A2E3F960DC298B468CCE034E19E5A78B61136E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png",
@@ -2701,7 +2701,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "BTSG",
+    "protocol": "Bitsong",
     "symbol": "BTSG",
     "token": "ibc/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png",
@@ -2711,7 +2711,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "PICA",
+    "protocol": "Picasso",
     "symbol": "PICA",
     "token": "ibc/56D7C03B8F6A07AD322EEE1BEF3AE996E09D1C1E34C27CF37E0D4A0AC5972516",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/composable/images/pica.svg",
@@ -2721,7 +2721,7 @@
     "originChainId": "centauri-1"
   },
   {
-    "protocol": "KAVA",
+    "protocol": "Kava",
     "symbol": "KAVA",
     "token": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png",
@@ -2731,7 +2731,7 @@
     "originChainId": "kava_2222-10"
   },
   {
-    "protocol": "KLEO",
+    "protocol": "Kleomedes",
     "symbol": "KLEO",
     "token": "ibc/5F5B7DA5ECC80F6C7A8702D525BB0B74279B1F7B8EFAE36E423D68788F7F39FF",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/kleomedes.png",
@@ -2740,7 +2740,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "axlBUSD",
+    "protocol": "Axeler Binance USD",
     "symbol": "BUSD.axl",
     "token": "ibc/6329DD8CF31A334DD5BE3F68C846C9FE313281362B37686A62343BAC1EB1546D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png",
@@ -2759,7 +2759,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "SWTH",
+    "protocol": "Switcheo",
     "symbol": "SWTH",
     "token": "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
@@ -2778,7 +2778,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "ROAR",
+    "protocol": "Lion DAO",
     "symbol": "ROAR",
     "token": "ibc/98BCD43F190C6960D0005BC46BB765C827403A361C9C03C2FF694150A30284B0",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png",
@@ -2806,7 +2806,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "WOSMO",
+    "protocol": "Wrapped Osmosis",
     "symbol": "WOSMO",
     "token": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wosmo.png",
@@ -2860,7 +2860,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "FRAX",
+    "protocol": "Axelar Frax",
     "symbol": "FRAX.axl",
     "token": "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/frax.svg",
@@ -2870,7 +2870,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "NTRN",
+    "protocol": "Neutron",
     "symbol": "NTRN",
     "token": "ibc/126DA09104B71B164883842B769C0E9EC1486C0887D27A9999E395C2C8FB5682",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.png",
@@ -2880,7 +2880,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "INVDRS",
+    "protocol": "Invaders",
     "symbol": "INVDRS",
     "token": "ibc/3DB1721541C94AD19D7735FECED74C227E13F925BDB814392980B40A19C1ED54",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/invdrs.png",
@@ -2889,7 +2889,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "qSTARS",
+    "protocol": "Quicksilver Stargaze",
     "symbol": "qSTARS",
     "token": "ibc/46C83BB054E12E189882B5284542DB605D94C99827E367C9192CF0579CD5BC83",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.png",
@@ -2907,7 +2907,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "SLCA",
+    "protocol": "Silicia",
     "symbol": "SLCA",
     "token": "ibc/5164ECF584AD7DC27DA9E6A89E75DAB0F7C4FCB0A624B69215B8BC6A2C40CD07",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/silica.png",
@@ -2916,7 +2916,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "MNTA",
+    "protocol": "Manta DAO",
     "symbol": "MNTA",
     "token": "ibc/51D893F870B7675E507E91DA8DB0B22EA66333207E4F5C0708757F08EE059B0B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.png",
@@ -2926,7 +2926,7 @@
     "originChainId": "kaiyo-1"
   },
   {
-    "protocol": "YFI",
+    "protocol": "Sifchain Yearn Finance",
     "symbol": "YFI.sif",
     "token": "ibc/1826B7AA4052BBCD027D9BE044B7979F5DD39D89754605FE050C3DFA4304A1F8",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/yfi.png",
@@ -2946,7 +2946,7 @@
     "originChainId": "kyve-1"
   },
   {
-    "protocol": "STETH",
+    "protocol": "Gravity Staked Ethereum",
     "symbol": "STETH.grv",
     "token": "ibc/454E820139E40BD6285C821392A6AAC976D9FC59D75F1937784FC0D9B62F38D0",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/steth.png",
@@ -2974,7 +2974,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "USD",
+    "protocol": "Carbon USD",
     "symbol": "USD",
     "token": "ibc/73C2C269DCA7914B90E227D315C339836FDC6F2D570E5C5438D6C288472A665B",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/carbon-grouped-usd.png",
@@ -2983,7 +2983,7 @@
     "originChainId": "carbon-1"
   },
   {
-    "protocol": "qREGEN",
+    "protocol": "Quicksilver Regen",
     "symbol": "qREGEN",
     "token": "ibc/79A676508A2ECA1021EDDC7BB9CF70CEEC9514C478DA526A5A8B3E78506C2206",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qregen.png",
@@ -2992,7 +2992,7 @@
     "originChainId": "quicksilver-2"
   },
   {
-    "protocol": "CTK",
+    "protocol": "Certik",
     "symbol": "CTK",
     "token": "ibc/7ED954CFFFC06EE8419387F3FC688837FF64EF264DE14219935F724EEEDBF8D3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shentu/images/ctk.png",
@@ -3002,7 +3002,7 @@
     "originChainId": "shentu-2.2"
   },
   {
-    "protocol": "stJUNO",
+    "protocol": "Stride Juno",
     "symbol": "stJUNO",
     "token": "ibc/84502A75BCA4A5F68D464C00B3F610CE2585847D59B52E5FFB7C3C9D2DDCD3FE",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.png",
@@ -3021,7 +3021,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "milkTIA",
+    "protocol": "MilkyWay Celestia",
     "symbol": "milkTIA",
     "token": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/milktia.png",
@@ -3031,7 +3031,7 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "SAYVE",
+    "protocol": "Sayve",
     "symbol": "SAYVE",
     "token": "ibc/06EF575844982382F4D1BC3830D294557A30EDB3CD223153AFC8DFEF06349C56",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/sayve.png",
@@ -3040,7 +3040,7 @@
     "originChainId": "phoenix-1"
   },
   {
-    "protocol": "BLD",
+    "protocol": "Agoric",
     "symbol": "BLD",
     "token": "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
@@ -3068,7 +3068,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "DVPN",
+    "protocol": "Sentinel",
     "symbol": "DVPN",
     "token": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png",
@@ -3087,7 +3087,7 @@
     "originChainId": "pacific-1"
   },
   {
-    "protocol": "SEI",
+    "protocol": "Sei Network",
     "symbol": "SEI",
     "token": "ibc/71F11BC0AF8E526B80E44172EBA9D3F0A8E03950BB882325435691EBC9450B1D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.png",
@@ -3133,7 +3133,7 @@
     "originChainId": "migaloo-1"
   },
   {
-    "protocol": "axlDAI",
+    "protocol": "Axelar DAI",
     "symbol": "DAI.axl",
     "token": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.png",
@@ -3143,7 +3143,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "LUNC",
+    "protocol": "Terra Luna Classic",
     "symbol": "LUNC",
     "token": "ibc/0EF15DF2F02480ADE0BB6E85D9EBB5DAEA2836D3860E9F97F9AADE4F57A31AA0",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.png",
@@ -3153,7 +3153,7 @@
     "originChainId": "columbus-5"
   },
   {
-    "protocol": "TREE",
+    "protocol": "Lving Tree",
     "symbol": "TREE",
     "token": "ibc/1430C4E214AEDDF2DDA6A41E4FA33A51A60E1E0012293F0DCB1E2B66935E5994",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/livingtree.png",
@@ -3162,7 +3162,7 @@
     "originChainId": "juno-1"
   },
   {
-    "protocol": "CREAM",
+    "protocol": "Sifchain Cream Finance",
     "symbol": "CREAM.sif",
     "token": "ibc/6B02EF600BA79CD60D4A85BA4DC81D02559827E715386A3BC4C5D8386F8037E4",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/cream.png",

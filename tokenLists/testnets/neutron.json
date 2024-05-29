@@ -30,7 +30,7 @@
     "protocol": "Mars Protocol",
     "symbol": "MARS",
     "token": "ibc/584A4A23736884E0C198FD1EE932455A9357A492A7B94324E4A02B5628687831",
-    "icon": "/img/mars.png"
+    "icon": "/img/mars.svg"
   },
   {
     "protocol": "Lido",
@@ -66,7 +66,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Cosmos",
+    "protocol": "Cosmos Hub",
     "symbol": "ATOM",
     "token": "ibc/9DF365E2C0EF4EA02FA771F638BB9C0C830EFCD354629BDC017F79B348B4E989",
     "icon": "/img/atom.svg",
