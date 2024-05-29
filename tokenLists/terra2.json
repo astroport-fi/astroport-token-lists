@@ -243,7 +243,7 @@
     "protocol": "Stride",
     "symbol": "stATOM",
     "token": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
-    "icon": "/img/stAtom.svg",
+    "icon": "/img/statom.svg",
     "decimals": 6,
     "originDenom": "stuatom",
     "originChainId": "stride-1"
@@ -541,7 +541,7 @@
     "protocol": "Mars Protocol",
     "symbol": "MARS",
     "token": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
-    "icon": "/img/mars.png",
+    "icon": "/img/mars.svg",
     "decimals": 6,
     "coingeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "originDenom": "umars",
