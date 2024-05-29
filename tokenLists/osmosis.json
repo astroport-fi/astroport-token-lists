@@ -300,7 +300,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "AXL",
+    "protocol": "Axelar",
     "symbol": "AXL",
     "token": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
