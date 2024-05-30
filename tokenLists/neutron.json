@@ -45,7 +45,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Cosmos",
+    "protocol": "Cosmos Hub",
     "symbol": "ATOM",
     "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "icon": "/img/atom.svg",
@@ -55,17 +55,17 @@
     "decimals": 6
   },
   {
-    "protocol": "Stride Staked ATOM",
+    "protocol": "Stride Atom",
     "symbol": "stATOM",
     "token": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
-    "icon": "/img/stAtom.svg",
+    "icon": "/img/statom.svg",
     "originDenom": "stuatom",
     "originChainId": "stride-1",
     "decimals": 6,
     "coingeckoId": "stride-staked-atom"
   },
   {
-    "protocol": "USDT",
+    "protocol": "Axelar Tether",
     "symbol": "USDT.axl",
     "token": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
     "icon": "/img/axlusdt.svg",
@@ -102,7 +102,7 @@
     "protocol": "Mars Protocol",
     "symbol": "MARS",
     "token": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
-    "icon": "/img/mars.png",
+    "icon": "/img/mars.svg",
     "coingeckoId": "mars-protocol",
     "originDenom": "umars",
     "originChainId": "mars-1",
@@ -127,7 +127,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "Ethereum",
+    "protocol": "Axelar Wrapped Ethereum",
     "symbol": "WETH.axl",
     "token": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
     "icon": "/img/eth.svg",
@@ -177,7 +177,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "DYDX",
+    "protocol": "dYdX",
     "symbol": "DYDX",
     "token": "ibc/2CB87BCE0937B1D1DFCEE79BE4501AAF3C265E923509AEAC410AD85D27F35130",
     "icon": "/img/dydx.svg",
@@ -464,10 +464,10 @@
     "originChainId": "osmosis-1"
   },
   {
-    "protocol": "Stride Staked DYDX",
+    "protocol": "Stride dYdX",
     "symbol": "stDYDX",
     "token": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
-    "icon": "/img/stDYDX.png",
+    "icon": "/img/stdydx.svg",
     "decimals": 18,
     "originDenom": "stadydx",
     "originChainId": "stride-1",
@@ -483,7 +483,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "Stride Staked TIA",
+    "protocol": "Stride Celestia",
     "symbol": "stTIA",
     "token": "ibc/6569E05DEE32B339D9286A52BE33DFCEFC97267F23EF9CFDE0C055140967A9A5",
     "icon": "/img/sttia.svg",
@@ -595,7 +595,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "Stride Staked DYM",
+    "protocol": "Stride Dymension",
     "symbol": "stDYM",
     "token": "ibc/8D0C1AC5A72FB7EC187632D01BACBB68EF743CA1AF16A15C00ACBB9CF49A0070",
     "icon": "/img/stdym.svg",
@@ -696,7 +696,7 @@
     "originChainId": "ssc-1"
   },
   {
-    "protocol": "Stride Staked SAGA",
+    "protocol": "Stride Saga",
     "symbol": "stSAGA",
     "token": "ibc/4EAAAE537853E9C0DDF458F0710C37BB3DE7C6A675AB75DB5731ACE93D6CC57B",
     "icon": "/img/stSAGA.svg",
