@@ -1117,7 +1117,7 @@
     "protocol": "Wrapped Staked Ethereum",
     "symbol": "wstETH",
     "token": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5",
-    "icon": "/img/wsteth.svg",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
     "decimals": 18,
     "coingeckoId": "wrapped-steth",
     "originDenom": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
