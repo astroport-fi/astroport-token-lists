@@ -67,12 +67,32 @@
   },
   {
     "protocol": "Cosmos Hub",
-    "symbol": "ATOM",
+    "symbol": "(Old) ATOM",
     "token": "ibc/9DF365E2C0EF4EA02FA771F638BB9C0C830EFCD354629BDC017F79B348B4E989",
     "icon": "/img/atom.svg",
     "coingeckoId": "cosmos",
     "originDenom": "uatom",
     "originChainId": "theta-testnet-001",
     "decimals": 6
+  },
+  {
+    "protocol": "Noble",
+    "symbol": "USDC",
+    "token": "ibc/4C19E7EC06C1AB2EC2D70C6855FEB6D48E9CE174913991DA0A517D21978E7E42",
+    "icon": "/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc",
+    "originChainId": "grant-1"
+  },
+  {
+    "protocol": "Cosmos Hub",
+    "symbol": "ATOM",
+    "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "icon": "/img/atom.svg",
+    "decimals": 6,
+    "coingeckoId": "cosmos",
+    "originDenom": "uatom",
+    "originChainId": "theta-testnet-001"
   }
 ]
