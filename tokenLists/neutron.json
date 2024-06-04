@@ -752,4 +752,13 @@
     "originDenom": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NELSON",
     "originChainId": "neutron-1"
   }
+    {
+    "protocol": "Power Bottom",
+    "symbol": "PBB",
+    "token": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pbb",
+    "icon": "/img/pbb.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pbb",
+    "originChainId": "osmosis-1"
+  }
 ]
