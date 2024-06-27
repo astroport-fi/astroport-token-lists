@@ -1752,10 +1752,10 @@
     "originChainId": "canto_7700-1"
   },
   {
-    "protocol": "Tether",
-    "symbol": "USDT",
+    "protocol": "Tether USD",
+    "symbol": "USDT.kava",
     "token": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
+    "icon": "/img/kava.usdt.svg",
     "decimals": 6,
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
