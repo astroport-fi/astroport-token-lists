@@ -96,8 +96,8 @@
     "originChainId": "theta-testnet-001"
   },
   {
-    "protocol": "Mars Protocol",
-    "symbol": "MARS",
+    "protocol": "Testnet MARS",
+    "symbol": "MARS.test",
     "token": "factory/neutron1wm8jd0hrw79pfhhm9xmuq43jwz4wtukvxfgkkw/mars",
     "icon": "/img/mars.svg",
     "coingeckoId": "mars-protocol",
@@ -105,7 +105,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Testnet",
+    "protocol": "Testnet USDC",
     "symbol": "USDC.test",
     "token": "factory/neutron1wm8jd0hrw79pfhhm9xmuq43jwz4wtukvxfgkkw/usdc",
     "icon": "/img/usdc.svg",
