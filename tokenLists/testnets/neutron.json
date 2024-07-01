@@ -94,5 +94,23 @@
     "coingeckoId": "cosmos",
     "originDenom": "uatom",
     "originChainId": "theta-testnet-001"
+  },
+  {
+    "protocol": "Mars Protocol",
+    "symbol": "MARS",
+    "token": "factory/neutron1wm8jd0hrw79pfhhm9xmuq43jwz4wtukvxfgkkw/mars",
+    "icon": "/img/mars.svg",
+    "coingeckoId": "mars-protocol",
+    "originDenom": "umars",
+    "decimals": 6
+  },
+  {
+    "protocol": "Testnet",
+    "symbol": "USDC.test",
+    "token": "factory/neutron1wm8jd0hrw79pfhhm9xmuq43jwz4wtukvxfgkkw/usdc",
+    "icon": "/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc"
   }
 ]
