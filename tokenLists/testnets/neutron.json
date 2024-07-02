@@ -49,7 +49,7 @@
   {
     "protocol": "Nolus",
     "symbol": "NLS",
-    "token": "ibc/830F6CA3E33406586DFAADB25908769CB111046755EDAAD1D8D6A6E72A5E0C87",
+    "token": "ibc/E808FAAE7ADDA37453A8F0F67D74669F6580CBA5EF0F7889D46FB02D282098E3",
     "icon": "/img/nolus.svg"
   },
   {
@@ -94,5 +94,23 @@
     "coingeckoId": "cosmos",
     "originDenom": "uatom",
     "originChainId": "theta-testnet-001"
+  },
+  {
+    "protocol": "Testnet MARS",
+    "symbol": "MARS.test",
+    "token": "factory/neutron1wm8jd0hrw79pfhhm9xmuq43jwz4wtukvxfgkkw/mars",
+    "icon": "/img/mars.svg",
+    "coingeckoId": "mars-protocol",
+    "originDenom": "umars",
+    "decimals": 6
+  },
+  {
+    "protocol": "Testnet USDC",
+    "symbol": "USDC.test",
+    "token": "factory/neutron1wm8jd0hrw79pfhhm9xmuq43jwz4wtukvxfgkkw/usdc",
+    "icon": "/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc"
   }
 ]

@@ -26,7 +26,7 @@
     "originChainId": "phoenix-1",
     "decimals": 6
   },
-    {
+  {
     "protocol": "CLON",
     "symbol": "babyCLON",
     "token": "inj1pyghkw9q0kx8mnuhcxpqnczfxst0way2ep9s54",
@@ -928,7 +928,7 @@
     "protocol": "KiraWifHat",
     "symbol": "KiraWifHat",
     "token": "factory/inj1kujwsrwlqa7yj9545r9tfmrlqcknlmwm3rqe0q/KiraWifHat",
-    "icon": "/img/kirawifhat.png",
+    "icon": "/img/inj-kirawifhat.png",
     "decimals": 6
   },
   {
