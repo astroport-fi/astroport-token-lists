@@ -260,7 +260,6 @@
     "originDenom": "factory/neutron1hn07a70wr6ladw7jdq5afesxm0eme958hht2rl/TEWT",
     "originChainId": "neutron-1"
   },
-
   {
     "protocol": "Baby Corgi",
     "symbol": "CORGI",
@@ -751,5 +750,1461 @@
     "decimals": 6,
     "originDenom": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NELSON",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Asteroids",
+    "symbol": "ROIDS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROIDS",
+    "icon": "/img/ROIDScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AstroDickButt Token",
+    "symbol": "ADB.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADB",
+    "icon": "/img/ADBcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Vendetta Markets",
+    "symbol": "VBUCKS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/VBUCKS",
+    "icon": "/img/VBUCKScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "IBC Gangsters",
+    "symbol": "IBCG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/IBCG",
+    "icon": "/img/IBCGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos Cartel",
+    "symbol": "CARTEL.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CARTEL",
+    "icon": "/img/CARTELcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PEPE",
+    "symbol": "PEPE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PEPE",
+    "icon": "/img/PEPEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Evil Doge",
+    "symbol": "EVILDOGE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/EVILDOGE",
+    "icon": "/img/EVILDOGEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "reece",
+    "symbol": "REECE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/REECE",
+    "icon": "/img/REECEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "cosmos",
+    "symbol": "ATOM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOM",
+    "icon": "/img/ATOMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DogWifHat",
+    "symbol": "WIF.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WIF",
+    "icon": "/img/WIFcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Darkside",
+    "symbol": "DARKSIDE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DARKSIDE",
+    "icon": "/img/DARKSIDEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Lunatics",
+    "symbol": "LUNATICS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LUNATICS",
+    "icon": "/img/LUNATICScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Bad Coin",
+    "symbol": "BAD.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BAD",
+    "icon": "/img/BADcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Archimedix",
+    "symbol": "ARCHI.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ARCHI",
+    "icon": "/img/ARCHIcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "HENTAI",
+    "symbol": "HENTAI.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HENTAI",
+    "icon": "/img/HENTAIcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BANKRUN",
+    "symbol": "BANKRUN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BANKRUN",
+    "icon": "/img/BANKRUNcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Autism",
+    "symbol": "AUTISM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/AUTISM",
+    "icon": "/img/AUTISMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "REKT",
+    "symbol": "REKT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/REKT",
+    "icon": "/img/REKTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Rare GEM",
+    "symbol": "RARE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RARE",
+    "icon": "/img/RAREcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "jHEX",
+    "symbol": "JHEX.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/JHEX",
+    "icon": "/img/JHEXcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Kujinscriptions",
+    "symbol": "KUJI.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KUJI",
+    "icon": "/img/KUJIcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atom1kLFGInu",
+    "symbol": "JAE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/JAE",
+    "icon": "/img/JAEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "UST",
+    "symbol": "UST.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/UST",
+    "icon": "/img/USTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BONK",
+    "symbol": "BONK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BONK",
+    "icon": "/img/BONKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Disasteroids",
+    "symbol": "DROIDS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DROIDS",
+    "icon": "/img/DROIDScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SunnyProp16JunoWhaleInu",
+    "symbol": "COSMOS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSMOS",
+    "icon": "/img/COSMOScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "UpsideDownTiger",
+    "symbol": "USDT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/USDT",
+    "icon": "/img/USDTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Rainbow Coin",
+    "symbol": "RNBW.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RNBW",
+    "icon": "/img/RNBWcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DOGE",
+    "symbol": "DOGE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DOGE",
+    "icon": "/img/DOGEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "NutSack",
+    "symbol": "NTSK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTSK",
+    "icon": "/img/NTSKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "delphi",
+    "symbol": "DLP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DLP",
+    "icon": "/img/DLPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Elon Musk",
+    "symbol": "ELON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ELON",
+    "icon": "/img/ELONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Solana",
+    "symbol": "SOL.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SOL",
+    "icon": "/img/SOLcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Dymension",
+    "symbol": "DYM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DYM",
+    "icon": "/img/DYMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AstroDoge",
+    "symbol": "ASTRODOGE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASTRODOGE",
+    "icon": "/img/ASTRODOGEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Celestia",
+    "symbol": "TIA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TIA",
+    "icon": "/img/TIAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CryptoWizard",
+    "symbol": "WIZARD.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WIZARD",
+    "icon": "/img/WIZARDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ATOMFANS",
+    "symbol": "TOKEN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TOKEN",
+    "icon": "/img/TOKENcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "IBC",
+    "symbol": "IBC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/IBC",
+    "icon": "/img/IBCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "OWL",
+    "symbol": "OWL.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/OWL",
+    "icon": "/img/OWLcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Bitcoin",
+    "symbol": "BTC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BTC",
+    "icon": "/img/BTCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Asteroid Protocol",
+    "symbol": "ASPR.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASPR",
+    "icon": "/img/ASPRcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos Rats",
+    "symbol": "RATS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RATS",
+    "icon": "/img/RATScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atoms",
+    "symbol": "ATOMS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOMS",
+    "icon": "/img/ATOMScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ActuallyitsBenance",
+    "symbol": "BENANCE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BENANCE",
+    "icon": "/img/BENANCEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Deploying More Capital",
+    "symbol": "STEADYLADS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STEADYLADS",
+    "icon": "/img/STEADYLADScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Adrenochrome",
+    "symbol": "ADRENOCHRO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADRENOCHRO",
+    "icon": "/img/ADRENOCHROcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BABY ROIDS",
+    "symbol": "BABYROIDS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BABYROIDS",
+    "icon": "/img/BABYROIDScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "StakecitoWifHat",
+    "symbol": "STAKE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STAKE",
+    "icon": "/img/STAKEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Late for Asteroids",
+    "symbol": "ROIDS2.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROIDS2",
+    "icon": "/img/ROIDS2cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "OmniFlix CFT20 by FlixFanatics",
+    "symbol": "FLIX.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/FLIX",
+    "icon": "/img/FLIXcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Memecoin",
+    "symbol": "MEMECOIN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MEMECOIN",
+    "icon": "/img/MEMECOINcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CFT-20",
+    "symbol": "CFT20.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CFT20",
+    "icon": "/img/CFT20cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Asteroids",
+    "symbol": "ROID.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROID",
+    "icon": "/img/ROIDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CUNT",
+    "symbol": "CUNT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CUNT",
+    "icon": "/img/CUNTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Zen Lounge",
+    "symbol": "LOUNGE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LOUNGE",
+    "icon": "/img/LOUNGEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "THORChain",
+    "symbol": "RUNE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RUNE",
+    "icon": "/img/RUNEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ASTRO DOG",
+    "symbol": "DOG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DOG",
+    "icon": "/img/DOGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "WOJAK",
+    "symbol": "WOJAK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WOJAK",
+    "icon": "/img/WOJAKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Wosmongton",
+    "symbol": "WOSM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WOSM",
+    "icon": "/img/WOSMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Philosophers",
+    "symbol": "PHL.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PHL",
+    "icon": "/img/PHLcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "New Tron",
+    "symbol": "NTRX.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTRX",
+    "icon": "/img/NTRXcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Angry Baby",
+    "symbol": "ANGRY-BABY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ANGRY-BABY",
+    "icon": "/img/ANGRY-BABYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Honey Bee NFT Mining",
+    "symbol": "HONEYBEE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HONEYBEE",
+    "icon": "/img/HONEYBEEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MEETING",
+    "symbol": "MEETING.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MEETING",
+    "icon": "/img/MEETINGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Make Atom Great Again",
+    "symbol": "MAGA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MAGA",
+    "icon": "/img/MAGAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Mega Blends",
+    "symbol": "BLND.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BLND",
+    "icon": "/img/BLNDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Bitconnect",
+    "symbol": "BCC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BCC",
+    "icon": "/img/BCCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Lucy Dog",
+    "symbol": "LUCY99.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LUCY99",
+    "icon": "/img/LUCY99cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stakecito",
+    "symbol": "STAKECITO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STAKECITO",
+    "icon": "/img/STAKECITOcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Quirky",
+    "symbol": "QUIRKY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/QUIRKY",
+    "icon": "/img/QUIRKYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Proton Protocol",
+    "symbol": "PTON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PTON",
+    "icon": "/img/PTONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Noise",
+    "symbol": "NOISE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NOISE",
+    "icon": "/img/NOISEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BABY Asteroids",
+    "symbol": "BROIDS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BROIDS",
+    "icon": "/img/BROIDScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BigPP",
+    "symbol": "BIGPP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BIGPP",
+    "icon": "/img/BIGPPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "COSMOKRAMER",
+    "symbol": "CK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CK",
+    "icon": "/img/CKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atom Inscription",
+    "symbol": "ATIA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATIA",
+    "icon": "/img/ATIAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atomic Swap Protocol",
+    "symbol": "ASP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASP",
+    "icon": "/img/ASPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "iCosmosDAO",
+    "symbol": "ICOSMOSDAO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ICOSMOSDAO",
+    "icon": "/img/ICOSMOSDAOcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BadUncle",
+    "symbol": "BADUNCLE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BADUNCLE",
+    "icon": "/img/BADUNCLEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Digitz",
+    "symbol": "DGT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DGT",
+    "icon": "/img/DGTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DogWifWig",
+    "symbol": "WIG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WIG",
+    "icon": "/img/WIGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "HARAMBE",
+    "symbol": "HARAMBE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HARAMBE",
+    "icon": "/img/HARAMBEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PNKS",
+    "symbol": "PNKS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PNKS",
+    "icon": "/img/PNKScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "NOTIONAL",
+    "symbol": "KITTEH.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KITTEH",
+    "icon": "/img/KITTEHcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Redphone Finney",
+    "symbol": "HAL.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HAL",
+    "icon": "/img/HALcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "A Gently Unused 2024 Honda Civic",
+    "symbol": "NEWCAR.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NEWCAR",
+    "icon": "/img/NEWCARcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "JIJI",
+    "symbol": "JIJI.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/JIJI",
+    "icon": "/img/JIJIcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Elder Futhark",
+    "symbol": "RUNES.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RUNES",
+    "icon": "/img/RUNEScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Handsome",
+    "symbol": "HNSM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HNSM",
+    "icon": "/img/HNSMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LEAP wallet",
+    "symbol": "LEAP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LEAP",
+    "icon": "/img/LEAPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LAIKA",
+    "symbol": "LKA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LKA",
+    "icon": "/img/LKAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Galactic Punks",
+    "symbol": "GPUNK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/GPUNK",
+    "icon": "/img/GPUNKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "GREED",
+    "symbol": "GREED.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/GREED",
+    "icon": "/img/GREEDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MAX to the power of 16",
+    "symbol": "POWER.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/POWER",
+    "icon": "/img/POWERcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SHITCOIN CLUB",
+    "symbol": "SCC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SCC",
+    "icon": "/img/SCCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Hemorrhoids",
+    "symbol": "RHOID.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RHOID",
+    "icon": "/img/RHOIDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cookie",
+    "symbol": "COOKIE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COOKIE",
+    "icon": "/img/COOKIEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Nutz",
+    "symbol": "NTZ.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTZ",
+    "icon": "/img/NTZcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos Citizen",
+    "symbol": "COSMOSID.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSMOSID",
+    "icon": "/img/COSMOSIDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos Citizenzhip",
+    "symbol": "COSTIZEN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSTIZEN",
+    "icon": "/img/COSTIZENcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BlackGlovesMatter",
+    "symbol": "BGM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BGM",
+    "icon": "/img/BGMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "pennystock",
+    "symbol": "PSTOCK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PSTOCK",
+    "icon": "/img/PSTOCKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Planetoid",
+    "symbol": "TOID.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TOID",
+    "icon": "/img/TOIDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "GameStop",
+    "symbol": "GME.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/GME",
+    "icon": "/img/GMEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ASTRO BOY",
+    "symbol": "ASTROBOY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASTROBOY",
+    "icon": "/img/ASTROBOYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PLANET 9",
+    "symbol": "PLNT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PLNT",
+    "icon": "/img/PLNTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "NERD COIN",
+    "symbol": "NERD.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NERD",
+    "icon": "/img/NERDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Mfers",
+    "symbol": "MFERS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MFERS",
+    "icon": "/img/MFERScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Comunidad de La Mejor Estrategia",
+    "symbol": "LMEC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LMEC",
+    "icon": "/img/LMECcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BlissfullBuddha oil painting",
+    "symbol": "S3R3NITY1.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/S3R3NITY1",
+    "icon": "/img/S3R3NITY1cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The real Cosmos Unicorn",
+    "symbol": "COSMOCORN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSMOCORN",
+    "icon": "/img/COSMOCORNcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CURSED CAT",
+    "symbol": "CURSE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CURSE",
+    "icon": "/img/CURSEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BUTTHEAD",
+    "symbol": "BUTTHEAD.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BUTTHEAD",
+    "icon": "/img/BUTTHEADcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Three Arrows Capital",
+    "symbol": "3AC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/3AC",
+    "icon": "/img/3ACcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Glue",
+    "symbol": "GLUE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/GLUE",
+    "icon": "/img/GLUEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "A",
+    "symbol": "A.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/A",
+    "icon": "/img/Acft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Whale Inu",
+    "symbol": "WHALEINU.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WHALEINU",
+    "icon": "/img/WHALEINUcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmowave",
+    "symbol": "COSMOWAVE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSMOWAVE",
+    "icon": "/img/COSMOWAVEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LASSIE INU",
+    "symbol": "LASSIE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LASSIE",
+    "icon": "/img/LASSIEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ABUTT",
+    "symbol": "ABUTT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ABUTT",
+    "icon": "/img/ABUTTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Where in the Cosmos",
+    "symbol": "WALDO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WALDO",
+    "icon": "/img/WALDOcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Goon Has A Hat",
+    "symbol": "LFGOON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LFGOON",
+    "icon": "/img/LFGOONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Tree Of Cosmos",
+    "symbol": "TROCO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TROCO",
+    "icon": "/img/TROCOcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Patra",
+    "symbol": "PATRA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PATRA",
+    "icon": "/img/PATRAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos Little Prince",
+    "symbol": "CLPCOIN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CLPCOIN",
+    "icon": "/img/CLPCOINcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BOBOCOVIDSOROSINU",
+    "symbol": "BOBOINU.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BOBOINU",
+    "icon": "/img/BOBOINUcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MADONNA FAN TOKEN",
+    "symbol": "MADONNA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MADONNA",
+    "icon": "/img/MADONNAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MICHAEL JACKSON FAN TOKEN",
+    "symbol": "MJACKSON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MJACKSON",
+    "icon": "/img/MJACKSONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LROBOT",
+    "symbol": "LROBOT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LROBOT",
+    "icon": "/img/LROBOTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AMY WINEHOUSE FAN TOKEN",
+    "symbol": "AWINEHOUSE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/AWINEHOUSE",
+    "icon": "/img/AWINEHOUSEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Jake Won",
+    "symbol": "JKWON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/JKWON",
+    "icon": "/img/JKWONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Passage",
+    "symbol": "PASG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PASG",
+    "icon": "/img/PASGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Woven Aegis",
+    "symbol": "WOV.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WOV",
+    "icon": "/img/WOVcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Valhalla Token",
+    "symbol": "TVT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TVT",
+    "icon": "/img/TVTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BORIS",
+    "symbol": "BORIS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BORIS",
+    "icon": "/img/BORIScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Sunny Aggarwal Token",
+    "symbol": "SUNNY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SUNNY",
+    "icon": "/img/SUNNYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Good Game",
+    "symbol": "GGM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/GGM",
+    "icon": "/img/GGMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SNOWY",
+    "symbol": "SNOWY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SNOWY",
+    "icon": "/img/SNOWYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CosmoDog",
+    "symbol": "COSMODOG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSMODOG",
+    "icon": "/img/COSMODOGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Asteroidz",
+    "symbol": "ASTEROIDZ.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASTEROIDZ",
+    "icon": "/img/ASTEROIDZcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Nym Network",
+    "symbol": "NYM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NYM",
+    "icon": "/img/NYMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DOOM",
+    "symbol": "DOOM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DOOM",
+    "icon": "/img/DOOMcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Have fun staying poor",
+    "symbol": "STAYPOOR.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STAYPOOR",
+    "icon": "/img/STAYPOORcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SIR",
+    "symbol": "SIR.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SIR",
+    "icon": "/img/SIRcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BIOCUANTICO",
+    "symbol": "BICU.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BICU",
+    "icon": "/img/BICUcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Your Size is Not Size",
+    "symbol": "SYZE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SYZE",
+    "icon": "/img/SYZEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "COVID-19",
+    "symbol": "COVID.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COVID",
+    "icon": "/img/COVIDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Veggs Token",
+    "symbol": "VEGGS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/VEGGS",
+    "icon": "/img/VEGGScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "RSIC",
+    "symbol": "RSIC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RSIC",
+    "icon": "/img/RSICcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "dogelawif",
+    "symbol": "XWIF.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/XWIF",
+    "icon": "/img/XWIFcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atom to da moon",
+    "symbol": "ABOY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ABOY",
+    "icon": "/img/ABOYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Ethan Bryan Cock",
+    "symbol": "EBC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/EBC",
+    "icon": "/img/EBCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Panda",
+    "symbol": "PND.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PND",
+    "icon": "/img/PNDcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PepeHerb",
+    "symbol": "PHRB.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PHRB",
+    "icon": "/img/PHRBcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Orion",
+    "symbol": "ORN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ORN",
+    "icon": "/img/ORNcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SolarStorms",
+    "symbol": "SOS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SOS",
+    "icon": "/img/SOScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ForTheCulture",
+    "symbol": "FTC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/FTC",
+    "icon": "/img/FTCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Mr. Beast Cat",
+    "symbol": "S4T4N.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/S4T4N",
+    "icon": "/img/S4T4Ncft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Welike Community",
+    "symbol": "WELIKE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WELIKE",
+    "icon": "/img/WELIKEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "OCEANIC815",
+    "symbol": "OCEANIC815.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/OCEANIC815",
+    "icon": "/img/OCEANIC815cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DogWifLove",
+    "symbol": "LOVEDOGE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LOVEDOGE",
+    "icon": "/img/LOVEDOGEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "HERO",
+    "symbol": "HERO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HERO",
+    "icon": "/img/HEROcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmox",
+    "symbol": "CSMX.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CSMX",
+    "icon": "/img/CSMXcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "FritesDAO",
+    "symbol": "FRITES.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/FRITES",
+    "icon": "/img/FRITEScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Divine Mercy",
+    "symbol": "DIVINE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DIVINE",
+    "icon": "/img/DIVINEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "lakers",
+    "symbol": "LA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LA",
+    "icon": "/img/LAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "NBACON",
+    "symbol": "NBACON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NBACON",
+    "icon": "/img/NBACONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Wailer",
+    "symbol": "W.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/W",
+    "icon": "/img/Wcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "sendnudes",
+    "symbol": "NUDE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NUDE",
+    "icon": "/img/NUDEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "LA HAINE",
+    "symbol": "LAHAINE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LAHAINE",
+    "icon": "/img/LAHAINEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "future of the markets",
+    "symbol": "BULLRUN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BULLRUN",
+    "icon": "/img/BULLRUNcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Veggs Token Revenge",
+    "symbol": "VEGGSR.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/VEGGSR",
+    "icon": "/img/VEGGSRcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "WGMI",
+    "symbol": "HFSP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/HFSP",
+    "icon": "/img/HFSPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "okocoin",
+    "symbol": "OKC.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/OKC",
+    "icon": "/img/OKCcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DUMB MONEY",
+    "symbol": "DUMBMONEY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DUMBMONEY",
+    "icon": "/img/DUMBMONEYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PeaceForGaza",
+    "symbol": "P4G.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/P4G",
+    "icon": "/img/P4Gcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Maxmos invest",
+    "symbol": "MAXMOS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MAXMOS",
+    "icon": "/img/MAXMOScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Bubbly",
+    "symbol": "BBLY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BBLY",
+    "icon": "/img/BBLYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Tenth Base",
+    "symbol": "B10.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/B10",
+    "icon": "/img/B10cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Primus",
+    "symbol": "B10PR.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/B10PR",
+    "icon": "/img/B10PRcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Secundus",
+    "symbol": "B10SE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/B10SE",
+    "icon": "/img/B10SEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atomonocles",
+    "symbol": "MONOCLE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MONOCLE",
+    "icon": "/img/MONOCLEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stoner Chix",
+    "symbol": "STONER.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STONER",
+    "icon": "/img/STONERcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Huckleberry",
+    "symbol": "BERRY.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BERRY",
+    "icon": "/img/BERRYcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmos Worms Token",
+    "symbol": "CWRMS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CWRMS",
+    "icon": "/img/CWRMScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PrimeGenesis33",
+    "symbol": "PG33.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PG33",
+    "icon": "/img/PG33cft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atoverse",
+    "symbol": "ATOVERSE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOVERSE",
+    "icon": "/img/ATOVERSEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Asteroids",
+    "symbol": "ROYDS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROYDS",
+    "icon": "/img/ROYDScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Mondrian",
+    "symbol": "MONDRIAN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MONDRIAN",
+    "icon": "/img/MONDRIANcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "FLIPPED",
+    "symbol": "SPIN.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SPIN",
+    "icon": "/img/SPINcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Elites",
+    "symbol": "ELITES.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ELITES",
+    "icon": "/img/ELITEScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AstroDogWifHat",
+    "symbol": "ADWIF.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADWIF",
+    "icon": "/img/ADWIFcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "cosmos.ai",
+    "symbol": "ATOM.AI.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOM.AI",
+    "icon": "/img/ATOM.AIcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Atomap Token",
+    "symbol": "ATOMAP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOMAP",
+    "icon": "/img/ATOMAPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "comostao",
+    "symbol": "CTAO.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CTAO",
+    "icon": "/img/CTAOcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "You Have a Problem",
+    "symbol": "YHAP.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/YHAP",
+    "icon": "/img/YHAPcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Space Lizards",
+    "symbol": "SPLZ.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SPLZ",
+    "icon": "/img/SPLZcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Bing Chilling",
+    "symbol": "BCNG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BCNG",
+    "icon": "/img/BCNGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Astro Lads Utility Token",
+    "symbol": "ASLADS.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASLADS",
+    "icon": "/img/ASLADScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Asteroid Apes",
+    "symbol": "APES.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/APES",
+    "icon": "/img/APEScft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BABY DRAGON",
+    "symbol": "BABYDRAGON.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BABYDRAGON",
+    "icon": "/img/BABYDRAGONcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Drop Knocker",
+    "symbol": "KNOCK.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KNOCK",
+    "icon": "/img/KNOCKcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BLACKDOG",
+    "symbol": "BLACKDOG.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BLACKDOG",
+    "icon": "/img/BLACKDOGcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "POWERCRAFT",
+    "symbol": "POWERCRAFT.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/POWERCRAFT",
+    "icon": "/img/POWERCRAFTcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "The Little Prince in a parallel",
+    "symbol": "PRINCE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PRINCE",
+    "icon": "/img/PRINCEcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Psychedelic Gangsters",
+    "symbol": "SHROOMAFIA.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SHROOMAFIA",
+    "icon": "/img/SHROOMAFIAcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "King Mause",
+    "symbol": "KINGMAUSE.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KINGMAUSE",
+    "icon": "/img/KINGMAUSEcft.png",
+    "decimals": 6
   }
 ]
