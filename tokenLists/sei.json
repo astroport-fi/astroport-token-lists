@@ -1205,5 +1205,12 @@
     "token": "factory/sei17k3ah8kd2k6u4prlsvm8f3psghw2at7cf2mjpr/chickegg",
     "icon": "/img/chickegg.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Red",
+    "symbol": "RED",
+    "token": "sei15sleqjgvttvxqrejx2xmlme8wlpvxge69f8tccztc9wl2s00ywaq9v0ymx",
+    "icon": "/img/RED.png",
+    "decimals": 6
   }
 ]
