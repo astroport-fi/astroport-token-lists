@@ -100,12 +100,22 @@
   },
   {
     "protocol": "Mars Protocol",
-    "symbol": "MARS",
+    "symbol": "MARS.ibc",
     "token": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
-    "icon": "/img/mars.svg",
+    "icon": "/img/mars-ibc.svg",
     "coingeckoId": "mars-protocol",
     "originDenom": "umars",
     "originChainId": "mars-1",
+    "decimals": 6
+  },
+  {
+    "protocol": "Mars Protocol",
+    "symbol": "MARS",
+    "token": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+    "icon": "/img/mars.svg",
+    "coingeckoId": "mars-protocol",
+    "originDenom": "umars",
+    "originChainId": "neutron-1",
     "decimals": 6
   },
   {
