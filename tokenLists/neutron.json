@@ -119,6 +119,15 @@
     "decimals": 6
   },
   {
+    "protocol": "CigZone Marlboro Gold",
+    "symbol": "MARBGOLD",
+    "token": "factory/neutron15dk63fekucecqcqlyuwy5mxpvcapmfhh0qva4s/umarbgold",
+    "icon": "/img/MARBGOLD.png",
+    "decimals": 6,
+    "originDenom": "umarbgold",
+    "originChainId": "neutron-1"
+  },
+  {
     "protocol": "CW20 Wrapped Lido",
     "symbol": "wstETH",
     "token": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
