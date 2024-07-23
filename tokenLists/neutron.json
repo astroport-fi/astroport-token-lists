@@ -776,6 +776,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Stimulus",
+    "symbol": "STIM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STIM",
+    "icon": "/img/STIMcft.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Vendetta Markets",
     "symbol": "VBUCKS.cft20",
     "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/VBUCKS",
