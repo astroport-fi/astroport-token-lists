@@ -506,7 +506,6 @@
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "/img/wbtc.svg",
     "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
     "originDenom": "wbtc-satoshi",
     "originChainId": "axelar-dojo-1"
   },
@@ -533,7 +532,6 @@
     "token": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
     "icon": "/img/weth.png",
     "decimals": 18,
-    "coingeckoId": "weth",
     "originDenom": "weth-wei",
     "originChainId": "axelar-dojo-1"
   },
