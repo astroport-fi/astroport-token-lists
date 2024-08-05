@@ -2232,5 +2232,12 @@
     "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KINGMAUSE",
     "icon": "/img/KINGMAUSEcft.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Penumbra",
+    "symbol": "UM",
+    "token": "ibc/C28ADA266F67243CFB025BD1981D4386398DA44F64A9AD876BF000EE68446F3A",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/penumbra/images/um.svg",
+    "decimals": 6
   }
 ]
