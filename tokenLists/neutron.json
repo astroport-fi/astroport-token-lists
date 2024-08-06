@@ -2240,4 +2240,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/penumbra/images/um.svg",
     "decimals": 6
   }
+    {
+    "protocol": "Power Bottom",
+    "symbol": "PBB",
+    "token": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pbb",
+    "icon": "/img/pbb.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pbb",
+    "originChainId": "osmosis-1"
+  }
 ]
