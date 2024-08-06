@@ -153,6 +153,24 @@
     "originChainId": "injective-1"
   },
   {
+    "protocol": "BackBone Labs",
+    "symbol": "bINJ",
+    "token": "factory/inj1dxp690rd86xltejgfq2fa7f2nxtgmm5cer3hvu/bINJ",
+    "decimals": 18,
+    "icon": "/img/bINJ.png",
+    "originDenom": "factory/inj1dxp690rd86xltejgfq2fa7f2nxtgmm5cer3hvu/bINJ",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Galactic Syndicate",
+    "symbol": "SYN",
+    "token": "factory/inj1a6xdezq7a94qwamec6n6cnup02nvewvjtz6h6e/SYN",
+    "decimals": 6,
+    "icon": "/img/SYN.png",
+    "originDenom": "factory/inj1a6xdezq7a94qwamec6n6cnup02nvewvjtz6h6e/SYN",
+    "originChainId": "injective-1"
+  },
+  {
     "protocol": "Sommelier",
     "symbol": "SOMM",
     "token": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
