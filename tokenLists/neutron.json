@@ -65,6 +65,16 @@
     "coingeckoId": "stride-staked-atom"
   },
   {
+    "protocol": "Drop Atom",
+    "symbol": "dATOM",
+    "token": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "icon": "/img/datom.svg",
+    "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "originChainId": "neutron-1",
+    "decimals": 6,
+    "coingeckoId": ""
+  },
+  {
     "protocol": "Axelar Tether",
     "symbol": "USDT.axl",
     "token": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
