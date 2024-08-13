@@ -3189,5 +3189,23 @@
     "coingeckoId": "cream-2",
     "originDenom": "ccream",
     "originChainId": "sifchain-1"
+  },
+  {
+    "protocol": "Cosmo",
+    "symbol": "COSMO",
+    "token": "ibc/4925733868E7999F5822C961ADE9470A7FC5FA4A560BAE1DE102783C3F64C201",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "CosmoUSD",
+    "symbol": "COSMOUSD",
+    "token": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CosmoUSD.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "originChainId": "osmosis-1"
   }
 ]
