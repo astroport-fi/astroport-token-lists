@@ -2239,5 +2239,14 @@
     "token": "ibc/C28ADA266F67243CFB025BD1981D4386398DA44F64A9AD876BF000EE68446F3A",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/penumbra/images/um.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Drop Atom",
+    "symbol": "dATOM",
+    "token": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "icon": "/img/datom.svg",
+    "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "originChainId": "neutron-1",
+    "decimals": 6
   }
 ]
