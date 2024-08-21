@@ -2236,7 +2236,7 @@
   {
     "protocol": "Penumbra",
     "symbol": "UM",
-    "token": "ibc/C28ADA266F67243CFB025BD1981D4386398DA44F64A9AD876BF000EE68446F3A",
+    "token": "ibc/2DC4028D9196E4FC82B6EA1633FF38F4161FD081AF6AE30249C2020FCFBCD4F8",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/penumbra/images/um.svg",
     "decimals": 6
   },
