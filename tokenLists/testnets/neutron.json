@@ -2,8 +2,15 @@
   {
     "protocol": "Astroport",
     "symbol": "ASTRO",
-    "token": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA",
+    "token": "factory/neutron18mcny8tjmy7rw4x3j9ph86gk0hk47dr5crnfc4njqaxc6xvv9a3sumj0cy/astro",
     "icon": "/img/astro.svg",
+    "decimals": 6
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO.cw20",
+    "token": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA",
+    "icon": "/img/astro-cw20.svg",
     "decimals": 6
   },
   {

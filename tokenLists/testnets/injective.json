@@ -9,9 +9,9 @@
   },
   {
     "protocol": "Astroport",
-    "symbol": "ASTRO",
+    "symbol": "ASTRO.cw20",
     "token": "ibc/E8AC6B792CDE60AB208CA060CA010A3881F682A7307F624347AB71B6A0B0BF89",
-    "icon": "/img/astro.svg",
+    "icon": "/img/astro-cw20.svg",
     "decimals": 6
   },
   {
