@@ -14,6 +14,13 @@
     "decimals": 6
   },
   {
+    "protocol": "Astroport",
+    "symbol": "xASTRO",
+    "token": "factory/neutron13ssdjsjzju0z2zar8v2z8lnjefhs3gqqu8wg5lztwha4mctn0rcslhecnk/xASTRO",
+    "icon": "/img/xAstro.svg",
+    "decimals": 6
+  },
+  {
     "protocol": "Neutron",
     "symbol": "NTRN",
     "token": "untrn",
