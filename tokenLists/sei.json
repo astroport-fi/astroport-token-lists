@@ -1212,5 +1212,23 @@
     "token": "sei15sleqjgvttvxqrejx2xmlme8wlpvxge69f8tccztc9wl2s00ywaq9v0ymx",
     "icon": "/img/RED.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Cosmo",
+    "symbol": "COSMO",
+    "token": "ibc/E0C7F36BFCEE38D8B2BF70B12046B7B3388B2D603EABD547DC5CCF99D160294E",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "CosmoUSD",
+    "symbol": "COSMOUSD",
+    "token": "ibc/F4D1E5464C064539D68DE94118951D79053BADE84674EF4FB95428BAB1C31FDB",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CosmoUSD.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "originChainId": "osmosis-1"
   }
 ]

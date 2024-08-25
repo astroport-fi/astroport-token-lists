@@ -776,12 +776,21 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "Cosmo Club",
+    "protocol": "Cosmo",
     "symbol": "COSMO",
     "token": "ibc/7DD1E57984A26E7B6CBA0D93032DC24AD5274536184DFA999D166EBF6E4AA469",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
     "decimals": 6,
     "originDenom": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "CosmoUSD",
+    "symbol": "COSMOUSD",
+    "token": "ibc/AA2BD094B32F0DDA19E128E17051ADF3966023F7FD48C672E7DA1E994FAA2148",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CosmoUSD.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "originChainId": "osmosis-1"
   }
 ]

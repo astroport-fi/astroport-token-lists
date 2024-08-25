@@ -2236,7 +2236,7 @@
   {
     "protocol": "Penumbra",
     "symbol": "UM",
-    "token": "ibc/C28ADA266F67243CFB025BD1981D4386398DA44F64A9AD876BF000EE68446F3A",
+    "token": "ibc/2DC4028D9196E4FC82B6EA1633FF38F4161FD081AF6AE30249C2020FCFBCD4F8",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/penumbra/images/um.svg",
     "decimals": 6
   },
@@ -2248,5 +2248,23 @@
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1",
     "decimals": 6
+  },
+  {
+    "protocol": "Cosmo",
+    "symbol": "COSMO",
+    "token": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "CosmoUSD",
+    "symbol": "COSMOUSD",
+    "token": "ibc/A93BB5B9B0F3E082AE25B4AE8EC43B558A44323289338C0A8C112395E96B229E",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CosmoUSD.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "originChainId": "osmosis-1"
   }
 ]

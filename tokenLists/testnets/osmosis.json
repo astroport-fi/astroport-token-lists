@@ -9,9 +9,9 @@
   },
   {
     "protocol": "Astroport",
-    "symbol": "ASTRO",
+    "symbol": "ASTRO.cw20",
     "token": "factory/osmo1gv3su99m8pvvm2hqkhgwqyzrtlec4nv682cqn0/astro",
-    "icon": "/img/astro.svg",
+    "icon": "/img/astro-cw20.svg",
     "decimals": 6,
     "coingeckoId": "astroport-fi"
   },
