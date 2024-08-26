@@ -2259,6 +2259,16 @@
     "originChainId": "injective-1"
   },
   {
+    "protocol": "Axelar BNB",
+    "symbol": "wbnb",
+    "token": "ibc/5CB2E12B07D0B6D8EC24A68BA6B6E6E8D5BF85B7D22091D3A480DCDD61C6AC84",
+    "icon": "/img/bnb.svg",
+    "coingeckoId": "binancecoin",
+    "originDenom": "wbnb-wei",
+    "originChainId": "axelar-dojo-1",
+    "decimals": 18
+  },
+  {
     "protocol": "CosmoUSD",
     "symbol": "COSMOUSD",
     "token": "ibc/A93BB5B9B0F3E082AE25B4AE8EC43B558A44323289338C0A8C112395E96B229E",
