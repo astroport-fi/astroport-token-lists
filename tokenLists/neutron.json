@@ -2266,5 +2266,89 @@
     "decimals": 6,
     "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "BLACK",
+    "symbol": "BLACK",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BLACK",
+    "icon": "/img/Squared-BLACK.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "WHITE",
+    "symbol": "WHITE",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/WHITE",
+    "icon": "/img/Squared-WHITE.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "RED",
+    "symbol": "RED",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/RED",
+    "icon": "/img/Squared-RED.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "GREEN",
+    "symbol": "GREEN",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/GREEN",
+    "icon": "/img/Squared-GREEN.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BLUE",
+    "symbol": "BLUE",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BLUE",
+    "icon": "/img/Squared-BLUE.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "YELLOW",
+    "symbol": "YELLOW",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/YELLOW",
+    "icon": "/img/Squared-YELLOW.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PINK",
+    "symbol": "PINK",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/PINK",
+    "icon": "/img/Squared-PINK.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CYAN",
+    "symbol": "CYAN",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/CYAN",
+    "icon": "/img/Squared-CYAN.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "ORANGE",
+    "symbol": "ORANGE",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/ORANGE",
+    "icon": "/img/Squared-ORANGE.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BROWN",
+    "symbol": "BROWN",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BROWN",
+    "icon": "/img/Squared-BROWN.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "PURPLE",
+    "symbol": "PURPLE",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/PURPLE",
+    "icon": "/img/Squared-PURPLE.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "GRAY",
+    "symbol": "GRAY",
+    "token": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/GRAY",
+    "icon": "/img/Squared-GRAY.png",
+    "decimals": 6
   }
 ]
