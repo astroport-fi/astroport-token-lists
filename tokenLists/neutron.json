@@ -2260,7 +2260,7 @@
   },
   {
     "protocol": "Axelar BNB",
-    "symbol": "wbnb",
+    "symbol": "wBNB",
     "token": "ibc/5CB2E12B07D0B6D8EC24A68BA6B6E6E8D5BF85B7D22091D3A480DCDD61C6AC84",
     "icon": "/img/bnb.svg",
     "coingeckoId": "binancecoin",
