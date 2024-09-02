@@ -506,6 +506,7 @@
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "/img/wbtc.svg",
     "decimals": 8,
+    "coingeckoId": "axlwbtc",
     "originDenom": "wbtc-satoshi",
     "originChainId": "axelar-dojo-1"
   },
