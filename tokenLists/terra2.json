@@ -793,5 +793,15 @@
     "decimals": 6,
     "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Injective",
+    "symbol": "INJ",
+    "token": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
+    "icon": "/img/injective.svg",
+    "decimals": 18,
+    "coingeckoId": "injective-protocol",
+    "originDenom": "inj",
+    "originChainId": "injective-1"
   }
 ]
