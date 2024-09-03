@@ -103,7 +103,8 @@
     "symbol": "WSOL",
     "token": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
     "icon": "/img/wsol.png",
-    "decimals": 8
+    "decimals": 8,
+    "coingeckoId": "wrapped-solana"
   },
   {
     "protocol": "Wrapped AVAX",
