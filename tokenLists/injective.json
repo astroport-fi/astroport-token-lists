@@ -993,5 +993,14 @@
     "decimals": 6,
     "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Bananana",
+    "symbol": "NANA",
+    "token": "inj19u2swqug0qne0wc5vkmak995vyvkyy8m33wzn0",
+    "icon": "https://svansyvonswansea.wordpress.com/wp-content/uploads/2024/02/bananana-small4.png",
+    "decimals": 6,
+    "originDenom": "inj19u2swqug0qne0wc5vkmak995vyvkyy8m33wzn0",
+    "originChainId": "injective-1"
   }
 ]

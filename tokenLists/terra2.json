@@ -103,7 +103,8 @@
     "symbol": "WSOL",
     "token": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
     "icon": "/img/wsol.png",
-    "decimals": 8
+    "decimals": 8,
+    "coingeckoId": "wrapped-solana"
   },
   {
     "protocol": "Wrapped AVAX",
@@ -506,6 +507,7 @@
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "/img/wbtc.svg",
     "decimals": 8,
+    "coingeckoId": "axlwbtc",
     "originDenom": "wbtc-satoshi",
     "originChainId": "axelar-dojo-1"
   },
@@ -792,5 +794,15 @@
     "decimals": 6,
     "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Injective",
+    "symbol": "INJ",
+    "token": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
+    "icon": "/img/injective.svg",
+    "decimals": 18,
+    "coingeckoId": "injective-protocol",
+    "originDenom": "inj",
+    "originChainId": "injective-1"
   }
 ]
