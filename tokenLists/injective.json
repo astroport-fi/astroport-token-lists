@@ -919,11 +919,18 @@
     "decimals": 6
   },
   {
-    "protocol": "space candy for degens",
-    "symbol": "Drugs",
+    "protocol": "Old Drugs",
+    "symbol": "DRUGS.cw20",
     "token": "inj19vy83ne9tzta2yqynj8yg7dq9ghca6yqn9hyej",
-    "icon": "/img/drugsg.png",
+    "icon": "/img/drugs_cw20.png",
     "decimals": 18
+  },
+  {
+    "protocol": "Drugs on Injective",
+    "symbol": "DRUGS",
+    "token": "factory/inj1sklcy2px26jj73ffs2f7fmxw77zsts66prrqxr/DRUGS",
+    "icon": "/img/drugs.png",
+    "decimals": 9
   },
   {
     "protocol": "Hava Coin",
