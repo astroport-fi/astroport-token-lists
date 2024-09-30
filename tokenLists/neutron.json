@@ -2367,5 +2367,15 @@
     "token": "factory/neutron1shwxlkpdjd8h5wdtrykypwd2v62z5glr95yp0etdcspkkjwm5meq82ndxs/amatom",
     "icon": "/img/amATOM.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Monerium",
+    "symbol": "EURe",
+    "token": "ibc/273E4C3B307F3BD56F08652B1DA009A705F078811716DF53F7829A76ED769A8D",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eure.png",
+    "decimals": 6,
+    "coingeckoId": "monerium-eur-money",
+    "originDenom": "ueure",
+    "originChainId": "noble-1"
   }
 ]
