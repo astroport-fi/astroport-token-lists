@@ -10,7 +10,7 @@
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
-    "icon": "/img/sei.png",
+    "icon": "/img/sei.svg",
     "coingeckoId": "sei-network",
     "decimals": 6
   },

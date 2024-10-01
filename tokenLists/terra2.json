@@ -607,7 +607,7 @@
     "protocol": "Sei",
     "symbol": "SEI",
     "token": "ibc/5BDDCE0FEE672CB481C0FC7B82132B90CBCD5B5CF314934A8868D570F69756F8",
-    "icon": "/img/sei.png",
+    "icon": "/img/sei.svg",
     "decimals": 6,
     "originDenom": "usei",
     "originChainId": "pacific-1"
