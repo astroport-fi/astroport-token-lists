@@ -142,7 +142,7 @@
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
-    "icon": "/img/sei.png",
+    "icon": "/img/sei.svg",
     "coingeckoId": "sei-network",
     "originDenom": "usei",
     "originChainId": "pacific-1",
