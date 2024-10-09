@@ -570,7 +570,7 @@
   },
   {
     "protocol": "Wrapped Bitcoin",
-    "symbol": "WBTC (Osmosis)",
+    "symbol": "wBTC",
     "token": "ibc/78F7404035221CD1010518C7BC3DD99B90E59C2BA37ABFC3CE56B0CFB7E8901B",
     "icon": "/img/wbtc.svg",
     "decimals": 8,
