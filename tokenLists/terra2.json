@@ -68,7 +68,8 @@
     "symbol": "ampLUNA",
     "token": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
     "icon": "/img/ampLuna.png",
-    "decimals": 6
+    "decimals": 6,
+    "coingeckoId": "eris-amplified-whale"
   },
   {
     "protocol": "Steak Token",
