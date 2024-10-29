@@ -2386,5 +2386,15 @@
     "decimals": 8,
     "originDenom": "swth",
     "originChainId": "carbon-1"
+  },
+  {
+    "protocol": "Lion DAO",
+    "symbol": "ROAR",
+    "token": "ibc/9C96F6DFDDF327E23EDA6C4BD232D7DDE18362EF2A3D3B9C768CE5992E4E2A01",
+    "icon": "/img/roar.png",
+    "decimals": 6,
+    "coingeckoId": "lion-dao",
+    "originDenom": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+    "originChainId": "phoenix-1"
   }
 ]
