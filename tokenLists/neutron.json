@@ -2369,6 +2369,27 @@
     "decimals": 6
   },
   {
+    "protocol": "Boost DAO",
+    "symbol": "BOOST",
+    "token": "factory/neutron1469px4vwyxraetx7u75r8uud3s2tsla4rgnv7rxdxkvcv0d8wejscvmjkf/boost",
+    "icon": "/img/boost.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Boost DAO",
+    "symbol": "YIELD",
+    "token": "factory/neutron1vqkzsmthv5w5zt349ylpnr9n6jkw6dqx0s2fge6dldp2eawhuahskj0fwm/yield",
+    "icon": "/img/yield.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Boost DAO",
+    "symbol": "FUEL",
+    "token": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
+    "icon": "/img/fuel.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Monerium",
     "symbol": "EURe",
     "token": "ibc/273E4C3B307F3BD56F08652B1DA009A705F078811716DF53F7829A76ED769A8D",
