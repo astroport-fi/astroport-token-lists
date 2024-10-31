@@ -2206,5 +2206,11 @@
     "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KINGMAUSE",
     "icon": "/img/KINGMAUSEcft.png",
     "decimals": 6
-  }
-]
+  },
+  {
+    "protocol": "Man Utd",
+    "symbol": "MANUTD.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MANUTD",
+    "icon": "/img/MANUTDcft.png",
+    "decimals": 6
+  }]
