@@ -2417,5 +2417,12 @@
     "coingeckoId": "lion-dao",
     "originDenom": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
     "originChainId": "phoenix-1"
+  },
+  {
+    "protocol": "Jade",
+    "symbol": "JSD",
+    "token": "factory/neutron1mdy5fhtwdjagp5eallsdhlx6gxylm8rxqk72wjzg6y5d5kt44ysqprkduw/JSD",
+    "icon": "/img/jsd.svg",
+    "decimals": 6
   }
 ]
