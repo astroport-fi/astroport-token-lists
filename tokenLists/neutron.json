@@ -2425,5 +2425,12 @@
     "token": "factory/neutron1mdy5fhtwdjagp5eallsdhlx6gxylm8rxqk72wjzg6y5d5kt44ysqprkduw/JSD",
     "icon": "/img/jsd.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Manchester United",
+    "symbol": "MANUTD.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MANUTD",
+    "icon": "/img/MANUTDcft.png",
+    "decimals": 6
   }
 ]
