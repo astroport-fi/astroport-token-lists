@@ -2405,6 +2405,7 @@
     "token": "ibc/837E876EAB64260D5174BE8171B2889113757A8724258A855D6F8D92EDF41E9A",
     "icon": "/img/swth.svg",
     "decimals": 8,
+    "coingeckoId": "switcheo",
     "originDenom": "swth",
     "originChainId": "carbon-1"
   },
