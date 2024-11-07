@@ -287,6 +287,12 @@
     "decimals": 6
   },
   {
+    "protocol": "Eris Amplified ROAR",
+    "symbol": "ampROAR",
+    "token": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
+    "icon": "/img/ampROAR.png",
+    "decimals": 6
+  },
     "protocol": "TRUMP DAO",
     "symbol": "TRUMP",
     "token": "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz",
