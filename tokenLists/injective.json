@@ -77,7 +77,7 @@
     "protocol": "USDT.peggy",
     "symbol": "USDT.peggy",
     "token": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "icon": "/img/usdt.peggy.svg",
+    "icon": "/img/peggyUSDT.svg",
     "coingeckoId": "tether",
     "originDenom": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "originChainId": "injective-1",
