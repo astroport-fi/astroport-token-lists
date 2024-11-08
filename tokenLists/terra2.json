@@ -34,7 +34,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Axelar (bridged from Ethereum)",
+    "protocol": "Axelar (Ethereum)",
     "symbol": "USDC.axl",
     "token": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
     "icon": "/img/axlusdc.svg",
@@ -44,7 +44,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Axelar (bridged from Ethereum)",
+    "protocol": "Axelar (Ethereum)",
     "symbol": "USDT.axl",
     "token": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
     "icon": "/img/axlusdt.svg",
@@ -510,7 +510,7 @@
     "originChainId": "chihuahua-1"
   },
   {
-    "protocol": "Wrapped Bitcoin (Axelar, bridged from Ethereum)",
+    "protocol": "Wrapped Bitcoin (Axelar, Ethereum)",
     "symbol": "WBTC.axl",
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "/img/axlwbtc.svg",
@@ -520,7 +520,7 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "Lido",
+    "protocol": "Lido Staked Ether (Neutron)",
     "symbol": "wstETH",
     "token": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
     "icon": "/img/wstETH.svg",
@@ -823,5 +823,15 @@
     "coingeckoId": "wrapped-bitcoin",
     "originDenom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Noble (Native)",
+    "symbol": "EURe",
+    "token": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
+    "icon": "/img/eure.svg",
+    "decimals": 6,
+    "coingeckoId": "monerium-eur-money",
+    "originDenom": "ueure",
+    "originChainId": "noble-1"
   }
 ]
