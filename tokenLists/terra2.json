@@ -855,5 +855,12 @@
     "coingeckoId": "drop-staked-atom",
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "ERIS Arbitrage Luna",
+    "symbol": "arbLUNA",
+    "token": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
+    "icon": "/img/arbLuna.svg",
+    "decimals": 6
   }
 ]
