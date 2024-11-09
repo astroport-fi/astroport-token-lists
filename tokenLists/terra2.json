@@ -494,11 +494,14 @@
     "originChainId": "carbon-1"
   },
   {
-    "protocol": "rSWTH StaFi Hub",
+    "protocol": "StaFi Hub Staked Carbon",
     "symbol": "rSWTH",
     "token": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
     "icon": "/img/rswth.svg",
     "decimals": 8
+    "coingeckoId": "stafi-staked-swth",
+    "originDenom": "urswth",
+    "originChainId": "stafihub-1"
   },
   {
     "protocol": "Chihuahua",
@@ -833,5 +836,24 @@
     "coingeckoId": "monerium-eur-money",
     "originDenom": "ueure",
     "originChainId": "noble-1"
+  },
+  {
+    "protocol": "Staked Astro (Neutron)",
+    "symbol": "xASTRO",
+    "token": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
+    "icon": "/img/xAstro.svg",
+    "decimals": 6,
+    "originDenom": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Drop Staked ATOM (Neutron)",
+    "symbol": "dATOM",
+    "token": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
+    "icon": "/img/datom.svg",
+    "decimals": 6,
+    "coingeckoId": "drop-staked-atom",
+    "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "originChainId": "neutron-1"
   }
 ]
