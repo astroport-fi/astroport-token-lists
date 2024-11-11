@@ -2432,5 +2432,12 @@
     "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MANUTD",
     "icon": "/img/MANUTDcft.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Eclipse",
+    "symbol": "eclipASTRO",
+    "token": "factory/neutron19lxlnqwzncg3dfty3umxvdxtgttnp3fefeqhmtg8xjrsz9vngnaq3yu8vn/eclipASTRO",
+    "icon": "/img/eclip-astro.png",
+    "decimals": 6
   }
 ]
