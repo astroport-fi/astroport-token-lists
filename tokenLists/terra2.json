@@ -97,7 +97,7 @@
     "token": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
     "icon": "/img/WETHportal.png",
     "decimals": 8,
-    "coingeckoId": "weth"
+    "coingeckoId": "ethereum-wormhole"
   },
   {
     "protocol": "Wrapped Solana (Portal)",
@@ -105,14 +105,15 @@
     "token": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
     "icon": "/img/wSOLportal.svg",
     "decimals": 8,
-    "coingeckoId": "wrapped-solana"
+    "coingeckoId": "sol-wormhole"
   },
   {
     "protocol": "Wrapped Avalanche (Portal)",
     "symbol": "wAVAX",
     "token": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
     "icon": "/img/wavax.png",
-    "decimals": 8
+    "decimals": 8,
+    "coingeckoId": "avalanche-wormhole"
   },
   {
     "protocol": "Valkyrie Token",
@@ -547,7 +548,8 @@
     "icon": "/img/axlweth.svg",
     "decimals": 18,
     "originDenom": "weth-wei",
-    "originChainId": "axelar-dojo-1"
+    "originChainId": "axelar-dojo-1",
+    "coingeckoId": "axelar-wrapped-ether"
   },
   {
     "protocol": "Mars Protocol",
@@ -870,6 +872,6 @@
     "token": "terra1lnsvush7d94zakuvc84sqp996s0rcuqe3c4zaaslcgk64q8gepks25vegx",
     "icon": "/img/WBTCportal.png",
     "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin"
+    "coingeckoId": "wrapped-btc-wormhole"
   }
 ]
