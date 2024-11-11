@@ -111,7 +111,7 @@
     "protocol": "Wrapped Avalanche (Portal)",
     "symbol": "wAVAX",
     "token": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
-    "icon": "/img/wavax.png",
+    "icon": "/img/wAVAXportal.png",
     "decimals": 8,
     "coingeckoId": "avalanche-wormhole"
   },
