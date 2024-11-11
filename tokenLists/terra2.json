@@ -96,7 +96,8 @@
     "symbol": "wETH",
     "token": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
     "icon": "/img/WETHportal.png",
-    "decimals": 8
+    "decimals": 8,
+    "coingeckoId": "weth"
   },
   {
     "protocol": "Wrapped Solana (Portal)",
@@ -862,5 +863,13 @@
     "token": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
     "icon": "/img/arbLuna.svg",
     "decimals": 6
+  },
+  {
+    "protocol": "Wrapped Bitcoin (Portal)",
+    "symbol": "WBTC.wh",
+    "token": "terra1lnsvush7d94zakuvc84sqp996s0rcuqe3c4zaaslcgk64q8gepks25vegx",
+    "icon": "/img/WBTCportal.png",
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin"
   }
 ]
