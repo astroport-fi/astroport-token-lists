@@ -1009,5 +1009,59 @@
     "decimals": 6,
     "originDenom": "inj19u2swqug0qne0wc5vkmak995vyvkyy8m33wzn0",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "nWETH",
+    "token": "inj1kehk5nvreklhylx22p3x0yjydfsz9fv3fvg5xt",
+    "decimals": 18,
+    "icon": "/img/unweth.svg",
+    "originDenom": "inj1kehk5nvreklhylx22p3x0yjydfsz9fv3fvg5xt",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "nUSDT",
+    "token": "inj1cy9hes20vww2yr6crvs75gxy5hpycya2hmjg9s",
+    "decimals": 6,
+    "icon": "/img/unusdt.svg",
+    "originDenom": "inj1cy9hes20vww2yr6crvs75gxy5hpycya2hmjg9s",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "nUSDC",
+    "token": "inj1dafy7fv7qczzatd98dv8hekx6ssckrflswpjaz",
+    "decimals": 6,
+    "icon": "/img/unusdc.svg",
+    "originDenom": "inj1dafy7fv7qczzatd98dv8hekx6ssckrflswpjaz",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "nTIA",
+    "token": "inj1fzquxxxam59z6fzewy2hvvreeh3m04x83zg4vv",
+    "decimals": 6,
+    "icon": "/img/untia.svg",
+    "originDenom": "inj1fzquxxxam59z6fzewy2hvvreeh3m04x83zg4vv",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "nINJ",
+    "token": "inj1rmzufd7h09sqfrre5dtvu5d09ta7c0t4jzkr2f",
+    "decimals": 18,
+    "icon": "/img/uninj.svg",
+    "originDenom": "inj1rmzufd7h09sqfrre5dtvu5d09ta7c0t4jzkr2f",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "nATOM",
+    "token": "inj16jf4qkcarp3lan4wl2qkrelf4kduvvujwg0780",
+    "decimals": 6,
+    "icon": "/img/unatom.svg",
+    "originDenom": "inj16jf4qkcarp3lan4wl2qkrelf4kduvvujwg0780",
+    "originChainId": "injective-1"
   }
 ]
