@@ -820,7 +820,7 @@
     "coingeckoId": "injective-protocol",
     "originDenom": "inj",
     "originChainId": "injective-1"
-  }~,
+  },
   {
     "protocol": "Drop Atom",
     "symbol": "dATOM",
