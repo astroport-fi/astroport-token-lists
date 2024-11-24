@@ -393,9 +393,7 @@
     "symbol": "SPICE",
     "token": "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/uspice",
     "icon": "/img/SPICE.png",
-    "decimals": 6,
-    "originDenom": "uspice",
-    "originChainId": "akashnet-2"
+    "decimals": 6
   },
   {
     "protocol": "SPITZ",
