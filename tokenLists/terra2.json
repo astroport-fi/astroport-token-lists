@@ -99,14 +99,14 @@
     "decimals": 6
   },
   {
-    "protocol": "Wormhole Wrapped CW20",
+    "protocol": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "token": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
-    "icon": "/img/weth.png",
+    "icon": "/img/eth.svg",
     "decimals": 8
   },
   {
-    "protocol": "Wrapped KWEEN",
+    "protocol": "Wrapped DO KWEEN",
     "symbol": "WKWEEN",
     "token": "terra13c7t0xtfpafcr6gae9f404x5am7euf87c9qwmsphsecamqjjujqs7yfm4m",
     "icon": "/img/kween.png",
@@ -481,7 +481,7 @@
     "protocol": "Kava",
     "symbol": "USDT",
     "token": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
-    "icon": "/img/usdt.svg",
+    "icon": "/img/usdt2.svg",
     "decimals": 6,
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
@@ -512,7 +512,8 @@
     "symbol": "rSWTH",
     "token": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
     "icon": "/img/rswth.svg",
-    "decimals": 8
+    "decimals": 8,
+    "originChainId": "stafihub-1"
   },
   {
     "protocol": "Chihuahua",
@@ -524,10 +525,10 @@
     "originChainId": "chihuahua-1"
   },
   {
-    "protocol": "Wrapped Bitcoin",
-    "symbol": "WBTC",
+    "protocol": "Wrapped Bitcoin (Axelar)",
+    "symbol": "WBTC.axl",
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
-    "icon": "/img/wbtc.svg",
+    "icon": "/img/axlwbtc.svg",
     "decimals": 8,
     "coingeckoId": "axlwbtc",
     "originDenom": "wbtc-satoshi",
@@ -551,10 +552,10 @@
     "decimals": 6
   },
   {
-    "protocol": "Wrapped Ether",
-    "symbol": "WETH",
+    "protocol": "Wrapped Ether (Axelar)",
+    "symbol": "WETH.axl",
     "token": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
-    "icon": "/img/weth.png",
+    "icon": "/img/axlweth.svg",
     "decimals": 18,
     "originDenom": "weth-wei",
     "originChainId": "axelar-dojo-1"
@@ -836,5 +837,33 @@
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1",
     "decimals": 6
+  },
+  {
+    "protocol": "Noble",
+    "symbol": "EURe",
+    "token": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
+    "icon": "/img/eure.svg",
+    "decimals": 6,
+    "coingeckoId": "monerium-eur-money",
+    "originDenom": "ueure",
+    "originChainId": "noble-1"
+  },
+  {
+    "protocol": "Neutron",
+    "symbol": "xASTRO",
+    "token": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
+    "icon": "/img/xAstro.svg",
+    "decimals": 6,
+    "originDenom": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Osmosis",
+    "symbol": "WBTC",
+    "token": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
+    "icon": "/img/wbtc.svg",
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "originChainId": "osmosis-1"
   }
 ]
