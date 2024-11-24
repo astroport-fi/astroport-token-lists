@@ -71,6 +71,13 @@
     "decimals": 6
   },
   {
+    "protocol": "ERIS Arbitrage LUNA",
+    "symbol": "arbLUNA",
+    "token": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
+    "icon": "/img/arbLuna.png",
+    "decimals": 6
+  },
+  {
     "protocol": "Steak Token",
     "symbol": "STEAK",
     "token": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
