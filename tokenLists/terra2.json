@@ -827,5 +827,14 @@
     "coingeckoId": "injective-protocol",
     "originDenom": "inj",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Drop Atom",
+    "symbol": "dATOM",
+    "token": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
+    "icon": "/img/datom.svg",
+    "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "originChainId": "neutron-1",
+    "decimals": 6
   }
 ]
