@@ -74,7 +74,7 @@
     "protocol": "ERIS Arbitrage LUNA",
     "symbol": "arbLUNA",
     "token": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
-    "icon": "/img/arbLuna.png",
+    "icon": "/img/arbLuna.svg",
     "decimals": 6
   },
   {
@@ -106,14 +106,14 @@
     "decimals": 8
   },
   {
-    "protocol": "Wrapped DO KWEEN",
+    "protocol": "DO KWEEN (Wormhole)",
     "symbol": "WKWEEN",
     "token": "terra13c7t0xtfpafcr6gae9f404x5am7euf87c9qwmsphsecamqjjujqs7yfm4m",
     "icon": "/img/kween.png",
     "decimals": 6
   },
   {
-    "protocol": "Wrapped SOL",
+    "protocol": "Wrapped Solana (Wormhole)",
     "symbol": "WSOL",
     "token": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
     "icon": "/img/wsol.png",
@@ -121,7 +121,7 @@
     "coingeckoId": "wrapped-solana"
   },
   {
-    "protocol": "Wrapped AVAX",
+    "protocol": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "token": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
     "icon": "/img/wavax.png",
@@ -175,7 +175,7 @@
     "protocol": "BackBone Labs",
     "symbol": "bLUNA",
     "token": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-    "icon": "/img/bLUNA.png",
+    "icon": "/img/boneluna.png",
     "decimals": 6
   },
   {
@@ -271,10 +271,10 @@
     "decimals": 6
   },
   {
-    "protocol": "Capapult",
+    "protocol": "Capapult USD",
     "symbol": "SOLID",
     "token": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-    "icon": "/img/solid.svg",
+    "icon": "/img/solid2.svg",
     "decimals": 6
   },
   {
@@ -720,7 +720,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Wormhole Wrapped BNB",
+    "protocol": "Wrapped BNB (Wormhole)",
     "symbol": "wBNB",
     "token": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
     "icon": "/img/wBNB.png",
