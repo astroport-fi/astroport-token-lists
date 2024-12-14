@@ -389,6 +389,13 @@
     "originChainId": "akashnet-2"
   },
   {
+    "protocol": "Spice",
+    "symbol": "SPICE",
+    "token": "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/uspice",
+    "icon": "/img/SPICE.png",
+    "decimals": 6
+  },
+  {
     "protocol": "SPITZ",
     "symbol": "SPITZ",
     "token": "ibc/1570B676D4F35BACD92F470C01E4FD7B19CA7B8D62DA974A76A59079CEE338E3",
