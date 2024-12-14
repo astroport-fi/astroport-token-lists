@@ -1069,7 +1069,7 @@
     "symbol": "YIN",
     "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
     "decimals": 6,
-    "icon": "ipfs://QmasZC7aNKspY2SLzPrCg3xoboctF7Kk2KZRncX7aGtnr5",
+    "icon": "/img/YIN.png",
     "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
     "originChainId": "injective-1"
   },
@@ -1078,7 +1078,7 @@
     "symbol": "YANG",
     "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
     "decimals": 6,
-    "icon": "ipfs://QmR4Mu4JVfyKgEaWRhmWP8s8tiVK49sLYCCKmtEWnq4jcs",
+    "icon": "/img/YANG.png",
     "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
     "originChainId": "injective-1"
   }
