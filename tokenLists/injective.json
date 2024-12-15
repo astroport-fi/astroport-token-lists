@@ -1063,5 +1063,14 @@
     "icon": "/img/unatom.svg",
     "originDenom": "inj16jf4qkcarp3lan4wl2qkrelf4kduvvujwg0780",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "NEPT",
+    "token": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+    "decimals": 6,
+    "icon": "/img/nept.svg",
+    "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+    "originChainId": "injective-1"
   }
 ]
