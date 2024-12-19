@@ -2250,6 +2250,15 @@
     "decimals": 6
   },
   {
+    "protocol": "Drop Celestia",
+    "symbol": "dTIA",
+    "token": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
+    "icon": "/img/dtia.png",
+    "originDenom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
+    "originChainId": "neutron-1",
+    "decimals": 6
+  },
+  {
     "protocol": "Cosmo",
     "symbol": "COSMO",
     "token": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
