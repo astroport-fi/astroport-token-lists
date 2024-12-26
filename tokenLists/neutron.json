@@ -2455,5 +2455,12 @@
     "token": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/SKIP",
     "icon": "/img/skip.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Chihuahua coin",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/A24EDC7B4CA571C06037689C1894CA66DA31E0F7E7380EC50C20B92F718F539E",
+    "icon": "/img/chihuahua.png",
+    "decimals": 6
   }
 ]
