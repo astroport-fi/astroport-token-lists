@@ -1065,6 +1065,15 @@
     "originChainId": "injective-1"
   },
   {
+    "protocol": "Neptune",
+    "symbol": "NEPT",
+    "token": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+    "decimals": 6,
+    "icon": "/img/nept.svg",
+    "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+    "originChainId": "injective-1"
+  },
+  {
     "protocol": "Balanced",
     "symbol": "YIN",
     "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
