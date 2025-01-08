@@ -1072,5 +1072,23 @@
     "icon": "/img/nept.svg",
     "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Balanced",
+    "symbol": "YIN",
+    "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
+    "decimals": 6,
+    "icon": "/img/YIN.png",
+    "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Balanced",
+    "symbol": "YANG",
+    "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
+    "decimals": 6,
+    "icon": "/img/YANG.png",
+    "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
+    "originChainId": "injective-1"
   }
 ]
