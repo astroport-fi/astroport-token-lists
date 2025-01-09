@@ -2457,14 +2457,6 @@
     "decimals": 6
   },
   {
-    "protocol": "Chihuahua",
-    "symbol": "CHIHUAHUA",
-    "token": "ibc/A24EDC7B4CA571C06037689C1894CA66DA31E0F7E7380EC50C20B92F718F539E",
-    "icon": "/img/chihuahua.png",
-    "decimals": 6
-    "originDenom": "transfer/channel-141/transfer/channel-113/factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
-    "originChainId": "chihuahua-1"
-  },
     "protocol": "Neptune",
     "symbol": "NEPT",
     "token": "ibc/C084B31AB4906CD6CC65CB779B1527A66B6C98629259E3548B2F20D2753D5837",
