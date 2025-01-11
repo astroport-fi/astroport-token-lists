@@ -1079,7 +1079,24 @@
     "token": "ibc/422AB9E8C589B6782DA0C3D3BA58FF938B3C26BEB2AE4068535AE82B361D095E",
     "icon": "/img/chihuahua.png",
     "decimals": 6,
-    "originDenom": "transfer/channel-113/factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+    "originDenom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
     "originChainId": "chihuahua-1"
+  },
+    "protocol": "Balanced",
+    "symbol": "YIN",
+    "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
+    "decimals": 6,
+    "icon": "/img/YIN.png",
+    "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YIN",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Balanced",
+    "symbol": "YANG",
+    "token": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
+    "decimals": 6,
+    "icon": "/img/YANG.png",
+    "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
+    "originChainId": "injective-1"
   }
 ]
