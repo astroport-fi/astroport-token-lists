@@ -865,5 +865,12 @@
     "decimals": 8,
     "coingeckoId": "wrapped-bitcoin",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/19A8ACD62D79BF3EE270E6328F10ECC7F0E5BF3FB0903662C114A2B9989E5206",
+    "icon": "/img/CHIHUAHUA.png",
+    "decimals": 6,
   }
 ]

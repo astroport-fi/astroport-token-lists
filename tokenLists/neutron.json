@@ -2464,5 +2464,12 @@
     "icon": "/img/nept.svg",
     "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/9835264C9224859C4BEFC7909307A9AA33A1FD4DC5411405290270BDD248EF34",
+    "icon": "/img/CHIHUAHUA.png",
+    "decimals": 6,
   }
 ]

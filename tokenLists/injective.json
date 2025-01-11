@@ -1090,5 +1090,12 @@
     "icon": "/img/YANG.png",
     "originDenom": "factory/inj14cjrjnxc6pmvfdzxk7cwjus80u405qm35y2kuu/YANG",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/422AB9E8C589B6782DA0C3D3BA58FF938B3C26BEB2AE4068535AE82B361D095E",
+    "icon": "/img/CHIHUAHUA.png",
+    "decimals": 6,
   }
 ]

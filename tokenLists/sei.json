@@ -1230,5 +1230,12 @@
     "decimals": 6,
     "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/B5C27E64A2F688BC04600FDF34D64EC49870CAF25924567F45997D8C75C4F082",
+    "icon": "/img/CHIHUAHUA.png",
+    "decimals": 6,
   }
 ]
