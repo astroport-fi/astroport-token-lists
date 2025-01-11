@@ -2455,5 +2455,14 @@
     "token": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/SKIP",
     "icon": "/img/skip.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/9835264C9224859C4BEFC7909307A9AA33A1FD4DC5411405290270BDD248EF34",
+    "icon": "/img/chihuahua.png",
+    "decimals": 6,
+    "originDenom": "transfer/channel-113/factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+    "originChainId": "chihuahua-1"
   }
 ]
