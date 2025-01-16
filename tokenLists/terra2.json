@@ -865,5 +865,14 @@
     "decimals": 8,
     "coingeckoId": "wrapped-bitcoin",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Neptune",
+    "symbol": "NEPT",
+    "token": "ibc/137D02E3DDB7266CF638185BF19DEA245558A524ACDA34DC6A8FA851E8449C63",
+    "decimals": 6,
+    "icon": "/img/nept.svg",
+    "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+    "originChainId": "injective-1"
   }
 ]
