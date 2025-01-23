@@ -64,6 +64,16 @@
     "originChainId": "injective-1"
   },
   {
+    "protocol": "USDC (Noble)",
+    "symbol": "USDC",
+    "token": "ibc/2CBC2EA121AE42563B08028466F37B600F2D7D4282342DE938283CC3FB2BC00E",
+    "icon": "/img/usdc.svg",
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc",
+    "originChainId": "noble-1",
+    "decimals": 6
+  },
+  {
     "protocol": "USDC",
     "symbol": "USDC.eth",
     "token": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
