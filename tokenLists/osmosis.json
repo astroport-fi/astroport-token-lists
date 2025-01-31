@@ -3223,5 +3223,14 @@
     "decimals": 6,
     "originDenom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
     "originChainId": "chihuahua-1"
+  },
+  {
+    "protocol": "Nomic Bitcoin",
+    "symbol": "nBTC",
+    "token": "ibc/75345531D87BD90BF108BE7240BD721CB2CB0A1F16D4EBA71B09EC3C43E15C8F",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nbtc.png",
+    "decimals": 14,
+    "originDenom": "usat",
+    "originChainId": "nomic-stakenet-3"
   }
 ]
