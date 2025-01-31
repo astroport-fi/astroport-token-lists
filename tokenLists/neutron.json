@@ -2478,7 +2478,7 @@
     "protocol": "Agoric",
     "symbol": "BLD",
     "token": "ibc/B074BCF31E5892A522FD48DDD5DD80C3953D4B43D59A6E4FD0DC6759685FD36C",
-    "icon": "https://github.com/cosmos/chain-registry/blob/master/agoric/images/bld.svg",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/agoric/images/bld.svg",
     "decimals": 6,
     "originDenom": "ubld",
     "originChainId": "agoric-3"
