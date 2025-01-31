@@ -874,5 +874,14 @@
     "icon": "/img/nept.svg",
     "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "SpaceX Coin",
+    "symbol": "SPACEX",
+    "token": "terra1s9tq7cv62drscngamaatfuwpnwkft8stlrkxk6tg2g9e4nst3u6s625xah",
+    "icon": "https://i.ibb.co/sJpd3JkQ/spacex.png",
+    "decimals": 6,
+    "originDenom": "cw20:terra1s9tq7cv62drscngamaatfuwpnwkft8stlrkxk6tg2g9e4nst3u6s625xah",
+    "originChainId": "phoenix-1"
   }
 ]
