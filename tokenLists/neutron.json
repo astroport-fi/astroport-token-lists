@@ -2474,4 +2474,13 @@
     "originDenom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
     "originChainId": "chihuahua-1"
   }
+  {
+    "protocol": "Agoric",
+    "symbol": "BLD",
+    "token": "ibc/B074BCF31E5892A522FD48DDD5DD80C3953D4B43D59A6E4FD0DC6759685FD36C",
+    "icon": "https://github.com/cosmos/chain-registry/blob/master/agoric/images/bld.svg",
+    "decimals": 6,
+    "originDenom": "ubld",
+    "originChainId": "agoric-3"
+  }
 ]
