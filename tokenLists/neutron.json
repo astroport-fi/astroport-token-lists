@@ -2473,7 +2473,7 @@
     "decimals": 6,
     "originDenom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
     "originChainId": "chihuahua-1"
-  }
+  },
   {
     "protocol": "Agoric",
     "symbol": "BLD",
