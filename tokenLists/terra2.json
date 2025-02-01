@@ -879,7 +879,7 @@
     "protocol": "SpaceX Coin",
     "symbol": "SPACEX",
     "token": "terra1s9tq7cv62drscngamaatfuwpnwkft8stlrkxk6tg2g9e4nst3u6s625xah",
-    "icon": "https://i.ibb.co/sJpd3JkQ/spacex.png",
+    "icon": "/img/SPACEX.png",
     "decimals": 6,
     "originDenom": "cw20:terra1s9tq7cv62drscngamaatfuwpnwkft8stlrkxk6tg2g9e4nst3u6s625xah",
     "originChainId": "phoenix-1"
