@@ -2482,5 +2482,15 @@
     "decimals": 6,
     "originDenom": "ubld",
     "originChainId": "agoric-3"
+  },
+  {
+    "protocol": "Axelar Wrapped Bitcoin",
+    "symbol": "WBTC.axl",
+    "token": "ibc/DF8722298D192AAB85D86D0462E8166234A6A9A572DD4A2EA7996029DF4DB363",
+    "icon": "/img/axlwbtc.svg",
+    "decimals": 8,
+    "coingeckoId": "axlwbtc",
+    "originDenom": "wbtc-satoshi",
+    "originChainId": "axelar-dojo-1"
   }
 ]
