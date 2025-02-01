@@ -874,5 +874,13 @@
     "icon": "/img/nept.svg",
     "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
     "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Rise",
+    "symbol": "RISE",
+    "token": "factory/terra1dvvduq0uegn9juch9v0fc97fff3c85nu9f9gveu83dldej07jxysyrrg7m/rise",
+    "decimals": 6,
+    "icon": "/img/RISE.png",
+    "originChainId": "phoenix-1"
   }
 ]
