@@ -2492,5 +2492,12 @@
     "coingeckoId": "axlwbtc",
     "originDenom": "wbtc-satoshi",
     "originChainId": "axelar-dojo-1"
+  },
+  {
+    "protocol": "Levana Protocol",
+    "symbol": "LVN",
+    "token": "ibc/F073D44CC51154C8342C47C09D7EE1BD13ED54AFFDD4F350CF4BE7A67A31941B",
+    "icon": "/img/lvn.png",
+    "decimals": 6
   }
 ]
