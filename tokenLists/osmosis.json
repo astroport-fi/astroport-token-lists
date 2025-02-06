@@ -3232,5 +3232,13 @@
     "decimals": 14,
     "originDenom": "usat",
     "originChainId": "nomic-stakenet-3"
+  },
+  {
+    "protocol": "Bitcoin",
+    "symbol": "BTC",
+    "token": "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC",
+    "icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/osmosis/factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC.png",
+    "decimals": 8,
+    "coingeckoId": "bitcoin"
   }
 ]
