@@ -74,7 +74,7 @@
     "decimals": 6
   },
   {
-    "protocol": "USDC",
+    "protocol": "USDC (ethereum)",
     "symbol": "USDC.eth",
     "token": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
     "icon": "/img/usdc.svg",
@@ -84,8 +84,8 @@
     "decimals": 6
   },
   {
-    "protocol": "USDT",
-    "symbol": "USDT",
+    "protocol": "USDT (peggy)",
+    "symbol": "USDT.peggy",
     "token": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "icon": "/img/usdt.svg",
     "coingeckoId": "tether",
