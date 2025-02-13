@@ -3,7 +3,7 @@
     "protocol": "Astroport",
     "symbol": "ASTRO",
     "token": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
-    "icon": "/img/astro.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro.svg",
     "decimals": 6,
     "coingeckoId": "astroport-fi",
     "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
@@ -13,7 +13,7 @@
     "protocol": "Astroport",
     "symbol": "ASTRO.cw20",
     "token": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-    "icon": "/img/astro-cw20.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
     "decimals": 6,
     "coingeckoId": "astroport-fi",
     "originDenom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
@@ -23,21 +23,21 @@
     "protocol": "Astroport",
     "symbol": "xASTRO.cw20",
     "token": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
-    "icon": "/img/xastro-cw20.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xastro-cw20.svg",
     "decimals": 6
   },
   {
     "protocol": "Stader LunaX Token",
     "symbol": "LunaX",
     "token": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
-    "icon": "/img/lunax.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/lunax.png",
     "decimals": 6
   },
   {
     "protocol": "USDC.axl",
     "symbol": "USDC.axl",
     "token": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-    "icon": "/img/axlusdc.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdc.svg",
     "coingeckoId": "axlusdc",
     "originDenom": "uusdc",
     "originChainId": "axelar-dojo-1",
@@ -47,7 +47,7 @@
     "protocol": "USDT.axl",
     "symbol": "USDT.axl",
     "token": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
-    "icon": "/img/axlusdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdt.svg",
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
     "originChainId": "axelar-dojo-1",
@@ -57,7 +57,7 @@
     "protocol": "Terra",
     "symbol": "LUNA",
     "token": "uluna",
-    "icon": "/img/luna.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/luna.svg",
     "coingeckoId": "terra-luna-2",
     "originDenom": "uluna",
     "originChainId": "phoenix-1",
@@ -67,56 +67,56 @@
     "protocol": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "token": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
-    "icon": "/img/ampLuna.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ampLuna.png",
     "decimals": 6
   },
   {
     "protocol": "ERIS Arbitrage LUNA",
     "symbol": "arbLUNA",
     "token": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
-    "icon": "/img/arbLuna.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/arbLuna.svg",
     "decimals": 6
   },
   {
     "protocol": "Steak Token",
     "symbol": "STEAK",
     "token": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
-    "icon": "/img/steak.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/steak.png",
     "decimals": 6
   },
   {
     "protocol": "FatManTerra",
     "symbol": "FATMAN",
     "token": "terra1zf90xr38pdgq0yjq2d56scclpfyu3ep4d720s9r2yw9gmwg7khaq0c30rl",
-    "icon": "/img/fatman.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/fatman.png",
     "decimals": 6
   },
   {
     "protocol": "Luna Bird",
     "symbol": "LUBI",
     "token": "terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s",
-    "icon": "/img/lunabird.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/lunabird.png",
     "decimals": 6
   },
   {
     "protocol": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "token": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
-    "icon": "/img/eth.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eth.svg",
     "decimals": 8
   },
   {
     "protocol": "DO KWEEN (Wormhole)",
     "symbol": "WKWEEN",
     "token": "terra13c7t0xtfpafcr6gae9f404x5am7euf87c9qwmsphsecamqjjujqs7yfm4m",
-    "icon": "/img/kween.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/kween.png",
     "decimals": 6
   },
   {
     "protocol": "Wrapped Solana (Wormhole)",
     "symbol": "WSOL",
     "token": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
-    "icon": "/img/wsol.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wsol.png",
     "decimals": 8,
     "coingeckoId": "wrapped-solana"
   },
@@ -124,35 +124,35 @@
     "protocol": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "token": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
-    "icon": "/img/wavax.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wavax.png",
     "decimals": 8
   },
   {
     "protocol": "Valkyrie Token",
     "symbol": "VKR",
     "token": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
-    "icon": "/img/vkr.jpg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/vkr.jpg",
     "decimals": 6
   },
   {
     "protocol": "Redacted Money",
     "symbol": "RED",
     "token": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
-    "icon": "/img/red.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/red.svg",
     "decimals": 6
   },
   {
     "protocol": "Terra Poker",
     "symbol": "TPT",
     "token": "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
-    "icon": "/img/tpt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/tpt.svg",
     "decimals": 6
   },
   {
     "protocol": "Kujira USK",
     "symbol": "USK",
     "token": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
-    "icon": "/img/usk.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usk.png",
     "originDenom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
     "originChainId": "kaiyo-1",
     "decimals": 6
@@ -161,63 +161,63 @@
     "protocol": "CLUNA",
     "symbol": "CLUNA",
     "token": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
-    "icon": "/img/cLUNA.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cLUNA.svg",
     "decimals": 6
   },
   {
     "protocol": "orne",
     "symbol": "ORNE",
     "token": "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw",
-    "icon": "/img/orne.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/orne.png",
     "decimals": 6
   },
   {
     "protocol": "BackBone Labs",
     "symbol": "bLUNA",
     "token": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-    "icon": "/img/boneluna.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/boneluna.png",
     "decimals": 6
   },
   {
     "protocol": "HERO",
     "symbol": "HERO",
     "token": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
-    "icon": "/img/hero.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/hero.png",
     "decimals": 6
   },
   {
     "protocol": "Depegged UST",
     "symbol": "dUST",
     "token": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
-    "icon": "/img/dUST.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dUST.png",
     "decimals": 6
   },
   {
     "protocol": "INTERCHAIN DAO COIN",
     "symbol": "IDC",
     "token": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
-    "icon": "/img/IDC.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/IDC.png",
     "decimals": 6
   },
   {
     "protocol": "Tuna Money",
     "symbol": "TUNA",
     "token": "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
-    "icon": "/img/tuna.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/tuna.png",
     "decimals": 6
   },
   {
     "protocol": "Brand Governance Network",
     "symbol": "BGT",
     "token": "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
-    "icon": "/img/bgt.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bgt.png",
     "decimals": 6
   },
   {
     "protocol": "Comdex",
     "symbol": "CMDX",
     "token": "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33",
-    "icon": "/img/comdex.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/comdex.svg",
     "originDenom": "ucmdx",
     "originChainId": "comdex-1",
     "decimals": 6
@@ -226,7 +226,7 @@
     "protocol": "Harbor Protocol",
     "symbol": "CMST",
     "token": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
-    "icon": "/img/cmst.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cmst.svg",
     "originDenom": "ucmst",
     "originChainId": "comdex-1",
     "decimals": 6
@@ -235,21 +235,21 @@
     "protocol": "Sayve",
     "symbol": "SAYVE",
     "token": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
-    "icon": "/img/sayve.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sayve.png",
     "decimals": 6
   },
   {
     "protocol": "Optimizer Protocol",
     "symbol": "OPZA",
     "token": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
-    "icon": "/img/OPZ.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/OPZ.png",
     "decimals": 6
   },
   {
     "protocol": "Stride",
     "symbol": "stLUNA",
     "token": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
-    "icon": "/img/stLuna.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/stLuna.svg",
     "decimals": 6,
     "originDenom": "stuluna",
     "originChainId": "stride-1"
@@ -258,7 +258,7 @@
     "protocol": "Stride",
     "symbol": "stATOM",
     "token": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
-    "icon": "/img/statom.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/statom.svg",
     "decimals": 6,
     "originDenom": "stuatom",
     "originChainId": "stride-1"
@@ -267,28 +267,28 @@
     "protocol": "Sayve",
     "symbol": "xSAYVE",
     "token": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv",
-    "icon": "/img/xSayve.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xSayve.svg",
     "decimals": 6
   },
   {
     "protocol": "Capapult USD",
     "symbol": "SOLID",
     "token": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-    "icon": "/img/solid2.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/solid2.svg",
     "decimals": 6
   },
   {
     "protocol": "Capapult",
     "symbol": "CAPA",
     "token": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-    "icon": "/img/capa.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/capa.svg",
     "decimals": 6
   },
   {
     "protocol": "Osmosis",
     "symbol": "OSMO",
     "token": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-    "icon": "/img/osmo.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/osmo.svg",
     "decimals": 6,
     "originDenom": "uosmo",
     "originChainId": "osmosis-1"
@@ -297,133 +297,133 @@
     "protocol": "Lion DAO",
     "symbol": "ROAR",
     "token": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
-    "icon": "/img/roar.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/roar.png",
     "decimals": 6
   },
   {
     "protocol": "Eris Amplified ROAR",
     "symbol": "ampROAR",
     "token": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
-    "icon": "/img/ampROAR.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ampROAR.png",
     "decimals": 6
   },
   {
     "protocol": "TRUMP DAO",
     "symbol": "TRUMP",
     "token": "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz",
-    "icon": "/img/trump.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/trump.png",
     "decimals": 6
   },
   {
     "protocol": "Sailing The Seas DAO",
     "symbol": "SEAS",
     "token": "terra1rc6ssp5rym7a0hg29xpj4cc9e67tl56kg5jyzgl9qrhfxxc2ugvsnrkala",
-    "icon": "/img/seas.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seas.png",
     "decimals": 6
   },
   {
     "protocol": "Lion Cub DAO",
     "symbol": "CUB",
     "token": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
-    "icon": "/img/cub.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cub.png",
     "decimals": 6
   },
   {
     "protocol": "BLUE CUB DAO",
     "symbol": "BLUE",
     "token": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584",
-    "icon": "/img/cubBlue.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cubBlue.png",
     "decimals": 6
   },
   {
     "protocol": "Terra Pepe",
     "symbol": "PEPE",
     "token": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz",
-    "icon": "/img/pepe.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/pepe.png",
     "decimals": 6
   },
   {
     "protocol": "GEM DAO",
     "symbol": "GEM",
     "token": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
-    "icon": "/img/gem.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/gem.png",
     "decimals": 6
   },
   {
     "protocol": "Rebase DAO",
     "symbol": "BASE",
     "token": "terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u",
-    "icon": "/img/rebaseDAO.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/rebaseDAO.png",
     "decimals": 6
   },
   {
     "protocol": "NICO money",
     "symbol": "NICO",
     "token": "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3",
-    "icon": "/img/nico.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/nico.png",
     "decimals": 18
   },
   {
     "protocol": "TheOnlyOne",
     "symbol": "xxx",
     "token": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
-    "icon": "/img/xxx.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xxx.png",
     "decimals": 10
   },
   {
     "protocol": "DROGO",
     "symbol": "DROGO",
     "token": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
-    "icon": "/img/drogo.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/drogo.png",
     "decimals": 6
   },
   {
     "protocol": "GUGU",
     "symbol": "GUGU",
     "token": "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
-    "icon": "/img/gugu.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/gugu.png",
     "decimals": 6
   },
   {
     "protocol": "CLON",
     "symbol": "CLON",
     "token": "terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2",
-    "icon": "/img/clon1.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/clon1.png",
     "decimals": 6
   },
   {
     "protocol": "dioalma.protocol",
     "symbol": "Dinheiros",
     "token": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
-    "icon": "/img/dinheiros.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dinheiros.png",
     "decimals": 0
   },
   {
     "protocol": "dioalma.protocol",
     "symbol": "Reis",
     "token": "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
-    "icon": "/img/reis.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/reis.png",
     "decimals": 6
   },
   {
     "protocol": "dioalma.protocol",
     "symbol": "Escudos",
     "token": "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
-    "icon": "/img/escudos.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/escudos.png",
     "decimals": 6
   },
   {
     "protocol": "dioalma.protocol",
     "symbol": "Alem",
     "token": "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
-    "icon": "/img/alem.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/alem.png",
     "decimals": 6
   },
   {
     "protocol": "Migaloo",
     "symbol": "WHALE",
     "token": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
-    "icon": "/img/whale.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/whale.svg",
     "decimals": 6,
     "coingeckoId": "white-whale",
     "originDenom": "uwhale",
@@ -433,7 +433,7 @@
     "protocol": "Kava",
     "symbol": "KAVA",
     "token": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
-    "icon": "/img/kava.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/kava.svg",
     "decimals": 6,
     "coingeckoId": "kava",
     "originDenom": "ukava",
@@ -443,7 +443,7 @@
     "protocol": "Kujira",
     "symbol": "KUJI",
     "token": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
-    "icon": "/img/kuji.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/kuji.png",
     "decimals": 6,
     "coingeckoId": "kujira",
     "originDenom": "ukuji",
@@ -453,7 +453,7 @@
     "protocol": "Eris Amplified KUJI",
     "symbol": "ampKUJI",
     "token": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04",
-    "icon": "/img/ampKUJI.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ampKUJI.png",
     "decimals": 6,
     "originDenom": "factory/kujira1n3fr5f56r2ce0s37wdvwrk98yhhq3unnxgcqus8nzsfxvllk0yxquurqty/ampKUJI",
     "originChainId": "kaiyo-1"
@@ -462,7 +462,7 @@
     "protocol": "Jiooji",
     "symbol": "MJJ",
     "token": "factory/terra1hj8vslywgrgwuluajuggzpgcudk5fc9d4e6la08426dffgyl7ujs8a3e88/mjj",
-    "icon": "/img/MJJ.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/MJJ.png",
     "decimals": 6,
     "originDenom": "factory/terra1hj8vslywgrgwuluajuggzpgcudk5fc9d4e6la08426dffgyl7ujs8a3e88/mjj",
     "originChainId": "phoenix-1"
@@ -471,7 +471,7 @@
     "protocol": "Cosmos Hub",
     "symbol": "ATOM",
     "token": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-    "icon": "/img/atom.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/atom.svg",
     "decimals": 6,
     "coingeckoId": "cosmos",
     "originDenom": "uatom",
@@ -481,7 +481,7 @@
     "protocol": "Kava",
     "symbol": "USDT",
     "token": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
-    "icon": "/img/usdt2.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
     "decimals": 6,
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
@@ -491,7 +491,7 @@
     "protocol": "Noble",
     "symbol": "USDC",
     "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-    "icon": "/img/usdc.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
     "decimals": 6,
     "coingeckoId": "usd-coin",
     "originDenom": "uusdc",
@@ -501,7 +501,7 @@
     "protocol": "Carbon",
     "symbol": "SWTH",
     "token": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
-    "icon": "/img/swth.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/swth.svg",
     "decimals": 8,
     "coingeckoId": "switcheo",
     "originDenom": "swth",
@@ -511,7 +511,7 @@
     "protocol": "rSWTH StaFi Hub",
     "symbol": "rSWTH",
     "token": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
-    "icon": "/img/rswth.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/rswth.svg",
     "decimals": 8,
     "originChainId": "stafihub-1"
   },
@@ -519,7 +519,7 @@
     "protocol": "Chihuahua",
     "symbol": "HUAHUA",
     "token": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
-    "icon": "/img/huahua.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/huahua.svg",
     "decimals": 6,
     "originDenom": "uhuahua",
     "originChainId": "chihuahua-1"
@@ -528,7 +528,7 @@
     "protocol": "Wrapped Bitcoin (Axelar)",
     "symbol": "WBTC.axl",
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
-    "icon": "/img/axlwbtc.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlwbtc.svg",
     "decimals": 8,
     "coingeckoId": "axlwbtc",
     "originDenom": "wbtc-satoshi",
@@ -538,7 +538,7 @@
     "protocol": "Lido",
     "symbol": "wstETH",
     "token": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
-    "icon": "/img/wstETH.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wstETH.svg",
     "decimals": 18,
     "coingeckoId": "wrapped-steth",
     "originDenom": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
@@ -548,14 +548,14 @@
     "protocol": "BitzDAO",
     "symbol": "BITZ",
     "token": "terra18vp5s0r7keezm35hdxsgw8zgfnyn8wejdkk893ag2kqncgpqxhjqwjpc0v",
-    "icon": "/img/BITZ.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/BITZ.png",
     "decimals": 6
   },
   {
     "protocol": "Wrapped Ether (Axelar)",
     "symbol": "WETH.axl",
     "token": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
-    "icon": "/img/axlweth.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlweth.svg",
     "decimals": 18,
     "originDenom": "weth-wei",
     "originChainId": "axelar-dojo-1"
@@ -564,7 +564,7 @@
     "protocol": "Mars Protocol",
     "symbol": "MARS",
     "token": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
-    "icon": "/img/mars.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/mars.svg",
     "decimals": 6,
     "coingeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "originDenom": "umars",
@@ -574,7 +574,7 @@
     "protocol": "Neutron",
     "symbol": "NTRN",
     "token": "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C",
-    "icon": "/img/neutron.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/neutron.svg",
     "decimals": 6,
     "originDenom": "untrn",
     "originChainId": "neutron-1"
@@ -583,7 +583,7 @@
     "protocol": "Stride",
     "symbol": "STRD",
     "token": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
-    "icon": "/img/strd.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/strd.svg",
     "decimals": 6,
     "originDenom": "ustrd",
     "originChainId": "stride-1"
@@ -592,7 +592,7 @@
     "protocol": "Axelar",
     "symbol": "AXL",
     "token": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
-    "icon": "/img/axl.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axl.svg",
     "decimals": 6,
     "coingeckoId": "axelar",
     "originDenom": "uaxl",
@@ -602,7 +602,7 @@
     "protocol": "ERIS Amplified Whale",
     "symbol": "ampWHALE",
     "token": "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36",
-    "icon": "/img/ampWhale.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ampWhale.svg",
     "decimals": 6,
     "coingeckoId": "eris-amplified-whale",
     "originDenom": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
@@ -612,7 +612,7 @@
     "protocol": "BackBone Labs",
     "symbol": "bWHALE",
     "token": "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
-    "icon": "/img/bWhale.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bWhale.svg",
     "decimals": 6,
     "originDenom": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
     "originChainId": "migaloo-1"
@@ -621,7 +621,7 @@
     "protocol": "Juno",
     "symbol": "JUNO",
     "token": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
-    "icon": "/img/juno.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/juno.svg",
     "decimals": 6,
     "coingeckoId": "juno-network",
     "originDenom": "ujuno",
@@ -631,7 +631,7 @@
     "protocol": "Sei",
     "symbol": "SEI",
     "token": "ibc/5BDDCE0FEE672CB481C0FC7B82132B90CBCD5B5CF314934A8868D570F69756F8",
-    "icon": "/img/sei.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sei.svg",
     "decimals": 6,
     "originDenom": "usei",
     "originChainId": "pacific-1"
@@ -640,7 +640,7 @@
     "protocol": "Archway",
     "symbol": "ARCH",
     "token": "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB",
-    "icon": "/img/arch.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/arch.svg",
     "decimals": 18,
     "coingeckoId": "archway"
   },
@@ -648,14 +648,14 @@
     "protocol": "Stafi Hub",
     "symbol": "FIS",
     "token": "ibc/47724BE5D9F43CF5C0130939373E95EABAB3F5301A967A6651894C6420DE1016",
-    "icon": "/img/fis.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/fis.png",
     "decimals": 6
   },
   {
     "protocol": "Crescent",
     "symbol": "CRE",
     "token": "ibc/6F45FFC7C8BF941B356DAD73B41DD3D232CBB72025A0D9B82AAA0494D107297C",
-    "icon": "/img/cre.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cre.svg",
     "decimals": 6,
     "originDenom": "ucre",
     "originChainId": "crescent-1"
@@ -664,28 +664,28 @@
     "protocol": "QUEEN",
     "symbol": "QUEEN",
     "token": "terra1uxk0lgyktspxlen3a2f2dnyclj8gjta2mwg0murwcyxflrlqk4aqey3pqt",
-    "icon": "/img/queen.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/queen.png",
     "decimals": 6
   },
   {
     "protocol": "SEUL",
     "symbol": "SEUL",
     "token": "terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l",
-    "icon": "/img/seul.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seul.png",
     "decimals": 6
   },
   {
     "protocol": "xSEUL",
     "symbol": "xSEUL",
     "token": "terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5",
-    "icon": "/img/xseul.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xseul.png",
     "decimals": 6
   },
   {
     "protocol": "AstroPepe",
     "symbol": "ASTROPEPE",
     "token": "ibc/52B30BB501A222D586222700F241EBC8CA97A4A17C9737DDCC00DD0BBC24CEAD",
-    "icon": "/img/astropepe.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astropepe.png",
     "decimals": 6,
     "originDenom": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
     "originChainId": "neutron-1"
@@ -694,7 +694,7 @@
     "protocol": "Cerberus",
     "symbol": "CRBRUS",
     "token": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
-    "icon": "/img/CRBRUS.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/CRBRUS.png",
     "decimals": 6,
     "coingeckoId": "cerberus-2"
   },
@@ -702,28 +702,28 @@
     "protocol": "Chris Armani Token",
     "symbol": "ARMANI",
     "token": "terra1aa7stl3fytvave9xtcexgv0kne4k7ks068dcljkrfj37hy8q270sjadav8",
-    "icon": "/img/armani.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/armani.png",
     "decimals": 6
   },
   {
     "protocol": "Ito Dao",
     "symbol": "ITO",
     "token": "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s",
-    "icon": "/img/ITO.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ITO.png",
     "decimals": 6
   },
   {
     "protocol": "Ado",
     "symbol": "ADO",
     "token": "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
-    "icon": "/img/ADO.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ADO.png",
     "decimals": 6
   },
   {
     "protocol": "Wrapped BNB (Wormhole)",
     "symbol": "wBNB",
     "token": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
-    "icon": "/img/wBNB.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wBNB.png",
     "decimals": 8,
     "coingeckoId": "binance-coin-wormhole"
   },
@@ -731,14 +731,14 @@
     "protocol": "Pyth Network",
     "symbol": "PYTH",
     "token": "terra1uaha4gdzn5dz5ela76x74rlah8954m8ehwjyq4v75hq7relx49tszzsh36",
-    "icon": "/img/pyth.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/pyth.svg",
     "decimals": 6
   },
   {
     "protocol": "Osmosis",
     "symbol": "WOSMO",
     "token": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
-    "icon": "/img/wosmo.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wosmo.png",
     "decimals": 6,
     "originDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "originChainId": "osmosis-1"
@@ -747,7 +747,7 @@
     "protocol": "AUTISM",
     "symbol": "AUTISM",
     "token": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
-    "icon": "/img/autism.jpg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/autism.jpg",
     "decimals": 6,
     "originDenom": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
     "originChainId": "injective-1"
@@ -756,14 +756,14 @@
     "protocol": "DNA DAO",
     "symbol": "DNA",
     "token": "terra1epka8wevu90rxlvt6g5x9veevd800a760vtuftc5kqdfmrh47qds9f0m8h",
-    "icon": "/img/DNA.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/DNA.png",
     "decimals": 6
   },
   {
     "protocol": "Bitmos",
     "symbol": "BMOS",
     "token": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
-    "icon": "/img/bitmos.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bitmos.png",
     "decimals": 6,
     "originDenom": "cw20:terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
     "originChainId": "phoenix-1"
@@ -772,7 +772,7 @@
     "protocol": "Winnie the Pooh",
     "symbol": "HOONEY",
     "token": "terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3",
-    "icon": "/img/hooney.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/hooney.png",
     "decimals": 6,
     "originDenom": "cw20:terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3",
     "originChainId": "phoenix-1"
@@ -781,14 +781,14 @@
     "protocol": "Sayve",
     "symbol": "LINGO",
     "token": "terra1snxd2zatvm37l8wxvnfj5u24k3k6qqtx3ut3mv8htmalsy32rkusd4m4ae",
-    "icon": "/img/Lingo.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Lingo.png",
     "decimals": 6
   },
   {
     "protocol": "Steady Lads",
     "symbol": "LADS",
     "token": "terra1eh8eq60cjy997w5dc3a6exfzanlaurupav8klx7m9u9ddfgh25mqjwl5vj",
-    "icon": "/img/LADS.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/LADS.png",
     "decimals": 6
   },
   {
@@ -823,7 +823,7 @@
     "protocol": "Injective",
     "symbol": "INJ",
     "token": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
-    "icon": "/img/injective.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/injective.svg",
     "decimals": 18,
     "coingeckoId": "injective-protocol",
     "originDenom": "inj",
@@ -833,7 +833,7 @@
     "protocol": "Drop Atom",
     "symbol": "dATOM",
     "token": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
-    "icon": "/img/datom.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/datom.svg",
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1",
     "decimals": 6
@@ -842,7 +842,7 @@
     "protocol": "Noble",
     "symbol": "EURe",
     "token": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
-    "icon": "/img/eure.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eure.svg",
     "decimals": 6,
     "coingeckoId": "monerium-eur-money",
     "originDenom": "ueure",
@@ -852,7 +852,7 @@
     "protocol": "Neutron",
     "symbol": "xASTRO",
     "token": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
-    "icon": "/img/xAstro.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xAstro.svg",
     "decimals": 6,
     "originDenom": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
     "originChainId": "neutron-1"
@@ -861,7 +861,7 @@
     "protocol": "Osmosis",
     "symbol": "WBTC",
     "token": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
-    "icon": "/img/wbtc.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
     "decimals": 8,
     "coingeckoId": "wrapped-bitcoin",
     "originChainId": "osmosis-1"
@@ -871,7 +871,7 @@
     "symbol": "NEPT",
     "token": "ibc/137D02E3DDB7266CF638185BF19DEA245558A524ACDA34DC6A8FA851E8449C63",
     "decimals": 6,
-    "icon": "/img/nept.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/nept.svg",
     "originDenom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
     "originChainId": "injective-1"
   },
@@ -880,7 +880,7 @@
     "symbol": "RISE",
     "token": "factory/terra1dvvduq0uegn9juch9v0fc97fff3c85nu9f9gveu83dldej07jxysyrrg7m/rise",
     "decimals": 6,
-    "icon": "/img/RISE.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/RISE.png",
     "originChainId": "phoenix-1"
   }
 ]

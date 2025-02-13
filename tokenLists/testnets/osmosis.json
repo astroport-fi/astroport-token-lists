@@ -11,7 +11,7 @@
     "protocol": "Astroport",
     "symbol": "ASTRO.cw20",
     "token": "factory/osmo1gv3su99m8pvvm2hqkhgwqyzrtlec4nv682cqn0/astro",
-    "icon": "/img/astro-cw20.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
     "decimals": 6,
     "coingeckoId": "astroport-fi"
   },
