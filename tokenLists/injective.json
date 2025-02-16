@@ -1109,5 +1109,23 @@
     "decimals": 6,
     "originDenom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
     "originChainId": "chihuahua-1"
+  },
+  {
+    "protocol": "Drop Celestia",
+    "symbol": "dTIA",
+    "token": "ibc/D9555B7C95F9BB3ABA9263059E996CEC74450E0448B9E4BB64490EACB51BF0E2",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dtia.png",
+    "originDenom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
+    "originChainId": "neutron-1",
+    "decimals": 6
+  },
+  {
+    "protocol": "Drop Atom",
+    "symbol": "dATOM",
+    "token": "ibc/9495CFCB73E9D060D7B8C974C22AD8D5F1D97F93B66A4E326A3052ABE6470BB6",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/datom.svg",
+    "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "originChainId": "neutron-1",
+    "decimals": 6
   }
 ]
