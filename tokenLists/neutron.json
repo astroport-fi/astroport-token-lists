@@ -2499,5 +2499,12 @@
     "token": "ibc/F073D44CC51154C8342C47C09D7EE1BD13ED54AFFDD4F350CF4BE7A67A31941B",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/lvn.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Frienzies",
+    "symbol": "FRNZ",
+    "token": "ibc/17E2B6610FC9DF24D3AD8F1CBA03308B9FD284AB8123E5E485902E54369E985A",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/frnz.png",
+    "decimals": 6
   }
 ]
