@@ -1769,19 +1769,20 @@
     "originChainId": "canto_7700-1"
   },
   {
-    "protocol": "Tether",
-    "symbol": "USDT",
+    "protocol": "Osmosis",
+    "symbol": "allUSDT",
     "token": "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
     "decimals": 6,
     "coingeckoId": "tether",
-    "originDenom": "erc20/tether/usdt"
+    "originDenom": "erc20/tether/usdt",
+    "originChainId": "osmosis-1"
   },
   {
-    "protocol": "Tether USD",
-    "symbol": "USDT.kava",
+    "protocol": "Kava",
+    "symbol": "USDT",
     "token": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/kava.usdt.svg",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
     "decimals": 6,
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
