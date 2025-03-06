@@ -64,7 +64,7 @@
     "originChainId": "injective-1"
   },
   {
-    "protocol": "USDC (Noble)",
+    "protocol": "Noble",
     "symbol": "USDC",
     "token": "ibc/2CBC2EA121AE42563B08028466F37B600F2D7D4282342DE938283CC3FB2BC00E",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
@@ -74,7 +74,7 @@
     "decimals": 6
   },
   {
-    "protocol": "USDC (ethereum)",
+    "protocol": "Ethereum",
     "symbol": "USDC.eth",
     "token": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
@@ -84,7 +84,7 @@
     "decimals": 6
   },
   {
-    "protocol": "USDT (peggy)",
+    "protocol": "Ethereum",
     "symbol": "USDT.peggy",
     "token": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
@@ -1127,5 +1127,15 @@
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1",
     "decimals": 6
+  },
+  {
+    "protocol": "Kava",
+    "symbol": "USDT",
+    "token": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "originDenom": "erc20/tether/usdt",
+    "originChainId": "kava_2222-10"
   }
 ]
