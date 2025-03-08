@@ -35,7 +35,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "USDC",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDC.axl",
     "token": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdc.svg",
