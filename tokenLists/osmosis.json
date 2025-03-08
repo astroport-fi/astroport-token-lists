@@ -771,10 +771,10 @@
     "originChainId": "axelar-dojo-1"
   },
   {
-    "protocol": "Axelar Tether",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDT.axl",
     "token": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlUSDT2.svg",
     "decimals": 6,
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
@@ -1218,7 +1218,7 @@
     "originChainId": "sifchain-1"
   },
   {
-    "protocol": "Axelar USDC",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDC.axl",
     "token": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdc.svg",
@@ -1960,7 +1960,7 @@
     "originChainId": "bitsong-2b"
   },
   {
-    "protocol": "Peggy USDT",
+    "protocol": "Ethereum via Injective",
     "symbol": "USDT.peggy",
     "token": "ibc/2AD3C64D19ADFBB522CD738B58F421102143F827C1CAFF574A8BF0B81017D53D",
     "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ethereum/asset/usdt.png",
