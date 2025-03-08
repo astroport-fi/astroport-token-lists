@@ -65,10 +65,10 @@
     "coingeckoId": "stride-staked-atom"
   },
   {
-    "protocol": "Axelar Tether",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDT.axl",
     "token": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlUSDT2.svg",
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
     "originChainId": "axelar-dojo-1",
@@ -2546,5 +2546,15 @@
     "coingeckoId": "ltc",
     "originDenom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/litecoin-ltc",
     "originChainId": "int3face-1"
+  },
+  {
+    "protocol": "Kava",
+    "symbol": "USDT",
+    "token": "ibc/3307AC2A0415D33A463DBC954087539A4B2AB01DAC7C77155C072A2DD3073A94",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "originDenom": "erc20/tether/usdt",
+    "originChainId": "kava_2222-10"
   }
 ]
