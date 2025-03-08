@@ -87,7 +87,7 @@
     "protocol": "Ethereum",
     "symbol": "USDT.peggy",
     "token": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
     "coingeckoId": "tether",
     "originDenom": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "originChainId": "injective-1",
