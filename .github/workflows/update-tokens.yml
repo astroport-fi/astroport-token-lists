@@ -16,3 +16,4 @@ jobs:
           url: ${{ secrets.API_INTERAL_UPDATE_TOKENS_ENDPOINT }}
           method: POST
           customHeaders: '{"Authorization": "Bearer ${{ secrets.API_INTERNAL_SECRET }}"}'
+          timeout: 60000
