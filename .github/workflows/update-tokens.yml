@@ -1,0 +1,19 @@
+name: Trigger Tokens Update
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-tokens:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call internal endpoint to update tokens
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: ${{ secrets.API_INTERAL_UPDATE_TOKENS_ENDPOINT }}
+          method: POST
+          customHeaders: '{"Authorization": "Bearer ${{ secrets.API_INTERNAL_SECRET }}"}'
+          timeout: 60000

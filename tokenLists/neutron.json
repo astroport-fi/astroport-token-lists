@@ -2556,5 +2556,12 @@
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",
     "originChainId": "kava_2222-10"
+  },
+  {
+    "protocol": "Emporion Staking Coin",
+    "symbol": "EMPR",
+    "token": "ibc/4E34538495FBD5B668FBC419C7656824B3C6AE34467A8DB8CF3810253166366C",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/empr.png",
+    "decimals": 6
   }
 ]
