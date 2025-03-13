@@ -149,7 +149,7 @@
     "decimals": 6
   },
   {
-    "protocol": "Axelar USDC",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDC.axl",
     "token": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "decimals": 6,
@@ -224,7 +224,7 @@
     "symbol": "USDT.eth",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
     "decimals": 6,
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
     "coingeckoId": "tether",
     "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
     "originChainId": "pacific-1"
@@ -314,7 +314,7 @@
     "symbol": "USDT.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
     "decimals": 8,
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
     "coingeckoId": "tether",
     "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
     "originChainId": "pacific-1"
@@ -1015,7 +1015,7 @@
     "protocol": "Kava",
     "symbol": "USDT",
     "token": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt2.svg",
     "decimals": 6,
     "coingeckoId": "tether",
     "originDenom": "erc20/tether/usdt",

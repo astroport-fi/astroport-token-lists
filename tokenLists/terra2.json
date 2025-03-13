@@ -34,7 +34,7 @@
     "decimals": 6
   },
   {
-    "protocol": "USDC.axl",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDC.axl",
     "token": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdc.svg",
@@ -44,10 +44,10 @@
     "decimals": 6
   },
   {
-    "protocol": "USDT.axl",
+    "protocol": "Ethereum via Axelar",
     "symbol": "USDT.axl",
     "token": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdt.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlUSDT2.svg",
     "coingeckoId": "axelar-usdt",
     "originDenom": "uusdt",
     "originChainId": "axelar-dojo-1",
@@ -525,7 +525,7 @@
     "originChainId": "chihuahua-1"
   },
   {
-    "protocol": "Wrapped Bitcoin (Axelar)",
+    "protocol": "Ethereum via Axelar",
     "symbol": "WBTC.axl",
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlwbtc.svg",
