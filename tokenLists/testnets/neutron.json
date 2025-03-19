@@ -124,5 +124,22 @@
     "decimals": 6,
     "coingeckoId": "usd-coin",
     "originDenom": "uusdc"
+  },
+  {
+    "protocol": "Virtual Neutron",
+    "symbol": "vNTRN",
+    "token": "factory/neutron1e2c5p8y5rw2hp4fjr05uvkrkz76ej0kqegnwxe/NTRN",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/neutron.svg",
+    "decimals": 6,
+    "coingeckoId": "neutron-3"
+  },
+  {
+    "protocol": "Virtual USDC",
+    "symbol": "vUSDC",
+    "token": "factory/neutron1e2c5p8y5rw2hp4fjr05uvkrkz76ej0kqegnwxe/USDC",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc"
   }
 ]
