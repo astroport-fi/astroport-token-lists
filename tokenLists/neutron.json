@@ -360,5 +360,14 @@
     "token": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
     "icon": "/img/autism.jpg",
     "decimals": 6
+  },
+  {
+    "protocol": "CULT",
+    "symbol": "CULT",
+    "token": "ibc/38C9F396219825CF172C499009B63F2BC8D15FC14205EA0AAA49F00C0E70E514",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/CULT.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/cult",
+    "originChainId": "osmosis-1"
   }
 ]
