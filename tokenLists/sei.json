@@ -1,106 +1,179 @@
 [
   {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro.svg",
+    "decimals": 6,
+    "coingeckoId": "astroport-fi",
+    "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO.cw20",
+    "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
+    "decimals": 6,
+    "coingeckoId": "astroport-fi"
+  },
+  {
+    "protocol": "Yoshi",
+    "symbol": "YOSHI",
+    "token": "sei1pwft6dl98sus6w2rwgdckjxrut4gksjums70enau0jlx3vep63js8c8avq",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/yoshionsei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "RUGGED on Sei",
+    "symbol": "RUGGED",
+    "token": "sei1yjpdd8yjvtyv9q0uy2df6zaaje278czvgjd2aym5pwue6z4r2xtsvx63rs",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ruggedonsei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "AKITAAAAAA",
+    "symbol": "AAAAAA",
+    "token": "sei1vw6rxcg0kczy8728phdgxpuw78za2h9lgm4h7q0ughw364yz7luq26tchc",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/AKITAAAAAA.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Sese",
+    "symbol": "Sese",
+    "token": "sei1t07yl53e53yj9kgsh4j2taj5nk4c56vjc6r7nw0l7wuxsp9xh06q6stf0x",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sese.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MILLI",
+    "symbol": "MILLI",
+    "token": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/milli.png",
+    "decimals": 6,
+    "originDenom": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
+    "originChainId": "pacific-1"
+  },
+  {
     "protocol": "PEPSEI",
     "symbol": "PEPSEI",
     "token": "sei1ugvzw3ge7le6s3wk7yg4nqvxx9njps0x8ekjtn6z7vg8wv9pkj3smapzd0",
-    "icon": "/img/pepsei.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/pepsei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Dragon Ball Currency",
+    "symbol": "ZENI",
+    "token": "sei1kttw09hrkccutqrns9058pmt8gjzr5gglum0tha760mz0rd6mktqwkg63d",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ZENI.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIGE",
     "symbol": "SEIGE",
     "token": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
-    "icon": "/img/seige.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seige.png",
+    "decimals": 6
   },
   {
     "protocol": "SEINOBI INU",
     "symbol": "SEINOBI",
     "token": "sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84",
-    "icon": "/img/seinobi.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seinobi.png",
+    "decimals": 6
   },
   {
     "protocol": "Krillin",
     "symbol": "Krillin",
     "token": "sei1nyszrhsn8pqmf2ahkuzvj3jdq0zejxwfmvy89kkjg6mxceuyw0ts6fktpw",
-    "icon": "/img/krillin.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/krillin.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIKAI",
     "symbol": "SEIKAI",
     "token": "sei1g7npmwla97wcexnstfwq4hzgfp7kju5pfsa3tkzt68gwzqz9rgqqr9uf0f",
-    "icon": "/img/Seikai.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Seikai.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIGOD",
     "symbol": "SEIGOD",
     "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
-    "icon": "/img/seigod.png"
-  },
-  {
-    "protocol": "Astroport",
-    "symbol": "ASTRO",
-    "token": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
-    "icon": "/img/astro.svg",
-    "coingeckoId": "astroport-fi"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seigod.png",
+    "decimals": 6
   },
   {
     "protocol": "POPO",
     "symbol": "POPO",
     "token": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
-    "icon": "/img/POPO.jpg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/POPO.jpg",
+    "decimals": 6
   },
   {
     "protocol": "Messi",
     "symbol": "Messei",
     "token": "sei132zwy8qsqhvaweu27968aj6kg3e9g5lwuqetwq4jwyekupy3x50sv0afhu",
-    "icon": "/img/messei.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/messei.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiPunia",
     "symbol": "PUNIA",
     "token": "sei1v59mrw485axfgzwtxq8m9me59hjz04h9umlpp99wy9z4xkw3nqdql0nt53",
-    "icon": "/img/PUNIA.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/PUNIA.png",
+    "decimals": 6
   },
   {
     "protocol": "Zeno",
     "symbol": "SeiZeno",
     "token": "sei1qu9zvdktu2dugv7l6dfw80ktnz3mqgfwcndxfe32aeprcpzegccstunyzu",
-    "icon": "/img/zeno.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/zeno.png",
+    "decimals": 6
   },
   {
     "protocol": "Popo The Cat",
     "symbol": "POPO",
     "token": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
-    "icon": "/img/popo.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/popo.png",
+    "decimals": 6
   },
   {
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
-    "icon": "/img/sei.png",
-    "coingeckoId": "sei-network"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sei.svg",
+    "coingeckoId": "sei-network",
+    "originDenom": "usei",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "Axelar USDC",
     "symbol": "USDC.axl",
     "token": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "decimals": 6,
-    "icon": "/img/axlusdc.svg",
-    "coingeckoId": "axlusdc"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlusdc.svg",
+    "coingeckoId": "axlusdc",
+    "originDenom": "uusdc",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "Osmosis",
     "symbol": "OSMO",
     "token": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
     "decimals": 6,
-    "icon": "/img/osmo.svg",
-    "coingeckoId": "osmosis"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/osmo.svg",
+    "coingeckoId": "osmosis",
+    "originDenom": "uosmo",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "Atom (Osmosis)",
     "symbol": "ATOM",
     "token": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
     "decimals": 6,
-    "icon": "/img/atom.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/atom.svg",
     "coingeckoId": "cosmos"
   },
   {
@@ -108,135 +181,163 @@
     "symbol": "ATOM",
     "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "decimals": 6,
-    "icon": "/img/atom.svg",
-    "coingeckoId": "cosmos"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/atom.svg",
+    "coingeckoId": "cosmos",
+    "originDenom": "uatom",
+    "originChainId": "cosmoshub-4"
   },
   {
     "protocol": "SeiWhat?",
     "symbol": "SeiWhat",
     "token": "sei1pmjehr2r7a7zaqtm3klmw554cnz2jrgy9y9arvu5s44v0pkpl8gqd5cprg",
-    "icon": "/img/seiwhat.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiwhat.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiWhale",
     "symbol": "SEI",
     "token": "sei19u0lgmeykqxq4vwmtvcm3jt20txsjvy4e92t6qxpea5u7j82t6pq4zfg0j",
-    "icon": "/img/seiwhale.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiwhale.png",
+    "decimals": 6
   },
   {
     "protocol": "ETH (Wormhole ETH)",
     "symbol": "WETH",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
     "decimals": 8,
-    "icon": "/img/weth.png",
-    "coingeckoId": "weth"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/weth.png",
+    "coingeckoId": "weth",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole ETH)",
     "symbol": "USDC.eth",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
     "decimals": 6,
-    "icon": "/img/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDT (Wormhole ETH)",
     "symbol": "USDT.eth",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
     "decimals": 6,
-    "icon": "/img/usdt.svg",
-    "coingeckoId": "tether"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "coingeckoId": "tether",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "BTC (Wormhole ETH)",
     "symbol": "WBTC",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
     "decimals": 8,
-    "icon": "/img/wbtc.svg",
-    "coingeckoId": "wrapped-bitcoin"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
+    "coingeckoId": "wrapped-bitcoin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole ARB)",
     "symbol": "USDC.arb",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
     "decimals": 6,
-    "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "ETH (Wormhole ARB)",
     "symbol": "WETH.arb",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
     "decimals": 8,
-    "icon": "/img/weth.png",
-    "coingeckoId": "weth"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/weth.png",
+    "coingeckoId": "weth",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole Matic)",
     "symbol": "USDC.matic",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
     "decimals": 6,
-    "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole OP)",
     "symbol": "USDC.op",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
     "decimals": 6,
-    "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole SOL)",
     "symbol": "USDC.sol",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
     "decimals": 6,
-    "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDC (Wormhole BSC)",
     "symbol": "USDC.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
     "decimals": 8,
-    "icon": "/img/usdc.svg",
-    "coingeckoId": "usd-coin"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "coingeckoId": "usd-coin",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "ETH (Wormhole BSC)",
     "symbol": "WETH.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
     "decimals": 8,
-    "icon": "/img/weth.png",
-    "coingeckoId": "weth"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/weth.png",
+    "coingeckoId": "weth",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "USDT (Wormhole BSC)",
     "symbol": "USDT.bsc",
     "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
     "decimals": 8,
-    "icon": "/img/usdt.svg",
-    "coingeckoId": "tether"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "coingeckoId": "tether",
+    "originDenom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Stride",
     "symbol": "stATOM",
     "token": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
-    "icon": "/img/stAtom.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/statom.svg",
     "decimals": 6
   },
   {
     "protocol": "Stride",
     "symbol": "STRD",
     "token": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
-    "icon": "/img/strd.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/strd.svg",
     "decimals": 6
   },
   {
     "protocol": "Polkadot",
     "symbol": "DOT",
     "token": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
-    "icon": "/img/dot.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dot.svg",
     "decimals": 10,
     "coingeckoId": "polkadot"
   },
@@ -244,28 +345,30 @@
     "protocol": "OIN MONEY",
     "symbol": "OIN",
     "token": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
-    "icon": "/img/OIN.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/OIN.png",
     "decimals": 6
   },
   {
     "protocol": "Poker Kings",
     "symbol": "PKS",
     "token": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6",
-    "icon": "/img/pks.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/pks.svg",
     "decimals": 6
   },
   {
     "protocol": "Sensei",
     "symbol": "SENSEI",
     "token": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
-    "icon": "/img/sensei.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sensei.png",
+    "decimals": 6,
+    "originDenom": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Cerberus",
     "symbol": "CRBRUS",
     "token": "ibc/71CEEB5CC09F75A3ACDC417108C14514351B6B2A540ACE9B37A80BF930845134",
-    "icon": "/img/CRBRUS.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/CRBRUS.png",
     "decimals": 6,
     "coingeckoId": "cerberus-2"
   },
@@ -273,524 +376,868 @@
     "protocol": "Pirate Dog",
     "symbol": "PDOG",
     "token": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
-    "icon": "/img/PDOG.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/PDOG.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEI CHAD",
     "symbol": "SEICHAD",
     "token": "factory/sei1q96rdw97rpzqut4fkklpsavptkae6mmdsh2u0l/chad",
-    "icon": "/img/SEICHAD.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEICHAD.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1q96rdw97rpzqut4fkklpsavptkae6mmdsh2u0l/chad",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Seixy",
     "symbol": "SEIXY",
     "token": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
-    "icon": "/img/SEIXY.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEIXY.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1pw6sywysx29yl4wuw7nwclv3gehvkc9p49y89m/seixy",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIze token",
     "symbol": "SEIZE",
     "token": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
     "decimals": 6,
-    "icon": "/img/seize.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seize.png",
+    "originDenom": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIYAN",
     "symbol": "SEIYAN",
     "token": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
-    "icon": "/img/seiyan.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiyan.png",
     "decimals": 6
   },
   {
     "protocol": "SeiyanInu",
     "symbol": "SeiyanInu",
     "token": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
-    "icon": "/img/SeiyanInu.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SeiyanInu.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "COOK On SEI",
     "symbol": "COOK",
     "token": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
     "decimals": 6,
-    "icon": "/img/cook.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cook.png"
   },
   {
     "protocol": "Mid",
     "symbol": "MID",
     "token": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
     "decimals": 6,
-    "icon": "/img/mid.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/mid.png",
+    "originDenom": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "PSEIOP",
     "symbol": "PSEIOP",
     "token": "sei16y4c4etg95k6ccgp0vh5mwcf3aqk6n752aw7h94p4vrf9sqq0lfsx8qca2",
     "decimals": 6,
-    "icon": "/img/PSEIOP.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/PSEIOP.png"
   },
   {
     "protocol": "SEIMOYED",
     "symbol": "SEIMOYED",
     "token": "sei1uguzgzldm6rnmvrzuvkze02zr2hm2jw5374dwzm6666zucml6hcssqt4c6",
     "decimals": 6,
-    "icon": "/img/SEIMOYED.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEIMOYED.png"
   },
   {
     "protocol": "Seitama",
     "symbol": "SEITAMA",
     "token": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
-    "icon": "/img/SEITAMA.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEITAMA.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1nmhmzhtu8sfznlj4f0z7k6pvswrlp00nd5m5z5/SEITAMA",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "JASEL",
     "symbol": "JASEL",
     "token": "sei1ye3mehavasld2arsmfevs5nfqdagtpnuzdnt2ulp75zths9ngqcqhdvf5k",
-    "icon": "/img/jasel.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/jasel.png",
+    "decimals": 6
   },
   {
     "protocol": "SENsei",
     "symbol": "SEN",
     "token": "sei185zyhncrnqzmt3unu47psa0lrjhmugkhvrs64csvkqh49k28mr2qpmmhsw",
-    "icon": "/img/sen.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sen.png",
+    "decimals": 6
   },
   {
     "protocol": "Seiyan Hulk Illuminati Testosterone",
     "symbol": "SHIT",
     "token": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
-    "icon": "/img/seiyanhit.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiyanhit.png",
+    "decimals": 6,
+    "originDenom": "factory/sei18n0y0a5wk9afd45j7399gsyasvp6h3k3znts58/shit",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Sensei Dog",
     "symbol": "SENSEI",
     "token": "factory/sei1ta5rkr6y2qlkj7px8w2cvear7m2822q4f4ea0m/sensei",
-    "icon": "/img/Sensei_Dog.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Sensei_Dog.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1ta5rkr6y2qlkj7px8w2cvear7m2822q4f4ea0m/sensei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Popeye the Seilor",
     "symbol": "POPEYE",
     "token": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
-    "icon": "/img/popeye.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/popeye.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIGA",
     "symbol": "SEIGA",
     "token": "sei1t9qy9n068qhcs4a2mvz3wqwmxdfmjdt86f8j7nu0tzae4jllpwzs2h8sl6",
-    "icon": "/img/seiga.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiga.png",
     "decimals": 6
   },
   {
     "protocol": "Kryptonite",
     "symbol": "SEILOR",
     "token": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
-    "icon": "/img/seilor.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seilor.png",
     "decimals": 6
   },
   {
     "protocol": "SEIKITTY",
     "symbol": "SEIKITTY",
     "token": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
-    "icon": "/img/kitty.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/kitty.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIFMOON",
     "symbol": "SEIF",
     "token": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
-    "icon": "/img/seifmoonicon.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seifmoonicon.png",
     "decimals": 6
   },
   {
     "protocol": "SEILORMOON",
     "symbol": "SEILOR",
     "token": "sei10hvptpurpqmyzcyqj9fgnpeazvpey07w67sy8ql48ualqe2wc69s5yh4a3",
-    "icon": "/img/seilormoon.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seilormoon.png",
     "decimals": 6
   },
   {
     "protocol": "SEIMOON",
     "symbol": "SEIMOON",
     "token": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
-    "icon": "/img/seimoon.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seimoon.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEITAN",
     "symbol": "SEITAN",
     "token": "sei195ldtvs9e44jzsl6tauknqcxmspluf0vvqxplhxayea9pu4wx5gspjl909",
-    "icon": "/img/seitan.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seitan.png",
     "decimals": 6
   },
   {
     "protocol": "SeiDragon",
     "symbol": "SEIGON",
     "token": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
-    "icon": "/img/seigon.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seigon.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIDOW",
     "symbol": "SEIDOW",
     "token": "sei1j536dz2apen5hfn3jxh394nnf3haphfuwu5c4suufxl2y2mmy5mse09tfr",
-    "icon": "/img/seidow.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seidow.png",
     "decimals": 6
   },
   {
-    "protocol": "GOLDENRULES",
-    "symbol": "GNR",
+    "protocol": "goldenrules.lol",
+    "symbol": "$GNR",
     "token": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
-    "icon": "/img/goldenrules.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/goldenrules.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Saint Seiya",
     "symbol": "SEIYA",
     "token": "sei15ef769906pqrmy6w67u39cdjgff4rdgycl9lgp0g39qe9lq2tfzqcr5ree",
-    "icon": "/img/seiya.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiya.png",
     "decimals": 6
   },
   {
     "protocol": "SEIMEN - SEIMEN",
     "symbol": "SEIMEN",
     "token": "sei1sfm7432ag7jvegr03xl74fkjv5kevd3qetngnxupl8dcq6k736msf3nxum",
-    "icon": "/img/seimen.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seimen.png",
     "decimals": 6
   },
   {
     "protocol": "SEIWA-清和",
     "symbol": "SEIWA",
     "token": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
-    "icon": "/img/SEIWA.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEIWA.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "COMMUNISM",
     "symbol": "COMMUNISM",
     "token": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
-    "icon": "/img/communism.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/communism.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIPEPE",
     "symbol": "SEIPEPE",
     "token": "sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja",
-    "icon": "/img/seipepe.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seipepe-cw20.png",
     "decimals": 6
   },
   {
     "protocol": "SEIGOD",
     "symbol": "SEIGOD",
     "token": "sei1nx2yekvtkhxuneceavjl3xljryafxyksjph98y82xegs052ndr5srpmdn0",
-    "icon": "/img/seigod.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seigod.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIMBA",
     "symbol": "SEIMBA",
     "token": "sei1lyc0uevjpmtkruf0k0u8elner5qc7cawa5vllpw24aucquk40tcs5kvwhf",
-    "icon": "/img/Seimba.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Seimba.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiyanJay",
     "symbol": "SEIJAY",
     "token": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
-    "icon": "/img/seijay.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seijay.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "seisyphus",
     "symbol": "seisyphus",
     "token": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
-    "icon": "/img/seisyphus.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seisyphus.png",
+    "originDenom": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "Kryptonite",
     "symbol": "STSEI",
     "token": "sei1ln7ntsqmxl8s502f83km9a475zyhcfhpj7v2fsm3pcmckdyys3tsktx9vk",
-    "icon": "/img/stsei.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/stsei.png",
+    "decimals": 6
   },
   {
     "protocol": "SeiMario",
     "symbol": "SEIRIO",
     "token": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
-    "icon": "/img/seirio.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seirio.png",
+    "originDenom": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "SEI7",
     "symbol": "SEI7",
     "token": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
-    "icon": "/img/sei7.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sei7.png",
+    "originDenom": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "BeeInu",
     "symbol": "BEE",
     "token": "sei165r8x97yvz7sq3szvrmw7pddma82xannfgf7ftt6x29rncutpglq84f4kp",
-    "icon": "/img/bee.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bee.png",
+    "decimals": 6
   },
   {
     "protocol": "CRUSEIDER",
     "symbol": "CRUSEIDE",
     "token": "sei1uz772k7fmj75j8jmg3nnfxrmvxa9aw977y8hqss6grvhkj0s4kfsvfthq9",
-    "icon": "/img/Cruseider.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Cruseider.png",
+    "decimals": 6
   },
   {
     "protocol": "Seito Kaiba",
     "symbol": "SEITO",
     "token": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
-    "icon": "/img/seito-kaiba.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seito-kaiba.png",
+    "originDenom": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "Sei Less",
     "symbol": "SeiLess",
     "token": "sei1qn4snh3u8k68ka42e06nutpuyd4dc6ekm95x3kc6ezp6vs974zmqjemm0n",
-    "icon": "/img/seiless150.jpg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiless150.jpg",
+    "decimals": 6
   },
   {
     "protocol": "seinucoin",
     "symbol": "SEINU",
     "token": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "icon": "/img/seinucoin.jpg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seinucoin.jpg",
+    "decimals": 6
   },
   {
     "protocol": "SEIKO",
     "symbol": "SEIKO",
     "token": "sei144epagd7pqxaqadv6nk4xx2xkdwyqx87mswqksrxp4s98xr09r7qu54mtn",
-    "icon": "/img/seikotoken.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seikotoken.png",
     "decimals": 6
   },
   {
     "protocol": "Sei Tonakai",
     "symbol": "SEIKAI",
     "token": "sei1s0wygdkh832s473t9zv3u86nudmuxvv9qfq29q5uda5ccq94ppdqp44w3h",
-    "icon": "/img/seikai2.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seikai2.png",
     "decimals": 6
   },
   {
     "protocol": "SEILAMANDER",
     "symbol": "SEILAMANDER",
     "token": "sei1zuknwlc6jm49pvvc72w6th7udmmxfwudtayzpnjwa8nxynfv40ts32d8p2",
-    "icon": "/img/seilamander.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seilamander.png",
+    "decimals": 6
   },
   {
     "protocol": "SEIZURE",
     "symbol": "SEIZURE",
     "token": "sei1kvgkthtvkqwjz89xyj3m2uxk7y4gevfqed90akx44htuye9w4z5qvz6cvj",
-    "icon": "/img/Seizure.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Seizure.png",
     "decimals": 6
   },
   {
     "protocol": "ASTROBOT",
     "symbol": "ASBOT",
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
-    "icon": "/img/ASBOT.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ASBOT.png",
     "decimals": 6
   },
   {
     "protocol": "TOKENTEST",
     "symbol": "TOKENTEST",
     "token": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
-    "icon": "/img/TOKENTEST.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/TOKENTEST.png",
+    "decimals": 6,
+    "originDenom": "factory/sei12a6nk7ut6rt7u7zmkcsy238le2u69d7uvtt3d7/TOKENTEST",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Levana",
     "symbol": "LVN",
     "token": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
-    "icon": "/img/lvn.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/lvn.png",
     "decimals": 6,
-    "coingeckoId": "levana-protocol"
+    "coingeckoId": "levana-protocol",
+    "originDenom": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "InseinClownPosse",
     "symbol": "JUGGALO",
     "token": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
-    "icon": "/img/InseinClownPosse.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/InseinClownPosse.png",
+    "originDenom": "factory/sei1s3alydvv2mcjtqklk478qfc2scknl2enektkkm/InseinClownPosse",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "SeiGogeta",
     "symbol": "GOGETA",
     "token": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
-    "icon": "/img/gogeta.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/gogeta.png",
+    "originDenom": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
+    "originChainId": "pacific-1",
+    "decimals": 6
   },
   {
     "protocol": "JayAndJeff",
     "symbol": "JAJ",
     "token": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
-    "icon": "/img/JayAndJeff.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/JayAndJeff.png",
     "decimals": 6
   },
   {
     "protocol": "ChainSEI Man",
     "symbol": "SEIMAN",
     "token": "sei1xtaqu07zzm66ruz4mxwsqs2hf3pa8engjyqgpgm2h38m33zjhylqzkr286",
-    "icon": "/img/chainseiman.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/chainseiman.png",
     "decimals": 6
   },
   {
     "protocol": "Tokyo Drift",
     "symbol": "TOKYO",
     "token": "sei143upjav09jdczmc2thta0sd0x7djke0w0mnzjwcgpymkwehuun5ss6asws",
-    "icon": "/img/tokyo.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/tokyo.png",
     "decimals": 6
   },
   {
     "protocol": "Hunter x Hunter",
     "symbol": "HUNTER",
     "token": "sei1w2r9qeu73rqkh3gf9gnz5w7nkuwc24wrcpygccaeht5nwdrcw89st0duvx",
-    "icon": "/img/hunter.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/hunter.png",
     "decimals": 6
   },
   {
     "protocol": "TROLL",
     "symbol": "TROLL",
     "token": "sei1vf0pnrp3s3f3cyhsqr5ykgw08dz4qmwwm0deyc7j3djhc0y9yf8styp38v",
-    "icon": "/img/troll.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/troll.png",
     "decimals": 6
   },
   {
     "protocol": "SEIKWONDO",
     "symbol": "KWND",
     "token": "sei1kpeqt8rjv542halq29exemavvg33mj92u5pylhx9taukakcajg7sjplsfn",
-    "icon": "/img/SEIKWONDO.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEIKWONDO.png",
     "decimals": 6
   },
   {
     "protocol": "SEIVIOUR",
     "symbol": "SEIV",
     "token": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
-    "icon": "/img/seiv.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiv.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Joshi Kousei",
     "symbol": "KOUSEI",
     "token": "sei1pyugu4r6m690fwhy2d2c8vy8gktas747satfyje9xzn4pcg5xgqqgfqnp5",
-    "icon": "/img/kousei.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/kousei.png",
     "decimals": 6
   },
   {
     "protocol": "SeiGrok",
     "symbol": "SGK",
     "token": "sei18874lnhhg9c0s77lzq3z0akgftyjm5eu344pckrw8z3n24urgdnq7qsqdc",
-    "icon": "/img/SeiGrok.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SeiGrok.png",
     "decimals": 6
   },
   {
     "protocol": "SEISINO",
     "symbol": "DOJO",
     "token": "sei19fd3zhuyfwpe6n85sf8x2c0xygvlcq6r8m4f5yd87fw9tp9akk2sdvpwrr",
-    "icon": "/img/dojoseisino.webp",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dojoseisino.webp",
     "decimals": 6
   },
   {
     "protocol": "SEIGMA AI",
     "symbol": "SEIGMA",
     "token": "sei1krmg8v3y8lv4z3cd8g3yzy4nexn5jcx07swdqrru4l07upg3q6hsp8rxee",
-    "icon": "/img/seigma.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seigma.png",
     "decimals": 6
   },
   {
     "protocol": "Smoke Weed Every Sei",
     "symbol": "THSEI",
     "token": "sei1lhtx9rn8u97h8k2rq5mrvws29ls6l43p9ynkqdgm69mk40em82aswvgq2n",
-    "icon": "/img/thsei.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/thsei.png",
     "decimals": 6
   },
   {
     "protocol": "SABER",
     "symbol": "SABER",
     "token": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
-    "icon": "/img/saber.webp",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/saber.webp",
     "decimals": 6
   },
   {
     "protocol": "DeFi Protocol",
     "symbol": "DEFI",
     "token": "sei1m43vc5g9vqltp94ctsvufq9tp32nudwt3n5pn5je5smelpc6t0psem9s4k",
-    "icon": "/img/defi.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/defi.png",
+    "decimals": 6
   },
   {
     "protocol": "Doge DAO",
     "symbol": "DOGEDAO",
     "token": "sei12tjnl906he8h65ldkenwgfjr6zd3v07mvqyhjhcaw8lnch9yw8zsgndfu3",
     "decimals": 6,
-    "icon": "/img/dogedao.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dogedao.png"
   },
   {
     "protocol": "Mario Simulation",
     "symbol": "MARIO",
     "token": "sei1tx8ktmg4a3h0kdfygjxx8uqv4yftk2m44x63d2lzgxyc0e7vwpgqgupcgp",
     "decimals": 6,
-    "icon": "/img/mario.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/mario.png"
   },
   {
     "protocol": "Jefe",
     "symbol": "JEFE",
     "token": "sei1ghvu97srekvecplqn9m70d0khuq2n6q7asj8jsh7l4txr6kx89lsvl9yk3",
     "decimals": 6,
-    "icon": "/img/jefe.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/jefe.png"
   },
   {
     "protocol": "Tensa Zangetsu",
     "symbol": "TENSA",
     "token": "sei1nm5l32c209nfswsj4u07h38jrrk9cmx9sy36cq6rsxk2cqczjktq4h8cvc",
-    "icon": "/img/zangetsu.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/zangetsu.png",
+    "decimals": 6
   },
   {
     "protocol": "OX",
     "symbol": "OX",
     "token": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
-    "icon": "/img/ox.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ox.svg",
     "decimals": 18,
-    "coingeckoId": "open-exchange-token"
+    "coingeckoId": "open-exchange-token",
+    "originDenom": "ox-wei",
+    "originChainId": "axelar-dojo-1"
   },
   {
     "protocol": "SEIGNEUR",
     "symbol": "SEIGNEUR",
     "token": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
-    "icon": "/img/SEIGNEUR.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEIGNEUR.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "Osmosis",
     "symbol": "WOSMO",
     "token": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
-    "icon": "/img/WOSMO.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wosmo.png",
     "decimals": 6,
-    "coingeckoId": ""
+    "coingeckoId": "",
+    "originDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
+    "originChainId": "osmosis-1"
   },
   {
     "protocol": "Sei Mars",
     "symbol": "SEIMARS",
     "token": "factory/sei1yg63c0kcy2lrcq2szzcctysuyltyxm8d752ee6/seimars",
-    "icon": "/img/seimars.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seimars.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1yg63c0kcy2lrcq2szzcctysuyltyxm8d752ee6/seimars",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "AUTISM",
     "symbol": "AUTISM",
     "token": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
-    "icon": "/img/autism.jpg",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/autism.jpg",
+    "decimals": 6,
+    "originDenom": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+    "originChainId": "injective-1"
   },
   {
     "protocol": "Liquid Staking Sei via Silo",
     "symbol": "iSEI",
     "token": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei",
-    "icon": "/img/isei.png",
-    "decimals": 6
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/isei.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei",
+    "originChainId": "pacific-1"
   },
   {
     "protocol": "SEIVIOUR",
     "symbol": "SEIV",
     "token": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
-    "icon": "/img/SEIV.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seiv-2.png",
+    "decimals": 6,
+    "originDenom": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
+    "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "CRUSEIDER",
+    "symbol": "CRUSEIDER",
+    "token": "sei1apdylqwr3f8ar2qgnlpam8sg720xs35lsk07m4rk52pvdnl2qrxswjpm32",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Cruseider.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Chihuahuawifhat",
+    "symbol": "BADDOG",
+    "token": "ibc/9DE1CEEB32514C5A9F6C49E92C03FA3B70ADCE30D9E553A9218868743D49BDF3",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/baddog.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEILONG",
+    "symbol": "SLONG",
+    "token": "sei1gg7l7vkanwhquhgasltakm28q90vkpqhpe9wqaaf750jk72unqdsv9wrdu",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SLONG.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Noble",
+    "symbol": "USDC",
+    "token": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc",
+    "originChainId": "noble-1"
+  },
+  {
+    "protocol": "Kava",
+    "symbol": "USDT",
+    "token": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg",
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "originDenom": "erc20/tether/usdt",
+    "originChainId": "kava_2222-10"
+  },
+  {
+    "protocol": "Seipex Credits",
+    "symbol": "SPEX",
+    "token": "sei1g3d4402zhnvwhkfkr0fnjaqajn3jqvv49vprgqymg4htg5zs2v5qu6wqmt",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seipex.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Colors",
+    "symbol": "COLOR",
+    "token": "sei1vurdf82s0h9w0ca5zqajltvaqtwq6j556ld7mpnhyqg3vk422mrqv3xtrz",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/colors.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Seipex Spexes",
+    "symbol": "SPEXES",
+    "token": "sei1nz629g2ljxhnh9xjnx4pagjf4xy5gvkjfafdruykyuttak75ucdsgxs8xc",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/spexes_astro.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "BeepX",
+    "symbol": "BEEP",
+    "token": "sei1fm4vp2csdmpu697vqqfgusr6c6nykrrysl7dxakmtutk9txsnfzq5lh4zp",
+    "decimals": 15
+  },
+  {
+    "protocol": "Seionara",
+    "symbol": "SNARA",
+    "token": "factory/sei10mwfmhhyr9zyfsyhl8hneu4qptxks2llgngk5t/seionara",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seionara.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Frozen Fire Sei",
+    "symbol": "FROZENFIRE",
+    "token": "sei15r5n74ydc65rr3dlungqwtmk0lgf3acfflv8wqrv66n5te6hs7ss86z5jy",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/FrozenFireSei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Doge in Sei",
+    "symbol": "DOGE",
+    "token": "sei1s7hycuvkynlmrn0amgqhhzvuu636ux4vcmxen88k59utszfcnpwqm3zrml",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/doge-in-sei.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SeiLoot",
+    "symbol": "LOOT",
+    "token": "sei1j877q3qct6x2ksgnem3dmz73e0q9hxyry6a2twev5z5xxw5s62rs69f00n",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SeiLoot.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "OWL",
+    "symbol": "OWL",
+    "token": "sei1hwj2uyrqf508skvwuknautzey5heqz88rkf3hkpepurx0rnx4zvsvvt62t",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/OWL.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Swiper",
+    "symbol": "SWIPER",
+    "token": "sei1pe3yvcs5cscp3xskss48ljpym656nh8lay83jrct985knqys2jwqd48r4y",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/swiper.png",
+    "decimals": 6,
+    "originDenom": "sei1pe3yvcs5cscp3xskss48ljpym656nh8lay83jrct985knqys2jwqd48r4y",
+    "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "Chase",
+    "symbol": "CHASE",
+    "token": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ChaseLogo.png",
+    "decimals": 6,
+    "originDenom": "factory/sei17225n9g2rurwudfv9ntly76szh6vrplswh33a9/chase",
+    "originChainId": "pacific-1"
+  },
+  {
+    "protocol": "Perfect CELL",
+    "symbol": "CELL",
+    "token": "sei1n86gts4gc4grpepgkgwq38dtyjtqt9x3tfpp2tttenreg83etddsv507rq",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/cell.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Boo",
+    "symbol": "BOO",
+    "token": "sei1kpdvchmvjqx7tr66pdetxcmq2jmc8q6kfl7m5x8a83chcn4a5ccqffk43f",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/BOO.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIWIFHAT",
+    "symbol": "SIF",
+    "token": "factory/sei1s6kwljuxrgg93sju2aq8n2ln20u3q0m5kjxpg0/SIF",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SIF.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "MASTER ROSHI",
+    "symbol": "ROSHI",
+    "token": "sei1xwvx5u4rdlrlmddz620tjpqvdcyrgxs50l5uwgk799yj62gdj78shry37d",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/masterroshi.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "DamneD",
+    "symbol": "DMND",
+    "token": "sei13g7sem97g7jamcar4wkfz3yda90xy96efv7qp9azlvqpxh6phmjqthe5zv",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/DamneD.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "CipherCircle",
+    "symbol": "CCIRCLE",
+    "token": "sei106dv4r68ctnyg7xw8jw3n37zxm2fkgv6p9rzzqvjpxg5z09fzdasfk2qch",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/CipherCircle.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Quantum",
+    "symbol": "QATM",
+    "token": "sei1mhpfh8sq6ygmcasuc2e38ldshrssdtsmaz2tu7ekgdnmvxqgrnesqt6ah6",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Quantum.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SeiPepe",
+    "symbol": "SEIPEPE",
+    "token": "factory/sei1nx560efk4hxyr4sj9j2l6nxp8f6r9xkpy04wcc/seipepe",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seipepe.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SuperTusks",
+    "symbol": "Orcs",
+    "token": "sei1kgjdksz4tmre0f4syps408vg2eqgxvx73tvw0veke08wy8wy87kqlr3f8h",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SuperTusks.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SEIX",
+    "symbol": "SEIX",
+    "token": "sei1n4ksj6rgjt3dpl0nphceshdgr9d7xefnutfsk7hn6dxga7zl6p3s787f2w",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SEIX.png",
+    "decimals": 18
+  },
+  {
+    "protocol": "SEITTERS",
+    "symbol": "SEITTERS",
+    "token": "factory/sei1v3pfvczvfhtpkjjfw3waulx4arax2jc7uj92cw/SEITTERS",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/seitters.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "KiraWifHat",
+    "symbol": "KiraWifHat",
+    "token": "factory/sei1y25r9u0kvrdya34csz436vj7eja7vc8ma6m4l7/KiraWifHat",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sei-kirawifhat.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "SeiSpark",
+    "symbol": "SEIS",
+    "token": "sei13jzezcyz23h9edxckz53fes4a3a9ztjxpx5j8wf8n5c6w270zlfqdz6fqf",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/SeiSpark.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Basket",
+    "symbol": "BSKT",
+    "token": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/FM2av5h53R9EgDZZ8KXr5ujodp9mHZGRn9W3YLorhbsV",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bskt.png",
+    "decimals": 5
+  },
+  {
+    "protocol": "Chickegg",
+    "symbol": "CHICKEGG",
+    "token": "factory/sei17k3ah8kd2k6u4prlsvm8f3psghw2at7cf2mjpr/chickegg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/chickegg.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Red",
+    "symbol": "RED",
+    "token": "sei15sleqjgvttvxqrejx2xmlme8wlpvxge69f8tccztc9wl2s00ywaq9v0ymx",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/RED.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Cosmo",
+    "symbol": "COSMO",
+    "token": "ibc/E0C7F36BFCEE38D8B2BF70B12046B7B3388B2D603EABD547DC5CCF99D160294E",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "CosmoUSD",
+    "symbol": "COSMOUSD",
+    "token": "ibc/F4D1E5464C064539D68DE94118951D79053BADE84674EF4FB95428BAB1C31FDB",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CosmoUSD.png",
+    "decimals": 6,
+    "originDenom": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "CHIHUAHUA",
+    "symbol": "CHIHUAHUA",
+    "token": "ibc/B5C27E64A2F688BC04600FDF34D64EC49870CAF25924567F45997D8C75C4F082",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/chihuahua.png",
+    "decimals": 6,
+    "originDenom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+    "originChainId": "chihuahua-1"
   }
 ]

@@ -1,45 +1,47 @@
 [
   {
     "protocol": "Astroport",
-    "symbol": "ASTRO",
+    "symbol": "ASTRO.cw20",
     "token": "ibc/4552BF8EE9C7AFD889CACF426F866350AAE28DC73507B1411972C8C1B9B38732",
-    "icon": "/img/astro.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
+    "decimals": 6
   },
   {
     "protocol": "SEI",
     "symbol": "SEI",
     "token": "usei",
-    "icon": "/img/sei.png",
-    "coingeckoId": "sei-network"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/sei.svg",
+    "coingeckoId": "sei-network",
+    "decimals": 6
   },
   {
     "protocol": "Rum",
     "symbol": "RUM",
     "token": "sei1xmsxzq9up5y2gj6e3fxmuqu4hvr2v0yu7qt34qn6amqpcxmejeuqlumuvk",
-    "icon": "/img/rum-icon.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/rum-icon.png"
   },
   {
     "protocol": "Test USDC",
     "symbol": "USDC",
     "token": "factory/sei135mlnw9ndkyglgx7ma95pw22cl64mpnw58pfpd/usdc",
-    "icon": "/img/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg"
   },
   {
     "protocol": "UST2",
     "symbol": "UST2",
     "token": "factory/sei1jdppe6fnj2q7hjsepty5crxtrryzhuqsjrj95y/uust2",
-    "icon": "/img/UST2.png"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/UST2.png"
   },
   {
     "protocol": "USDC",
     "symbol": "USDC",
     "token": "factory/sei1vs8s40qfwcesvdazxuxz0fqc3ag40yt8ayclch/usdc",
-    "icon": "/img/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg"
   },
   {
     "protocol": "USDT",
     "symbol": "USDT",
     "token": "factory/sei1vs8s40qfwcesvdazxuxz0fqc3ag40yt8ayclch/usdt",
-    "icon": "/img/usdt.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdt.svg"
   }
 ]
