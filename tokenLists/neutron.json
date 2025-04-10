@@ -2259,6 +2259,15 @@
     "decimals": 6
   },
   {
+    "protocol": "Drop Neutron",
+    "symbol": "dNTRN",
+    "token": "factory/neutron1frc0p5czd9uaaymdkug2njz7dc7j65jxukp9apmt9260a8egujkspms2t2/udntrn",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dNTRN.png",
+    "originDenom": "untrn",
+    "originChainId": "neutron-1",
+    "decimals": 6
+  },
+  {
     "protocol": "Cosmo",
     "symbol": "COSMO",
     "token": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
