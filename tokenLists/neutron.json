@@ -2263,8 +2263,6 @@
     "symbol": "dNTRN",
     "token": "factory/neutron1frc0p5czd9uaaymdkug2njz7dc7j65jxukp9apmt9260a8egujkspms2t2/udntrn",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/dNTRN.png",
-    "originDenom": "untrn",
-    "originChainId": "neutron-1",
     "decimals": 6
   },
   {
