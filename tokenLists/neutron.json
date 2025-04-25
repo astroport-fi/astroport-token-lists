@@ -2569,5 +2569,15 @@
     "decimals": 6,
     "originDenom": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/cult",
     "originChainId": "osmosis-1"
+  },
+  {
+    "protocol": "Initia",
+    "symbol": "INIT",
+    "token": "ibc/739368B97C6A578432701EEE54CF8BAE535F2EDD28BE051E05268BFA99229090",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/INIT.png",
+    "decimals": 6,
+    "coingeckoId": "initia",
+    "originDenom": "uinit",
+    "originChainId": "interwoven-1"
   }
 ]
