@@ -100,7 +100,7 @@
   },
   {
     "protocol": "Wrapped Ether (Wormhole)",
-    "symbol": "WETH",
+    "symbol": "WETH.wh",
     "token": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eth.svg",
     "decimals": 8
@@ -859,7 +859,7 @@
   },
   {
     "protocol": "Osmosis",
-    "symbol": "WBTC",
+    "symbol": "WBTC.osmo",
     "token": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
     "decimals": 8,
@@ -889,5 +889,22 @@
     "token": "terra1epka8wevu90rxlvt6g5x9veevd800a760vtuftc5kqdfmrh47qds9f0m8h",
     "icon": "/img/DNA.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Wrapped Ether (Eureka)",
+    "symbol": "WETH",
+    "token": "ibc/20850C646CDDDC2270E9BBDB08558B5FEE57B647EC6827F41096AABFD8A0471B",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eth.svg",
+    "decimals": 18,
+    "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "Wrapped Bitcoin (Eureka)",
+    "symbol": "WBTC",
+    "token": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "originChainId": "cosmoshub-4"
   }
 ]
