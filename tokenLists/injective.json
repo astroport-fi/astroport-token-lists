@@ -1124,6 +1124,7 @@
     "symbol": "dATOM",
     "token": "ibc/9495CFCB73E9D060D7B8C974C22AD8D5F1D97F93B66A4E326A3052ABE6470BB6",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/datom.svg",
+    "coingeckoId": "drop-staked-atom",
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1",
     "decimals": 6
