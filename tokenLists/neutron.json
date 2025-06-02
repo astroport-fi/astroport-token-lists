@@ -2588,6 +2588,6 @@
     "decimals": 6,
     "coingeckoId": "silk-bcec1136-561c-4706-a42c-8b67d0d7f7d2",
     "originDenom": "ibc/69E0457BF0F05FA95DB825B827DA60CEEB159F7CB6258E249978C6A813C86A59",
-    "originChainId": "secret-4"
+    "originChainId": "cosmoshub-4"
   }
 ]
