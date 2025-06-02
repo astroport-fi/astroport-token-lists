@@ -2579,5 +2579,15 @@
     "coingeckoId": "initia",
     "originDenom": "uinit",
     "originChainId": "interwoven-1"
+  },
+  {
+    "protocol": "Silk",
+    "symbol": "SILK",
+    "token": "ibc/3D1DE9E56DFC9583441B43A2BB9F5965516B14128E300170FCF71CE7917F9615",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/Silk.svg",
+    "decimals": 6,
+    "coingeckoId": "silk-bcec1136-561c-4706-a42c-8b67d0d7f7d2",
+    "originDenom": "ibc/69E0457BF0F05FA95DB825B827DA60CEEB159F7CB6258E249978C6A813C86A59",
+    "originChainId": "cosmoshub-4"
   }
 ]
