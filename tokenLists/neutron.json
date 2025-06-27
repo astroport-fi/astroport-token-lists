@@ -2496,7 +2496,7 @@
     "token": "ibc/DF8722298D192AAB85D86D0462E8166234A6A9A572DD4A2EA7996029DF4DB363",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/axlwbtc.svg",
     "decimals": 8,
-    "coingeckoId": "axlwbtc",
+    "coingeckoId": "bitcoin",
     "originDenom": "wbtc-satoshi",
     "originChainId": "axelar-dojo-1"
   },
