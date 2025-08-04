@@ -271,14 +271,14 @@
     "decimals": 6
   },
   {
-    "protocol": "Capapult USD",
+    "protocol": "Solid",
     "symbol": "SOLID",
     "token": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/solid2.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/solid.svg",
     "decimals": 6
   },
   {
-    "protocol": "Capapult",
+    "protocol": "Solid",
     "symbol": "CAPA",
     "token": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/capa.svg",
