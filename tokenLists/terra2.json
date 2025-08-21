@@ -858,7 +858,7 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "Osmosis",
+    "protocol": "Wrapped Bitcoin (Osmosis)",
     "symbol": "WBTC.osmo",
     "token": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
@@ -891,12 +891,12 @@
     "decimals": 6
   },
   {
-    "protocol": "Wrapped Ether (Eureka)",
-    "symbol": "WETH",
+    "protocol": "Ethereum (Eureka)",
+    "symbol": "ETH",
     "token": "ibc/20850C646CDDDC2270E9BBDB08558B5FEE57B647EC6827F41096AABFD8A0471B",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eth.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eth.png",
     "decimals": 18,
-    "coingeckoId": "weth",
+    "coingeckoId": "ethereum",
     "originChainId": "cosmoshub-4"
   },
   {
