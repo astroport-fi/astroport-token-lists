@@ -2597,5 +2597,15 @@
     "token": "factory/neutron1r5qx58l3xx2y8gzjtkqjndjgx69mktmapl45vns0pa73z0zpn7fqgltnll/TAB",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/TAB.png",
     "decimals": 6
+  },
+    {
+    "protocol": "Cosmos-Hub Wrapped Bitcoin",
+    "symbol": "WBTC.atom",
+    "token": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
+    "decimals": 8,
+    "coingeckoId": "bitcoin",
+    "originDenom": "transfer/08-wasm-1369/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "originChainId": "cosmoshub-4"
   }
 ]
