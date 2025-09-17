@@ -28,7 +28,7 @@
     "protocol": "Neutron",
     "symbol": "NTRN",
     "token": "untrn",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ntrn.png",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/ntrn.svg",
     "decimals": 6,
     "coingeckoId": "neutron-3",
     "originDenom": "untrn",
