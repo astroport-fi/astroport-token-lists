@@ -2630,7 +2630,7 @@
     "symbol": "SolvBTC",
     "token": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/solvBTC.svg",
-    "decimals": 8,
+    "decimals": 18,
     "coingeckoId": "bitcoin",
     "originDenom": "ibc/0C4417F123459B47B6933939BF6F128C362B0C1F9EDA6A6EBC08860E4672AF7E",
     "originChainId": "cosmoshub-4"
