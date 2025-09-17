@@ -2599,13 +2599,60 @@
     "decimals": 6
   },
   {
+    "protocol": "maxBTC",
+    "symbol": "maxBTC",
+    "token": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/maxbtc.png",
+    "decimals": 8
+  },
+  {
     "protocol": "Cosmos-Hub Wrapped Bitcoin",
     "symbol": "WBTC.atom",
     "token": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wbtc.svg",
     "decimals": 8,
     "coingeckoId": "bitcoin",
-    "originDenom": "transfer/08-wasm-1369/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "originDenom": "ibc/D742E8566B0B8CC8F569D950051C09CF57988A88F0E45574BFB3079D41DE6462",
+    "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "token": "ibc/B7BF60BB54433071B49D586F54BD4DED5E20BEFBBA91958E87488A761115106B",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/lbtc.svg",
+    "decimals": 8,
+    "coingeckoId": "lombard-staked-btc",
+    "originDenom": "ibc/DBD9E339E1B093A052D76BECFFDE8435EAC114CF2133346B4D691F3F2068C957",
+    "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "SolvBTC",
+    "symbol": "SolvBTC",
+    "token": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/solvBTC.svg",
+    "decimals": 8,
+    "coingeckoId": "bitcoin",
+    "originDenom": "ibc/0C4417F123459B47B6933939BF6F128C362B0C1F9EDA6A6EBC08860E4672AF7E",
+    "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "eBTC",
+    "symbol": "eBTC",
+    "token": "ibc/E2A000FD3EDD91C9429B473995CE2C7C555BCC8CFC1D0A3D02F514392B7A80E8",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eBTC.png",
+    "decimals": 8,
+    "coingeckoId": "bitcoin",
+    "originDenom": "ibc/6F8F0E9D472BF053261F2DEBE521801B703372777F3923B48DAE55D4F1212B5F",
+    "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "UniBTC",
+    "symbol": "uniBTC",
+    "token": "ibc/3F1D988D9EEA19EB0F3950B4C19664218031D8BCE68CE7DE30F187D5ACEA0463",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/uniBTC_200px.png",
+    "decimals": 8,
+    "coingeckoId": "bitcoin",
+    "originDenom": "ibc/9EE1F80BA2AE01138A40D656BBB42D11B1720000D6F64FC5988E412B6EDB4F71",
     "originChainId": "cosmoshub-4"
   }
 ]
