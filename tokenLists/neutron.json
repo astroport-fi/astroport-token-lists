@@ -2654,5 +2654,24 @@
     "coingeckoId": "bitcoin",
     "originDenom": "ibc/9EE1F80BA2AE01138A40D656BBB42D11B1720000D6F64FC5988E412B6EDB4F71",
     "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "BitSong",
+    "symbol": "BTSG",
+    "token": "ibc/53E1B5B1C060CF4B556E91020EACD272CD9160E996E598FC93D2436814050471",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/bitsong/images/btsg.svg",
+    "coingeckoId": "bitsong",
+    "originDenom": "ubtsg",
+    "originChainId": "bitsong-2b",
+    "decimals": 6
+  },
+  {
+    "protocol": "BitSong",
+    "symbol": "CLAY",
+    "token": "ibc/3A87F0F5AD29929A17C86D96C64F7F8665B6C7D786024F85AEBDCBAC1429D11A",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/bitsong/images/ft2D8E7041556CE93E1EFD66C07C45D551A6AAAE09.png",
+    "originDenom": "ft2D8E7041556CE93E1EFD66C07C45D551A6AAAE09",
+    "originChainId": "bitsong-2b",
+    "decimals": 6
   }
 ]
