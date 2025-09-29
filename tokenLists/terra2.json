@@ -917,5 +917,14 @@
     "coingeckoId": "wbnb",
     "originDenom": "wbnb-wei",
     "originChainId": "axelar-dojo-1"
+  },
+  {
+    "protocol": "Boost DAO",
+    "symbol": "FUEL",
+    "token": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/fuel.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
+    "originChainId": "neutron-1"
   }
 ]
