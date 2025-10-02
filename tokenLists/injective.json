@@ -1128,5 +1128,13 @@
     "originDenom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
     "originChainId": "neutron-1",
     "decimals": 6
+  },
+  {
+    "protocol": "Posthuman PHMN",
+    "symbol": "PHMN",
+    "token": "ibc/4698B7C533CB50F4120691368F71A0E7161DA26F58376262ADF3F44AAAA6EF9E",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/phmn.svg",
+    "decimals": 6,
+    "coingeckoId": "posthuman"
   }
 ]
