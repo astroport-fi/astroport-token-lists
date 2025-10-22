@@ -927,7 +927,7 @@
     "originDenom": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
     "originChainId": "neutron-1"
   },
-   {
+  {
     "protocol": "Pax Gold on Terra",
     "symbol": "PAXG.atom",
     "token": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
