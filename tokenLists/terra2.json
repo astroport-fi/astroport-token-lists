@@ -936,5 +936,15 @@
     "coingeckoId": "pax-gold",
     "originDenom": "ibc/09E95F57939E344EE36109AC41780B8A51F1FE0548A5203C5957674FF64C0F26",
     "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "Tether Gold on Terra",
+    "symbol": "XAUt.atom",
+    "token": "ibc/F20FE45BF7122CF10559EDEA032E37956D3314774EA6D8D1D46B87D138290C45",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xaut.png",
+    "decimals": 6,
+    "coingeckoId": "tether-gold",
+    "originDenom": "ibc/A96C4DBCB7E36F8D265E92240510DB0F29F39CE4AAF52DBDE686E448BA447886",
+    "originChainId": "cosmoshub-4"
   }
 ]
