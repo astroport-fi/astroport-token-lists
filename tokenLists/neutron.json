@@ -2673,5 +2673,15 @@
     "originDenom": "ft2D8E7041556CE93E1EFD66C07C45D551A6AAAE09",
     "originChainId": "bitsong-2b",
     "decimals": 6
+  },
+  {
+    "protocol": "PHMN",
+    "symbol": "PHMN",
+    "token": "ibc/4698B7C533CB50F4120691368F71A0E7161DA26F58376262ADF3F44AAAA6EF9E",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/phmn.png",
+    "decimals": 6,
+    "coingeckoId": "posthuman",
+    "originDenom": "cw20:juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+    "originChainId": "juno-1"
   }
 ]
