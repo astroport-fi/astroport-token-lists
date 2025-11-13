@@ -928,8 +928,8 @@
     "originChainId": "neutron-1"
   },
   {
-    "protocol": "Pax Gold on Terra",
-    "symbol": "PAXG.atom",
+    "protocol": "Pax Gold (Eureka)",
+    "symbol": "PAXG",
     "token": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/paxg.png",
     "decimals": 18,
@@ -938,8 +938,8 @@
     "originChainId": "cosmoshub-4"
   },
   {
-    "protocol": "Tether Gold on Terra",
-    "symbol": "XAUt.atom",
+    "protocol": "Tether Gold (Eureka)",
+    "symbol": "XAUt",
     "token": "ibc/F20FE45BF7122CF10559EDEA032E37956D3314774EA6D8D1D46B87D138290C45",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/xaut.png",
     "decimals": 6,
