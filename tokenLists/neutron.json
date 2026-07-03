@@ -55,6 +55,15 @@
     "decimals": 6
   },
   {
+    "protocol": "POSTHUMAN",
+    "symbol": "PHMN",
+    "token": "ibc/0D72F33FDA6B029A6F84A6A0A502922349AE63D4F261EC523E2D5A65B08DC87B",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/PHMN.png",
+    "originDenom": "factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN",
+    "originChainId": "cosmoshub-4",
+    "decimals": 6
+  },
+  {
     "protocol": "Stride Atom",
     "symbol": "stATOM",
     "token": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
