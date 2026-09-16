@@ -489,13 +489,23 @@
   },
   {
     "protocol": "Noble",
-    "symbol": "USDC",
+    "symbol": "USDC.n",
     "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
     "decimals": 6,
     "coingeckoId": "usd-coin",
     "originDenom": "uusdc",
     "originChainId": "noble-1"
+  },
+  {
+    "protocol": "Injective",
+    "symbol": "USDC.inj",
+    "token": "ibc/E8481AD838C31D4FC12A504B10F9B4E2F830F8818D2735C2FFC707579B5FA60B",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "originDenom": "uusdc",
+    "originChainId": "injective-1"
   },
   {
     "protocol": "Carbon",
