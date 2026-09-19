@@ -489,7 +489,7 @@
   },
   {
     "protocol": "Noble",
-    "symbol": "USDC.n",
+    "symbol": "USDC.nbl",
     "token": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/usdc.svg",
     "decimals": 6,
