@@ -956,5 +956,12 @@
     "coingeckoId": "tether-gold",
     "originDenom": "ibc/A96C4DBCB7E36F8D265E92240510DB0F29F39CE4AAF52DBDE686E448BA447886",
     "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "DST",
+    "symbol": "DST",
+    "token": "terra1fy5rs86gwqaas9zkwsy3c87lykp2xlvcz6p2g9juex5fqxcmd98s937kqq",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/DST/logo.png",
+    "decimals": 6
   }
 ]
