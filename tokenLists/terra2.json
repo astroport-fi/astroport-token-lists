@@ -963,5 +963,12 @@
     "token": "terra1fy5rs86gwqaas9zkwsy3c87lykp2xlvcz6p2g9juex5fqxcmd98s937kqq",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/DST/logo.png",
     "decimals": 6
+  },
+  {
+    "protocol": "DEEPSTATE",
+    "symbol": "DEEPSTATE",
+    "token": "terra13lc4xzfmzfgds5zux5pp3zuqf665akrdzwlumnjykrt850n96lvsz5y0wg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/DEEPSTATE/DEEPSTATE.png",
+    "decimals": 6
   }
 ]
