@@ -970,5 +970,12 @@
     "token": "terra13lc4xzfmzfgds5zux5pp3zuqf665akrdzwlumnjykrt850n96lvsz5y0wg",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/DEEPSTATE/DEEPSTATE.png",
     "decimals": 6
+  },
+  {
+    "protocol": "Astroport",
+    "symbol": "yASTRO",
+    "token": "terra1fe8uj96z7f4jfsnkrdxhchxdhdtx8alr9zjqze76hm2ga6tpxjjq5rdjw7",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/yastro.svg",
+    "decimals": 6
   }
 ]
